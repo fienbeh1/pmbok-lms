@@ -1,159 +1,153 @@
 [
   {
     "concept": "Sistema para la Entrega de Valor",
-    "question": "¿Cuál es el objetivo principal de centrarse en los resultados?",
+    "question": "¿Cuál es el objetivo principal de centrarse en los resultados, las elecciones y las decisiones en un sistema de entrega de valor?",
     "answer": "El desempeño del proyecto a largo plazo",
-    "difficulty": "medium"
-  },
-  {
-    "concept": "Flujo de Información",
-    "question": "¿Qué tipo de información fluye desde las operaciones a los programas y proyectos?",
-    "answer": "Información sobre ajustes, correcciones y actualizaciones a los entregables",
     "difficulty": "easy"
   },
   {
-    "concept": "Sistema de Gobernanza",
-    "question": "¿Cuál es el propósito del sistema de gobernanza en relación con el sistema para la entrega de valor?",
-    "answer": "Permitir flujos de trabajo fluidos, gestionar incidentes y apoyar la toma de decisiones",
+    "concept": "Flujo de Información",
+    "question": "¿Qué representa el flujo de información desde el personal directivo superior a los portafolios en el Gráfico 2-3?",
+    "answer": "La información estratégica compartida con los portafolios",
     "difficulty": "medium"
+  },
+  {
+    "concept": "Sistema de Gobernanza",
+    "question": "¿Qué función cumple el sistema de gobernanza en relación con el sistema para la entrega de valor?",
+    "answer": "Proporcionar un marco de referencia para permitir flujos de trabajo fluidos, gestionar incidentes y apoyar la toma de decisiones",
+    "difficulty": "hard"
   },
   {
     "concept": "Gobernanza del Proyecto",
     "question": "¿Qué función incluye la gobernanza del proyecto?",
-    "answer": "Definir la autoridad para aprobar cambios y tomar otras decisiones de negocio relacionadas con el proyecto",
-    "difficulty": "medium"
+    "answer": "Definir la autoridad para aprobar cambios y tomar otras decisiones de negocio relacionadas con el proyecto.",
+    "difficulty": "easy"
   },
   {
     "concept": "Funciones en los Proyectos",
-    "question": "¿Quién desempeña las funciones necesarias para que un proyecto funcione de manera efectiva y eficiente?",
-    "answer": "Las personas, que pueden realizarlas por sí mismas o en roles definidos",
-    "difficulty": "easy"
-  },
-  {
-    "concept": "Coordinación del Proyecto",
-    "question": "¿Cuál es el tipo de coordinación adecuado para proyectos con un líder designado?",
-    "answer": "La coordinación centralizada",
+    "question": "¿Quién impulsa la entrega del proyecto?",
+    "answer": "Las personas que desempeñan las funciones necesarias para que el proyecto funcione de manera efectiva y eficiente.",
     "difficulty": "medium"
   },
   {
-    "concept": "Proporcionar Supervisión y Coordinación",
-    "question": "¿Qué función incluye monitorear y trabajar para mejorar la salud, la seguridad y el bienestar general de los miembros del equipo del proyecto?",
-    "answer": "La coordinación",
-    "difficulty": "easy"
-  },
-  {
-    "concept": "Presentar Objetivos y Retroalimentación",
-    "question": "¿Quién se define como la persona o grupo que ha solicitado o está financiando el proyecto?",
-    "answer": "El cliente",
+    "concept": "Coordinación en los Proyectos",
+    "question": "¿Qué tipos de coordinación existen en los proyectos?",
+    "answer": "Descentralizada, centralizada y combinada (inclusión de equipos de proyectos auto-organizados para partes del trabajo).",
     "difficulty": "medium"
   },
   {
-    "concept": "Facilitar y Apoyar",
-    "question": "¿Qué función puede estar estrechamente relacionada con la supervisión y coordinación?",
-    "answer": "La función de facilitación y apoyo",
+    "concept": "Supervisión y Coordinación",
+    "question": "¿Cuál es el objetivo principal de la supervisión en un proyecto?",
+    "answer": "Monitorear y trabajar para mejorar la salud, la seguridad y el bienestar general de los miembros del equipo del proyecto",
     "difficulty": "easy"
   },
   {
-    "concept": "Facilitación en Proyectos",
-    "question": "¿Cuál es el objetivo principal de la facilitación en proyectos?",
-    "answer": "Alentar la participación del equipo del proyecto, colaboración y sentido compartido de responsabilidad por la salida del trabajo.",
-    "difficulty": "easy"
-  },
-  {
-    "concept": "Realizar Trabajo y Aportar Ideas",
-    "question": "¿Qué tipo de personas proporcionan el conocimiento, habilidades y experiencia necesarias para elaborar los productos y materializar los resultados del proyecto?",
-    "answer": "El grupo de personas que proporciona el conocimiento, habilidades y experiencia necesarios para elaborar los productos y materializar los resultados del proyecto.",
+    "concept": "Presentación de Objetivos y Retroalimentación",
+    "question": "¿Qué es el cliente en el contexto de un proyecto?",
+    "answer": "La persona o grupo que ha solicitado o está financiando el proyecto",
     "difficulty": "medium"
   },
   {
-    "concept": "Aplicar Conocimientos Especializados",
-    "question": "¿Qué tipo de personas ofrecen asesoramiento y apoyo en toda la organización?",
-    "answer": "Las personas que proporcionan el conocimiento, la visión y la pericia en un tema específico para un proyecto.",
+    "concept": "Facilitación y Apoyo",
+    "question": "¿Cuál es la función de facilitación y apoyo en un proyecto?",
+    "answer": "Puede estar estrechamente relacionada con la supervisión y coordinación, dependiendo de la organización",
     "difficulty": "hard"
   },
   {
-    "concept": "Propósito de la Dirección y Conocimiento en Proyectos",
-    "question": "¿Cuál es el objetivo principal de proporcionar dirección y conocimiento en los proyectos?",
+    "concept": "Facilitación del Proyecto",
+    "question": "¿Cuál es uno de los objetivos principales de la facilitación en un proyecto?",
+    "answer": "Crear consenso en torno a las soluciones, resolver conflictos y tomar decisiones",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Trabajo del Equipo del Proyecto",
+    "question": "¿Qué tipo de trabajo puede realizar el equipo del proyecto?",
+    "answer": "Proporcionar conocimiento, habilidades y experiencia necesarios para elaborar los productos y materializar los resultados del proyecto",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Aplicación de Conocimientos Especializados",
+    "question": "¿Qué tipo de personas pueden proporcionar asesoramiento y apoyo en un tema específico?",
+    "answer": "Las personas que tienen conocimiento, visión y pericia en un tema específico para un proyecto",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Proporcionar Orientación e Información Empresarial",
+    "question": "¿Qué función implica priorizar los requisitos o elementos de la lista de trabajo pendiente?",
+    "answer": "Priorizar los requisitos o elementos de la lista de trabajo pendiente en función del valor de negocio, las dependencias y el riesgo técnico u operativo",
+    "difficulty": "hard"
+  },
+  {
+    "concept": "Función de Proporción de Recursos y Dirección",
+    "question": "¿Cuál es el objetivo principal de la función de proporción de recursos y dirección?",
     "answer": "Maximizar el valor del entregable del proyecto",
     "difficulty": "easy"
   },
   {
-    "concept": "Función de Proporción de Recursos y Dirección",
-    "question": "¿Qué función promueve el proyecto y comunica la visión, las metas y las expectativas de la organización al equipo del proyecto?",
-    "answer": "La función de Proporción de Recursos y Dirección",
+    "concept": "Entorno Interno",
+    "question": "¿Qué factores pueden surgir dentro de una organización que influyen en el proyecto?",
+    "answer": "Artefactos, prácticas o conocimiento interno",
     "difficulty": "medium"
   },
   {
-    "concept": "Entorno Interno del Proyecto",
-    "question": "¿Qué factores pueden surgir de la misma organización, un portafolio, un programa o otro proyecto que influyen en el proyecto?",
-    "answer": "Artefactos, prácticas o conocimiento interno",
+    "concept": "Función de Gobernanza",
+    "question": "¿Qué hace la función de gobernanza en un proyecto?",
+    "answer": "Aprueba y apoya las recomendaciones del equipo del proyecto y monitorea el progreso para lograr los resultados deseados",
     "difficulty": "hard"
   },
   {
-    "concept": "Gobernanza del Proyecto",
-    "question": "¿Qué función aprueba y apoya las recomendaciones hechas por el equipo del proyecto y monitorea el progreso del proyecto?",
-    "answer": "La función de Gobernanza",
-    "difficulty": "medium"
-  },
-  {
-    "concept": "Activos del Proceso",
-    "question": "¿Qué tipo de activos pueden incluirse en el proceso de gestión de proyectos?",
-    "answer": "Herramientas, metodologías, enfoques, plantillas, marcos de referencia, patrones o recursos de la PMO",
+    "concept": "Activos de Procesos",
+    "question": "¿Cuáles son los ejemplos de activos de procesos?",
+    "answer": "Herramientas, metodologías, enfoques, plantillas, marcos de referencia, patrones o recursos de la PMO.",
     "difficulty": "easy"
   },
   {
     "concept": "Entorno Externo",
-    "question": "¿Qué tipo de factores pueden influir en los resultados del proyecto desde el entorno externo?",
-    "answer": "Condiciones del mercado, influencias y asuntos de índole social y cultural, entorno regulatorio",
+    "question": "¿Qué factores pueden influir sobre los resultados del proyecto?",
+    "answer": "Factores que mejoran, restringen o tienen una influencia neutral sobre los resultados del proyecto.",
     "difficulty": "medium"
   },
   {
-    "concept": "Capacidad de los Empleados",
-    "question": "¿Qué tipo de habilidades y conocimientos pueden tener los empleados en una organización?",
-    "answer": "Pericia, habilidades, competencias, técnicas y conocimiento generales y especializados",
+    "concept": "Capacidad de Empleados",
+    "question": "¿Cuáles son algunos ejemplos de capacidad de empleados?",
+    "answer": "Pericia, habilidades, competencias, técnicas y conocimiento generales y especializados.",
     "difficulty": "easy"
   },
   {
     "concept": "Gestión del Producto",
     "question": "¿Cuál es el objetivo principal de la gestión del producto?",
-    "answer": "La integración de personas, datos, procesos y sistemas comerciales para crear, mantener y desarrollar un producto o servicio a lo largo de su ciclo de vida",
+    "answer": "La Integración de personas, datos, procesos y sistemas comerciales para crear, mantener y desarrollar un producto o servicio a lo largo de su ciclo de vida",
     "difficulty": "medium"
   },
   {
-    "concept": "Ciclo de Vida",
-    "question": "¿Qué representa la fase de introducción en el ciclo de vida del producto?",
-    "answer": "El inicio del ciclo de vida del producto, donde se presenta un nuevo producto o servicio al mercado",
+    "concept": "Ciclo de Vida del Producto",
+    "question": "¿Qué representa el crecimiento en el ciclo de vida del producto?",
+    "answer": "La fase en la que el producto alcanza una mayor aceptación y demanda en el mercado",
     "difficulty": "easy"
   },
   {
-    "concept": "Gestión del Producto",
-    "question": "¿Cuándo puede iniciar una gestión del producto un programa o proyecto?",
-    "answer": "En cualquier punto del ciclo de vida del producto para crear o mejorar componentes, funciones o capacidades específicas",
+    "concept": "Gestión del Portafolio",
+    "question": "¿Cuándo puede iniciar un programa o proyecto para crear o mejorar componentes, funciones o capacidades específicas?",
+    "answer": "En cualquier punto del ciclo de vida del producto",
     "difficulty": "medium"
   },
   {
     "concept": "Gestión del Producto",
-    "question": "¿Dónde se aplica el ciclo de vida completo del producto?",
-    "answer": "Dentro del ámbito y los límites de un programa dado",
+    "question": "¿Cuál es el enfoque de la gestión del producto dentro de un programa?",
+    "answer": "Aplicar el ciclo de vida completo del producto dentro del ámbito y los límites de un programa dado",
     "difficulty": "medium"
   },
   {
-    "concept": "Principios de la Dirección de Proyectos",
+    "concept": "Principios de Dirección de Proyectos",
     "question": "¿Qué naturaleza tienen los principios de la dirección de proyectos?",
     "answer": "No son de naturaleza prescriptiva, están concebidos para guiar el comportamiento de las personas involucradas en los proyectos",
     "difficulty": "hard"
   },
   {
-    "concept": "Código de Ética y Conducta Profesional del PMI",
-    "question": "¿Cuáles son los cuatro valores identificados como más importantes para la comunidad de dirección de proyectos?",
-    "answer": "Responsabilidad, Respeto, Imparcialidad y Honestidad",
-    "difficulty": "easy"
-  },
-  {
     "concept": "Ciclo de Vida del Producto",
-    "question": "¿Qué ocurre cuando una o más fases del ciclo de vida del producto son complejas?",
-    "answer": "Se pueden constituir un conjunto de programas y proyectos que operen en conjunto",
-    "difficulty": "medium"
+    "question": "¿Qué ocurre con una o más fases del ciclo de vida del producto cuando son lo suficientemente complejas?",
+    "answer": "Pueden merecer un conjunto de programas y proyectos que operen en conjunto",
+    "difficulty": "easy"
   },
   {
     "concept": "Principios de la Dirección de Proyectos",
@@ -162,33 +156,33 @@
     "difficulty": "easy"
   },
   {
-    "concept": "Aplicación de los Principios",
-    "question": "¿Cómo se aplican los principios de la dirección de proyectos en un contexto específico?",
-    "answer": "El grado de aplicación y la forma en que se aplican vienen influenciados por el contexto de la organización, el proyecto, los entregables, el equipo del proyecto, los interesados y otros factores",
-    "difficulty": "medium"
-  },
-  {
     "concept": "Superposición de Principios",
-    "question": "¿Qué ocurre cuando los principios de la dirección de proyectos se superponen?",
-    "answer": "Pueden presentarse momentos en que los principios puedan superponerse, pero no contradecir ninguno otro principio",
-    "difficulty": "hard"
-  },
-  {
-    "concept": "Sistema para la Entrega de Valor",
-    "question": "¿Cuál es el propósito principal del sistema para la entrega de valor en un proyecto?",
-    "answer": "Permitir que los cambios se integren al proyecto sin afectar su objetivo y alcance",
+    "question": "¿Qué ocurre cuando los principios de la dirección de proyectos se superponen en la práctica?",
+    "answer": "Pueden presentar momentos en que los principios puedan superponerse, pero no contradecir ninguno",
     "difficulty": "medium"
   },
   {
-    "concept": "Sistema para la Entrega de Valor",
-    "question": "¿Qué beneficios aporta adoptar la adaptabilidad y la resiliencia en un proyecto?",
-    "answer": "Mejora la capacidad del equipo para manejar cambios inesperados y mantener el progreso del proyecto",
-    "difficulty": "medium"
-  },
-  {
-    "concept": "Sistema para la Entrega de Valor",
-    "question": "¿Qué es lo que permite lograr el estado futuro previsto en un proyecto?",
-    "answer": "Permitir el cambio",
+    "concept": "Principios y Código de Ética",
+    "question": "¿Qué relación tienen los principios y el Código de Ética en la dirección de proyectos?",
+    "answer": "Son complementarios y proporcionan orientación para una dirección de proyectos eficaz",
     "difficulty": "easy"
+  },
+  {
+    "concept": "Sistema para la Entrega de Valor",
+    "question": "¿Cuál es el objetivo principal del Sistema para la Entrega de Valor?",
+    "answer": "Proporcionar una estructura para gestionar los proyectos y asegurar su éxito",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Adaptabilidad y Resiliencia",
+    "question": "¿Qué se debe adoptar en un proyecto para manejar las incertidumbres?",
+    "answer": "Adaptabilidad y resiliencia",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Permitir el Cambio",
+    "question": "¿Por qué es importante permitir el cambio en un proyecto?",
+    "answer": "Para lograr el estado futuro previsto del proyecto",
+    "difficulty": "hard"
   }
 ]
