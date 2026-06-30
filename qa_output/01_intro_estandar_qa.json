@@ -1,0 +1,38 @@
+[
+  {
+    "concept": "Entrega de Valor",
+    "question": "¿Cuál es el objetivo principal de los proyectos dentro de un sistema para la entrega de valor?",
+    "answer": "Producir valor para las organizaciones y sus interesados",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Sistema de Entrega de Valor",
+    "question": "¿Qué componentes pueden utilizarse individual y colectivamente para crear valor en un sistema para entregar valor?",
+    "answer": "Portafolios, programas, proyectos, productos y operaciones",
+    "difficulty": "hard"
+  },
+  {
+    "concept": "Gobernanza Organizacional",
+    "question": "¿Qué función presta soporte a un sistema para la entrega de valor?",
+    "answer": "La gobernanza",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Entorno Interno",
+    "question": "¿Qué se encuentra dentro del entorno interno de una organización?",
+    "answer": "Políticas, procedimientos, metodologías, marcos de referencia, estructuras de gobernanza, etc.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Entorno Externo",
+    "question": "¿Qué se encuentra dentro del entorno externo más amplio?",
+    "answer": "La economía, el entorno competitivo, las restricciones legislativas, etc.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Sistema para la Entrega de Valor",
+    "question": "¿Dónde se muestra un sistema para la entrega de valor en el Gráfico 2-1?",
+    "answer": "Como parte del entorno interno de una organización",
+    "difficulty": "easy"
+  }
+]

@@ -1,20 +1,20 @@
 {% extends "base.html" %}
-{% block title %}Estudiar - PMBOK LMS{% endblock %}
+{% block title %}📖 Estudiar - PMBOK LMS{% endblock %}
 {% block content %}
-<h2 style="margin-bottom:1rem">Todas las Tarjetas de Estudio</h2>
+<h2 style="margin-bottom:1rem;color:var(--primary)">📖 Todas las Tarjetas de Estudio</h2>
 
-<input type="text" id="search-input" class="search-box" placeholder="Buscar conceptos, preguntas...">
+<input type="text" id="search-input" class="search-box" placeholder="🔍 Buscar conceptos, preguntas...">
 
 <div id="concept-list">
     {% for c in concepts %}
     <div class="qa-item" data-search="{{ c.concept }} {{ c.question }}">
         <div>
-            <span class="concept-tag">{{ c.concept }}</span>
-            <span class="badge" style="background:{% if c.difficulty == 'easy' %}#34a853{% elif c.difficulty == 'medium' %}#fbbc04{% else %}#ea4335{% endif %}">{{ c.difficulty }}</span>
+            <span class="concept-tag">🌸 {{ c.concept }}</span>
+            <span class="badge" style="background:{% if c.difficulty == 'easy' %}#e84393{% elif c.difficulty == 'medium' %}#f78fb3{% else %}#c2185b{% endif %}">{{ c.difficulty }}</span>
             <span style="color:var(--text-muted);font-size:0.8rem;margin-left:0.5rem">{{ chapters.get(c.chapter_id, '') }}</span>
         </div>
-        <div class="question">{{ c.question }}</div>
-        <div class="answer">{{ c.answer }}</div>
+        <div class="question">💭 {{ c.question }}</div>
+        <div class="answer">💡 {{ c.answer }}</div>
     </div>
     {% endfor %}
 </div>

@@ -3,21 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}PMBOK LMS{% endblock %}</title>
+    <title>{% block title %}🌸 PMBOK LMS - Rosalinda{% endblock %}</title>
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
     <header>
-        <h1><a href="/">PMBOK® LMS</a></h1>
+        <div>
+            <span class="flowers">🌸🌷🌺🌷🌸</span>
+            <h1><a href="/">PMBOK® LMS <span class="sub">Curso de Dirección de Proyectos</span></a></h1>
+        </div>
         <nav>
-            <a href="/">Inicio</a>
-            <a href="/study">Estudiar</a>
-            <a href="/quiz">Quiz</a>
+            <a href="/">🌸 Inicio</a>
+            <a href="/study">📖 Estudiar</a>
+            <a href="/quiz">✨ Quiz</a>
         </nav>
     </header>
     <div class="container">
         {% block content %}{% endblock %}
     </div>
+    <footer>
+        🌸 PMBOK 7ª Edición — Proyecto Educativo 🌸
+    </footer>
     <script>
         document.querySelectorAll('.qa-item').forEach(el => {
             el.addEventListener('click', () => el.classList.toggle('active'));

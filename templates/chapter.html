@@ -1,39 +1,39 @@
 {% extends "base.html" %}
-{% block title %}{{ chapter.title }} - PMBOK LMS{% endblock %}
+{% block title %}{{ chapter.title }} 🌸 PMBOK LMS{% endblock %}
 {% block content %}
 <nav style="margin-bottom:1rem">
-    <a href="/" style="color:var(--primary)">← Volver</a>
+    <a href="/" style="color:var(--primary)">🌸 Volver</a>
 </nav>
 
 <div class="card">
-    <h2>{{ chapter.number }}. {{ chapter.title }}</h2>
+    <h2 style="color:var(--primary)">🌸 {{ chapter.number }}. {{ chapter.title }}</h2>
     <div style="margin-top:1rem; white-space:pre-wrap; font-size:0.95rem; color:var(--text-muted); max-height:400px; overflow-y:auto">
         {{ chapter.content[:5000] }}{% if chapter.content|length > 5000 %}...{% endif %}
     </div>
     {% if chapter.content|length > 5000 %}
     <details style="margin-top:0.5rem">
-        <summary style="color:var(--primary);cursor:pointer">Leer capítulo completo</summary>
+        <summary style="color:var(--primary);cursor:pointer">📖 Leer capítulo completo</summary>
         <div style="white-space:pre-wrap;font-size:0.95rem;margin-top:0.5rem">{{ chapter.content }}</div>
     </details>
     {% endif %}
 </div>
 
 {% if qas %}
-<h3 style="margin-bottom:1rem">Preguntas y Respuestas ({{ qas|length }})</h3>
+<h3 style="margin-bottom:1rem;color:var(--primary)">✨ Preguntas y Respuestas ({{ qas|length }})</h3>
 {% for qa in qas %}
 <div class="qa-item">
     <div>
-        <span class="concept-tag">{{ qa.concept }}</span>
-        <span class="badge" style="background:{% if qa.difficulty == 'easy' %}#34a853{% elif qa.difficulty == 'medium' %}#fbbc04{% else %}#ea4335{% endif %}">{{ qa.difficulty }}</span>
+        <span class="concept-tag">🌸 {{ qa.concept }}</span>
+        <span class="badge" style="background:{% if qa.difficulty == 'easy' %}#e84393{% elif qa.difficulty == 'medium' %}#f78fb3{% else %}#c2185b{% endif %}">{{ qa.difficulty }}</span>
     </div>
-    <div class="question">{{ qa.question }}</div>
-    <div class="answer">{{ qa.answer }}</div>
+    <div class="question">💭 {{ qa.question }}</div>
+    <div class="answer">💡 {{ qa.answer }}</div>
 </div>
 {% endfor %}
 {% else %}
-<div class="card" style="text-align:center;color:var(--text-muted)">
-    <p>Aún no hay preguntas generadas para este capítulo.</p>
-    <p style="font-size:0.85rem;margin-top:0.5rem">Ejecuta el script de generación QA con ollama para poblarlas.</p>
+<div class="card" style="text-align:center;color:var(--text-muted);border:2px dashed var(--pink-2)">
+    <p style="font-size:1.2rem">🌸 Aún no hay preguntas generadas para este capítulo 🌸</p>
+    <p style="font-size:0.85rem;margin-top:0.5rem">Ejecuta la generación QA con IA para poblarlas.</p>
 </div>
 {% endif %}
 {% endblock %}
