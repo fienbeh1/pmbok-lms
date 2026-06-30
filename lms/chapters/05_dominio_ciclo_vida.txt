@@ -1,0 +1,753 @@
+
+Este dominio de desempeño implica establecer el enfoque de desarrollo, la cadencia de entrega
+y el ciclo de vida del proyecto necesarios para optimizar los resultados del mismo.
+
+32
+
+Guía del PMBOK®
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño del Enfoque
+de Desarrollo y Ciclo de Vida:
+Entregable. Cualquier producto, resultado o capacidad única y verificable para ejecutar
+un servicio que se debe producir para completar un proceso, una fase o un proyecto.
+Enfoque de Desarrollo. Método utilizado para crear y desarrollar el producto, servicio
+o resultado durante el ciclo de vida del proyecto, tal como un método predictivo, iterativo,
+incremental, adaptativo o híbrido.
+Cadencia. Ritmo de las actividades realizadas a lo largo del proyecto.
+Fase del Proyecto. Conjunto de actividades del proyecto relacionadas lógicamente que
+culmina con la finalización de uno o más entregables.
+Ciclo de Vida del Proyecto. Serie de fases que atraviesa un proyecto desde su inicio hasta
+su conclusión.
+
+2.3.1 RELACIÓN ENTRE CADENCIA, DESARROLLO Y CICLO DE VIDA
+El tipo de entregable(s) del proyecto determina cómo el proyecto puede ser desarrollado.
+El tipo de entregable(s) y el enfoque de desarrollo influyen en el número y la cadencia de las
+entregas de proyectos. El enfoque de desarrollo y la cadencia de entrega deseada determinan
+el ciclo de vida del proyecto y sus fases.
+
+2.3.2 CADENCIA DE ENTREGA
+La cadencia de entrega se refiere al momento y a la frecuencia de los entregables del proyecto.
+Los proyectos pueden tener una única entrega, múltiples entregas o entregas periódicas.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+33
+
+► Entrega única. Se hace una sola entrega al final del proyecto. Por ejemplo, un proyecto
+de reingeniería de procesos puede no tener entregas hasta cerca del final del proyecto
+cuando se implementa el nuevo proceso.
+► Entregas múltiples. Algunos proyectos tienen múltiples entregas. Un proyecto puede
+tener múltiples componentes que se entregan en diferentes momentos a lo largo de
+todo el proyecto. Un proyecto para desarrollar un nuevo fármaco puede tener múltiples
+entregas, tales como presentaciones preclínicas, resultados de ensayos de Fase 1,
+resultados de ensayos de Fase 2, resultados de ensayos de Fase 3, registro y luego
+lanzamiento. En este ejemplo, las entregas son secuenciales. Algunos proyectos tienen
+entregas que se realizan por separado en lugar de secuencialmente, por ejemplo, un
+proyecto para actualizar la seguridad de edificios. Las entregas pueden incluir barreras
+físicas para la entrada, nuevas identificaciones, nuevos códigos de teclado, y así
+sucesivamente. Cada uno de estos es una entrega separada, pero no necesitan venir
+en un orden específico. Todas las entregas se finalizan antes de que el proyecto se
+considere completado.
+► Entregas periódicas. Las entregas periódicas son similares a las entregas múltiples,
+pero están en un cronograma de entrega fijo, como mensual o bimensual. Una nueva
+aplicación de software puede tener entregas internas cada dos semanas, y luego liberar
+periódicamente las entregas al mercado.
+
+Otra opción de entrega se llama entrega continua. La entrega continua es la práctica de
+entregar incrementos de funcionalidad a los clientes en forma inmediata, a menudo a través
+del uso de pequeños lotes de trabajo y tecnología de automatización. La entrega continua
+puede utilizarse para productos digitales. Desde la perspectiva de la gestión del producto,
+el énfasis está en la entrega de beneficios y valor a lo largo del ciclo de vida del producto.
+En forma similar a un proyecto, hay aspectos que están orientados al desarrollo. Sin embargo,
+de manera similar a un programa, pueden existir muchos ciclos de desarrollo, así como
+actividades de mantenimiento. Este tipo de emprendimiento funciona mejor con equipos
+de proyecto que son estables y permanecen intactos. Debido a que los equipos de proyecto
+se centran en un producto, pueden aplicar el aprendizaje sobre el producto, los interesados
+y el mercado. Esto permite al equipo responder a las tendencias del mercado y mantenerse
+enfocado en la entrega de valor. Esta práctica se incluye en varios enfoques como DevOps,
+#noprojects y Continuous Digital, por ejemplo.
+
+34
+
+Guía del PMBOK®
+
+2.3.3 ENFOQUE S DE DESARROL L O
+Un enfoque de desarrollo es el medio utilizado para crear y desarrollar el producto, servicio
+o resultado durante el ciclo de vida del proyecto. Existen diferentes enfoques de desarrollo, y
+diferentes industrias pueden utilizar diversos términos para referirse a los enfoques de desarrollo.
+Tres de los enfoques comúnmente utilizados son predictivo, híbrido y adaptativo. Como se muestra
+en el Gráfico 2-7, estos enfoques a menudo se visualizan como un espectro, desde el enfoque
+predictivo en un extremo del espectro hasta el adaptativo en el otro extremo.
+
+Enfoques de Desarrollo
+
+Predictivo
+
+Híbrido
+
+Adaptativo
+
+Cada Vez más Iterativo e Incremental
+
+Gráfico 2-7. Enfoques de Desarrollo
+
+► Enfoque Predictivo. Un enfoque predictivo es útil cuando los requisitos del proyecto
+y del producto pueden definirse, recopilarse y analizarse al comienzo del proyecto. Esto
+también puede ser mencionado como un enfoque en cascada. Este enfoque también
+se puede utilizar cuando existe una inversión significativa involucrada y un alto nivel de
+riesgo que puede requerir revisiones frecuentes, mecanismos de control de cambios y
+replanteo entre las fases de desarrollo. El alcance, cronograma, costo, necesidades de
+recursos y riesgos pueden quedar bien definidos en las fases tempranas del ciclo de vida
+del proyecto, y son relativamente estables. Este enfoque de desarrollo permite al equipo
+del proyecto reducir el nivel de incertidumbre en una etapa temprana en el proyecto y
+efectuar gran parte de la planificación por adelantado. Los enfoques predictivos pueden
+utilizar desarrollos de prueba de concepto para explorar opciones, pero la mayor parte
+del trabajo del proyecto sigue los planes que se desarrollaron casi al inicio del proyecto .
+Muchas veces, los proyectos que utilizan este enfoque adoptan plantillas de proyectos
+similares anteriores.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+35
+
+Un proyecto para desarrollar un nuevo centro comunitario podría utilizar un enfoque predictivo
+para la construcción de los terrenos e instalaciones. El alcance, cronograma, costo y recursos
+se determinarían por adelantado, y los cambios probablemente serían mínimos. El proceso de
+construcción seguiría los planes y los planos.
+
+► Enfoque híbrido. Un enfoque de desarrollo híbrido es una combinación de enfoques
+adaptativos y predictivos. Esto significa que se usan algunos elementos de un enfoque
+predictivo y otros de un enfoque adaptativo. Este enfoque de desarrollo es útil cuando
+hay incertidumbre o riesgo en torno a los requisitos. Este enfoque híbrido es útil cuando
+los entregables pueden ser modularizados, o cuando hay entregables que pueden ser
+desarrollados por diferentes equipos de proyecto. Un enfoque híbrido es más adaptativo
+que un enfoque predictivo, pero menos que un enfoque puramente adaptativo.
+Los enfoques híbridos a menudo utilizan un enfoque de desarrollo iterativo o incremental.
+Un enfoque iterativo es útil para aclarar los requisitos e investigar diversas opciones. Un
+enfoque iterativo puede aportar la suficiente capacidad para considerarse aceptable antes
+de la iteración final. Se utiliza un enfoque incremental para producir un entregable a lo
+largo de una serie de iteraciones. Cada iteración añade funcionalidad dentro de un marco
+de tiempo predeterminado (período de tiempo preestablecido). El entregable puede
+considerarse como completado sólo después de la iteración final.
+Las diferencias e interacciones entre el desarrollo iterativo y el incremental se muestran
+en el Gráfico 2-8.
+Un ejemplo de un enfoque híbrido podría ser el uso de un enfoque adaptativo para
+desarrollar un producto que tiene una incertidumbre significativa asociada con los
+requisitos. Sin embargo, el despliegue del producto puede hacerse utilizando un
+enfoque predictivo. Otro ejemplo es un proyecto con dos entregables principales donde
+un entregable se desarrolla utilizando un enfoque adaptativo y el otro utilizando un
+enfoque predictivo.
+
+36
+
+Guía del PMBOK®
+
+Iterativo
+Ensayar
+diferentes ideas
+para aclarar
+el alcance,
+el enfoque
+y los requisitos
+
+Voice
+Transcription
+
+Cliente:
+Necesito un
+método para
+capturar ideas
+que podrían
+cambiar.
+
+Retroalimentación
+y adaptación
+
+Retroalimentación
+y adaptación
+
+Retroalimentación
+y adaptación
+
+Retroalimentación
+y adaptación
+
+Retroalimentación
+y adaptación
+
+Retroalimentación
+y adaptación
+
+Incremental
+Desarrollar
+progresivamente
+características
+y funciones
+
+Gráfico 2-8. Desarrollo Iterativo e Incremental
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+37
+
+Como parte del centro comunitario, se podría desarrollar e implementar iterativamente
+un proyecto para establecer servicios para adultos mayores. Por ejemplo, la primera
+iteración podría ser un programa de servicio de comidas a domicilio. Esto podría ser seguido
+por un servicio de transporte, luego salidas y eventos grupales, relevo para el cuidador,
+guardería para adultos, y así sucesivamente. Cada servicio sería completo por sí solo y podría
+desplegarse cuando estuviera disponible. Cada servicio adicional mejoraría y aumentaría los
+servicios para adultos mayores en la comunidad.
+Un proyecto para instituir la capacitación para voluntarios de patrullas de acción comunitaria
+podría utilizar un enfoque incremental. La capacitación que comprende capacitación básica,
+capacitación en logística y capacitación de patrullas, puede ser desarrollada por diferentes
+personas. Puede ser desarrollada al mismo tiempo en módulos, o se puede desarrollar un
+módulo, recopilar comentarios y seguidamente se pueden desarrollar módulos posteriores. Sin
+embargo, el programa de capacitación de patrullas de acción comunitaria solo estará completo
+después de que todos los módulos hayan sido desarrollados, integrados e implementados.
+
+► Enfoque adaptativo. Los enfoques adaptativos son útiles cuando los requisitos están
+sujetos a un alto nivel de incertidumbre y volatilidad y es probable que cambien a lo
+largo del proyecto. Se establece una visión clara al comienzo del proyecto y los requisitos
+iniciales conocidos son refinados, detallados, cambiados o reemplazados de acuerdo con
+los comentarios del usuario, el entorno o eventos inesperados.
+Los enfoques adaptativos utilizan enfoques iterativos e incrementales. Sin embargo,
+en el extremo opuesto de los métodos adaptativos, las iteraciones tienden a ser más
+cortas y es más probable que el producto evolucione en función de la retroalimentación
+de los interesados.
+Si bien la agilidad es una mentalidad amplia que es más extensa que un marco de
+referencia de desarrollo, los enfoques ágiles pueden considerarse adaptativos. Algunos
+enfoques ágiles implican iteraciones de 1 a 2 semanas de duración con una demostración
+de los logros al final de cada iteración. El equipo de proyecto está muy comprometido
+con la planificación de cada iteración. El equipo de proyecto determinará el alcance que
+puede lograr en función de una lista de trabajo pendiente priorizado, estimará el trabajo
+involucrado y trabajará en colaboración a lo largo de la iteración con el propósito de
+desarrollar el alcance.
+
+38
+
+Guía del PMBOK®
+
+El centro comunitario necesitará un sitio web para que los miembros de la comunidad puedan
+acceder a la información desde su computadora en casa, teléfono o tableta. Los requisitos
+de alto nivel, el diseño y los formatos de página se pueden definir por adelantado. Se puede
+implementar un conjunto inicial de información en el sitio web. La retroalimentación de los
+usuarios, los nuevos servicios y las necesidades internas de los interesados proporcionarían
+contenido para una lista de trabajo pendiente. Se priorizaría la información de la lista de
+trabajo pendiente y el equipo web elaboraría y desplegaría nuevos contenidos. A medida que
+surjan nuevos requisitos y nuevo alcance, se desarrollarán las estimaciones para el trabajo,
+se realizará el trabajo y, una vez probado, se presentará a los interesados. Si se aprueba,
+el trabajo será desplegado en el sitio web.
+
+2.3.4 CONSIDERACIO NES PARA SELECCIONAR UN ENFOQUE
+DE DESARROLLO
+Hay varios factores que influyen en la selección de un enfoque de desarrollo. Se pueden dividir
+en categorías del producto, servicio o resultado, del proyecto, y de la organización. Las siguientes
+subsecciones describen las variables asociadas con cada categoría.
+
+2.3.4.1 Producto, Servicio o Resultado
+Existen muchas variables asociadas con la naturaleza del producto, servicio o resultado que
+influyen en el enfoque de desarrollo. La siguiente lista describe algunas de las variables a considerar
+al seleccionar el enfoque de desarrollo.
+► Grado de innovación. Los entregables donde el alcance y los requisitos están bien
+entendidos, con los que el equipo de proyecto ha trabajado antes y que permiten la
+planificación por adelantado son muy adecuados para un enfoque predictivo. Los
+entregables que tienen un alto grado de innovación o donde el equipo de proyecto
+no tiene experiencia se adaptan mejor a un enfoque más adaptativo.
+► Certidumbre en los requisitos. Cuando los requisitos son bien conocidos y fáciles
+de definir, un enfoque predictivo encuadra perfectamente. Cuando los requisitos son
+inciertos, volátiles o complejos y se espera que evolucionen a lo largo del proyecto,
+un enfoque más adaptativo puede ser más adecuado.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+39
+
+► Estabilidad del alcance. Si el alcance del entregable es estable y no es probable que
+cambie, es útil un enfoque predictivo. Si se espera que el alcance tenga muchos cambios,
+puede ser útil un enfoque que esté más cerca del lado adaptativo del espectro.
+► Facilidad de cambio. En relación con la certeza de los requisitos y la estabilidad del
+alcance, si la naturaleza del entregable dificulta la gestión e incorporación de cambios,
+entonces es mejor un enfoque predictivo. Los entregables que pueden adaptarse
+fácilmente al cambio pueden usar un enfoque que sea más adaptativo.
+► Opciones de entrega. Como se describe en la Sección 2.3.2 sobre Cadencia de Entrega,
+la naturaleza del entregable y si se puede entregar en componentes, influyen en el
+enfoque de desarrollo. Los productos, servicios o resultados que se pueden desarrollar
+y/o entregar en partes están alineados con enfoques incrementales, iterativos
+o adaptativos. Algunos proyectos de gran tamaño se pueden planificar utilizando
+un enfoque predictivo, pero puede haber algunas partes que se pueden desarrollar
+y entregar de forma incremental.
+► Riesgo. Los productos que son inherentemente de alto riesgo requieren análisis antes
+de elegir el enfoque de desarrollo. Algunos productos de alto riesgo pueden requerir
+una planificación inicial significativa y procesos rigurosos para reducir las amenazas.
+Otros productos pueden reducir el riesgo al construirlos modularmente y adaptar
+el diseño y desarrollo basado en el aprendizaje para aprovechar las oportunidades
+emergentes o reducir la exposición a las amenazas.
+► Requisitos de seguridad. Los productos que tienen requisitos de seguridad rigurosos
+a menudo utilizan un enfoque predictivo, ya que existe la necesidad de una planificación
+inicial significativa para garantizar que todos los requisitos de seguridad sean
+identificados, planificados, creados, integrados y probados.
+► Regulaciones. Los entornos que tienen una supervisión regulatoria significativa pueden
+necesitar usar un enfoque predictivo debido al proceso requerido, la documentación
+y las necesidades de demostración.
+
+2.3.4.2 Proyecto
+Las variables del proyecto que influyen en el enfoque de desarrollo se centran en los
+interesados, las restricciones de cronograma y la disponibilidad de fondos.
+► Interesados. Los proyectos que utilizan métodos adaptativos requieren una participación
+significativa de los interesados durante todo el proceso. Ciertos interesados, tales como el
+dueño del producto, desempeñan un rol sustancial en el establecimiento y la priorización
+del trabajo.
+
+40
+
+Guía del PMBOK®
+
+► Restricciones del Cronograma. Si hay una necesidad de entregar algo en forma
+temprana, incluso si no es un producto terminado, un enfoque iterativo o adaptativo
+es beneficioso.
+► Disponibilidad de financiamiento. Los proyectos trabajan en un ambiente de
+inseguridad financiera pueden beneficiarse de un enfoque adaptativo o iterativo.
+Un producto mínimo viable puede ser liberado con menos inversión que un producto
+elaborado. Esto permite realizar pruebas de mercado o capturar el mercado con una
+inversión mínima. Se pueden realizar más inversiones en función de la respuesta del
+mercado al producto o servicio.
+
+2.3.4.3 Organización
+Las variables organizacionales, tales como la estructura, cultura, capacidad, tamaño
+y ubicación del equipo de proyecto, influyen en el enfoque de desarrollo.
+► Estructura organizacional. Una estructura organizacional que tiene muchos niveles,
+una estructura rígida de presentación de informes y una burocracia sustancial utiliza con
+frecuencia un enfoque predictivo. Los proyectos que utilizan métodos adaptativos tienden
+a tener una estructura plana y pueden operar con equipos de proyecto auto-organizados.
+► Cultura. Un enfoque predictivo encaja mejor en una organización con una cultura
+de gestión y dirección donde el trabajo se planifica y el progreso se mide con respecto
+a líneas base. Los enfoques adaptativos encajan mejor dentro de una organización que
+hace hincapié en la autogestión del equipo de proyecto.
+► Capacidad organizacional. La transición desde enfoques de desarrollo predictivos
+a enfoques adaptativos y luego al uso de métodos ágiles es algo más que simplemente
+afirmar que la organización ahora será ágil. Implica cambiar la mentalidad a partir
+del nivel directivo en toda la organización. Las políticas organizacionales, las formas
+de trabajo, la estructura de reporte y la actitud deben estar alineadas en su totalidad
+para emplear con éxito métodos adaptativos.
+► Tamaño y ubicación del equipo de proyecto. Los enfoques adaptativos, especialmente
+los métodos ágiles, a menudo funcionan mejor con equipos de proyecto de 7 ± 2 personas.
+Los enfoques adaptativos también favorecen a los equipos de proyecto que se encuentran
+en el mismo espacio físico. Los equipos de proyecto numerosos y los equipos de proyecto
+que son en su mayoría virtuales pueden desempeñarse mejor mediante el uso de un
+enfoque que esté más cerca del lado predictivo del espectro. Sin embargo, hay enfoques
+que buscan ampliar los enfoques adaptativos para trabajar con equipos de proyecto
+numerosos y dispersos.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+41
+
+2.3.5 CICLO DE VIDA Y DEFINICIO NES DE FASE
+El tipo y el número de fases del proyecto en el ciclo de vida de un proyecto dependen de
+muchas variables, entre ellas la cadencia de entrega y el enfoque de desarrollo, como se describió
+anteriormente. Los ejemplos de fases de un ciclo de vida incluyen:
+► Viabilidad. Esta fase determina si el caso de negocio es válido y si la organización tiene
+la capacidad de entregar el resultado previsto.
+► Diseño La planificación y el análisis conducen al diseño del entregable del proyecto que
+será desarrollado.
+► Construcción. Se realiza la construcción del entregable con actividades integradas
+de aseguramiento de calidad.
+► Prueba. La revisión de calidad final y la inspección de los entregables se llevan a cabo
+antes de la transición, la puesta en producción o la aceptación por parte del cliente.
+► Despliegue. Los entregables del proyecto se ponen en uso y se completan las actividades
+de transición necesarias para el sostenimiento, la realización de beneficios y la gestión de
+cambios en la organización.
+► Cierre. Se cierra el proyecto, el conocimiento y los artefactos del proyecto se archivan,
+los miembros del equipo de proyecto son liberados y los contratos se cierran.
+Las fases del proyecto a menudo tienen una revisión de fase (también conocida como
+transición de etapa) para verificar que los resultados deseados o los criterios de salida para la
+fase se hayan logrado antes de continuar a la siguiente. Los criterios de salida pueden vincularse
+a los criterios de aceptación de los entregables, las obligaciones contractuales, el cumplimiento
+de los objetivos de desempeño específicos u otras medidas tangibles.
+
+42
+
+Guía del PMBOK®
+
+El Gráfico 2-9 muestra un ciclo de vida donde una fase termina antes de que comience la
+siguiente. Este tipo de ciclo de vida encajaría bien con un enfoque de desarrollo predictivo, ya que
+cada fase se realiza solo una vez, y cada fase se centra en un tipo particular de trabajo. Sin embargo,
+hay situaciones, como la adición de alcance, un cambio en los requisitos o un cambio en el mercado
+que causan que se repitan las fases.
+
+Ejemplo de Ciclo de Vida Predictivo
+Viabilidad
+Diseño
+Construcción
+Prueba
+Despliegue
+Cierre
+
+Gráfico 2-9. Muestra de Ciclo de Vida Predictivo
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+43
+
+El Gráfico 2-10 muestra un ciclo de vida con un enfoque de desarrollo incremental. En este
+ejemplo se muestran tres iteraciones de plan, diseño y construcción. Cada versión posterior
+añadiría funcionalidad a la versión inicial.
+
+Ejemplo de Ciclo de Vida con un Enfoque de Desarrollo Incremental
+Concepto
+
+Plan
+
+Plan
+
+Diseño
+
+Construcción
+
+Plan
+
+Diseño
+
+Construcción
+
+Diseño
+
+Construcción
+
+Close
+
+Gráfico 2-10. Ciclo de Vida con un Enfoque de Desarrollo Incremental
+
+44
+
+Guía del PMBOK®
+
+El Gráfico 2-11 muestra un ciclo de vida utilizando un enfoque de desarrollo adaptativo.
+Al final de cada iteración (a veces conocida como sprint), el cliente revisa un entregable funcional.
+En la revisión, los interesados clave proporcionan retroalimentación, y el equipo de proyecto actualiza
+la lista de trabajo pendiente del proyecto de características y funciones con el fin de priorizar para la
+siguiente iteración.
+
+Ciclo de Vida Utilizando Enfoque de Desarrollo Adaptativo
+Definir Visión
+de Proyecto
+y de Producto
+
+Iteración 1
+
+Iteración 2
+
+Retroalimentación
+Trabajo pendiente
+Priorización
+
+Iteración 3
+
+Retroalimentación
+Trabajo pendiente
+Priorización
+
+Gráfico 2-11. Ciclo de Vida con Enfoque de Desarrollo Adaptativo
+
+Este enfoque puede modificarse para su uso en situaciones de entrega continua, como se
+describe en la Sección 2.3.2 sobre Cadencia de Entrega.
+
+Varias metodologías adaptativas, incluyendo ágil, utilizan programación de cronogramas
+basada en flujo, que no utiliza un ciclo de vida o fases. Uno de los objetivos es optimizar el flujo
+de entregas en función de la capacidad de recursos, materiales y otras entradas. Otro objetivo
+es minimizar el tiempo y el desperdicio de recursos y optimizar la eficiencia de los procesos
+y el rendimiento en cuanto a entregables. Los proyectos que utilizan estas prácticas y métodos
+generalmente las adoptan a partir del sistema de programación de cronogramas del sistema
+Kanban utilizado en sistemas de programación de cronogramas “lean” y justo a tiempo.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+45
+
+2.3.6 ALINEACIÓN DE CADENCIA DE ENTREGA, ENFOQUE
+DE DESARROLLO Y CICLO DE VIDA
+Los ejemplos de centros comunitarios descritos en la Sección 2.3.3 se revisarán para
+demostrar cómo encajan la cadencia de entrega, el enfoque de desarrollo y el ciclo de vida . En
+este ejemplo, hay cuatro productos y servicios, el edificio, la capacitación de la patrulla de acción
+comunitaria (CAP), los servicios para adultos mayores y el sitio web. La Tabla 2-4 describe la
+cadencia de entrega y el enfoque de desarrollo.
+
+Tabla 2-4. Cadencia de Entrega y Enfoque de Desarrollo
+
+Entregable
+
+Cadencia de Entrega
+
+Enfoque de Desarrollo
+
+Edificio
+
+Entrega única
+
+Predictivo
+
+Servicios para adultos mayores
+
+Entregas múltiples
+
+Iterativo
+
+Sitio web
+
+Entregas periódicas
+
+Adaptativo
+
+Capacitación de patrullas
+de acción comunitaria
+
+Entregas múltiples
+
+Incremental
+
+Según esta información, un ciclo de vida potencial podría ser:
+► Inicio. Los criterios de ingreso para esta fase son que el caso de negocio haya sido
+aprobado y el acta de constitución del proyecto haya sido autorizada. En esta fase, se
+elabora la hoja de ruta de alto nivel, se establecen los requisitos iniciales de financiamiento,
+se definen los requisitos del equipo de proyecto y los recursos, se crea un cronograma de
+hitos y se define la planificación de una estrategia para las adquisiciones. Estos entregables
+deberían estar completos antes de salir de la fase de inicio. Los criterios de salida serán
+revisados en una revisión de transición de fase de origen.
+► Planificación. En esta fase, la información de alto nivel para el edificio se descompone
+en planes detallados. Se completa un documento de diseño detallado para el entrenamiento
+de la CAP. Se completa un análisis de la oferta de servicios para adultos mayores junto con un
+análisis de deficiencias. Se crea el marco de soporte inicial para el sitio web. Estos entregables
+deberían estar completos antes de salir de la fase de planificación. Los criterios de salida
+serán revisados en la revisión de transición de fase de planificación.
+
+46
+
+Guía del PMBOK®
+
+► Desarrollo. Esta fase se superpondrá con las fases de prueba y despliegue, ya que
+los entregables tienen diferentes cadencias de entrega y diferentes enfoques. El sitio
+web tendrá entregas tempranas para informar al público del progreso para el centro
+comunitario. Algunos servicios para adultos mayores y la capacitación de entrenamiento
+para CAP pueden comenzar antes de la apertura del centro comunitario. Cada entregable
+puede tener una revisión por separado antes de entrar en la fase de prueba.
+► Prueba. Esta fase se superpondrá con las fases de desarrollo y despliegue. El tipo
+de prueba dependerá del entregable. Esta fase incluye inspecciones para el edificio, una
+entrega beta de los cursos de CAP, ensayos a pequeña escala para los servicios para adultos
+mayores, y cada liberación con destino al sitio web operando en un entorno de prueba.
+Cada entregable pasará por las pruebas aplicables antes de pasar a la fase de despliegue.
+► Despliegue. Esta fase se superpondrá con las fases de desarrollo y prueba. La primera
+implementación del sitio web puede ser algo temprana en el proyecto. Las actividades
+en esta fase se repetirán a medida que se disponga de más entregables. El despliegue
+final del proyecto será la apertura del centro comunitario. Las actualizaciones continuas
+del sitio web y los servicios para adultos mayores formarán parte de las operaciones una
+vez que el centro comunitario esté abierto.
+► Cierre. Esta fase se lleva a cabo periódicamente a medida que se completan los
+entregables. Cuando se haya implementado el sitio web inicial, se dará a conocer
+al personal del proyecto (incluidos los contratistas) y se completarán las retrospectivas
+o lecciones aprendidas para cada entregable. Cuando se complete todo el proyecto,
+se recopilará la información de las diversas revisiones de fase y se llevará a cabo una
+evaluación general del desempeño del proyecto en comparación con las líneas base.
+Antes del cierre final, el acta de constitución del proyecto y el caso de negocio se
+revisarán para determinar si los entregables lograron los beneficios y el valor previstos.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+47
+
+El Gráfico 2-12 muestra un posible ciclo de vida para el proyecto del centro comunitario.
+Las fases de inicio y planificación son secuenciales. Las fases de desarrollo, prueba y despliegue
+se superponen porque los diferentes entregables se desarrollarán, probarán e implementarán
+en diferentes momentos, y algunos entregables tendrán múltiples entregas. La fase de desarrollo
+aparece con más detalle para mostrar diferentes tiempos y cadencia de entrega. La cadencia de
+la fase de prueba seguiría a la cadencia de la fase de desarrollo. Las entregas se muestran en
+la fase de despliegue.
+
+Revisión
+de Origen
+
+Ciclo de Vida del Centro Comunitario
+Revisión de
+Planificación
+
+Inicio
+
+Plan
+Desarrollo
+Se Abre el
+Centro Comunitario
+
+Prueba
+Despliegue
+Liberación 1
+del Sitio Web
+
+Ofertas para
+Adultos Mayores
+
+Lanzamiento
+de la Capacitación
+de Patrullas de
+Acción Comunitaria
+
+Cierre
+Desarrollo del Sitio Web y Entregas
+Iteraciones de los Servicios para Adultos Mayores
+Liberación 1 de
+los servicios para
+adultos mayores
+
+Liberación 1 de
+los servicios para
+adultos mayores
+
+Liberación 1 de
+los servicios para
+adultos mayores
+
+Liberación 1 de
+los servicios para
+adultos mayores
+
+Incrementos de la Capacitación de Patrullas de Acción Comunitaria
+Módulo 1:
+Capacitación
+básica
+
+Módulo 2:
+Capacitación
+en logística
+
+Módulo 3:
+Capacitación
+de patrullas
+
+LEYENDA:
+Hito
+Entregas
+
+Integración
+
+Construcción del Centro Comunitario
+
+Gráfico 2-12. Ciclo de Vida del Centro Comunitario
+
+48
+
+Guía del PMBOK®
+
+¿Qué Importancia Tiene un Nombre? No todos los profesionales de proyectos diferencian
+entre el enfoque de desarrollo y el ciclo de vida. Algunos profesionales dirán que un proyecto
+sigue un ciclo de vida ágil cuando en realidad están hablando sobre el enfoque de desarrollo.
+Algunos profesionales se refieren a los enfoques predictivos como cascada. Los enfoques de
+desarrollo adaptativo también pueden ser conocidos como enfoques evolutivos.
+Como la dirección de proyectos está evolucionando, el lenguaje utilizado sigue evolucionando.
+La mejor manera de entender a qué se refiere una persona, es determinar cómo está
+desarrollando los entregables y preguntarle los nombres de las fases en el ciclo de vida. Esto
+puede ayudar a enmarcar el proyecto y entender cómo las personas usan los términos.
+
+2.3.7 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+El Enfoque de Desarrollo y el Dominio de Desempeño del Ciclo de Vida interactúan con
+los Dominios de los Interesados, Planificación, Incertidumbre, Entrega, Trabajo del Proyecto
+y Desempeño del Equipo. El ciclo de vida seleccionado afecta a la forma en que se lleva a cabo la
+planificación. Los ciclos de vida predictivos realizan la mayor parte de la planificación por adelantado
+y luego continúan replanificando utilizando planificación gradual y elaboración progresiva. Los planes
+también se actualizan a medida que se materializan las amenazas y oportunidades.
+El enfoque de desarrollo y la cadencia de entrega son una manera de reducir la
+incertidumbre en los proyectos. Para un entregable que tiene mucho riesgo asociado con el
+cumplimiento de los requisitos regulatorios se puede elegir un enfoque predictivo para incorporar
+pruebas adicionales, documentación y procesos y procedimientos sólidos. Para un entregable
+que tiene mucho riesgo asociado con la aceptación de los interesados se puede elegir un enfoque
+iterativo y liberar un producto mínimo viable al mercado para obtener retroalimentación antes
+de desarrollar características y funciones adicionales.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+49
+
+El Dominio de Desempeño de Enfoque de Desarrollo y Ciclo de Vida tiene una superposición
+significativa con el Dominio de Desempeño de la Entrega al considerar la cadencia de entrega y el
+enfoque de desarrollo. La cadencia de entrega es uno de los principales impulsores de la entrega de
+valor en alineación con el caso de negocio y los planes de realización de beneficios. La obtención de
+los requisitos del producto y el cumplimiento de los requisitos de calidad descritos en el Dominio
+de Desempeño de la Entrega tienen una influencia significativa sobre el enfoque de desarrollo.
+El Dominio de Desempeño del Equipo y el Enfoque de Desarrollo y el Dominio de Desempeño
+del Enfoque de Desarrollo y del Ciclo de Vida interactúan cuando se trata de las capacidades del
+equipo de proyecto y las habilidades de liderazgo del equipo de proyecto. La forma de trabajar del
+equipo de proyecto y el estilo del director del proyecto varían significativamente dependiendo del
+enfoque de desarrollo. Un enfoque predictivo generalmente implica más énfasis en la planificación
+inicial, métricas y control. En el extremo opuesto del espectro, un enfoque adaptativo, especialmente
+cuando se utilizan métodos ágiles, requiere más de un estilo de liderazgo servicial y puede tener
+equipos de proyecto autogestionados.
+
+2.3.8 MEDICIÓN DE LOS RESULTADOS
+La Tabla 2-5 identifica los resultados a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-5. Verificación de Resultados — Dominio de Desempeño
+del Enfoque de Desarrollo y del Ciclo de Vida
+
+Resultado
+
+50
+
+Verificar
+
+Enfoques de desarrollo que son
+consistentes con los entregables
+del proyecto
+
+El enfoque de desarrollo para los entregables (predictivo, híbrido, o adaptativo)
+refleja las variables del producto y resulta apropiado dado el proyecto y las
+variables organizacionales.
+
+Un ciclo de vida del proyecto que
+consiste en fases que conectan la
+entrega del valor del negocio y el
+valor para los interesados desde el
+comienzo hasta el final del proyecto
+
+El trabajo del proyecto desde el lanzamiento hasta el cierre está representado
+en las fases del proyecto. Las fases incluyen criterios de salida apropiados.
+
+Fases del ciclo de vida del proyecto
+que facilitan la cadencia de entrega
+y el enfoque de desarrollo
+necesarios para producir los
+entregables del proyecto
+
+La cadencia para el desarrollo, prueba e implementación está representada en
+las fases del ciclo de vida. Los proyectos con múltiples entregables que tienen
+diferentes cadencias de entrega y métodos de desarrollo están representados
+por fases superpuestas o repeticiones de fase, según sea necesario.
+
+Guía del PMBOK®
+
+2.4 DOMINIO DE DESEMPEÑO DE LA PL AN IFIC AC I ÓN
+La planificación organiza, elabora y coordina el trabajo del proyecto a lo largo de la totalidad
+del mismo.
+
+DOMINIO DE DESEMPEÑO DE LA PLANIFICACIÓN
+EI Dominio de Desempeño de
+Ia PIanificación aborda Ias
+actividades y funciones
+asociadas con Ia organización
+y coordinación iniciaIes,
+continuas y en evoIución,
+necesarias para Ia entrega de
+Ios eIementos entregabIes y
+Ios resuItados deI proyecto.
+
+La ejecución efectiva de este dominio de desempeño tiene los
+siguientes resultados deseados:
+El proyecto avanza de manera organizada, coordinada
+y deliberada.
+Existe un enfoque holístico para entregar los resultados
+del proyecto.
+Existe un enfoque holístico para entregar los resultados
+del proyecto.
+Se elabora información evolutiva para obtener los
+entregables y los resultados para los cuales se emprendió
+el proyecto.
+El tiempo dedicado a la planificación es adecuado para
+la situación.
+La información de planificación es suficiente para
+gestionar las expectativas de los interesados.

@@ -1,0 +1,986 @@
+PMI Member benefit licensed to: X. Not for distribution, sale, or reproduction.
+
+EL ESTÁNDAR PARA LA
+DIRECCIÓN DE PROYECTOS
+y
+GUÍA DE LOS
+FUNDAMENTOS PARA LA
+DIRECCIÓN DE PROYECTOS
+(GUÍA DEL PMBOK®)
+Séptima edición
+
+Datos de Catalogación en Publicación de la Biblioteca del Congreso.
+
+Nombres: Project Management Institute, editor.
+Título: El estándar para la dirección de proyectos e Guía de los fundamentos para la dirección
+de proyectos (Guía del PMBOK).
+Otros títulos: Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK) |
+Guía del PMBOK
+Descripción: Séptima edición. | Newtown Square, Pennsylvania: Project Management Institute, Inc.,
+[2021] | Incluye referencias bibliográficas y un índice. | Resumen: “En los últimos años, la tecnología
+emergente, los nuevos enfoques y los rápidos cambios en el mercado alteraron nuestras formas
+de trabajar, impulsando la evolución de la profesión de la dirección de proyectos. Cada industria,
+organización y proyecto se enfrenta a desafíos únicos, y los miembros del equipo deben adaptar sus
+enfoques para gestionar con éxito los proyectos y entregar resultados. Con esto en mente, la Guía
+de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK ®)-Séptima Edición profundiza
+en los conceptos y construcciones fundamentales de la profesión. Incluyendo tanto El Estándar
+para la Dirección de Proyectos como la Guía del PMBOK ®, esta edición presenta 12 principios de
+la dirección de proyectos y ocho dominios de desempeño del proyecto que resultan críticos para
+entregar efectivamente los resultados del proyecto. Esta edición de la Guía del PMBOK ®:: Refleja
+toda la gama de enfoques de desarrollo (predictivos, tradicionales, adaptativos, ágiles, híbridos,
+etc.); Dedica una sección completa a adaptar los enfoques y procesos de desarrollo; Amplía la lista
+de herramientas y técnicas en una nueva sección, “Modelos, Métodos y Artefactos”; Se centra en los
+resultados del proyecto, además de los entregables; Y se integra con PMIstandards+, dando a los
+usuarios acceso a contenido que les ayuda a aplicar la Guía del PMBOK ® en el trabajo. El resultado
+es una guía moderna que permite a los miembros del equipo del proyecto ser proactivos,
+innovadores y ágiles en la entrega de los resultados del mismo”. – Proporcionado por el editor.
+Identificadores: LCCN 2021011107 (print) | LCCN 2021011108 (ebook) | ISBN 9781628256642
+(paperback) | ISBN 9781628256659 (epub) | ISBN 9781628256666 (kindle edition) |
+ISBN 9781628256673 (pdf)
+Áreas temáticas LCSH: Dirección de proyectos – Estándares
+Clasificación: LCC HD69.P75 G845 2021 (print) | LCC HD69.P75 (ebook) | DDC 658.4/04–dc23
+Registro de LC disponible en https://lccn.loc.gov/2021011107
+Registro de ebook LC disponible en https://lccn.loc.gov/2021011108
+
+Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) – Séptima edición
+y El Estándar para la Dirección de Proyectos
+ISBN: 978-1-62825-679-6
+Publicado por:
+Project Management Institute, Inc.
+14 Campus Boulevard
+Newtown Square, Pennsylvania 19073-3299 USA
+Teléfono: +1 610 356 4600
+Correo electrónico: customercare@pmi.org
+Sitio web: www.PMI.org
+©2021 Project Management Institute, Inc.
+
+Todos los derechos reservados.
+
+El contenido del Project Management Institute, Inc. sujeto a derechos de autor está protegido por
+la ley de propiedad intelectual de los EE.UU. reconocida por la mayoría de los países. Para republicar
+o remprimir el contenido del PMI, deberá primero obtener nuestro permiso.
+Visite http://www.pmi.org/permissions para obtener más detalles.
+PMI, el logotipo de PMI, PMBOK, OPM3, PMP, CAPM, PgMP, PfMP, PMI-RMP, PMI-SP, PMI-ACP,
+PMI-PBA, PROJECT MANAGEMENT JOURNAL, PM NETWORK, PMI TODAY, PULSE OF THE PROFESSION
+y el eslogan MAKING PROJECT MANAGEMENT INDISPENSABLE FOR BUSINESS RESULTS. son todas
+marcas registradas del Project Management Institute, Inc. Para obtener una lista completa de las
+marcas comerciales de PMI, póngase en contacto con el Departamento legal de PMI. Todas las otras
+marcas comerciales, marcas de servicio, nombres e imágenes comerciales, nombres de productos y
+logotipos que aparecen en el presente documento son propiedad de sus respectivos dueños. Quedan
+reservados todos los derechos que no estén expresamente cedidos en el presente documento.
+Para colocar una orden comercial u obtener información sobre precios, póngase en contacto
+con Independent Publishers Group:
+Independent Publishers Group
+Order Department
+814 North Franklin Street
+Chicago, IL 60610 USA
+Teléfono: 800 888 4741
+Fax: +1 312 337 5985
+Correo electrónico: orders@ipgbook.com (para órdenes solamente)
+Impreso en los Estados Unidos de América. Ninguna parte de esta obra puede ser reproducida
+o transmitida en forma alguna ni por ningún medio, ya sea éste electrónico, manual, fotocopia o
+grabación, ni por ningún sistema de almacenamiento y recuperación de información, sin permiso
+previo y por escrito del editor.
+El papel utilizado en este libro cumple con la norma Z39.48—1984 (Permanent Paper Standard)
+publicada por NISO (National Information Standards Organization).
+10 9 8 7 6 5 4 3 2 1
+
+Aviso
+Las publicaciones de normas y guías de Project Management Institute, Inc. (PMI), una de
+las cuales es el presente documento, se elaboran mediante un proceso de desarrollo de normas
+por consenso voluntario. Este proceso reúne a voluntarios y/o procura obtener las opiniones
+de personas que tienen interés en el tema objeto de esta publicación. Si bien PMI administra el
+proceso y establece reglas para promover la equidad en el desarrollo del consenso, PMI no redacta
+el documento y no prueba, evalúa, ni verifica de manera independiente la exactitud o integridad de
+ninguna información ni la solidez de ningún juicio contenidos en sus publicaciones de normas y guías.
+PMI no asume responsabilidad alguna por cualesquiera daños personales, a la propiedad u
+otros daños de cualquier naturaleza, ya sean especiales, indirectos, consecuentes o compensatorios,
+que resulten directa o indirectamente de la publicación, uso o dependencia de este documento.
+PMI no se hace responsable ni proporciona garantía alguna, expresa o implícita, con respecto
+a la exactitud o integridad de cualquier información publicada aquí, y no se hace responsable ni
+proporciona garantía alguna de que la información incluida en este documento satisfaga cualquiera
+de sus objetivos o necesidades particulares. PMI no se compromete a garantizar el desempeño de los
+productos o servicios de cualquier fabricante o vendedor individual en virtud de esta norma o guía.
+Al publicar y hacer disponible este documento PMI no se compromete a prestar servicios
+profesionales o de otro tipo para o en nombre de ninguna persona o entidad, ni asume ninguna
+obligación adquirida por una persona o entidad hacia otra. Cualquiera que use este documento
+lo hará bajo su propio criterio independiente o, según corresponda, buscará el consejo de
+un profesional competente a la hora de determinar las precauciones razonables a aplicar en
+cualesquiera circunstancias dadas. Tanto información como otras normas relativas al tema objeto
+de esta publicación pueden estar disponibles en otras fuentes, que el usuario podrá consultar
+para ampliar con opiniones e informaciones adicionales las ofrecidas por esta publicación.
+PMI no tiene el poder para, ni se compromete a vigilar o hacer cumplir el contenido de este
+documento. PMI no certifica, prueba ni inspecciona aspectos de seguridad y salud de productos,
+diseños o instalaciones. Cualquier certificación u otra declaración de conformidad con cualquier
+información relacionada con la salud o la seguridad incluida en este documento no será atribuible
+a PMI y será responsabilidad única del certificador o del autor de la declaración.
+
+v
+
+Prefacio
+Cada vez que se empieza a trabajar sobre una nueva edición de El Estándar para la Dirección de
+Proyectos y de la Guía del PMBOK®, existe la oportunidad de tomar en consideración las perspectivas
+mundiales sobre los cambios en la dirección de proyectos y los enfoques utilizados para obtener
+beneficios y valor de los resultados de los proyectos. En el tiempo transcurrido entre cada edición,
+se ha producido una gran cantidad de cambios. Algunas organizaciones han dejado de existir y han
+aparecido otras nuevas. Las tecnologías más antiguas han llegado al final de su vida, mientras que
+han evolucionado tecnologías que ofrecen capacidades completamente nuevas. Las personas que
+continúan en la fuerza de trabajo han avanzado en su pensamiento, habilidades y capacidades,
+a medida que los recién llegados se centran en comprender rápidamente su lenguaje profesional,
+desarrollar sus habilidades y su visión empresarial, y contribuir a los objetivos de sus empleadores.
+Sin embargo, aun en medio de tales cambios, hay conceptos y construcciones fundamentales
+que permanecen en su lugar. Continúa la comprensión de que el pensamiento colectivo produce más
+soluciones holísticas que los pensamientos de un individuo en particular Y perdura el hecho de que
+las organizaciones utilizan proyectos como vehículo para obtener un resultado o producto único.
+
+DISEÑO CENTRADO EN EL CLIENTE Y USU ARIO FINAL
+Mientras se estaba desarrollando la Sexta Edición de la Guía del PMBOK® y a lo largo
+del desarrollo de esta Séptima Edición, PMI ha participado activamente con una amplia gama
+de interesados a nivel mundial en sus experiencias con el uso de El Estándar para la Dirección
+de Proyectos y la Guía del PMBOK®. Estas participaciones han incluido:
+► Encuestas en línea a muestras representativas de interesados de PMI;
+► Grupos focales con líderes de PMO, directores de proyectos, profesionales practicantes
+de ágil, miembros de equipos de proyectos, y educadores e instructores; y
+► Talleres interactivos con profesionales en diversos eventos de PMI en todo el mundo.
+
+vii
+
+La retroalimentación y las entradas en conjunto destacaron cuatro puntos clave:
+► Mantener y mejorar la credibilidad y la relevancia de la Guía del PMBOK®.
+► Incrementar la legibilidad y la utilidad de la Guía del PMBOK®, evitando al mismo tiempo
+sobrecargarla con nuevos contenidos.
+► Detectar las necesidades de información y contenido de los interesados y proporcionar
+un contenido suplementario comprobado que preste apoyo a la aplicación práctica.
+► Reconocer que para algunos interesados la estructura y el contenido de las ediciones
+anteriores siguen siendo valiosos, de modo que cualquier cambio brinde mejora sin
+excluir ese valor.
+
+CONSERVACIÓN DE LA RELEVANCIA DE LA GUÍA DEL PMBOK ®
+Desde su creación como los Fundamentos para la Dirección de Proyectos (PMBOK) en 1987,
+la Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK®) ha evolucionado,
+reconociendo al mismo tiempo que los elementos fundamentales de la gestión de proyectos
+perduran. Su evolución no sólo ha implicado un aumento del número de páginas, sino que
+también ha involucrado cambios significativos y sustanciales en la naturaleza del contenido.
+La siguiente tabla incluye una muestra de algunos de esos cambios clave:
+
+viii
+
+Evolución de los Cambios clave en la Guía del PMBOK®
+
+Edición de la
+Guía del PMBOK®
+
+Cambios Evolutivos Clave
+
+1996
+
+• Distinguido como "una guía de los fundamentos", en lugar de los fundamentos para la dirección
+de proyectos.
+• Reflejaba el subconjunto de los fundamentos para la dirección de proyectos que es "generalmente
+aceptado", es decir, aplicable a la mayoría de los proyectos la mayoría de las veces, con un consenso
+generalizado de que las prácticas tienen valor y utilidad.
+• Definía la dirección de proyectos como "la aplicación de conocimientos, aptitudes, herramientas y
+técnicas a las actividades de los proyectos a fin de satisfacer o superar las necesidades y expectativas
+de los interesados en un proyecto" (sin negrilla en el original).
+• Decisión específica de pasar a un estándar basado en procesos, impulsada por el deseo de mostrar las
+interacciones entre las Áreas de Conocimiento; crear una estructura robusta y flexible; y reconocer que
+la ISO y otras organizaciones de normalización estaban estableciendo normas basadas en procesos.
+
+Tercera (2004)
+
+• Primera edición que incorpora el logotipo de "Estándar ANSI" en la portada.
+• Primera edición en designar formalmente El estándar para la Dirección de Proyectos de un Proyecto
+como separado y distinto del Marco de Referencia para la Dirección de Proyectos y de los Fundamentos.
+• Incluía material "generalmente reconocido como buenas prácticas en la mayoría de los proyectos la
+mayor parte del tiempo".
+• Definía la dirección de proyectos como “la aplicación de conocimientos, habilidades, herramientas y
+técnicas a las actividades del proyecto para cumplir con los requisitos del mismo".
+
+Sexta (2017)
+
+• Primera edición en la que se denota una separación clara entre el estándar ANSI y la guía.
+• Incorpora por primera vez contenido “ágil” al texto, no sólo lo menciona en los ejemplos.
+• Ampliación del texto introductorio del Área de Conocimiento, incluyendo conceptos clave,
+tendencias y prácticas emergentes, consideraciones de adaptación y consideraciones para
+entornos ágiles/adaptativos.
+
+ix
+
+Al igual que las ediciones anteriores del Estándar para la Dirección de Proyectos y la Guía del
+PMBOK®, esta edición reconoce que el panorama de la dirección de proyectos continúa evolucionando
+y adaptándose. Solo en los últimos 10 años, el avance del software hacia todo tipo de productos,
+servicios y soluciones ha crecido exponencialmente. Lo que el software puede habilitar sigue
+cambiando a medida que la inteligencia artificial, las capacidades basadas en la nube y los nuevos
+modelos de negocio impulsan la innovación y las nuevas formas de trabajo. La transformación de
+los modelos organizacionales ha dado lugar a nuevas estructuras de trabajo de proyectos y equipos,
+a la necesidad de una amplia gama de enfoques para la ejecución de proyectos y productos, y a una
+mayor atención a los resultados en lugar de a los entregables. Los colaboradores individuales pueden
+unirse a los equipos de proyecto desde cualquier parte del mundo, desempeñando una matriz
+más amplia de funciones y posibilitando nuevas formas de pensar y trabajar en colaboración. Estos
+cambios y otros más han creado esta oportunidad de reconsiderar las perspectivas para prestar
+apoyo a la continua evolución de El Estándar para la Dirección de Proyectos y de la Guía del PMBOK®.
+
+RESUMEN DE CAM BIOS
+Desde 1987, El Estándar para la Dirección de Proyectos ha representado un estándar basado en
+procesos. El Estándar para la Dirección de Proyectos incluido en la Guía del PMBOK® alineó la disciplina
+y la función de la dirección de proyectos en torno a un conjunto de procesos empresariales . Esos
+procesos empresariales permitieron la concepción de prácticas coherentes y previsibles:
+► Que podían ser documentadas;
+► A través de las cuales era posible evaluar el desempeño en relación con los procesos; y
+► Mediante las cuales se podían hacer mejoras en el proceso con el fin de maximizar
+la eficiencia y minimizar las amenazas.
+Si bien son eficaces en soporte de las buenas prácticas, los estándares basados en procesos
+son imperativos por naturaleza. Dado que la dirección de proyectos está evolucionando más
+rápidamente que nunca, la orientación basada en procesos de las ediciones anteriores no puede
+conservarse de manera tal que refleje el panorama total de la entrega de valor. Por lo tanto, esta
+edición cambia a un estándar basado en principios con el fin de apoyar la dirección eficaz de los
+proyectos, y centrarse más en los resultados previstos que en los entregables.
+
+x
+
+Una comunidad mundial de profesionales de diferentes industrias y organizaciones,
+con diferentes funciones y que trabajan en diferentes tipos de proyectos, han elaborado y/o
+proporcionado información sobre los borradores del estándar a medida que ha ido evolucionando
+para la presente edición. Además, los co-directores y el personal de la Guía del PMBOK® – Séptima
+Edición revisaron otros fundamentos y trabajos centrados en la dirección de proyectos para
+identificar los conceptos principales incorporados en esos textos. Estos esfuerzos combinados
+mostraron una fuerte alineación y apoyaron la validación de que los principios rectores de esta
+edición del estándar se aplican en todo el espectro de la dirección de proyectos.
+Hasta la fecha, la comunidad mundial de dirección de proyectos ha aceptado el desplazamiento
+de este estándar hacia un conjunto de declaraciones de principios. Las declaraciones de principios
+captan y resumen los objetivos generalmente aceptados para la práctica de la dirección de proyectos
+y sus funciones básicas. Las declaraciones de principios proporcionan amplios parámetros dentro
+de los cuales pueden operar los equipos de proyecto y ofrecen muchas maneras de mantenerse
+alineados con la intención de los principios.
+Utilizando estas declaraciones de principios, PMI puede reflejar una gestión eficaz de los
+proyectos en el panorama de entrega de valor total: de predictivo a adaptativo y todo lo demás.
+Este enfoque basado en principios también es coherente con la evolución de El Estándar para
+la Dirección de Programas (Tercera y Cuarta Ediciones) y The Standard for Portfolio Management –
+Cuarta Edición (El Estándar para la Dirección de Portafolios, disponible solo en inglés). The Standard
+for Risk Management in Portfolios, Programs and Projects y Benefits Realization Management: A Practice
+Guide (El Estándar para la Gestión de Riesgos en Portafolios, Programas y Proyectos y Gestión de la
+Obtención de Beneficios: Guía Práctica,disponible solo en inglés) representan nuevos productos
+estándar desarrollados intencionalmente, con un enfoque basado en principios, por equipos
+mundiales de expertos en la materia.
+Nada en esta edición de El Estándar para la Dirección de Proyectos o de la Guía de los
+Fundamentos para la Dirección de Proyectos contradice la alineación con el enfoque basado en
+procesos de las ediciones anteriores. Muchas organizaciones y profesionales siguen considerando
+que ese enfoque es útil con el fin de orientar su capacidad para la dirección de proyectos, armonizar
+sus metodologías y evaluar su capacidad para la dirección de proyectos. Ese enfoque sigue siendo
+importante en el contexto de esta nueva edición.
+Otro cambio significativo con esta edición de la Guía del PMBOK® es una visión sistémica
+de la dirección de proyectos. Este cambio comienza con una visión de sistemas para entrega de
+valor como parte de El Estándar para la Dirección de Proyectos y continúa con la presentación del
+contenido de la Guía del PMBOK®. Un enfoque de los sistemas hacia la entrega de valor cambia la
+perspectiva de dirigir portafolios, programas y proyectos, para centrarse en la cadena de valor que
+vincula esas y otras capacidades empresariales para avanzar en la estrategia organizativa, el valor
+y los objetivos del negocio. En el contexto de la dirección de proyectos, El Estándar para la Dirección
+de Proyectos y la Guía del PMBOK ® hacen hincapié en que los proyectos no sólo producen salidas,
+sino que, lo que es más importante, permiten que esas salidas impulsen resultados que, en última
+instancia, aportan valor a la organización y a sus interesados.
+
+xi
+
+Esta vista sistémica refleja un desplazamiento desde las Áreas de Conocimiento de las
+ediciones pasadas de la Guía del PMBOK® a ocho dominios de desempeño. Un dominio de
+desempeño es un grupo de actividades relacionadas que son fundamentales para la conse cución
+efectiva de los resultados de los proyectos. En conjunto, los dominios de desempeño representan
+un sistema de dirección de proyectos de capacidades de gestión interactivas, interrelacionadas
+e interdependientes que funcionan al unísono para lograr los resultados deseados del proyecto.
+A medida que los dominios de desempeño interactúan y reaccionan entre sí, se producen cambios.
+Los equipos de proyecto revisan, discuten, adaptan y responden a esos cambios continuamente
+teniendo en cuenta todo el sistema, no sólo el dominio de desempeño específico en el que
+se produjo el cambio. En consonancia con el concepto de un sistema para entrega de valor en
+El Estándar para la Dirección de Proyectos, los equipos evalúan el desempeño efectivo en cada
+dominio de desempeño mediante mediciones centradas en los resultados, más que mediante
+la adhesión a procesos o a la producción de artefactos, planes, etc.
+En ediciones anteriores de la Guía del PMBOK® se subrayaba la importancia de adaptar el
+enfoque de la dirección de proyectos a las características únicas de cada proyecto y su contexto.
+La Sexta Edición específicamente incorporó consideraciones para ayudar a los equipos de proyecto
+a pensar en cómo adaptar su enfoque a la dirección de proyectos. Ese contenido fue incluido en
+el texto preliminar de cada una de las Áreas de Conocimiento y proporcionó consideraciones para
+todos los tipos de entornos de proyectos. Esta edición amplía aún más esa labor con una sección
+dedicada a la Adaptación en la Guía del PMBOK®.
+Una nueva sección sobre Modelos, Métodos y Artefactos ofrece una agrupación de alto nivel de
+modelos, métodos y artefactos que apoyan la dirección de proyectos. En esta sección se mantienen
+los vínculos con las herramientas, técnicas y salidas de ediciones anteriores que apoyan la dirección
+de proyectos sin prescribir cuándo, cómo o qué herramientas deben utilizar los equipos.
+El cambio final refleja el avance más significativo en la historia de la Guía del PMBOK® —la
+creación de PMIstandards+™, una plataforma digital interactiva que incorpora prácticas, métodos
+y artefactos actuales, emergentes y futuros, y otra información útil. El contenido digital refleja
+de mejor manera la naturaleza dinámica de un conjunto de conocimientos. PMIstandards+
+proporciona a los profesionales de proyectos y a otros interesados acceso a una gama más rica
+y amplia de información y recursos, que pueden adaptarse más rápidamente a los avances y
+cambios en la dirección de proyectos. El contenido explica cómo se aplican prácticas, métodos
+o artefactos específicos a los proyectos en función de los segmentos de la industria, tipos de
+proyectos u otras características. A partir de las entradas, herramientas y técnicas, y de las salidas
+de la Guía del PMBOK® – Sexta Edición, PMIstandards+ seguirá incorporando nuevos recursos
+que apoyen la evolución continua en la dirección de proyectos. En adelante, los usuarios de
+El Estándar para la Dirección de Proyectos y de la Guía del PMBOK® pueden encontrar información
+en PMIstandards+ que complementará la información incluida en la publicación impresa.
+La siguiente figura ilustra la revisión de El Estándar para la Dirección de Proyectos.y la migración
+de la Sexta a la Séptima Edición de la Guía del PMBOK®, junto con la conexión a la plataforma digital
+PMIstandards+.
+
+xii
+
+Guía del PMBOK® – Sexta Edición
+Guía de los Fundamentos para
+la Dirección de Proyectos:
+• Introducción, Entorno del Proyecto y Rol del
+Director del Proyecto
+• Áreas de Conocimiento
+• Integración
+• Alcance
+• Cronograma
+• Costo
+• Calidad
+• Recursos
+• Comunicaciones
+• Riesgo
+• Adquisiciones
+• Interesados
+
+El Estándar para la Dirección de Proyectos:
+• Inicio
+• Planificación
+• Ejecución
+• Monitoreo y Control
+• Cierre
+
+Apéndices, Glosario e Índice
+
+Guía del PMBOK® – Séptima Edición
+El Estándar para la Dirección de Proyectos:
+• Introducción
+• Sistema para la Entrega de Valor
+• Principios de la Dirección de Proyectos
+• Administración
+• Adaptación
+• Equipo
+• Calidad
+• Interesados
+• Complejidad
+• Valor
+• Riesgo
+• Pensamiento
+• Adaptabilidad y Capacidad
+Sistémico
+de Recuperación
+• Liderazgo
+• Cambio
+
+Guía de los Fundamentos para la
+Dirección de Proyectos:
+• Dominios de Desempeño del Proyecto:
+• Interesados
+• Planificación
+• Equipo
+• Trabajo del Proyecto
+• Enfoque de
+• Entrega
+Desarrollo y
+• Medición
+Ciclo de Vida
+• Incertidumbre
+• Adaptación
+• Modelos, Métodos y Artefactos
+
+Apéndices, Glosario e Índice
+
+Plataforma de Contenido Digital PMlstandards+ TM
+• La plataforma enlaza con la Guía del PMBOK® a través de la sección de Modelos, Métodos y Artefactos, al tiempo que amplía ese contenido.
+• La plataforma incorpora contenido de todos los estándares del PMI, así como contenido desarrollado específicamente para la plataforma.
+• El contenido refleja "cómo hacer..." en la práctica real, incluidas prácticas emergentes.
+
+Revisión del Estándar para la Dirección de Proyectos y la Migración de la Sexta Edición a la Séptima
+Edición de la Guía del PMBOK® y la Plataforma de Contenidos Digitales PMIstandards+TM
+
+xiii
+
+CONCLUSIÓN
+El Estándar para la Dirección de Proyectos y la Guía del PMBOK® – Séptima Edición responden a
+los cuatro elementos que los interesados han destacado en sus comentarios. La revisión conserva
+y mejora la credibilidad y la relevancia de la Guía del PMBOK®. Mejora la legibilidad y la utilidad
+de la Guía del PMBOK®. Reconoce que la estructura y el contenido de las ediciones anteriores
+siguen teniendo valor para algunos interesados y mejora el contenido en la presente edición sin
+contradecir ese valor. Lo más importante es que está vinculada con la plataforma de contenido
+digital PMIstandards+ con el fin de responder a las necesidades de los interesados con un
+contenido suplementario verificado que apoya la aplicación práctica.
+
+xiv
+
+Contenido
+EL ESTÁNDAR PARA LA DIRECCIÓN DE PROYECTOS
+1. INTRODUCCIÓN ....................................................................................... 3
+1.1 Propósito de El Estándar para la Dirección de Proyectos ......... 3
+1.2 Términos y Conceptos Clave .......................................................... 4
+1.3 Audiencia para este Estándar ......................................................... 5
+2. UN SISTEMA PARA LA ENTREGA DE VALOR ......................................... 7
+2.1 Creación de Valor ............................................................................. 7
+2.1.1 Componentes de la Entrega de Valor ............................... 8
+2.1.2 Flujo de Información .......................................................... 11
+2.2 Sistemas de Gobernanza Organizacional .................................... 12
+2.3 Funciones Asociadas con Proyectos ........................................... 12
+2.3.1 Proporcionar Supervisión y Coordinación ..................... 13
+2.3.2 Presentar Objetivos y Retroalimentación ....................... 13
+2.3.3 Facilitar y Apoyar ............................................................... 14
+2.3.4 Realizar el Trabajo y Aportar Ideas ................................. 14
+2.3.5 Aplicar Conocimientos Especializados ........................... 15
+2.3.6 Proporcionar Orientación
+e Información Empresarial ................................................ 15
+2.3.7 Proporcionar Recursos y Dirección ................................ 15
+2.3.8 Mantener la Gobernanza ................................................... 16
+2.4 El Entorno del Proyecto ................................................................. 16
+2.4.1 Entorno Interno .................................................................. 16
+2.4.2 Entorno Externo ................................................................. 18
+2.5 Consideraciones sobre la Gestión del Producto ........................ 18
+
+xv
+
+3. PRINCIPIOS DE LA DIRECCIÓN DE PROYECTOS ................................. 21
+3.1 Ser un Administrador Diligente, Respetuoso y Cuidadoso ....... 24
+3.2 Crear un Entorno Colaborativo del Equipo de Proyecto .......... 28
+3.3 Involucrarse Eficazmente con los Interesados ................................. 31
+3.4 Enfocarse en el Valor ..................................................................... 34
+3.5 Reconocer, Evaluar y Responder
+a las Interacciones del Sistema .................................................... 37
+3.6 Demostrar Comportamientos de Liderazgo ................................ 40
+3.7 Adaptar en Función del Contexto................................................. 44
+3.8 Incorporar la Calidad en los Procesos y los Entregables ......... 47
+3.9 Navegar en la Complejidad ........................................................... 50
+3.10 Optimizar las Respuestas a los Riesgos ..................................... 53
+3.11 Adoptar la Adaptabilidad y la Resiliencia ................................... 55
+3.12 Permitir el Cambio para Lograr el Estado Futuro Previsto ....... 58
+Referencias ............................................................................................... 60
+ÍNDICE .......................................................................................................... 61
+
+xvi
+
+GUÍA DE LOS FUNDAMENTOS PARA
+LA DIRECCIÓN DE PROYECTOS (GUÍA DEL PMBOK®)
+1. INTRODUCCIÓN ....................................................................................... 3
+1.1 Estructura de la Guía del PMBOK® .................................................................................. 3
+1.2 Relación entre la Guía del PMBOK® y El Estándar para
+la Dirección de Proyectos ........................................................................ 4
+1.3 Cambios en la Guía del PMBOK® ....................................................................................... 6
+1.4 Relación con PMIstandards+........................................................... 6
+2. DOMINIOS DE DESEMPEÑO DEL PROYECTO ......................................... 7
+2.1 Dominio de Desempeño de los Interesados ................................. 8
+2.1.1 Involucramiento de los Interesados ................................ 10
+2.1.2 Interacciones con Otros Dominios de Desempeño ........ 14
+2.1.3 Verificación de Resultados ..................................................15
+2.2 Dominio de Desempeño del Equipo ............................................. 16
+2.2.1 Dirección y Liderazgo del Equipo de Proyecto ............. 17
+2.2.2 Cultura del Equipo de Proyecto ....................................... 20
+2.2.3 Equipos de Proyecto de Alto Rendimiento .................... 22
+2.2.4 Habilidades de Liderazgo .................................................. 23
+2.2.5 Adaptación de Estilos de Liderazgo ................................ 30
+2.2.6 Interacciones con Otros Dominios de Desempeño ........ 31
+2.2.7 Verificación de Resultados ..................................................31
+2.3 Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida ................................................. 32
+2.3.1 Relación entre Cadencia, Desarrollo y Ciclo de vida ..... 33
+2.3.2 Cadencia de Entrega.......................................................... 33
+2.3.3 Enfoques de Desarrollo ..................................................... 35
+2.3.4 Consideraciones para Seleccionar un Enfoque
+de Desarrollo ...........................................................................39
+2.3.5 Ciclo de Vida y Definiciones de Fase ................................42
+2.3.6 Alineación de Cadencia de Entrega,
+Enfoque de Desarrollo y Ciclo de Vida ........................... 46
+2.3.7 Interacciones con Otros Dominios de Desempeño ........ 49
+2.3.8 Medición de los Resultados ............................................. 50
+2.4 Dominio de Desempeño de la Planificación...................................... 51
+2.4.1 Descripción General de la Planificación .............................. 52
+2.4.2 Variables para la Planificación ............................................... 53
+xvii
+
+2.4.3
+
+Composición y Estructura del Equipo de Proyecto ....... 63
+
+2.5
+
+2.6
+
+2.7
+
+xviii
+
+2.4.4 Comunicación ..................................................................... 64
+2.4.5 Recursos Físicos................................................................ 65
+2.4.6 Adquisición ......................................................................... 65
+2.4.7 Cambios .............................................................................. 66
+2.4.8 Métricas ............................................................................ 66
+2.4.9 Alineación ........................................................................... 67
+2.4.10 Interacciones con Otros Dominios de Desempeño ........ 67
+2.4.11 Verificación de Resultados ..................................................68
+Dominio de Desempeño del Trabajo del Proyecto .................... 69
+2.5.1 Procesos del Proyecto ...................................................... 71
+2.5.2 Equilibrio de las Restricciones en Competencia ........... 72
+2.5.3 Conservación del Enfoque del Equipo de Proyecto ...... 73
+2.5.4 Comunicaciones e Involucramiento en el Proyecto ....... 73
+2.5.5 Gestión de Recursos Físicos............................................ 73
+2.5.6 Trabajo con Adquisiciones ............................................... 74
+2.5.7 Monitoreo de Nuevos Trabajos y Cambios .................... 76
+2.5.8 Aprendizaje a lo largo del Proyecto ................................ 77
+2.5.9 Interacciones con Otros Dominios de Desempeño ........ 78
+2.5.10 Verificación de Resultados ..................................................79
+Dominio de Desempeño de la Entrega ........................................ 80
+2.6.1 Entrega de Valor ............................................................. 81
+2.6.2 Entregables ..................................................................... 82
+2.6.3 Calidad ................................................................................. 87
+2.6.4 Resultados Subóptimos .................................................... 91
+2.6.5 Interacciones con Otros Dominios de Desempeño ........ 91
+2.6.6 Verificación de Resultados ..................................................92
+Dominio de Desempeño de la Medición ...................................... 93
+2.7.1 Establecimiento de Medidas Efectivas ............................ 95
+2.7.2 Qué medir ........................................................................ 98
+2.7.3 Presentación de la Información ..................................... 106
+2.7.4 Peligros en las Mediciones ............................................. 111
+2.7.5 Resolución de Problemas de Desempeño .................... 113
+2.7.6 Crecimiento y Mejora ....................................................... 114
+2.7.7 Interacciones con Otros Dominios de Desempeño ...... 114
+2.7.8 Verificación de Resultados ............................................... 115
+
+2.8
+
+Dominio de Desempeño de la Incertidumbre ........................... 116
+2.8.1 Incertidumbre General ..................................................... 119
+2.8.2 Ambigüedad .................................................................. 120
+2.8.3 Complejidad ...................................................................... 120
+2.8.4 Volatilidad ...................................................................... 122
+2.8.5 Riesgo ................................................................................ 122
+2.8.6 Interacciones con Otros Dominios de Desempeño ...... 128
+2.8.7 Verificación de Resultados ............................................... 129
+
+3. ADAPTACIÓN ....................................................................................... 131
+3.1 Descripción General ..................................................................... 131
+3.2 ¿Por qué adaptar? ........................................................................ 133
+3.3 Qué Adaptar............................................................................... 134
+3.3.1 Selección del Ciclo de Vida y del Enfoque
+de Desarrollo .................................................................... 134
+3.3.2 Procesos ........................................................................... 135
+3.3.3 Involucramiento ................................................................ 136
+3.3.4 Herramientas ................................................................. 136
+3.3.5 Métodos y Artefactos ...................................................... 136
+3.4 El Proceso de Adaptación ........................................................... 137
+3.4.1 Seleccionar el Enfoque de Desarrollo Inicial ............... 138
+3.4.2 Adaptar para la Organización ......................................... 139
+3.4.3 Adaptar para el Proyecto ................................................ 141
+3.5 Adaptación de los Dominios de Desempeño ............................ 145
+3.5.1 Interesados .................................................................... 147
+3.5.2 Equipo del Proyecto ........................................................ 147
+3.5.3 Enfoque de Desarrollo y Ciclo de Vida ......................... 148
+3.5.4 Planificación ..............................................................................148
+3.5.5 Trabajo del Proyecto........................................................ 149
+3.5.6 Entrega ........................................................................... 149
+3.5.7 Incertidumbre ................................................................ 150
+3.5.8 Métricas .......................................................................... 150
+3.6 Diagnóstico .................................................................................... 151
+3.7 Resumen ........................................................................................ 152
+
+xix
+
+4. MODELOS, MÉTODOS Y ARTEFACTOS ............................................... 153
+4.1 Descripción General ..................................................................... 153
+4.2 Modelos Comúnmente Utilizados ............................................... 155
+4.2.1 Modelos de Liderazgo Situacional ................................. 155
+4.2.2 Modelos de Comunicación ............................................. 157
+4.2.3 Modelos de Motivación ................................................... 158
+4.2.4 Modelos de Cambio ......................................................... 160
+4.2.5 Modelos de Complejidad ................................................. 164
+4.2.6 Modelos de Desarrollo del Equipo del Proyecto ........ 166
+4.2.7 Otros Modelos ............................................................... 168
+4.3 Modelos Aplicados a Través de los Dominios
+de Desempeño .......................................................................... 172
+4.4 Métodos Comúnmente Utilizados ............................................... 174
+4.4.1 Recopilación y Análisis de Datos .................................. 174
+4.4.2 Estimación ........................................................................ 178
+4.4.3 Reuniones y Eventos ....................................................... 179
+4.4.4 Otros Métodos .............................................................. 181
+4.5 Métodos Aplicados a Través de los Dominios
+de Desempeño .......................................................................... 181
+4.6 Artefactos Comúnmente Utilizados ............................................ 184
+4.6.1 Artefactos de Estrategia .............................................. 184
+4.6.2 Bitácoras y Registros ...................................................... 185
+4.6.3 Planes ................................................................................ 186
+4.6.4 Diagramas Jerárquicos.................................................... 187
+4.6.5 Líneas base ....................................................................... 188
+4.6.6 Datos e Información Visuales ......................................... 188
+4.6.7 Informes ......................................................................... 190
+4.6.8 Acuerdos y Contratos...................................................... 191
+4.6.9 Otros Artefactos ........................................................... 192
+4.7 Artefactos Aplicados a través de los Dominios
+de Desempeño .......................................................................... 192
+Referencias ............................................................................................. 196
+
+xx
+
+APÉNDICE X1
+COLABORADORES Y REVISORES DE
+EL ESTÁNDAR PARA LA DIRECCIÓN DE PROYECTOS
+Y GUÍA DE LOS FUNDAMENTOS PARA LA DIRECCIÓN
+DE PROYECTOS - SÉPTIMA EDICIÓN ........................................................ 197
+X1.1 Colaboradores ............................................................................ 197
+X1.2 Personal del PMI .................................................................... 206
+X1.3 Grupo de Voluntarios de Verificación de la Traducción
+al Español ................................................................................... 206
+X1.4 Miembros del Comité de Verificación
+de las Traducciones .................................................................. 206
+APÉNDICE X2
+PATROCINADOR ....................................................................................... 207
+X2.1 Introducción ................................................................................ 207
+X2.2 El Rol del Patrocinador ............................................................. 207
+X2.3 Falta de Involucramiento ........................................................... 208
+X2.4 Comportamientos del Patrocinador ......................................... 209
+X2.5 Conclusión .................................................................................. 210
+X2.6 Recursos Sugeridos .................................................................. 210
+APÉNDICE X3
+LA OFICINA DE DIRECCIÓN DE PROYECTOS .......................................... 211
+X3.1 Introducción ................................................................................ 211
+X3.2 La Propuesta de Valor de la PMO —
+¿Por qué tener una? .................................................................. 211
+X3.3 Capacidades Clave de la PMO ................................................. 213
+X3.4 Evolucionar para Fortalecer la Obtención de Beneficios ........214
+X3.5 Más Información sobre las PMO .............................................. 215
+X3.6 Recursos Sugeridos .................................................................. 215
+APÉNDICE X4
+PRODUCTO ................................................................................................ 217
+X4.1 Introducción ................................................................................ 217
+X4.2 Cambios en el Mercado Global ................................................ 219
+X4.3 Impacto en las Prácticas de Entregas del Proyecto ............. 221
+X4.4 Consideraciones Organizacionales para la Gestión
+del Producto ............................................................................... 221
+X4.5 Resumen .................................................................................. 225
+X4.6 Recursos Sugeridos .................................................................. 225
+
+xxi
+
+APÉNDICE X5
+INVESTIGACIÓN Y DESARROLLO PARA
+EL ESTÁNDAR PARA LA DIRECCIÓN DE PROYECTOS ......................... 227
+X5.1 Introducción ............................................................................... 227
+X5.2 El Paso a un Estándar Basado en Principios ........................ 227
+X5.3 Investigación sobre
+El Estándar para la Dirección de Proyectos ............................. 228
+X5.4 Proceso de Desarrollo del Estándar ...................................... 229
+X5.5 Validación del Estándar ........................................................... 230
+X5.6 Resumen .................................................................................... 232
+GLOSARIO ..................................................................................................... 233
+1. Inclusiones y Exclusiones .................................................................. 233
+2. Siglas Comunes .................................................................................... 234
+3. Definiciones .......................................................................................... 235
+ÍNDICE ........................................................................................................ 257
+
+xxii
+
+Lista de Gráficos y Tablas
+EL ESTÁNDAR PARA LA DIRECCIÓN DE PROYECTOS
+Gráfico 2-1.
+Gráfico 2-2.
+Gráfico 2-3.
+Gráfico 2-4.
+Gráfico 3-1.
+Gráfico 3-2.
+Gráfico 3-3.
+Gráfico 3-4.
+Gráfico 3-5.
+Gráfico 3-6.
+Gráfico 3-7.
+Gráfico 3-8.
+Gráfico 3-9.
+Gráfico 3-10.
+Gráfico 3-11.
+Gráfico 3-12.
+Gráfico 3-13.
+
+Ejemplo de un Sistema para la Entrega de Valor .................. 9
+Componentes de un Sistema para la Entrega de Valor .... 10
+Ejemplo de Flujo de Información .............................................. 11
+Muestra de Ciclo de Vida del Producto ............................... 19
+Superposición de los Principios de la Dirección
+de Proyectos y los Principios Generales de Gestión....... 22
+Ser un Administrador Diligente, Respetuoso
+y Cuidadoso ........................................................................... 24
+Crear un Entorno Colaborativo del Equipo
+del Proyecto ........................................................................... 28
+Involucrarse Eficazmente con los Interesados ...................... 31
+Enfocarse en el Valor .................................................................... 34
+Reconocer, Evaluar y Responder a las Interacciones
+del Sistema ............................................................................. 37
+Demostrar Comportamientos de Liderazgo ........................ 40
+Adaptar en Función del Contexto ............................................. 44
+Incorporar la Calidad en los Procesos
+y los Entregables................................................................... 47
+Navegar en la Complejidad ......................................................... 50
+Optimizar las Respuestas a los Riesgos ............................... 53
+Adoptar la Adaptabilidad y la Resiliencia ............................... 55
+Permitir el Cambio para Lograr el Estado
+Futuro Previsto ...................................................................... 58
+
+xxiii
+
+GUÍA DE LOS FUNDAMENTOS PARA
+LA DIRECCIÓN DE PROYECTOS (GUÍA DEL PMBOK®)
+Gráfico 1-1.
+
+Gráfico 2-1.
+Gráfico 2-2.
+Gráfico 2-3.
+Gráfico 2-4.
+Gráfico 2-5.
+Gráfico 2-6.
+Gráfico 2-7.
+Gráfico 2-8.
+Gráfico 2-9.
+Gráfico 2-10.
+Gráfico 2-11.
+Gráfico 2-12.
+Gráfico 2-13.
+Gráfico 2-14.
+Gráfico 2-15.
+Gráfico 2-16.
+Gráfico 2-17.
+Gráfico 2-18.
+Gráfico 2-19.
+Gráfico 2-20.
+Gráfico 2-21.
+Gráfico 2-22.
+Gráfico 2-23.
+Gráfico 2-24.
+Gráfico 2-25.
+Gráfico 2-26.
+Gráfico 2-27.
+Gráfico 2-28.
+xxiv
+
+Relación entre los Principios de la Dirección
+de Proyectos y los Dominios de Desempeño
+del Proyecto ............................................................................. 5
+Dominio de Desempeño de los Interesados.......................... 8
+Ejemplos de Interesados del Proyecto ...................................... 9
+Navegando por el Involucramiento
+Eficaz de los Interesados ......................................................... 10
+Dominio de Desempeño del Equipo ...................................... 16
+Componentes de la Inteligencia Emocional............................ 27
+Dominio de Desempeño del Enfoque de Desarrollo
+y del Ciclo de Vida ................................................................ 32
+Enfoques de Desarrollo ................................................................ 35
+Desarrollo Iterativo e Incremental ............................................ 37
+Muestra de Ciclo de Vida Predictivo ........................................ 43
+Ciclo de Vida con un Enfoque
+de Desarrollo Incremental .................................................... 44
+Ciclo de Vida con Enfoque de Desarrollo Adaptativo ......... 45
+Ciclo de Vida del Centro Comunitario ..................................... 48
+Dominio de Desempeño de la Planificación ........................... 51
+El Rango de los Estimados Disminuye con el Tiempo ......... 56
+Baja Exactitud, Alta Precisión .................................................... 56
+Ejemplos de Ejecución Rápida ................................................... 60
+Plan de Liberación e Iteración ................................................... 61
+Formación del Presupuesto......................................................... 63
+Dominio de Desempeño del Trabajo del Proyecto ........... 69
+Dominio de Desempeño de la Entrega ................................. 80
+Escenario para Desarrollar un Reloj Inteligente .................. 86
+Curva de Costo del Cambio ......................................................... 90
+Dominio de Desempeño de la Medición .............................. 93
+Análisis del Valor Ganado que muestra
+la Variación del Cronograma y del Costo ........................ 101
+Tablero de Estados de Ánimo ...................................................103
+Pronóstico de Estimación a la Conclusión
+y Estimación hasta la Conclusión ..................................... 105
+Ejemplo de Tablero de Control................................................107
+Radiador de Información ............................................................ 108
+
+Gráfico 2-29.
+Gráfico 2-30.
+Gráfico 2-31.
+Gráfico 2-32.
+Gráfico 2-33.
+Gráfico 2-34.
+Gráfico 3-1.
+Gráfico 3-2.
+Gráfico 3-3.
+Gráfico 3-4.
+
+Tablero de Tareas o Tablero Kanban .....................................110
+Gráfica de Trabajo Realizado (Burnup) .................................111
+Tasas de Gasto Planificadas y Reales .....................................113
+Dominio de Desempeño de la Incertidumbre ...................... 116
+Reducción del Riesgo con el Tiempo .....................................124
+Curva de ROI Ajustado al Riesgo ........................................ 126
+Detalles de los Pasos en el Proceso de Adaptación ...... 137
+Selección del Enfoque de Desarrollo Inicial ........................138
+Adaptación del Enfoque a la Organización ..........................139
+Evaluación de los Factores de la Organización
+y del Proyecto al Adaptar................................................... 140
+Gráfico 3-5.
+Adaptación del Enfoque para el Proyecto ............................ 143
+Gráfico 3-6.
+Implementar la Mejora Continua .............................................144
+Gráfico 3-7.
+El Proceso de Adaptación ..................................................... 145
+Gráfico 3-8.
+Adaptación para Ajustarse al Contexto
+del Proyecto ......................................................................... 146
+Gráfico 4-1.
+Adaptación para Ajustarse al Contexto
+y al Entorno del Proyecto .................................................. 154
+Gráfico X4-1. Tendencias Globales de Negocio que Influyen
+en la Gestión del Producto ................................................ 219
+Gráfico X4-2. La Relación Cambiante entre una Organización
+y sus Clientes ...................................................................... 220
+Gráfico X4-3. Estrategias de Apoyo para la Entrega
+Continua de Valor................................................................ 222
+Tabla 2-1.
+Tipos de Comunicación ............................................................ 13
+Tabla 2-2.
+Verificación de Resultados — Dominio de Desempeño
+de los Interesados..................................................................... 15
+Tabla 2-3.
+Verificación de Resultados — Dominio de Desempeño
+del Equipo ................................................................................... 31
+Tabla 2-4.
+Cadencia de Entrega y Enfoque de Desarrollo ................ 46
+Tabla 2-5.
+Verificación de Resultados — Dominio de Desempeño
+del Enfoque de Desarrollo y del Ciclo de Vida ................ 50
+Tabla 2-6.
+Verificación de Resultados — Dominio de Desempeño
+de la Planificación ........................................................................ 68
+Tabla 2-7.
+Verificación de Resultados — Dominio de Desempeño
+del Trabajo del Proyecto ........................................................... 79
+Tabla 2-8.
+Verificación de Resultados — Dominio de Desempeño
+de la Entrega .............................................................................. 92
+
+xxv
+
+Tabla 2-9.
+Tabla 2-10.
+Tabla 3-1.
+Tabla 4-1.
+Tabla 4-2.
+Tabla 4-3.
+Tabla X4-1.
+Tabla X4-2.
+
+xxvi
+
+Verificación de Resultados — Dominio de Desempeño
+de la Medición...................................................................... 115
+Verificación de Resultados — Dominio de Desempeño
+de la Incertidumbre.....................................................................129
+Situaciones Comunes y Sugerencias de Adaptación ..... 151
+Mapeo de los Modelos que Probablemente
+se Usarán en Cada Dominio de Desempeño ................... 173
+Mapeo de los Métodos que Probablemente
+se Usarán en Cada Dominio de Desempeño ................... 182
+Mapeo de los Artefactos que Probablemente
+se Usarán en Cada Dominio de Desempeño ................... 193
+Vistas de Dirección de Proyectos y Gestión
+de Productos ........................................................................ 217
+Características Únicas de los Proyectos, Programas
+y Productos .......................................................................... 224
+
+EL
+ESTÁNDAR PARA
+LA DIRECCIÓN DE PROYECTOS
+
+PMI Member benefit licensed to: X. Not for distribution, sale, or reproduction.
+
+1
+Introducción
+El Estándar para la Dirección de Proyectos identifica los principios de la dirección de proyectos
+que guían los comportamientos y acciones de los profesionales del proyecto y otros interesados
+que trabajan o participan en proyectos.
+Esta sección introductoria describe el propósito de este estándar, define términos y conceptos
+clave e identifica la audiencia para el estándar.
+El Estándar para la Dirección de Proyectos consta de las siguientes secciones:
+► Sección 1 Introducción
+► Sección 2 Un sistema para la Entrega de Valor
+► Sección 3 Principios de la Dirección de Proyectos
+
+1.1 PROPÓSITO DE EL ESTÁNDAR PARA LA DI RECCI ÓN
+DE PROYECTOS
+El Estándar para la Dirección de Proyectos proporciona una base para comprender la
+dirección de proyectos y cómo permite lograr los resultados previstos. Este estándar se aplica
+independientemente del sector, ubicación, tamaño o enfoque de la entrega, por ejemplo,
+predictivo, híbrido o adaptativo. Describe el sistema dentro del cual operan los proyectos,
+incluida la gobernanza, las posibles funciones, el entorno del proyecto y las consideraciones
+para la relación entre la dirección de proyectos y la gestión del producto.
+
+3
+
+1.2 TÉRMINOS Y CONCEPTOS CLAVE
+El Estándar para la Dirección de Proyectos refleja el progreso de la profesión. Las organizaciones
+esperan que los proyectos produzcan resultados, además de salidas y artefactos. Se espera que los
+directores del proyecto entreguen proyectos que creen valor para la organización y los interesados
+dentro del sistema de la organización para la entrega de valor. Se definen los siguientes términos
+con el fin de proporcionar contexto para el contenido de este estándar.
+► Resultado. Un resultado o consecuencia final de un proceso o proyecto. Los resultados
+pueden incluir salidas y artefactos, pero tienen una intención más amplia al centrarse
+en los beneficios y el valor para los que se emprendió el proyecto.
+► Portafolio. Proyectos, programas, portafolios secundarios y operaciones gestionadas
+como un grupo con el ánimo de lograr los objetivos estratégicos.
+► Producto. Artefacto producido, cuantificable y que puede ser en sí mismo un elemento
+terminado o un componente de un elemento.
+► Programa. Proyectos, programas secundarios y actividades de programas relacionados
+cuya gestión se realiza de manera coordinada para obtener beneficios que no se
+obtendrían si se gestionaran en forma individual.
+► Proyecto. Esfuerzo temporal que se lleva a cabo para crear un producto, servicio o
+resultado único. La naturaleza temporal de los proyectos indica un principio y un final
+para el trabajo del proyecto o una fase del trabajo del proyecto. Los proyectos pueden
+ser independientes o formar parte de un programa o portafolio.
+► Dirección de proyectos. Aplicación de conocimiento, habilidades, herramientas y
+técnicas a actividades del proyecto para cumplir con los requisitos del mismo. La dirección
+de proyectos se refiere a orientar el trabajo del proyecto para entregar los resultados
+previstos. Los equipos del proyecto pueden lograr los resultados utilizando una amplia
+gama de enfoques (por ejemplo, predictivos, híbridos y adaptativos).
+► Director del proyecto. Persona nombrada por la organización ejecutante para liderar
+al equipo delproyecto que es responsable de alcanzar los objetivos del mismo. Los
+directores del proyecto realizan una variedad de funciones, tales como facilitar el trabajo
+del equipo del proyecto para lograr los resultados y gestionar los procesos para entregar
+los resultados previstos. En la Sección 2.3 están identificadas funciones adicionales.
+
+4
+
+El Estándar para la Dirección de Proyectos
+
+► Equipo del proyecto. Conjunto de individuos que realizan el trabajo del proyecto
+con el fin de alcanzar sus objetivos.
+► Sistema para la entrega de valor. Conjunto de actividades estratégicas de negocio
+dirigidas a la construcción, sostenimiento y/o avance de una organización. Los portafolios,
+programas, proyectos, productos y operaciones pueden formar parte del sistema de
+entrega de valor de una organización.
+► Valor. Cualidad, importancia o utilidad de algo. Los diferentes interesados perciben
+el valor de diferentes maneras. Los clientes pueden definir el valor como la capacidad
+de usar características o funciones específicas de un producto. Las organizaciones
+pueden centrarse en el valor de negocio según lo determinado utilizando métricas
+financieras, tales como los beneficios menos el costo de lograr esos beneficios.
+El valor social puede incluir la contribución a grupos de personas, comunidades
+o al medio ambiente.
+Para otros términos utilizados en esta estándar, referirse al Glosario y al Léxico de Términos
+de Dirección de Proyectos del PMI [1].1
+
+1.3 AUDIENCIA PARA ESTE ESTÁNDAR
+Este estándar proporciona una referencia fundamental para los interesados que participan
+en un proyecto. Esto incluye, entre otros, profesionales de proyectos, consultores, educadores,
+estudiantes, patrocinadores, interesados y proveedores que:
+► Son responsables o deben rendir cuentas sobre la entrega de los resultados
+de los proyectos;
+► Trabajan en proyectos a tiempo completo o a tiempo parcial;
+► Trabajan en oficinas de dirección de portafolios, programas o proyectos (PMO);
+► Participan en el patrocinio del proyecto, la propiedad del producto, la gestión
+del producto, el liderazgo ejecutivo o la gobernanza del proyecto;
+► Están involucrados en la dirección de portafolios o programas;
+► Proporcionan recursos para el trabajo del proyecto;
+► Se enfocan en la entrega de valor para portafolios, programas y proyectos;
+► Enseñan o estudian dirección de proyectos; y
+► Están involucrados en cualquier aspecto de la cadena de entrega de valor
+del proyecto.
+
+1
+
+Los números entre corchetes remiten a la lista de referencias que aparece al final de este estándar.

@@ -1,0 +1,593 @@
+
+Este dominio de desempeño implica establecer la cultura y el entorno que permita a un
+conjunto de diversos individuos evolucionar hasta convertirse en un equipo de proyecto de
+alto rendimiento. Esto incluye el reconocimiento de las actividades necesarias para fomentar
+el desarrollo del equipo de proyecto y alentar los comportamientos de liderazgo de todos los
+miembros del mismo.
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño del Equipo:
+Director del Proyecto. Persona nombrada por la organización ejecutante para liderar
+al equipo de proyecto que es responsable de alcanzar los objetivos del mismo.
+Equipo de Dirección de Proyecto. Miembros del equipo de proyecto que participan
+directamente en las actividades de dirección del proyecto.
+Equipo de Proyecto. Conjunto de individuos que realizan el trabajo del proyecto con el fin
+de alcanzar sus objetivos.
+
+16
+
+Guía del PMBOK®
+
+2.2.1 DIRECCIÓN Y LIDERAZGO DEL EQUIPO DE PROYECTO
+La dirección de proyectos entraña la aplicación de conocimiento, aptitudes, herramientas
+y técnicas para las actividades de dirección, así como para las actividades de liderazgo. Las
+actividades de dirección se centran en los medios para cumplir los objetivos de los proyectos,
+como tener procesos eficaces, planificar, coordinar, medir y supervisar el trabajo, entre otros.
+Las actividades de liderazgo se enfocan en las personas. El liderazgo abarca influenciar, motivar,
+escuchar, habilitar y otras actividades que tienen que ver con el equipo de proyecto. Ambos son
+importantes para lograr los resultados previstos.
+
+2.2.1.1 Dirección y Liderazgo Centralizados
+Si bien las actividades de liderazgo deberían ser puestas en práctica por todos los miembros
+del equipo de proyecto, las actividades de dirección pueden estar centralizadas o distribuidas.
+En un entorno en el que las actividades de dirección están centralizadas, la rendición de cuentas
+(ser responsable de un resultado) suele asignarse a una persona, tal como el director del proyecto
+o a un rol similar. En estas situaciones, un acta de constitución del proyecto u otro documento de
+autorización puede proporcionar la aprobación para que el director del proyecto forme un equipo
+de proyecto para alcanzar los resultados del mismo.
+
+2.2.1.2 Dirección y Liderazgo Distribuidos
+A veces las actividades de dirección del proyecto se comparten entre un equipo de
+dirección del proyecto, y los miembros del equipo de proyecto son responsables de completar
+el trabajo. También hay situaciones en las que un equipo de proyecto puede auto-organizarse
+para completar un proyecto. En lugar de tener un director de proyecto designado, alguien dentro
+del equipo de proyecto puede servir de facilitador para permitir la comunicación, la colaboración
+y el involucramiento Este rol puede moverse entre los miembros del equipo de proyecto
+El liderazgo servicial es un estilo de liderazgo que se centra en comprender y abordar las
+necesidades y el desarrollo de los miembros del equipo de proyecto con el fin de permitir el máximo
+desempeño posible del equipo de proyecto. Los líderes serviciales hacen hincapié en el desarrollo de
+los miembros del equipo de proyecto hasta su máximo potencial, centrándose en el tratamiento de
+cuestiones tales como:
+► ¿Están creciendo como personas los miembros del equipo de proyecto?
+► ¿Los miembros del equipo de proyecto se están volviendo más saludables,
+más sabios, más libres y más autónomos?
+► ¿Es más probable que los miembros del equipo de proyecto se conviertan
+en líderes serviciales?
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+17
+
+Los líderes serviciales permiten a los equipos de proyecto organizarse por sí mismos cuando
+es posible y aumentan los niveles de autonomía pasando a los miembros del equipo de proyecto
+las oportunidades adecuadas para la toma de decisiones. Los comportamientos del liderazgo
+servicial incluyen:
+► Eliminación de obstáculos. Dado que es el equipo de proyecto el que genera la mayor
+parte del valor del negocio, un rol fundamental del líder servicial es maximizar la entrega
+eliminando los impedimentos para su progreso. Esto incluye la resolución de problemas
+y la eliminación de los obstáculos que puedan estar dificultando el trabajo del equipo
+de proyecto. Resolviendo o disminuyendo estos impedimentos, el equipo de proyecto
+puede entregar valor al negocio más rápidamente.
+► Escudo contra la desviación. Los líderes serviciales protegen al equipo de proyecto
+de las desviaciones internas y externas que lo alejan de los objetivos actuales.
+La fragmentación del tiempo reduce la productividad, por lo que proteger al equipo
+de proyecto de las demandas externas no críticas ayuda al equipo de proyecto
+a mantenerse enfocado.
+► Oportunidades de estímulo y desarrollo. El líder servicial también proporciona
+herramientas y aliento para mantener al equipo de proyecto satisfecho y productivo.
+Aprender lo que motiva a los miembros del equipo de proyecto como personas
+y encontrar formas de recompensarlos por su buen trabajo ayuda a mantener
+satisfechos a los miembros del equipo de proyecto.
+
+2.2.1.3 Aspectos comunes del Desarrollo del Equipo
+Independientemente de la forma en que se estructuren las actividades de dirección, hay
+aspectos comunes en el desarrollo de los equipos de proyecto que son pertinentes para la mayoría
+de ellos. Estos incluyen:
+► Visión y objetivos. Es esencial que todos estén conscientes de la visión y los objetivos del
+proyecto. La visión y los objetivos son comunicados a lo largo del proyecto. Esto incluye la
+referencia a los resultados previstos cuando el equipo de proyecto se compromete a tomar
+decisiones y a resolver problemas.
+► Roles y responsabilidades. Es importante asegurarse de que los miembros del equipo
+de proyecto entiendan y cumplan con sus roles y responsabilidades. Esto puede incluir la
+identificación de lagunas en el conocimiento y las habilidades, así como estrategias para
+abordar esas lagunas a través de capacitación, mentoría o coaching.
+
+18
+
+Guía del PMBOK®
+
+► Operaciones del equipo de proyecto. La facilitación de la comunicación del equipo
+de proyecto, la solución de problemas y el proceso de llegar a un consenso pueden
+incluir la colaboración con el equipo de proyecto para elaborar un acta de constitución
+del equipo de proyecto y un conjunto de directrices de funcionamiento o normas del
+equipo de proyecto.
+► Orientación. La orientación puede ser dirigida al equipo de proyecto en su conjunto
+para que todos apunten en la dirección correcta. Los miembros del equipo de proyecto
+también pueden proporcionar orientación sobre una tarea o un entregable particular.
+► Crecimiento. Identificar las áreas en las que el equipo de proyecto está funcionando
+bien y señalar las áreas en las que el equipo de proyecto puede mejorar ayuda a crecer
+al equipo de proyecto. Trabajando en forma colaborativa, el equipo de proyecto puede
+identificar metas para su mejora y tomar medidas para cumplir con esas metas. Esto
+también se aplica a cada persona en el equipo de proyecto. Es posible que las personas
+quieran aumentar sus habilidades y experiencia en ciertas áreas, y el director del proyecto
+puede ayudar con eso.
+Hay varios modelos que describen las etapas del crecimiento del equipo de proyecto,
+que se incluyen en la Sección 4.
+
+Cuando se forman equipos de proyecto en diferentes organizaciones sobre la base de un
+contrato, una asociación estratégica u otra relación comercial, los roles específicos que
+desempeñan diversas funciones pueden estar más formalizados y ser menos flexibles en
+función del contrato o de otras condiciones. Esos arreglos suelen requerir más trabajo inicial
+para establecer una mentalidad de “un equipo”, asegurar que los miembros del equipo
+de proyecto comprendan la forma en que todos contribuyen al mismo y establecer otros
+facilitadores que integren habilidades, capacidades y procesos.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+19
+
+2.2.2 CULTURA DEL EQUIPO DE PROYECTO
+Cada equipo de proyecto desarrolla su propia cultura de equipo. La cultura del equipo de
+proyecto puede establecerse deliberadamente mediante el desarrollo de normas del equipo
+de proyecto, o informalmente a través de los comportamientos y acciones de sus miembros.
+La cultura del equipo de proyecto opera dentro de la cultura de la organización pero refleja las
+formas individuales de trabajo e interacción del equipo de proyecto.
+
+Los seres humanos exhiben una serie de sesgos, algunos de ellos inconscientes y otros
+conscientes. Por ejemplo, una persona puede sentir que, a menos que un cronograma sea
+mostrado utilizando un diagrama de Gantt generado por software, no es un cronograma
+verdadero o válido. Otra persona puede tener un sesgo contrastante de que la planificación
+detallada más allá de 30 días es una pérdida de tiempo. Ser abierto y transparente sobre
+los sesgos por adelantado establece una cultura de apertura y confianza que puede permitir
+el consenso y la colaboración.
+
+El director del proyecto es clave para establecer y mantener un entorno seguro, respetuoso
+y sin prejuicios que permita al equipo de proyecto comunicarse abiertamente. Una manera de
+lograr esto es modelando los comportamientos deseados, tales como:
+► Transparencia. Ser transparente en cómo uno piensa, toma decisiones y procesa
+la información ayuda a otros a identificar y compartir sus propios procesos. Esto puede
+extenderse a ser también transparente sobre los sesgos.
+► Integridad. La integridad se compone del comportamiento ético y la honestidad. Las
+personas demuestran honestidad al hacer patentes los riesgos, comunicar sus supuestos
+y bases de las estimaciones, entregar malas noticias tempranamente, garantizar que los
+informes de estado proporcionen una representación precisa del estado del proyecto y de
+muchas otras maneras. El comportamiento ético puede incluir resaltar posibles defectos
+o efectos negativos en el diseño del producto, revelar posibles conflictos de intereses,
+garantizar la equidad y tomar decisiones basadas en impactos ambientales, financieros
+y de los interesados.
+
+20
+
+Guía del PMBOK®
+
+► Respeto. Demostrar respeto por cada persona, por cómo piensa la persona, por las
+habilidades de la persona y por la perspectiva y experiencia que la persona aporta
+al equipo de proyecto establece el escenario para que todos los miembros del equipo
+de proyecto adopten este comportamiento.
+► Discurso positivo. A lo largo del proyecto, se producirán diversas opiniones, diferentes
+formas de abordar las situaciones y malentendidos. Estas forman parte normalmente
+de la conducción de proyectos. Representan una oportunidad para mantener un diálogo
+en lugar de un debate. Un diálogo implica trabajar con otros para resolver opiniones
+divergentes. El objetivo es llegar a una solución que todas las partes puedan aceptar.
+Un debate, por el contrario, es un escenario de ganar-perder en el que las personas
+están más interesadas en la ganancia personal que en estar abiertas a soluciones
+alternativas a un problema.
+► Apoyo. Los proyectos pueden resultar desafiantes desde las perspectivas de los retos
+técnicos, las influencias ambientales y las interacciones interpersonales. Apoyar a los
+miembros del equipo de proyecto a través de la resolución de problemas y la eliminación
+de impedimentos construye una cultura de apoyo y conduce a un entorno de confianza
+y colaboración. El apoyo también se puede demostrar brindando aliento, mostrando
+empatía y participando en la escucha activa.
+► Coraje. Puede ser intimidante recomendar un nuevo enfoque para un problema o para
+una forma de trabajar. Del mismo modo, puede ser difícil estar en desacuerdo con un
+experto en la materia o alguien con mayor autoridad. Sin embargo, demostrar tener
+el valor que se necesita para hacer una sugerencia, estar en desacuerdo o probar algo
+nuevo permite una cultura de experimentación y comunica a los demás que es seguro
+ser valiente y probar nuevos enfoques.
+► Celebración del éxito. Centrarse en los objetivos, desafíos y problemas del proyecto a
+menudo deja de lado el hecho de que los miembros individuales del equipo de proyecto
+y el equipo de proyecto en su conjunto están avanzando constantemente hacia esos
+objetivos. Debido a que el trabajo tiene prioridad, los miembros del equipo de proyecto
+pueden diferir el reconocimiento de las demostraciones de innovación, adaptación, servicio
+a los demás y aprendizaje. Sin embargo, reconocer tales contribuciones en tiempo real
+puede mantener motivados al equipo de proyecto y a las personas.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+21
+
+2.2.3 EQUIPOS DE PROYECTO DE ALTO RENDIMIENTO
+Uno de los objetivos de un liderazgo efectivo es crear un equipo de proyecto de alto
+rendimiento. Existe una serie de factores que contribuyen a los equipos de proyecto de alto
+rendimiento. La siguiente lista no es exhaustiva, pero identifica algunos de los factores asociados
+con los equipos de proyecto de alto rendimiento.
+► Comunicación abierta. Un entorno que fomenta la comunicación abierta y segura
+permite reuniones productivas, resolución de problemas, tormenta de ideas, y así
+sucesivamente. También se constituye en la piedra angular de otros factores, como el
+entendimiento compartido, la confianza y la colaboración.
+► Entendimiento compartido. El propósito del proyecto y los beneficios que proporcionará
+son mantenidos en común.
+► Propiedad compartida. Cuanta más apropiación de los resultados sientan los miembros
+del equipo de proyecto, es más probable que se desempeñen de mejor manera.
+► Confianza. Un equipo de proyecto en el que sus miembros confían unos en otros está
+dispuesto a ir más allá para lograr el éxito. Es menos probable que las personas realicen
+el trabajo adicional que se necesita para tener éxito si no confían en los miembros del
+equipo de proyecto, el director del proyecto o la organización.
+► Colaboración. Los equipos de proyecto que colaboran y trabajan entre sí en lugar de
+trabajar en forma aislada o competir tienden a generar ideas más diversas y terminan
+con mejores resultados.
+► Adaptabilidad. Los equipos de proyecto que pueden adaptar la forma en que trabajan
+al entorno y a la situación resultan más efectivos.
+► Resiliencia. Cuando se presentan problemas o fallas, los equipos de proyecto de alto
+rendimiento se recuperan rápidamente.
+► Empoderamiento. Los miembros del equipo de proyecto que se sienten empoderados
+para tomar decisiones sobre la forma en que trabajan rinden mejor que aquellos que son
+microgestionados.
+► Reconocimiento. Los equipos de proyecto que son reconocidos por el trabajo que
+realizan y el desempeño que logran tienen más probabilidades de continuar rindiendo
+en buena forma. Incluso el simple acto de mostrar aprecio refuerza el comportamiento
+positivo del equipo.
+
+22
+
+Guía del PMBOK®
+
+2.2.4 HABILIDADES DE LIDERAZGO
+Las habilidades de liderazgo son útiles para todos los miembros del equipo de proyecto,
+ya sea que el equipo de proyecto esté operando en un entorno con una autoridad centralizada
+o un entorno de liderazgo compartido. Las siguientes secciones describen algunos de los rasgos
+y actividades asociadas con el liderazgo.
+
+2.2.4.1 Establecer y Mantener la Visión
+Cada proyecto tiene un propósito. Comprender ese propósito es crítico para que las personas
+comprometan su tiempo y energía en la dirección correcta hacia el logro del propósito del proyecto.
+La visión del proyecto resume el propósito del proyecto de manera clara y sucinta. Describe una
+perspectiva realista y atractiva de los resultados futuros del proyecto.
+Además de describir brevemente el estado futuro deseado, la visión es una poderosa
+herramienta motivacional. Es una forma de crear pasión y significado para el objetivo previsto de
+un proyecto. Una visión común ayuda a mantener a las personas empujando en la misma dirección.
+Cuando se está sumergido en los detalles del trabajo diario, una clara comprensión de la meta final
+puede ayudar a guiar las decisiones locales hacia el resultado deseado del proyecto.
+Una visión desarrollada en colaboración entre los miembros del equipo de proyecto y los
+interesados clave debería responder a estas preguntas:
+► ¿Cuál es el propósito del proyecto?
+► ¿Qué define el trabajo exitoso del proyecto?
+► ¿Cómo mejorará el futuro cuando se entreguen los resultados del proyecto?
+► ¿Cómo sabrá el equipo de proyecto que se está alejando de la visión?
+Una buena visión es clara, concisa y procesable. Hace lo siguiente:
+► Resume el proyecto con una frase poderosa o una breve descripción,
+► Describe el mejor resultado alcanzable,
+► Crea una imagen común y coherente en las mentes de los miembros del equipo
+de proyecto, e
+► Inspira pasión por el resultado.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+23
+
+2.2.4.2 Pensamiento Crítico
+A lo largo de los diversos dominios de desempeño del proyecto, existe la necesidad de
+reconocer el sesgo, identificar la causa raíz de los problemas y considerar temas desafiantes, tales
+como la ambigüedad, la complejidad, etc. El pensamiento crítico ayuda a realizar estas actividades.
+El pensamiento crítico incluye el pensamiento disciplinado, racional, lógico y basado en evidencia .
+Requiere una mente abierta y la capacidad de analizar objetivamente. El pensamiento crítico,
+especialmente cuando se aplica al descubrimiento, puede incluir imaginación conceptual, perspicacia
+e intuición. También puede incluir el pensamiento reflexivo y la metacognición (pensar en pensar
+y ser consciente de la propia conciencia).
+Los miembros del equipo de proyecto aplican el pensamiento crítico a:
+► Investigar y recopilar información imparcial y equilibrada;
+► Reconocer, analizar y resolver problemas;
+► Identificar sesgos, supuestos no declarados y valores;
+► Discernir el uso del lenguaje y la influencia en uno mismo y en los demás;
+► Analizar datos y evidencia para evaluar argumentos y perspectivas;
+► Observar eventos para identificar patrones y relaciones;
+► Aplicar el razonamiento inductivo, deductivo y abductivo de manera apropiada; e
+► Identificar y articular premisas falsas, analogía falsa, llamados emocionales
+y otra lógica defectuosa.
+
+2.2.4.3 Motivación
+Motivar a los miembros del equipo de proyecto presenta dos aspectos: el primero es
+entender qué motiva a los miembros del equipo de proyecto a desempeñarse, y el segundo
+es trabajar con los miembros del equipo de proyecto de tal manera que permanezcan
+comprometidos con el proyecto y sus resultados.
+La motivación para desempeñarse puede ser intrínseca o extrínseca. La motivación intrínseca
+proviene del interior de la persona o está asociada con el trabajo. Está asociada con encontrar
+placer en el trabajo en sí mismo en lugar de centrarse en las recompensas. La motivación extrínseca
+es realizar el trabajo debido a una recompensa externa, tal como un bono. Gran parte del trabajo
+realizado en los proyectos está alineado con la motivación intrínseca.
+
+24
+
+Guía del PMBOK®
+
+Ejemplos de factores de motivación intrínseca incluyen:
+► Logro,
+► Desafío,
+► Creencia en el trabajo,
+► Marca runa diferencia,
+► Autodirección y autonomía,
+► Responsabilidad,
+► Crecimiento personal,
+► Relacionamiento, y
+► Formar parte de un equipo de proyecto.
+Las personas no están motivadas por una sola cosa; sin embargo, la mayoría de
+las personas poseen un motivador dominante. Para motivar eficazmente a los miembros del
+equipo de proyecto, es útil conocer el motivador dominante de cada miembro. Por ejemplo, un
+miembro del equipo de proyecto que esté motivado por el desafío responderá bien a extender
+las metas y los problemas a resolver. Un miembro del equipo de proyecto que esté motivado por
+el relacionamiento responderá a ser parte de un grupo de trabajo dinámico. Los miembros del
+equipo de proyecto que prosperan con la autonomía tendrán un mejor desempeño si pueden
+establecer sus propias formas de trabajo e incluso su cadencia y horario de trabajo propios. Por
+lo tanto, adaptar los métodos de motivación en función de las preferencias individuales ayuda
+a obtener el mejor desempeño individual y del equipo de proyecto.
+
+2.2.4.4 Habilidades Interpersonales
+Las habilidades interpersonales que se utilizan con frecuencia en proyectos incluyen
+inteligencia emocional, toma de decisiones y resolución de conflictos, entre otros.
+► Inteligencia emocional. La inteligencia emocional es la capacidad para reconocer
+nuestras propias emociones y las de los demás. Esta información se utiliza para orientar
+el pensamiento y el comportamiento. El reconocimiento de los sentimientos personales,
+la empatía por los sentimientos de los demás y la capacidad de actuar adecuadamente
+son las piedras angulares de una comunicación, colaboración y liderazgo eficaces.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+25
+
+Dado que los proyectos son llevados a cabo por personas y para las personas,
+la inteligencia emocional — la capacidad de entenderse a sí mismo y sostener eficazmente
+las relaciones de trabajo con los demás— resulta crítica en los entornos del equipo
+de proyecto.
+Existen múltiples modelos para definir y explicar la inteligencia emocional. Estos
+convergen en cuatro áreas clave:
+
+▹ Autoconciencia. La autoconciencia es la capacidad de realizar una autoevaluación
+realista. Incluye la comprensión de nuestras propias emociones, metas, motivaciones,
+fortalezas y debilidades.
+
+▹ Autogestión. La autogestión, también conocida como autorregulación, es la capacidad
+para controlar y redirigir los sentimientos e impulsos disruptivos. Es la capacidad de
+pensar antes de actuar, suspendiendo los juicios rápidos y las decisiones impulsivas.
+
+▹ Conciencia social. La conciencia social tiene que ver con la empatía, la comprensión y
+la consideración de los sentimientos de otras personas. Esto incluye la capacidad
+de leer señales no verbales y lenguaje corporal.
+
+▹ Habilidad social. La habilidad social es la culminación de las otras dimensiones
+de la inteligencia emocional. Se ocupa de gestionar grupos de personas, tales como
+equipos de proyecto, construir redes sociales, encontrar puntos en común con varios
+interesados y establecer una buena communicación.
+La autoconciencia y la autogestión son necesarias para mantener la calma y la productividad
+durante las circunstancias difíciles del proyecto. La conciencia social y las habilidades sociales
+permiten mejores vínculos con los miembros del equipo de proyecto y los interesados del proyecto.
+La inteligencia emocional constituye una base para todas las formas de liderazgo.
+El Gráfico 2-5 muestra los puntos clave para cada uno de los cuatro aspectos de la inteligencia
+emocional y cómo se relacionan. Los aspectos que tienen que ver con uno mismo están en la parte
+superior, y los aspectos sociales están en la parte inferior. La conciencia está en el lado izquierdo,
+y la gestión y la habilidad están en el lado derecho.
+
+26
+
+Guía del PMBOK®
+
+Autoconciencia
+
+Autogestión
+
+• ¿Cómo afecta
+usted al equipo?
+• ¿Cómo le afecta
+el equipo?
+
+• Piense antes
+de actuar
+• Genere confianza
+
+Conciencia social
+
+Habilidad social
+
+• Sea empático
+• Emplee escucha
+activa
+
+• Establezca una
+buena comunicación
+• Construya equipos
+efectivos
+• Maneje las actitudes
+
+Gráfico 2-5. Componentes de la Inteligencia Emocional
+
+Algunos modelos de inteligencia emocional incluyen una quinta área para la motivación.
+Motivación en este contexto consiste en comprender lo que impulsa e inspira a las personas.
+► Toma de decisiones. Los directores de proyecto y los equipos de proyecto toman
+muchas decisiones diariamente. Algunas decisiones pueden ser bastante inconsecuentes
+para el resultado del proyecto, como a dónde ir para un almuerzo de equipo, y otras
+serán muy impactantes, como qué enfoque de desarrollo usar, qué herramienta usar
+o qué proveedor seleccionar.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+27
+
+Las decisiones pueden tomarse unilateralmente. Esto tiene la ventaja de la rapidez, pero
+es propenso al error en comparación con involucrar la sabiduría de un grupo diverso
+de personas. La toma unilateral de decisiones también puede desmotivar a las personas
+que se ven afectadas por la decisión, ya que pueden sentir que sus puntos de vista y
+preocupaciones no fueron considerados.
+La toma de decisiones basada en el grupo tiene el beneficio de aprovechar la amplia
+base de conocimiento de un grupo. Involucrar a las personas en el proceso de toma de
+decisiones también aumenta la aceptación del resultado, incluso si la opción seleccionada
+puede no haber sido la primera opción de todos. En general, la inclusión aumenta el
+compromiso con la decisión. La desventaja de la toma de decisiones en grupo es el tiempo
+requerido y la interrupción del trabajo en equipo que puede ocurrir cuando se aleja a las
+personas de su trabajo para ser consultadas en una decisión.
+La toma de decisiones del equipo de proyecto a menudo sigue un patrón divergente/
+convergente. Esto significa que los interesados se comprometen primero a generar
+un amplio conjunto de alternativas o enfoques de solución. Esto a menudo se hace
+individualmente para evitar el efecto de que los interesados sénior o carismáticos
+influyan excesivamente en otros interesados. A continuación, después de que se
+haya generado un amplio espectro de alternativas de decisión, el equipo de proyecto
+converge en una solución preferida.
+El objetivo es tomar decisiones rápidamente mientras se involucran la diversidad
+del conocimiento de un grupo de una manera inclusiva y respetuosa. Algunas decisiones
+pueden tomarse en una dirección diferente a la que prefieren algunas personas, pero
+todos tienen la oportunidad de explicar su posición. Al final, la autoridad decisoria, ya sea
+una persona o un grupo, toma una decisión basada en el análisis presentado y teniendo
+en cuenta las expectativas de los interesados.
+La selección cuidadosa de las decisiones que deben tomarse para la discusión en
+grupo y la votación limita las interrupciones y el intercambio constante de tareas
+experimentados por el equipo de proyecto. Muchos enfoques tales como la votación
+romana, la estimación de Delphi de banda ancha y la votación de puño de cinco utilizan
+el patrón divergente/convergente. Su objetivo es captar la opinión individual mientras
+que se vota en el mismo momento, lo que minimiza el pensamiento de grupo.
+Para aquellas decisiones que exceden la autoridad del equipo de proyecto para decidir, el
+equipo de proyecto puede investigar alternativas, considerar impactos de cada alternativa
+y escalar la decisión a alguien con la autoridad adecuada. Este proceso se alinea con la
+filosofía de “no me traiga problemas, tráigame soluciones”, mientras permanece alineado
+con la gobernanza organizacional con respecto a la autoridad para la toma de decisiones.
+
+28
+
+Guía del PMBOK®
+
+► Gestión de conflictos. El conflicto se presenta en todos los proyectos. Los proyectos
+operan en entornos dinámicos y enfrentan muchas limitaciones mutuamente
+excluyentes, como el presupuesto, el alcance, el cronograma y la calidad, que pueden
+conducir a conflictos. No es raro querer evitar conflictos, pero no todos los conflictos
+son negativos. La forma en que se manejan los conflictos puede conducir a más
+conflictos o a una mejor toma de decisiones y a soluciones más sólidas.
+Abordar el conflicto antes de que escale más allá de un debate útil conduce a mejores
+resultados. Los siguientes enfoques pueden ayudar:
+
+▹ Mantener las comunicaciones abiertas y respetuosas. Debido a que el conflicto puede
+causar ansiedad, es importante mantener un entorno seguro para explorar el origen
+del conflicto. Sin un entorno seguro, las personas dejarán de comunicarse. Asegúrese
+de que las palabras, el tono de voz y el lenguaje corporal no resulten amenazantes.
+
+▹ Centrarse en los problemas, no en las personas. Los conflictos se basan en que las
+personas perciben las situaciones de manera diferente. Esto no debería ser personal.
+El foco está en resolver la situación, no en culpar.
+
+▹ Enfocarse en el presente y el futuro, no en el pasado. Mantenerse enfocado en la
+situación actual, no en situaciones pasadas. Si algo similar sucedió anteriormente,
+sacar a relucir el pasado no resolverá la situación actual. De hecho, puede servir
+para intensificar aún más la situación actual.
+
+▹ Buscar alternativas en conjunto. Los daños causados por el conflicto pueden repararse
+buscando juntos soluciones y alternativas. Así también se pueden crear relaciones más
+constructivas. Esto mueve el conflicto a un espacio más de resolución de problemas
+donde las personas pueden trabajar juntas para generar alternativas creativas.
+Existen varios modelos para abordar y resolver los conflictos. Algunos de ellos se discuten
+en la Sección 4.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+29
+
+2.2.5 ADAPTACIÓN DE ESTILOS DE LIDERAZGO
+Al igual que con todos los aspectos de los proyectos, los estilos de liderazgo también son
+adaptados para satisfacer las necesidades del proyecto, el entorno y los interesados. Algunas de
+las variables que influyen en la adaptación de los estilos de liderazgo incluyen:
+► Experiencia con el tipo de proyecto. Las organizaciones y los equipos de proyecto con
+experiencia en un tipo específico de proyecto pueden ser más autogestionados y requerir
+menos liderazgo. Cuando un proyecto es nuevo en una organización, la tendencia es
+proporcionar más supervisión y utilizar un estilo de liderazgo más directivo.
+► Madurez de los miembros del equipo de proyecto. Los miembros del equipo de
+proyecto que sean maduros en el campo técnico pueden necesitar menos supervisión y
+dirección que los miembros del equipo de proyecto que son nuevos en la organización,
+el equipo o la especialidad técnica.
+► Estructuras de gobernanza de la organización. Los proyectos operan dentro de
+un sistema organizacional más grande. Puede darse la expectativa de que el estilo de
+liderazgo organizacional de la alta dirección sea reconocido y reflejado en el liderazgo
+del equipo. La estructura organizacional influye en el grado en que la autoridad y la
+rendición de cuentas están centralizadas o distribuidas.
+► Equipos de proyecto distribuidos. Una fuerza global para el trabajo de proyectos
+es más común hoy que en el pasado. A pesar de los mejores esfuerzos para conectar
+a las personas virtualmente, puede ser un desafío crear el mismo nivel de colaboración
+y relacionamiento que se logra cuando se trabaja cara a cara. Para minimizar los escollos
+de los equipos de proyecto distribuidos, la tecnología puede utilizarse a fin de aumentar
+y mejorar la comunicación. Algunos ejemplos:
+
+▹ Asegurarse de que existan sitios de colaboración para trabajar en conjunto.
+▹ Tener un sitio del equipo de proyecto para mantener disponible toda la información
+relevante del proyecto y del equipo de proyecto.
+
+▹ Utilizar las capacidades de audio y video para las reuniones.
+▹ Utilizar la tecnología para mantener un contacto continuo, tal como mensajería
+y mensajes de texto.
+
+▹ Incluir tiempo para conocer a los miembros remotos del equipo de proyecto.
+▹ Tener al menos una reunión cara a cara para establecer relaciones.
+
+30
+
+Guía del PMBOK®
+
+2.2.6 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+El Dominio de Desempeño del Equipo enfatiza las habilidades utilizadas por los directores
+de proyecto y los miembros del equipo de proyecto a lo largo del mismo. Estas habilidades están
+entrelazadas en todos los demás aspectos del proyecto. A lo largo del proyecto se pide a los
+miembros del equipo de proyecto demostrar cualidades y habilidades de liderazgo. Un ejemplo
+de esto es comunicar la visión del proyecto y los beneficios a los interesados durante la planificación
+y a lo largo del ciclo de vida. Otro ejemplo es emplear pensamiento crítico, resolución de problemas
+y toma de decisiones mientras se participa en el trabajo del proyecto. La rendición de cuentas por
+los resultados se demuestra a lo largo de los dominios de desempeño de planificación y medición.
+
+2.2.7 VE RIFICA CIÓ N DE RESULTADOS
+En la Tabla 2-3 se identifican los resultados de la aplicación efectiva del Dominio de Desempeño
+del Equipo a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-3. Verificación de Resultados — Dominio de Desempeño del Equipo
+
+Resultado
+
+Verificar
+
+Propiedad compartida
+
+Todos los miembros del equipo de proyecto conocen la visión y los objetivos.
+El equipo de proyecto es dueño de los entregables y de los resultados del proyecto.
+
+Un equipo de alto rendimiento
+
+Los miembros del equipo de proyecto confían uno en el otro y colaboran.
+El equipo de proyecto se adapta a situaciones cambiantes y es resiliente ante
+los desafíos. El equipo de proyecto se siente empoderado y empodera y
+reconoce a los miembros del equipo de proyecto.
+
+Todos los miembros del equipo de
+proyecto demuestran liderazgo aplicable
+y otras habilidades interpersonales
+
+Los miembros del equipo de proyecto aplican pensamiento crítico y habilidades
+interpersonales. Los estilos de liderazgo de los miembros del equipo de proyecto
+son apropiados para el contexto y el entorno del proyecto.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+31
+
+2.3 DOMINIO DE DE SEMPEÑO DEL ENFOQUE
+DE DES ARROLLO Y DEL CICLO DE VIDA
+DOMINIO DEL ENFOQUE DE DESARROLLO
+Y DEL DESEMPEÑO DEL CICLO DE VIDA
+EI Dominio deI Enfoque de
+DesarroIIo y deI Desempeño
+deI CicIo de Vida aborda Ias
+actividades y funciones
+asociadas con eI enfoque
+de desarroIIo, Ia cadencia y
+Ias fases deI cicIo de vida
+deI proyecto.
+
+La ejecución efectiva de este dominio de desempeño tiene los
+siguientes resultados deseados:
+Enfoques de desarrollo que son consistentes con los
+entregables del proyecto.
+Un ciclo de vida del proyecto que consiste en fases que
+conectan la entrega del valor del negocio y el valor para los
+interesados desde el comienzo hasta el final del proyecto.
+Un ciclo de vida del proyecto que consta de fases que
+facilitan la cadencia de entrega y el enfoque de desarrollo
+necesarios para elaborar los entregables del proyecto.

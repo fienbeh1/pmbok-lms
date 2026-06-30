@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}PMBOK LMS - Inicio{% endblock %}
+{% block content %}
+<div class="stats">
+    <div class="stat-card">
+        <div class="number">{{ chapters|length }}</div>
+        <div class="label">Capítulos</div>
+    </div>
+    <div class="stat-card">
+        <div class="number">{{ total_qa }}</div>
+        <div class="label">Conceptos Q&A</div>
+    </div>
+</div>
+
+<h2 style="margin-bottom:1rem">Capítulos</h2>
+<div class="chapter-grid">
+    {% for ch in chapters %}
+    <a href="/chapter/{{ ch.slug }}" class="chapter-card">
+        <h3>{{ ch.number }}. {{ ch.title }}</h3>
+        <div class="meta">{{ ch.content|length }} caracteres</div>
+    </a>
+    {% endfor %}
+</div>
+{% endblock %}

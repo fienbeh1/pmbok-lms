@@ -1,0 +1,1499 @@
+
+Los proyectos existen en entornos con diferentes grados de incertidumbre. La incertidumbre
+presenta amenazas y oportunidades que los equipos de proyecto exploran, evalúan y deciden
+cómo manejar.
+
+116
+
+Guía del PMBOK®
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño de la Incertidumbre:
+Incertidumbre. Falta de comprensión y conciencia de los problemas, eventos, caminos
+a seguir o soluciones a buscar.
+Ambigüedad. Estado de confusión, con dificultad para identificar la causa de los eventos,
+o tener múltiples opciones entre las cuales elegir.
+Complejidad. Característica de un programa o proyecto o de su entorno que es difícil de
+gestionar debido al comportamiento humano, el comportamiento del sistema y la ambigüedad.
+Volatilidad. Posibilidad de un cambio rápido e impredecible.
+Riesgo. Evento o condición incierta que, si se produce, tiene un efecto positivo o negativo
+en uno o más de los objetivos de un proyecto.
+
+La incertidumbre en el sentido más amplio es un estado de desconocimiento o imprevisibilidad.
+La incertidumbre tiene muchos matices, tales como:
+► Riesgo asociado con no conocer eventos futuros,
+► Ambigüedad asociada con no ser consciente de las condiciones actuales o futuras, y
+► Complejidad asociada con sistemas dinámicos que tienen resultados impredecibles.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+117
+
+La navegación exitosa por la incertidumbre se inicia comprendiendo el entorno más amplio
+en el que está operando el proyecto. Los aspectos del entorno que contribuyen a la incertidumbre
+del proyecto incluyen, entre otros:
+► Factores económicos tales como la volatilidad de los precios, la disponibilidad de
+recursos, la capacidad para tomar fondos prestados y la inflación/deflación;
+► Consideraciones técnicas tales como tecnología nueva o emergente, complejidad
+asociada con sistemas e interfaces;
+► Limitaciones o requisitos legales o legislativos;
+► Entorno físico en lo que respecta a seguridad, condiciones climáticas y condiciones
+laborales;
+► Ambigüedad asociada con condiciones actuales o futuras;
+► Influencias sociales y de mercado moldeadas por la opinión y los medios; e
+► Influencias políticas, ya sean externas o internas a la organización.
+Este dominio de desempeño aborda los diversos aspectos de la incertidumbre, las
+implicaciones de la incertidumbre tales como el riesgo del proyecto, así como las opciones para
+navegar por las diversas formas de incertidumbre.
+
+118
+
+Guía del PMBOK®
+
+2.8.1 INCERTIDUM BRE GENERAL
+La incertidumbre es inherente a todos los proyectos. Por esta razón, los efectos de cualquier
+actividad no se pueden predecir con precisión, y puede presentarse un rango de resultados . Los
+resultados potenciales que benefician los objetivos del proyecto se conocen como oportunidades;
+los resultados potenciales que tienen un efecto negativo sobre los objetivos se denominan
+amenazas. Juntos, los conjuntos de oportunidades y amenazas forman el conjunto de riesgos
+del proyecto. Existen varias opciones para responder a la incertidumbre:
+► Recopilar información. A veces, la incertidumbre puede reducirse al hallar más
+información, tal como realizar investigaciones, involucrar a expertos, o realizar un análisis
+de mercado. También es importante reconocer cuándo la recopilación y el análisis de
+información adicional exceden el beneficio de obtener esa información adicional.
+► Prepararse para múltiples resultados. En situaciones en las que sólo hay unos pocos
+resultados posibles a partir de un área de incertidumbre, el equipo de proyecto puede
+prepararse para cada uno de esos resultados. Esto supone disponer de una solución
+primaria, así como de planes de reserva o de contingencia en caso de que la solución
+inicial no sea viable o eficaz. Cuando existe un gran conjunto de posibles resultados,
+el equipo de proyecto puede categorizar y evaluar las posibles causas para estimar su
+probabilidad de ocurrencia. Esto permite al equipo de proyecto identificar los resultados
+potenciales más probables en los cuales centrarse.
+► Diseño basado en conjuntos. Se pueden investigar múltiples diseños o alternativas
+al principio del proyecto con el fin de reducir la incertidumbre. Esto permite que el
+equipo de proyecto considere los compromisos como tiempo versus costo, calidad
+versus costo, riesgo versus cronograma, o cronograma versus calidad. La intención es
+explorar las opciones para que el equipo de proyecto pueda aprender trabajando con
+las diversas alternativas. Las alternativas ineficaces o sub-óptimas son descartadas
+a lo largo del proceso.
+► Incorporar resiliencia. La resiliencia es la capacidad de adaptarse y responder
+rápidamente a cambios inesperados. La capacidad de resiliencia se aplica tanto a los
+miembros del equipo de proyecto como a los procesos organizacionales. Si el enfoque
+inicial del diseño de un producto o un prototipo no es eficaz, el equipo de proyecto y la
+organización deben ser capaces de aprender, adaptarse y responder rápidamente.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+119
+
+2.8.2 AMBIGÜEDAD
+Hay dos categorías de ambigüedad: ambigüedad conceptual y ambigüedad situacional.
+La ambigüedad conceptual — la falta de comprensión efectiva— se produce cuando las personas
+utilizan términos o argumentos similares de maneras diferentes. Por ejemplo, la declaración,
+“El cronograma fue reportado a tiempo la semana pasada”, no es clara. No queda claro si el
+cronograma estaba a tiempo la semana pasada o si fue reportado la semana pasada. Además,
+podría haber alguna duda sobre lo que significa “a tiempo”. La ambigüedad de este tipo puede
+reducirse estableciendo formalmente normas y definiciones comunes de los términos, como
+lo que significa “a tiempo”.
+La ambigüedad situacional surge cuando es posible más de un resultado. Tener múltiples
+opciones para resolver un problema es una forma de ambigüedad situacional. Las soluciones para
+la exploración de la ambigüedad incluyen la elaboración progresiva, la experimentación y el uso
+de prototipos.
+► Elaboración progresiva. Este es el proceso iterativo de incrementar el nivel de detalle
+de un plan para la dirección del proyecto a medida que se cuenta con mayor cantidad
+de información y con estimaciones más precisas.
+► Experimentos. Una serie de experimentos bien diseñados puede ayudar a identificar
+las relaciones de causa y efecto o, al menos, puede reducir la cantidad de ambigüedad.
+► Prototipos. Los prototipos pueden ayudar a diferenciar las relaciones entre
+diferentes variables.
+
+2.8.3 COMPLEJIDAD
+La complejidad es una característica de un programa o proyecto o de su entorno, que
+es difícil de gestionar debido al comportamiento humano, el comportamiento del sistema
+o la ambigüedad. La complejidad existe cuando hay muchas influencias interconectadas que
+se comportan e interactúan de diferentes maneras. En entornos complejos, no es raro ver una
+agregación de elementos individuales que conducen a resultados imprevistos o no deseados.
+El efecto de la complejidad es que no hay manera de hacer predicciones precisas sobre la
+probabilidad de cualquier resultado potencial o incluso de saber qué resultados podrían surgir.
+Existen numerosas formas de trabajar con la complejidad; algunas de ellas se basan en sistemas,
+otras implican replanteamientos y otras se basan en procesos.
+
+120
+
+Guía del PMBOK®
+
+2.8.3.1 Basada en sistemas
+Los ejemplos de trabajo con la complejidad basada en sistemas incluyen:
+► Desacople. El desacople implica desconectar partes del sistema para simplificarlo y
+reducir el número de variables conectadas. Determinar cómo funciona una pieza de un
+sistema por sí sola reduce el tamaño general del problema.
+► Simulación. Puede haber escenarios similares, aunque no relacionados, que pueden
+utilizarse para simular componentes de un sistema. En un proyecto para construir un
+nuevo aeropuerto que incluya un área con tiendas y restaurantes se puede aprender
+sobre los hábitos de compra de los consumidores al buscar información análoga sobre
+centros comerciales y establecimientos de entretenimiento.
+
+2.8.3.2 Replanteamiento
+Algunos ejemplos de trabajo con complejidad que implica replanteamiento:
+► Diversidad. Los sistemas complejos requieren apreciar el sistema desde diversas
+perspectivas. Esto puede incluir una tormenta de ideas con el equipo de proyecto a fin
+de abrir maneras divergentes de ver el sistema. También puede incluir procesos similares
+al Delphi para pasar del pensamiento divergente al convergente.
+► Equilibrio. Equilibrar el tipo de datos utilizados en lugar de solo usar datos de pronóstico
+o datos que informan sobre indicadores pasados o rezagados proporciona una perspectiva
+más amplia. Esto puede incluir el uso de elementos cuyas variaciones probablemente
+contrarresten los posibles efectos negativos de cada uno.
+
+2.8.3.3 Basada en procesos
+Los ejemplos de trabajo con la complejidad basada en procesos incluyen:
+► Iterar. Construir de forma iterativa o incremental. Añadir características una a la vez.
+Después de cada iteración identificar lo que funcionó, lo que no funcionó, la reacción
+del cliente y lo que el equipo de proyecto aprendió.
+► Involucrar. Crear oportunidades para obtener la participación de los interesados. Esto
+reduce el número de supuestos y fomenta el aprendizaje y el involucramiento en el proceso.
+► Falla segura. Para los elementos de un sistema que son críticos, se incorpora redundancia
+o elementos que puedan proporcionar una degradación elegante de la funcionalidad en
+caso de falla crítica de componentes.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+121
+
+2.8.4 VOLATILIDAD
+La volatilidad existe en un entorno que está sujeto a un cambio rápido e impredecible.
+La volatilidad puede ocurrir cuando hay fluctuaciones continuas en los conjuntos de habilidades
+o materiales disponibles. La volatilidad generalmente afecta el costo y el cronograma. El análisis
+de alternativas y el uso de la reserva de costos o de cronograma abordan la volatilidad.
+► Análisis de alternativas. Encontrar y evaluar alternativas, tales como buscar diferentes
+maneras de cumplir un objetivo, como usar una mezcla diferente de habilidades, volver
+a secuenciar el trabajo, o subcontratar el trabajo. El análisis de alternativas puede incluir
+la identificación de las variables a considerar en la evaluación de opciones y la importancia
+o el peso relativo de cada variable.
+► Reserva. La reserva de costos puede utilizarse para cubrir los sobrecostos presupuestales
+debido a la volatilidad de los precios. En algunas circunstancias, la reserva del cronograma
+puede utilizarse para hacer frente a los retrasos debidos a la volatilidad asociada con la
+disponibilidad de recursos.
+Navegar eficazmente por la incertidumbre, la ambigüedad, la complejidad y la volatilidad mejora
+la capacidad de anticipar situaciones, tomar buenas decisiones, planificar y resolver problemas.
+
+2.8.5 RIESGO
+Los riesgos constituyen un aspecto de la incertidumbre. Un riesgo es un evento o condición
+incierta que, si se produce, tiene un efecto positivo o negativo en uno o más de los objetivos de
+un proyecto. Los riesgos negativos se denominan amenazas, y los riesgos positivos se denominan
+oportunidades. Todos los proyectos tienen riesgos, ya que son emprendimientos únicos con
+diferentes grados de incertidumbre.
+Los miembros del equipo de proyecto deben identificar proactivamente los riesgos a lo
+largo del proyecto para evitar o minimizar los impactos de las amenazas y activar o maximizar
+los impactos de las oportunidades. Tanto las amenazas como las oportunidades disponen de un
+conjunto de posibles estrategias de respuesta que pueden planificarse para ser implementadas
+en caso de que se presente el riesgo.
+Con el fin de navegar a través del riesgo de manera efectiva, el equipo de proyecto debe
+saber qué nivel de exposición al riesgo es aceptable para lograr los objetivos del proyecto.
+Este es definido mediante umbrales de riesgo medibles que reflejan el apetito al riesgo y la actitud
+de la organización y de los interesados en el proyecto. Los umbrales de riesgo expresan la variación
+aceptable en torno a un objetivo que refleja el apetito al riesgo de la organización y de los interesados.
+Los umbrales de riesgo generalmente son establecidos y comunicados al equipo de proyecto,
+y reflejados en las definiciones de los niveles de impacto de riesgo para el proyecto.
+
+122
+
+Guía del PMBOK®
+
+Riesgo General del Proyecto
+El riesgo general del proyecto es el efecto de la incertidumbre sobre el proyecto en su
+conjunto, proveniente de todas las fuentes de incertidumbre. Esto incluye los riesgos
+individuales y la exposición a las implicancias de la variación en el resultado del proyecto,
+tanto positivas como negativas. El riesgo general a menudo depende de la complejidad, la
+ambigüedad y la volatilidad. Las respuestas al riesgo general del proyecto son las mismas que
+para las amenazas y oportunidades individuales, aunque las respuestas se aplican al proyecto
+en general en lugar de a un evento específico. Si el riesgo general en el proyecto es demasiado
+alto, la organización puede optar por cancelar el mismo.
+
+2.8.5.1 Amenazas
+Una amenaza es un evento o condición que si se produce, tiene un impacto negativo en uno
+o más de los objetivos. Se pueden considerar cinco estrategias alternativas para hacer frente a las
+amenazas, de la siguiente manera:
+► Evitar. Evitar la amenaza es cuando el equipo de proyecto actúa para eliminar la amenaza
+o proteger al proyecto de su impacto.
+► Escalar. El escalamiento es apropiado cuando el equipo de proyecto o el patrocinador
+del proyecto está de acuerdo en que una amenaza se encuentra fuera del alcance del
+proyecto o que la respuesta propuesta excedería la autoridad del director del proyecto.
+► Transferir. La transferencia implica el cambio de titularidad de una amenaza a un tercero
+para que maneje el riesgo y para que soporte el impacto si se produce la amenaza.
+► Mitigar. En la mitigación de amenazas se toman medidas para reducir la probabilidad
+de ocurrencia y/o el impacto de una amenaza. Las acciones de mitigación tempranas son
+a menudo más efectivas que tratar de reparar el daño después de que se ha producido
+la amenaza.
+► Aceptar. La aceptación de amenazas reconoce la existencia de una amenaza, pero
+no se planifican medidas proactivas. La aceptación activa de un riesgo puede incluir el
+desarrollo de un plan de contingencia que se activaría si se produjera el evento; o puede
+incluir la aceptación pasiva, lo que significa no hacer nada.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+123
+
+Una respuesta a una amenaza específica podría incluir múltiples estrategias. Por ejemplo,
+si la amenaza no puede evitarse, puede mitigarse hasta un nivel en el que sea viable transferirla
+o aceptarla.
+El objetivo de implementar respuestas a amenazas es reducir la cantidad de riesgo negativo.
+Los riesgos que se aceptan a veces se reducen simplemente con el paso del tiempo o porque el
+evento de riesgo no se presenta. El Gráfico 2-33 muestra cómo se monitorean y reducen los riesgos
+a lo largo del tiempo.
+
+Ene
+ID Título breve del Riesgo
+
+Feb
+
+Mar
+
+Abr
+
+Impacto Probabilidad Gravedad Impacto Probabilidad Gravedad Impacto Probabilidad Gravedad Impacto Probabilidad Gravedad
+
+1
+
+Permisos obtenidos
+
+3
+
+3
+
+9
+
+3
+
+2
+
+6
+
+3
+
+0
+
+0
+
+3
+
+0
+
+0
+
+2
+
+2
+
+2
+
+4
+
+2
+
+0
+
+0
+
+2
+
+0
+
+0
+
+2
+
+0
+
+0
+
+3
+
+2
+
+6
+
+3
+
+1
+
+3
+
+2
+
+1
+
+2
+
+3
+
+0
+
+0
+
+4
+
+El sitio no está listo a tiempo
+Descongelación temprana
+de carreteras
+Reserva de producción
+
+2
+
+2
+
+4
+
+2
+
+3
+
+6
+
+2
+
+2
+
+4
+
+2
+
+1
+
+2
+
+5
+
+Capacidad de bombeo
+
+3
+
+1
+
+3
+
+3
+
+2
+
+6
+
+3
+
+3
+
+9
+
+3
+
+3
+
+9
+
+3
+
+Perfil de Amenaza
+30
+
+Riesgo Acumulado
+
+25
+Permisos obtenidos
+El sitio no está listo
+a tiempo
+
+20
+
+Descongelación
+temprana de carreteras
+Reserva de producción
+Capacidad de bombeo
+
+15
+10
+5
+0
+Ene
+
+Feb
+
+Mar
+
+Abr
+
+Gráfico 2-33. Reducción del Riesgo con el Tiempo
+
+124
+
+Guía del PMBOK®
+
+2.8.5.2 Oportunidades
+Una oportunidad es un evento o condición que, si se produce, tiene un impacto positivo
+sobre uno o más de los objetivos de un proyecto. Un ejemplo de una oportunidad podría ser un
+subcontratista basado en tiempo y materiales que finaliza el trabajo temprano, lo que resulta en
+menores costos y ahorros en el cronograma.
+Se pueden considerar cinco estrategias alternativas para hacer frente a las oportunidades,
+de la siguiente manera:
+► Explotar. Estrategia de respuesta según la cual el equipo de proyecto actúa para
+garantizar la ocurrencia de una oportunidad.
+► Escalar. Como en el caso de las amenazas, esta estrategia de respuesta a las
+oportunidades es utilizada cuando el equipo de proyecto o el patrocinador del proyecto
+están de acuerdo en que una oportunidad se encuentra fuera del alcance del proyecto
+o que la respuesta propuesta excedería la autoridad del director del proyecto.
+► Compartir. Compartir oportunidades implica asignar la responsabilidad de una
+oportunidad a un tercero que está en las mejores condiciones para capturar el beneficio
+de esa oportunidad.
+► Mejorar. En la mejora de la oportunidad, el equipo de proyecto actúa para incrementar la
+probabilidad de ocurrencia o impacto de una oportunidad. Las acciones de mejoramiento
+tempranas son a menudo más efectivas que tratar de mejorar el beneficio después de
+que se ha producido la oportunidad.
+► Aceptar. Como con las amenazas, la aceptación de una oportunidad reconoce su
+existencia, pero no se planifican medidas proactivas.
+Una vez que se ha desarrollado un conjunto de respuestas al riesgo, el mismo debe revisarse
+para ver si las respuestas planificadas han agregado riesgos secundarios. La revisión también debería
+evaluar el riesgo residual que permanecerá una vez que se hayan llevado a cabo las acciones de
+respuesta. La planificación de la respuesta debe repetirse hasta que el riesgo residual sea compatible
+con el apetito al riesgo de la organización.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+125
+
+Tener una visión económica de la priorización del trabajo permite al equipo priorizar las
+actividades de prevención y reducción de amenazas.
+Comparar el valor monetario esperado (EMV) de un riesgo con el retorno de la inversión
+(ROI) anticipado de un entregable o característica permite al director del proyecto sostener
+conversaciones con patrocinadores o dueños de producto sobre dónde y cuándo incorporar
+las respuestas al riesgo en el trabajo planificado (véase el Gráfico 2-34).
+
+ROI
+
+20 %
+
+Impacto
+del Riesgo
+
+0%
+-5 %
+
+Mejor
+Caso
+
+EMV del
+Impacto
+
+Peor
+Caso
+
+Gráfico 2-34. Curva de ROI Ajustado al Riesgo
+
+126
+
+Guía del PMBOK®
+
+2.8.5.3 Reserva para Contingencias y de Gestión
+La reserva es una cantidad de tiempo o presupuesto reservada para tener en cuenta
+el manejo de riesgos. La reserva para contingencias se aparta para hacer frente a los riesgos
+identificados en caso de que se presenten. La reserva de gestión es una categoría de presupuesto
+utilizada para eventos desconocidos, tales como el trabajo no planificado dentro del alcance.
+
+2.8.5.4 Revisión del Riesgo
+Establecer un ritmo o cadencia frecuente de las sesiones de revisión y retroalimentación
+de una amplia selección de interesados resulta útil para navegar por el riesgo del proyecto y ser
+proactivo con las respuestas a los riesgos.
+Las reuniones diarias de pie se pueden utilizar en cualquier proyecto y son una fuente para
+identificar posibles amenazas y oportunidades. Los informes de bloqueadores o impedimentos
+podrían convertirse en amenazas si continúan retrasando el progreso. Del mismo modo, los informes
+de progreso y avances podrían apuntar hacia oportunidades a ser aprovechadas y compartidas.
+Las demostraciones frecuentes de incrementos del producto o servicio, los diseños provisionales
+o las pruebas de conceptos pueden revelar amenazas y oportunidades. La retroalimentación negativa
+de las demostraciones o revisiones de diseño puede ser un indicador temprano de amenazas
+relacionadas con la insatisfacción de los interesados si no se corrige. La retroalimentación positiva
+ayuda a informar al equipo de proyecto sobre las áreas de desarrollo altamente valoradas por
+los representantes del negocio.
+Abordar el riesgo en las reuniones semanales de estatus asegura que la gestión de riesgos
+siga siendo relevante. Estas reuniones pueden utilizarse para identificar nuevos riesgos, así como
+para identificar cambios a los riesgos existentes.
+Las retrospectivas y las reuniones de lecciones aprendidas se pueden utilizar para identificar
+amenazas al desempeño, a la cohesión del equipo de proyecto, etc., y para buscar mejoras. También
+pueden ayudar a identificar prácticas para probar diferentes maneras de explotar y mejorar
+las oportunidades.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+127
+
+2.8.6 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+El Dominio de Desempeño de la Incertidumbre interactúa con los Dominios de Desempeño
+de la Planificación, del Trabajo del Proyecto, de la Entrega y de la Medición desde la perspectiva del
+producto o entregable. A medida que se lleva a cabo la planificación, las actividades para reducir la
+incertidumbre y los riesgos pueden incorporarse en los planes. Estas se llevan a cabo en el Dominio
+de Desempeño de la Entrega. Las mediciones pueden indicar si el nivel de riesgo está cambiando
+con el tiempo.
+Los miembros del equipo de proyecto y otros interesados son las principales fuentes de
+información sobre la incertidumbre. Pueden proporcionar información, sugerencias y asistencia
+para trabajar con todas las diversas formas de incertidumbre.
+La elección del ciclo de vida y del enfoque de desarrollo influye en la forma en que se
+abordará la incertidumbre. En un proyecto predictivo donde el alcance es relativamente estable,
+las reservas en el cronograma y el presupuesto pueden utilizarse para responder a los riesgos.
+En un proyecto que utiliza un enfoque adaptativo donde es probable que los requisitos evolucionen
+y donde puede haber ambigüedad sobre cómo interactuarán los sistemas o cómo reaccionarán
+los interesados, el equipo de proyecto puede ajustar los planes para reflejar la evolución de la
+comprensión o utilizar las reservas para compensar los impactos de los riesgos materializados.
+
+128
+
+Guía del PMBOK®
+
+2.8.7 VE RIFICA CIÓ N DE RESULTADOS
+La Tabla 2-10 identifica los resultados a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-10. Verificación de Resultados — Dominio de Desempeño de la Incertidumbre
+
+Resultado
+
+Verificar
+
+Concientización del entorno en el
+que se producen los proyectos,
+incluidos, entre otros, los entornos
+técnico, social, político, de mercado
+y económico
+
+El equipo incorpora consideraciones ambientales al evaluar la incertidumbre,
+los riesgos y las respuestas.
+
+Exploración proactiva y respuesta a
+la incertidumbre
+
+Las respuestas a los riesgos están alineadas con la priorización de las
+limitaciones del proyecto, como el presupuesto, el cronograma y el desempeño.
+
+Concientización de la
+interdependencia de múltiples
+variables en el proyecto
+
+Las acciones para abordar la complejidad, ambigüedad y volatilidad son
+apropiadas para el proyecto.
+
+La capacidad de anticipar amenazas
+y oportunidades y comprender las
+consecuencias de los incidentes
+
+Los sistemas para identificar, capturar y responder al riesgo tienen la robustez
+adecuada.
+
+Entrega de proyectos con poco o
+ningún impacto negativo procedente
+de eventos o condiciones imprevistas.
+
+Se cumplen las fechas de entrega programadas y la ejecución del
+presupuesto está dentro del umbral de variación.
+
+Oportunidades materializadas para
+mejorar el desempeño y los
+resultados del proyecto
+
+Los equipos utilizan mecanismos establecidos para identificar y aprovechar
+las oportunidades.
+
+Las reservas de costos y
+cronograma se utilizan de manera
+efectiva para mantener la alineación
+con los objetivos del proyecto
+
+Los equipos toman medidas para prevenir de forma proactiva las amenazas,
+limitando así el uso de la reserva de costos o cronograma.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+129
+
+3
+Adaptación
+3.1 DESCRIPCIÓN GENER AL
+La adaptación consiste en la adecuación deliberada del enfoque, la gobernanza y los
+procesos de la dirección de proyectos para que resulten más adecuados para el entorno y el
+trabajo en cuestión.
+En el entorno de un proyecto, la adaptación toma en cuenta el enfoque de desarrollo, los
+procesos, el ciclo de vida del proyecto, los entregables y la selección de las personas a involucrar.
+El proceso de adaptación se basa en los principios rectores de la dirección de proyectos en
+El Estándar para la Dirección de Proyectos[1], los valores organizacionales y la cultura organizacional.
+Por ejemplo, si un valor organizacional fundamental es “enfoque en el cliente”, entonces las
+actividades seleccionadas para la obtención de requisitos y la validación del alcance favorecen
+los enfoques centrados en el cliente. Esto se alinea con el principio “Involucrar eficazmente a los
+interesados”. Asimismo, una organización con un bajo apetito por el riesgo puede disponer de
+muchos procesos y procedimientos para guiar los proyectos a lo largo de su ciclo de vida. Una
+empresa similar que opere en el mismo mercado —pero con una alta tolerancia al riesgo— puede
+tener menos procesos y procedimientos. En ambos ejemplos, las organizaciones están alineadas
+con el principio de “optimizar las respuestas a los riesgos” aunque su apetito, procesos
+y procedimientos sean diferentes.
+La adaptación implica la selección y el ajuste consciente de múltiples factores del proyecto,
+independientemente de que se utilice la etiqueta de “adaptación”.
+
+131
+
+La alternativa a la adaptación es utilizar un marco de referencia o metodología no
+modificados. Hay muchas metodologías disponibles que proporcionan descripciones de
+procesos, fases, métodos, artefactos y plantillas a ser utilizadas en los proyectos. Estas
+metodologías y sus componentes no están adaptadas al contexto de la organización.
+La mayoría de estas metodologías exhiben instrucciones claras en las que se indica que no
+deben aplicarse rigurosamente, sino que deben ser objeto de un proceso de adaptación para
+determinar qué elementos son más útiles según el tipo, tamaño y complejidad particulares
+del proyecto. Algunos profesionales sin experiencia tratan de aplicar la metodología al pie de
+la letra sin tener en cuenta el tamaño, la complejidad, la duración o el contexto organizacional
+del proyecto.
+
+La adaptación implica la comprensión del contexto, las metas y el entorno operativo del
+proyecto. Los proyectos operan en entornos complejos que necesitan equilibrar demandas
+potencialmente competitivas que incluyen, entre otros:
+► Entregar lo más rápido posible,
+► Minimizar los costos del proyecto,
+► Optimizar el valor entregado,
+► Crear productos y resultados de alta calidad,
+► Permitir el cumplimiento de los estándares regulatorios,
+► Satisfacer las diversas expectativas de los interesados, y
+► Adaptarse al cambio.
+
+132
+
+Guía del PMBOK®
+
+Es necesario comprender, evaluar y equilibrar estos factores para crear un entorno operativo
+y práctico para el proyecto.
+Pueden presentarse situaciones que limiten el grado en que los equipos del proyecto pueden
+adaptar su enfoque, por ejemplo, cuando las políticas de la organización impongan el uso de un
+enfoque específico o un contrato especifique un enfoque obligatorio.
+
+3.2 ¿POR QUÉ ADAPTAR?
+La adaptación se lleva a cabo para ajustarse mejor a la organización, el entorno operativo
+y las necesidades del proyecto. Son muchas las variables que intervienen en el proceso de
+adaptación, entre ellas la criticidad del proyecto y el número de interesados que participan en
+el mismo. Utilizando estas variables como ejemplo, es evidente que el rigor, los mecanismos de
+control y equilibrio, y la presentación de informes requeridos para un proyecto crítico (por ejemplo,
+la construcción de un reactor nuclear) son mucho mayores que los requeridos para la construcción
+de un edificio de oficinas nuevo.
+Asimismo, la comunicación y la coordinación de los trabajos necesarios para un equipo de
+proyecto de 10 personas no son suficientes para un equipo de proyecto de 200 personas. Muy pocos
+procesos pueden omitir actividades clave que apoyen la dirección eficaz de los proyectos, mientras
+que el empleo de más procesos de los necesarios resulta costoso y un despilfarro. Así pues, la
+adaptación facilita la gestión adecuada del entorno operativo y de las necesidades del proyecto.
+La estructura utilizada para entregar los proyectos puede ser extensa o mínima, rigurosa o
+liviana, robusta o sencilla. No existe un enfoque único que pueda ser aplicado a todos los proyectos
+todo el tiempo. En cambio, la adaptación debería reflejar el tamaño, la duración y la complejidad de
+cada proyecto individual y debería adaptarse a la industria , la cultura de la organización y el nivel
+de madurez de la dirección de proyectos de la organización.
+La adaptación produce beneficios directos e indirectos a las organizaciones. Estos Incluyen,
+entre otros:
+► Más compromiso por parte de los miembros del equipo del proyecto que ayudaron
+a adaptar el enfoque,
+► Enfoque orientado al cliente, ya que las necesidades del cliente son un importante
+factor de influencia en su desarrollo, y
+► Uso más eficiente de los recursos del proyecto.
+
+Sección 3 – Adaptación
+
+133
+
+3.3 QUÉ ADAPTAR
+Los aspectos del proyecto que pueden ser adaptados incluyen:
+► Selección del ciclo de vida y del enfoque de desarrollo,
+► Procesos,
+► Involucramiento,
+► Herramientas, y
+► Métodos y artefactos.
+Las secciones 3.3.1 a 3.3.4 exploran con más detalle cada uno de ellos.
+
+3.3.1 SELECCIÓN DEL CICLO DE VIDA Y DEL ENFOQUE DE DESARROLLO
+Decidir sobre un ciclo de vida y las fases del mismo es un ejemplo de adaptación. Se pueden
+hacer adaptaciones adicionales al seleccionar el enfoque de desarrollo y entrega del proyecto.
+Algunos proyectos de gran envergadura pueden utilizar una combinación de enfoques de
+desarrollo y entrega simultáneamente. Por ejemplo, la construcción de un nuevo centro de datos
+podría implicar: (a) el uso de enfoques predictivos para la construcción y el acabado de edificios
+físicos y (b) un enfoque iterativo para comprender y establecer las capacidades informáticas
+necesarias. Visto desde el nivel de proyecto, esta combinación de enfoques representa un
+enfoque híbrido, pero el equipo de construcción y el equipo de computación podría experimentar
+únicamente un enfoque de desarrollo predictivo o iterativo.
+
+134
+
+Guía del PMBOK®
+
+3.3.2 PROCESOS
+La adaptación del proceso al ciclo de vida y al enfoque de desarrollo seleccionados incluye
+la determinación de las porciones o elementos que deben ser:
+► Agregados, para aportar el rigor, la cobertura o lidiar con las condiciones únicas
+del producto o del entorno operativo, etc. (por ejemplo, añadiendo inspecciones
+independientes para proyectos críticos de seguridad);
+► Modificados, para adaptarse mejor a los requisitos del proyecto o del equipo de proyecto
+(por ejemplo, modificar el formato de los documentos del proyecto adaptándolos para
+miembros del equipo de proyecto con limitaciones de visión);
+► Eliminados, para reducir el costo o el esfuerzo, puesto que ya no son necesarios o no
+son económicos por el valor que añaden (por ejemplo, eliminar la creación de actas de
+reuniones para un equipo de proyecto pequeño y coubicado con buenas comunicaciones);
+► Combinados, para aportar beneficios o valor adicionales mediante la mezcla o
+combinación de elementos (por ejemplo, añadir métodos de indagación apreciativa
+de la gestión organizativa a las reuniones de lecciones aprendidas de la dirección de
+proyectos predictiva para ayudar a fomentar una mejor colaboración); y
+► Alineados, para armonizar los elementos a fin de que haya una definición, comprensión
+y aplicación coherentes (por ejemplo, muchas disciplinas tienen estándares y prácticas
+relacionadas con la gestión de riesgos que son suficientemente diferentes entre sí y que
+tendrían que ser alineados). Por ejemplo, en los equipos de proyectos multidisciplinarios,
+las diferentes disciplinas pueden poseer elementos específicos, como su propio lenguaje,
+herramientas y prácticas relacionadas con la misma área de interés.
+
+Sección 3 – Adaptación
+
+135
+
+3.3.3 INVOLUCRAMIE NTO
+La adaptación del involucramiento para las personas involucradas en el proyecto incluye:
+► Personas. Esto supone evaluar las aptitudes y capacidades de la dirección del proyecto
+y del equipo del proyecto, y luego seleccionar quiénes deben participar y en qué
+capacidades, basado en el tipo de proyecto y las condiciones operativas. Por ejemplo,
+en un proyecto difícil o con limitaciones de tiempo, la asignación de miembros muy
+experimentados del equipo de proyecto es más lógica que la utilización de miembros
+inexpertos del equipo de proyecto.
+► Empoderamiento. El empoderamiento implica escoger qué responsabilidades y
+formas de toma de decisiones locales deben ser transferidas al equipo del proyecto.
+Algunos entornos y capacidades de los miembros del equipo apoyan altos niveles de
+empoderamiento. En otras situaciones, podría ser preferible un menor empoderamiento
+con más supervisión y dirección.
+► Integración. Los equipos de proyecto pueden incluir colaboradores de entidades
+contratadas, socios comerciales y otras entidades externas, además de personal de la
+organización patrocinadora. En la adaptación se toma en cuenta la forma de crear un
+equipo del proyecto a partir de un conjunto diverso de colaboradores a fin de facilitar un
+rendimiento óptimo del equipo del proyecto y la obtención de los resultados del mismo.
+
+3.3.4 HERRAMIENTAS
+La selección de las herramientas (por ejemplo, software o equipamiento) que el equipo
+del proyecto utilizará para el mismo es una forma de adaptación. A menudo, el equipo del
+proyecto posee la mejor comprensión de las herramientas más adecuadas para la situación,
+pero esas opciones podrían necesitar ser moderadas en función de los costos asociados. Además,
+los líderes de las organizaciones pueden imponer restricciones que el equipo del proyecto no
+puede modificar.
+
+3.3.5 MÉTODOS Y ARTEFACTOS
+La adaptación de los medios que se utilizarán para lograr los resultados del proyecto se
+realiza de manera que los métodos sean adecuados para el entorno y la cultura. La adaptación
+de los documentos, plantillas y otros artefactos que se utilizarán en el proyecto ayuda a asegurar
+que los artefactos sean apropiados para el proyecto y la organización. La Sección 4 contiene
+numerosos ejemplos de métodos y artefactos que pueden ser considerados al adaptar los
+métodos y artefactos.
+
+136
+
+Guía del PMBOK®
+
+3.4 EL PROCESO DE AD APT ACIÓN
+Como se señala en la Sección 2.5 de El Estándar para la Dirección de Proyectos [1], los proyectos
+existen en entornos que pueden influenciarlos. Es necesario analizar y comprender el entorno del
+proyecto antes de la adaptación. La adaptación suele comenzar con la selección de un enfoque de
+desarrollo y ejecución, adaptándolo a la organización, adaptándolo al proyecto y luego aplicando
+su mejora continua. Estos pasos del proceso se muestran en el Gráfico 3-1 y se describen con más
+detalle en las secciones 3.4.1 a 3.4.4 de esta guía.
+
+Escoger
+el enfoque de
+desarrollo que
+mejor se adapte
+a la empresa
+1) Seleccionar
+el enfoque de
+desarrollo inicial
+
+2) Adaptar para
+la organización
+Cambiar
+en base a las
+modificaciones
+organizacionales
+
+Ajustar en base
+al tamaño,
+la criticidad
+y otros factores
+
+4) Implementar
+la Mejora
+Continua
+Inspeccionar
+y adaptar
+
+3) Adaptar
+para el proyecto
+
+Gráfico 3-1. Detalles de los Pasos en el Proceso de Adaptación
+
+Sección 3 – Adaptación
+
+137
+
+3.4.1 SELECCIONAR EL ENFOQUE DE DESARROLLO INICIAL
+Este paso determina el enfoque de desarrollo que se utilizará para el proyecto. Los equipos
+de proyecto aplican sus conocimientos del producto, la cadencia de entrega y el conocimiento de
+las opciones disponibles para seleccionar el enfoque de desarrollo más apropiado para la situación.
+La selección del enfoque inicial se representa en el Gráfico 3-2.
+
+Gráfico 3-2. Selección del Enfoque de Desarrollo Inicial
+
+Una herramienta de filtro de idoneidad ayuda a los equipos de proyecto a considerar si
+un proyecto tiene características que se presten a un enfoque predictivo, híbrido o adaptativo.
+El filtro de idoneidad es un instrumento informativo que combina su evaluación con otros datos y
+actividades de toma de decisiones, de modo que el enfoque adaptado resulte apropiado para cada
+proyecto. Al evaluar los criterios basados en la cultura, el equipo del proyecto y los factores del
+proyecto, un filtro de idoneidad genera un diagnóstico visual que puede ser útil para discutir
+y decidir sobre el enfoque inicial.
+
+138
+
+Guía del PMBOK®
+
+3.4.2 ADAPTAR PARA LA ORGANIZACIÓN
+Si bien los equipos de proyecto son propietarios de sus procesos y los mejoran, las
+organizaciones a menudo requieren cierto nivel de aprobación y supervisión. Muchas organizaciones
+poseen una metodología de proyectos, un enfoque de gestión general o un enfoque de desarrollo
+general que se utiliza como punto de partida para sus proyectos. Estas guías tienen como propósito
+apoyar cosas tales como procesos repetibles, medidas coherentes de las capacidades de los
+proyectos de la organización y la mejora continua de esas capacidades. Las organizaciones que han
+establecido la gobernanza de los procesos deben asegurarse de que la adaptación se ajuste a las
+políticas. Para demostrar que las decisiones sobre adaptación del equipo del proyecto no amenazan
+los objetivos estratégicos o de gestión más amplios de la organización, es posible que los equipos
+del proyecto tengan que justificar el uso de un enfoque adaptado.
+Otras limitaciones para la adaptación de la organización son los grandes proyectos críticos
+para la seguridad y los proyectos realizados bajo contrato. Las sugerencias sobre adaptación
+de proyectos grandes y críticos para la seguridad pueden requerir una supervisión y aprobación
+adicional para ayudar a prevenir errores, pérdidas o incidentes posteriores. Los proyectos que
+se ejecutan bajo contrato pueden exhibir condiciones contractuales que especifiquen la utilización
+de un ciclo de vida, un enfoque de entrega o una metodología determinados.
+El proceso de adaptación que se muestra en el Gráfico 3-3 utiliza factores como el tamaño
+del proyecto, la criticidad, la madurez organizativa y otras consideraciones.
+
+Gráfico 3-3. Adaptación del Enfoque a la Organización
+
+Sección 3 – Adaptación
+
+139
+
+La adaptación a la organización implica añadir, eliminar y reconfigurar elementos del enfoque
+para hacerlo más adecuado para la organización individual. El Gráfico 3-4 muestra este proceso.
+
+Una Metodología
+General para
+la Dirección
+de Proyectos
+
+Metodología de
+la Organización
+para Proyectos
+Pequeños
+
+Adaptación
+a Nivel de
+la Organización
+
+Factores
+Ambientales
+
+Un Enfoque
+General de
+Desarrollo
+
+Metodología de
+la Organización
+para Proyectos
+Grandes/Sensibles
+
+Guías
+Generales
+
+Modelos,
+Métodos
+y
+Artefactos
+
+Adaptación a Nivel
+del Proyecto
+
+Metodología para
+Proyecto A
+
+Metodología para
+Proyecto B
+
+Metodología para
+Proyecto C
+
+Metodología para
+Proyecto D
+
+Metodología para
+Proyecto E
+
+Gráfico 3-4. Evaluación de los Factores de la Organización y del Proyecto al Adaptar
+
+Las organizaciones que cuentan con una oficina de dirección de proyectos (PMO) o una
+oficina de entrega de valor (VDO) pueden desempeñar un papel en la revisión y la aprobación
+de enfoques de entrega adaptados.
+Las adaptaciones que sólo afectan al equipo del proyecto (por ejemplo, cuando celebran
+reuniones internas, quién trabaja dónde, etc.) requieren menos supervisión que las adaptaciones
+que afectan a grupos externos (por ejemplo, cómo y cuándo participan otros departamentos, etc.).
+Por lo tanto, la adaptación interna del proyecto podría ser aprobada por el director del proyecto,
+mientras que la adaptación de los cambios que afectan a grupos externos podría requerir
+la aprobación de la PMO o la VDO. La PMO o la VDO pueden ayudar a los equipos del proyecto
+a adaptar sus enfoques aportando ideas y soluciones de otros equipos del proyecto.
+
+140
+
+Guía del PMBOK®
+
+La VDO puede encontrarse en organizaciones que utilizan enfoques de entrega más
+adaptables. La VDO cumple un rol habilitador, más que una función de gestión o supervisión.
+Se centra en el coaching de los equipos del proyecto, la creación de aptitudes y capacidades
+de adaptación en toda la organización y el asesoramiento a los patrocinadores y dueños de
+los productos para que sean más efectivos en esas funciones.
+
+3.4.3 ADAPTAR PARA EL PROYECTO
+Muchos atributos influyen en la adaptación para el proyecto. Estos Incluyen, entre otros:
+► Producto/entregable,
+► Equipo de proyecto, y
+► Cultura.
+El equipo de proyecto debería hacer preguntas sobre cada atributo a fin de ayudar a guiarlos
+en el proceso de adaptación. Las respuestas a estas preguntas pueden ayudar a identificar
+la necesidad de adaptar los procesos, el enfoque de entrega, el ciclo de vida, las herramientas,
+los métodos y los artefactos.
+
+Sección 3 – Adaptación
+
+141
+
+3.4.3.1 Producto/Entregable
+Los atributos asociados con el producto o entregable incluyen, entre otros:
+► Cumplimiento/criticidad. ¿Qué grado de rigor y aseguramiento de calidad de los
+procesos es apropiado?
+► Tipo de producto/entregable. ¿Es el producto bien conocido y tangible, por ejemplo,
+algo fácil de reconocer y describir como un edificio? ¿O algo intangible como el software
+o el diseño de un nuevo medicamento?
+► Mercado de la Industria. ¿Qué mercado atiende el , producto o el entregable del
+proyecto? ¿Ese mercado está altamente regulado, se mueve rápidamente o evoluciona en
+forma lenta? ¿Qué pasa con los competidores y las empresas establecidas (incumbentes)?
+► Tecnología. ¿Es la tecnología estable y bien establecida, o está en rápida evolución
+y en riesgo de obsolescencia?
+► Periodo de tiempo. ¿El periodo de tiempo del proyecto es corto como en semanas
+o meses, o prolongado como en varios años?
+► Estabilidad de los requisitos. ¿Qué probabilidades hay de que se produzcan cambios
+en los requisitos básicos?
+► Seguridad. ¿Son confidenciales o clasificados los elementos del negocio del producto?
+► Entrega incremental. ¿Es esto algo que el equipo del proyecto puede desarrollar y
+obtener la opinión de los interesados de manera incremental, o algo que resulta difícil
+de evaluar hasta que esté casi terminado?
+
+3.4.3.2 Equipo del Proyecto
+Las consideraciones sobre el equipo del proyecto incluyen:
+► Tamaño del equipo del proyecto. ¿Cuántas personas a tiempo completo y a tiempo
+parcial trabajarán en el proyecto?
+► Geografía del equipo del proyecto. ¿Dónde están ubicados geográficamente los
+miembros del equipo de forma predominante? ¿Algunos o todo el equipo estará remoto
+o coubicado?
+► Distribución organizacional. ¿Dónde se encuentran los grupos de apoyo para el equipo
+y otros interesados?
+► Experiencia del equipo del proyecto. ¿Tienen los miembros del equipo del proyecto
+alguna experiencia en la industria, en la organización o en el trabajo conjunto? ¿Tienen los
+conocimientos, las herramientas y la tecnología requeridos para el proyecto que se está
+considerando?
+► Acceso al cliente. ¿Resulta práctico obtener información frecuente y oportuna de los
+clientes o representantes de los clientes?
+
+142
+
+Guía del PMBOK®
+
+3.4.3.3 Cultura
+La evaluación de la cultura incluye consideraciones relativas a:
+► Aceptación ¿Hay aprobación, apoyo y entusiasmo por el enfoque de entrega propuesto?
+► Confianza. ¿Existen altos niveles de confianza en que el equipo del proyecto tiene
+la capacidad y está comprometido con la entrega de los resultados del proyecto?
+► Empoderamiento. ¿Se confía, apoya y alienta al equipo del proyecto para que haga
+propio y desarrolle su entorno de trabajo, sus acuerdos y sus decisiones?
+► Cultura organizacional. ¿Están alineados los valores y la cultura organizacional con
+el enfoque del proyecto? Esto incluye empoderar versus especificar y comprobar, confiar
+en la toma de decisiones locales versus solicitar la toma de decisiones externas, etc.
+Mediante la evaluación de estos atributos, se pueden tomar decisiones de adaptación del
+involucramiento, del proceso y de las herramientas para el proyecto. Estas eliminaciones y adiciones
+se representan en el Gráfico 3-5 con una “X” para las eliminaciones y recuadros punteados para la
+adición de procesos de prueba
+
+Gráfico 3-5. Adaptación del Enfoque para el Proyecto
+
+Sección 3 – Adaptación
+
+143
+
+3.4.3.4 Implementar la Mejora Continua
+El proceso de adaptación no es un ejercicio único, a realizarse una sola vez. Durante la
+elaboración progresiva, los incidentes relativos a la forma en que trabaja el equipo del proyecto,
+la evolución del producto o del entregable y otras enseñanzas indicarán en qué aspectos una
+mayor adaptación podría aportar mejoras. Los puntos de revisión, las revisiones de fase y las
+retrospectivas ofrecen la oportunidad de inspeccionar y adaptar el proceso, el enfoque de
+desarrollo y la frecuencia de entrega, según sea necesario.
+Mantener al equipo del proyecto involucrado con la mejora de su proceso puede
+fomentar el sentido de pertenencia y demostrar el compromiso de aplicar mejoras y calidad
+continuamente. El involucramiento del equipo del proyecto en la búsqueda y aplicación
+de mejoras también demuestra la confianza en sus aptitudes y sugerencias, junto con
+empoderamiento. El involucramiento del equipo del proyecto con la adaptación demuestra
+una mentalidad de innovación y mejora en lugar de conformarse con el “statu quo”.
+El concepto de añadir, eliminar y cambiar procesos se muestra en el Gráfico 3-6.
+
+Gráfico 3-6. Implementar la Mejora Continua
+
+El modo en que las organizaciones se adaptan puede a su vez ser adaptado. Sin embargo,
+la mayoría de las organizaciones emprenden algunos o todos los cuatro pasos descritos. Utilizan
+elementos de selección de un enfoque inicial, de adaptación a la organización, de adaptación al
+proyecto y de implementación de la mejora continua, como se muestra en el Gráfico 3-7.
+
+144
+
+Guía del PMBOK®
+
+Pasos para la Adaptación
+
+1) Seleccionar Enfoque
+
+2) Adaptar para
+la Organización
+
+3) Adaptar para el Proyecto
+
+4) Implementar
+la Mejora Continua
+
+Gráfico 3-7. El Proceso de Adaptación
+
+3.5 AD APT ACIÓN DE LOS DOMINIOS DE DESEM PEÑO
+El trabajo asociado con cada dominio de desempeño también puede adaptarse, en función
+de la singularidad del proyecto. Como se muestra en el Gráfico 3-8, los principios para la dirección
+de proyectos proporcionan una guía para el comportamiento de los profesionales de proyectos,
+a medida que adaptan los dominios de desempeño para satisfacer las necesidades únicas del
+contexto y el entorno del proyecto.
+
+Sección 3 – Adaptación
+
+145
+
+Principios de la Dirección de Proyectos
+Ser un administrador
+diligente, respetuoso
+y cuidadoso
+
+Crear un entorno
+colaborativo del equipo
+
+Involucrarse eficazmente
+con los interesados
+
+Enfocarse en el valor
+
+Reconocer, evaluar
+y responder a las
+interacciones del sistema
+
+Demostrar conductas
+de liderazgo
+
+Adaptar con base
+en el contexto
+
+Incorporar la calidad
+en los procesos
+y los entregables
+
+Navegar en la complejidad
+
+Optimizar las respuestas
+a los riesgos
+
+Adoptar la adaptabilidad
+y la resiliencia
+
+Permitir el cambio para lograr
+el estado futuro previsto
+
+Guiar el
+comportamiento
+
+Interesados
+Incertidumbre
+
+Medición
+
+Equipo
+
+Dominios
+de Desempeño
+del Proyecto
+
+Entrega
+
+Enfoque
+de Desarrollo
+y Ciclo de Vida
+
+Planificación
+Trabajo
+del Proyecto
+
+Adaptar para Ajustarse al Contexto del Proyecto
+Gráfico 3-8. Adaptación para Ajustarse al Contexto del Proyecto
+
+Algunas consideraciones sobre adaptación relacionadas con cada uno de los dominios
+de desempeño incluyen, entre otras, las siguientes:
+
+146
+
+Guía del PMBOK®
+
+3.5.1 INTERESADOS
+► ¿Existe un entorno de colaboración entre interesados y proveedores?
+► ¿Los interesados son internos o externos a la organización, o ambas cosas?
+► ¿Qué tecnologías son las más adecuadas y eficientes en materia de costos para
+comunicarse con los interesados? ¿Qué tecnología de comunicación está disponible?
+► ¿Se utiliza un solo idioma con los interesados? ¿Se han efectuado provisiones para
+adaptarse a interesados provenientes de diferentes grupos lingüísticos?
+► ¿Cuántos interesados existen? ¿Qué tan diversa es la cultura dentro de la comunidad
+de interesados?
+► ¿Cuáles son las relaciones dentro de la comunidad de interesados? Cuanto mayor sea el
+número de redes en las que participa un interesado o grupo de interesados, más complejas
+serán las redes de información y desinformación que el interesado puede recibir.
+
+3.5.2 EQUIPO DEL PROYECTO
+► ¿Cuál es la ubicación física de los miembros del equipo del proyecto? ¿El equipo del
+proyecto está ubicado en un mismo lugar? ¿Está el equipo del proyecto en la misma zona
+geográfica? ¿Está el equipo del proyecto distribuido en múltiples zonas horarias?
+► ¿Refleja el equipo del proyecto diversos puntos de vista y perspectivas culturales?
+► ¿Cómo serán identificados para los fines del proyecto los miembros del equipo del proyecto?
+¿Los miembros del equipo del proyecto están dedicados al proyecto a tiempo completo
+o a tiempo parcial? ¿Existen contratistas disponibles capaces de realizar el trabajo?
+► ¿Tiene el equipo del proyecto establecida una cultura? ¿Cómo se verá influenciada la
+adaptación por la cultura existente y cómo se verá influenciada la cultura existente por
+la adaptación?
+► ¿Cómo se maneja para el proyecto el desarrollo del equipo del proyecto? ¿Existen
+herramientas de la organización para gestionar el desarrollo del equipo del proyecto
+o tendrán que ser establecidas nuevas herramientas?
+► ¿Hay miembros del equipo del proyecto que tienen necesidades especiales? ¿Necesitará
+el equipo del proyecto capacitación especial para manejar la diversidad?
+
+Sección 3 – Adaptación
+
+147
+
+3.5.3 ENFOQUE DE DESARROLLO Y CICLO DE VIDA
+► ¿Qué enfoque de desarrollo es adecuado para el producto, servicio o resultado? En caso
+de ser adaptativo, ¿el proyecto debería desarrollarse de manera incremental o iterativa?
+¿Es mejor un enfoque híbrido?
+► ¿Cuál es el ciclo de vida apropiado para este proyecto en particular? ¿Qué fases debe
+comprender el ciclo de vida del proyecto?
+► ¿La organización cuenta con políticas, procedimientos y guías formales o informales
+de auditoría y gobernanza?
+
+3.5.4 PLANIFICACIÓN
+► ¿Cómo podrían influir los factores ambientales internos y externos sobre el proyecto
+y sus resultados?
+► ¿Cuáles son los factores que influyen en la duración (como la correlación entre recursos
+disponibles y su productividad)?
+► ¿Dispone la organización de políticas, procedimientos y directrices formales o informales
+relacionadas con la estimación y el cálculo del presupuesto de costos?
+► ¿Cómo estima la organización el costo cuando se utilizan enfoques adaptativos?
+► ¿Existe una adquisición principal o existen múltiples adquisiciones en diferentes
+momentos con diferentes vendedores que contribuyen a la complejidad de los procesos
+de adquisición?
+► ¿Las leyes y regulaciones locales relativas a las actividades de adquisición están
+integradas con las políticas de la organización en materia de adquisiciones? ¿Cómo
+afecta esto a los requisitos de auditoría de los contratos?
+
+148
+
+Guía del PMBOK®
+
+3.5.5 TRABAJ O DEL PROYECTO
+► ¿Qué procesos de gestión son los más eficaces según la cultura de la organización,
+la complejidad y otros factores del proyecto?
+► ¿Cómo se gestionará el conocimiento en el proyecto para fomentar un entorno
+de trabajo colaborativo?
+► ¿Qué información se debe recoger a lo largo y al final del proyecto? ¿Cómo se recopilará
+y manejará la información? ¿De qué tecnología se dispone para desarrollar, registrar,
+transmitir, recuperar, hacer seguimiento y almacenar información y artefactos?
+► ¿Quedarán disponibles para futuros proyectos la información histórica y las lecciones
+aprendidas?
+► ¿La organización cuenta con un repositorio formal de gestión del conocimiento
+que un equipo del proyecto deba usar y que sea de fácil acceso?
+
+3.5.6 ENTREGA
+► ¿Dispone la organización de sistemas formales o informales de gestión de requisitos?
+► ¿Tiene la organización políticas, procedimientos y guías existentes, formales o informales,
+relacionados con la validación y el control?
+► ¿Qué políticas y procedimientos de calidad existen en la organización? ¿Qué herramientas,
+técnicas y plantillas relacionadas con la calidad se utilizan en la organización?
+► ¿Existen estándares específicos de calidad en la industria que deban ser aplicados?
+¿Existen restricciones gubernamentales, legales o regulatorias específicas que deben
+tenerse en cuenta?
+► ¿Existen áreas del proyecto con requisitos inestables? En caso afirmativo, ¿cuál es
+el mejor enfoque para abordar los requisitos inestables?
+► ¿Cómo influye la sostenibilidad en los elementos de la dirección de proyectos
+o el desarrollo de productos?
+
+Sección 3 – Adaptación
+
+149
+
+3.5.7 INCERTIDUMBRE
+► ¿Cuál es el apetito al riesgo y la tolerancia al riesgo de este emprendimiento?
+► ¿Cómo se identifican y abordan mejor las amenazas y oportunidades dentro
+del enfoque de desarrollo seleccionado?
+► ¿Qué impacto tendrá en el proyecto la presencia de complejidad, incertidumbre
+tecnológica, novedad del producto, cadencia o seguimiento del progreso?
+► ¿El tamaño del proyecto en términos de presupuesto, duración, alcance o tamaño
+del equipo del proyecto requiere un enfoque más detallado sobre la gestión del riesgo?
+¿O es lo suficientemente pequeño como para justificar un proceso simplificado de
+gestión de los riesgos?
+► ¿Los altos niveles de innovación, las nuevas tecnologías, los acuerdos comerciales,
+las interfaces u otras dependencias externas exigen un sólido enfoque sobre la gestión
+de los riesgos? ¿O el proyecto es lo bastante sencillo para que sea suficiente un proceso
+de gestión de los riesgos reducido?
+► ¿Qué tan importante es el proyecto desde el punto de vista estratégico? ¿Aumenta
+el nivel de riesgo para este proyecto debido que tiene como objetivo producir
+oportunidades innovadoras, aborda bloqueos significativos del desempeño de la
+organización o involucra importantes innovaciones de productos?
+
+3.5.8 MÉTRICAS
+► ¿Cómo se mide el valor?
+► ¿Existen métricas para el valor financiero y el valor no financiero?
+► ¿Cómo permitirá el proyecto la captura de datos y la presentación de informes
+relacionados con la materialización de beneficios, tanto durante el proyecto como
+después de su finalización?
+► ¿Cuáles son los requisitos de presentación de informes sobre el estado del proyecto?
+
+150
+
+Guía del PMBOK®
+
+3.6 DI AGNÓSTICO
+Las revisiones periódicas, como las retrospectivas o las lecciones aprendidas, son formas
+eficaces de determinar si los enfoques funcionan bien y si se pueden hacer mejoras mediante la
+adaptación. Los equipos de proyecto que no utilicen retrospectivas pueden examinar los incidentes,
+las amenazas, las estadísticas de aseguramiento de calidad y la retroalimentación de los interesados
+en busca de indicios de que podría ser necesaria o útil una mayor adaptación o personalización.
+Esta sección pretende ser una orientación general y no enfrenta todas las situaciones posibles
+que podrían surgir dentro de un proyecto. En el Gráfico 3-1 se enumeran algunas situaciones
+comunes y se sugieren soluciones adaptadas a las situaciones más comunes.
+
+Tabla 3-1. Situaciones Comunes y Sugerencias de Adaptación
+
+Situación
+
+Sugerencia de Adaptación
+
+Entregables de calidad deficiente
+
+Añadir más ciclos de verificación de retroalimentación
+y pasos de control de calidad.
+
+Los miembros del equipo no están seguros de cómo
+proceder con o realizar su trabajo
+
+Añadir más pasos de orientación, entrenamiento
+y verificación.
+
+Largas demoras en espera de las aprobaciones
+
+Tratar de simplificar las decisiones de aprobación mediante
+un número menor de personas autorizadas para tomar
+decisiones hasta determinados umbrales de valor.
+
+Demasiado trabajo en curso o altas tasas de desecho
+
+Usar técnicas como el mapeo del flujo de valor y los
+tableros kanban para visualizar el trabajo, identificar los
+incidentes y proponer soluciones.
+
+Los interesados no se comprometen o comparten
+información negativa
+
+Evaluar si se está compartiendo suficiente información
+con los interesados; los ciclos de retroalimentación están
+presentes y funcionan; y un compromiso más profundo
+puede funcionar mejor que una simple comunicación.
+
+Falta de visibilidad y entendimiento del avance
+del proyecto
+
+Comprobar que se están recopilando, analizando,
+compartiendo y discutiendo medidas apropiadas durante
+las reuniones del equipo y de las partes interesadas;
+validar el acuerdo con las medidas dentro del equipo y
+con los interesados.
+
+Los incidentes y/o riesgos para los cuales el equipo no
+está preparado continúan emergiendo, requiriendo que
+el equipo reaccione en vez de progresar en el trabajo
+
+Explorar las causas raiz para determinar si existen lagunas
+conexas en los procesos o actividades de los proyectos.
+
+Sección 3 – Adaptación
+
+151
+
+3.7 RESUMEN
+Adaptar involucra la adecuación considerada del enfoque, la gobernanza y los procesos para
+que resulten más adecuados para el entorno dado y el proyecto en cuestión. Implica el análisis,
+el diseño y la modificación deliberada de los recursos humanos, los procesos empleados y las
+herramientas usadas. El proceso de adaptación involucra cuatro pasos:
+► Seleccionar el enfoque inicial.
+► Adaptar para la organización.
+► Adaptar para el proyecto.
+► Implementar la Mejora Continua.
+Si bien el proceso de adaptación suele estar a cargo de los interesados en el proyecto, los
+límites y el enfoque de la adaptación suelen regirse por directrices organizacionales. La gobernanza
+de la organización ayuda a garantizar que las interfaces externas entre los equipos de proyecto
+encajen correctamente y proporciona orientación en forma de consideraciones sobre adaptación.
+
+152
+
+Guía del PMBOK®
+
+4
+Modelos, Métodos
+y Artefactos
+4.1 DESCRIPCIÓN GENER AL
+En esta sección se ofrece una descripción de alto nivel de algunos modelos, métodos
+y artefactos de uso común que son útiles para dirigir proyectos. Los elementos enumerados en
+esta sección no pretenden ser exhaustivos ni prescriptivos, sino más bien ayudar a los equipos
+de proyecto a pensar en las opciones de que disponen.
+En el contexto de esta guía, los términos están definidos como sigue:
+► Modelo. Un modelo es una estrategia de pensamiento para explicar un proceso,
+marco de referencia o fenómeno.
+► Método. Un método es el medio para lograr un efecto, salida, resultado o entregable
+del proyecto.
+► Artefacto. Un artefacto puede ser una plantilla, documento, salida o entregable
+del proyecto.
+A medida que los equipos de proyecto tomen en cuenta las preguntas de adaptación de
+la Sección 3.5 y decidan las respuestas específicas a esas preguntas, comenzarán a construir un
+marco de referencia para estructurar sus esfuerzos a fin de obtener los resultados del proyecto.
+Por ejemplo, los equipos de proyecto seleccionan métodos específicos que permitan captar
+y compartir la información aplicable, de modo que puedan hacer un seguimiento del avance,
+mejorar el rendimiento del equipo del proyecto en tiempo real e involucrar a los interesados.
+El Gráfico 4-1 muestra cómo la adaptación incluye los modelos y métodos utilizados para
+realizar el trabajo en los dominios de desempeño del proyecto. Los entregables y los artefactos
+también se adaptan al proyecto, al entorno interno y al entorno externo.
+
+153
+
+Principios de la Dirección de Proyectos
+Ser un administrador
+diligente, respetuoso
+y cuidadoso
+
+Crear un entorno
+colaborativo del equipo
+
+Involucrarse eficazmente
+con los interesados
+
+Reconocer, evaluar
+y responder a las
+interacciones del sistema
+
+Demostrar conductas
+de liderazgo
+
+Adaptar con base
+en el contexto
+
+Navegar en la complejidad
+
+Optimizar las respuestas
+a los riesgos
+
+Adoptar la adaptabilidad
+y la resiliencia
+
+Enfocarse en el valor
+Incorporar la calidad
+en los procesos
+y los entregables
+Permitir el cambio para lograr
+el estado futuro previsto
+
+Guiar el
+comportamiento
+
+Interesados
+Incertidumbre
+
+Equipo
+Entregable
+
+Modelos
+
+Entregable
+Entregable
+Entregable
+
+Entrega
+
+Planificación
+Trabajo
+del Proyecto
+
+Entorno Externo
+
+Artefactos
+
+Entorno Interno
+
+Enfoque
+de Desarrollo
+y Ciclo de Vida
+
+Sistema para Entrega de Valor
+
+Medición
+Método
+Método
+Método
+Método
+Método
+Método
+Método
+Método
+
+Dominios
+de Desempeño
+del Proyecto
+
+Adaptar para Ajustarse al Contexto del Proyecto
+
+Gráfico 4-1. Adaptación para Ajustarse al Contexto y al Entorno del Proyecto
+
+154
+
+Guía del PMBOK®
+
+Como en cualquier proceso, el uso de modelos, métodos y artefactos tiene costos asociados
+relacionados con el tiempo, el nivel de conocimientos especializados y la competencia en el
+uso, el impacto en la productividad, etc. Los equipos de proyecto deben tener en cuenta estas
+consecuencias al decidir qué elementos usar. En tanto sea posible, los equipos de proyecto deben
+evitar utilizar cualquier cosa que:
+► Duplique o agregue esfuerzos innecesarios,
+► No resulte útil para el equipo de proyecto o sus interesados,
+► Produzca información incorrecta o engañosa, o
+► Atienda las necesidades individuales por sobre a las del equipo del proyecto.
+
+4.2 MODELOS COMÚNM ENTE UTILIZ ADOS
+Los modelos reflejan vistas simplificadas y en pequeña escala de la realidad, y presentan
+escenarios, estrategias o enfoques para optimizar los procesos y los esfuerzos de trabajo . Un
+modelo ayuda a explicar cómo funciona algo en el mundo real. Los modelos pueden dar forma
+al comportamiento y señalar enfoques para resolver problemas o satisfacer necesidades. Algunos
+modelos fueron desarrollados teniendo en cuenta los proyectos y los equipos del proyecto; otros
+son de naturaleza más general. Cuando es posible, los modelos de esta sección se presentan tal
+como son aplicados a los proyectos. El contenido de esta sección no describe cómo desarrollar
+o crear nuevos modelos.
+Las descripciones de los modelos presentados ofrecen una visión a alto nivel. Los miembros

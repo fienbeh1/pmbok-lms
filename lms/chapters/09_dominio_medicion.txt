@@ -1,0 +1,1016 @@
+
+La medición involucra evaluar el desempeño del proyecto e implementar respuestas
+apropiadas para mantener un desempeño óptimo.
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño de la Medición:
+Métrica. Descripción de un atributo del proyecto o producto y cómo medirlo.
+Línea Base. Versión aprobada de un producto de trabajo que se utiliza como base de
+comparación con los resultados reales.
+Tablero. Conjunto de diagramas y gráficos que muestran el avance o el rendimiento en relación
+con mediciones importantes del proyecto.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+93
+
+El Dominio de Desempeño de la Medición evalúa el grado en que el trabajo realizado en el
+Dominio de Desempeño de la Entrega está cumpliendo con las métricas identificadas en el Dominio
+de Desempeño de la Planificación. Por ejemplo, el desempeño puede medirse y evaluarse utilizando
+las líneas base identificadas en el Dominio de Desempeño de la Planificación. Tener información
+oportuna y precisa sobre el trabajo y el desempeño del proyecto permite que el equipo de proyecto
+identifique y determine las medidas apropiadas para abordar las variaciones actuales o esperadas
+del desempeño deseado.
+Las medidas se utilizan por múltiples razones, entre las que se incluyen:
+► Evaluar el desempeño en comparación con el plan;
+► Seguimiento de la utilización de recursos, trabajo completado, presupuesto gastado, etc.;
+► Demostrar capacidad de rendición de cuentas;
+► Proporcionar información a los interesados;
+► Evaluar si los entregables del proyecto están orientados a entregar los beneficios
+planificados;
+► Enfocar las conversaciones sobre compromisos, amenazas, oportunidades y opciones; y
+► Asegurarse de que los entregables del proyecto cumplan con los criterios de aceptación
+del cliente.
+El valor de las mediciones no está en la recopilación y difusión de los datos, sino más bien
+en las conversaciones sobre cómo utilizar los datos para tomar las acciones apropiadas. Por lo
+tanto, aunque gran parte de este dominio de desempeño aborda varios tipos de mediciones que
+se pueden capturar, el uso de las medidas ocurre dentro del contexto de las actividades en otros
+dominios de desempeño, tales como las discusiones del equipo de proyecto y los interesados,
+la coordinación del trabajo del proyecto, etc.
+
+94
+
+Guía del PMBOK®
+
+Este dominio de desempeño se centra en las medidas para proyectos activos. Un líder de
+portafolio puede querer incluir medidas que aborden el éxito del proyecto después de que
+se haya completado, como por ejemplo, si el proyecto produjo los resultados y beneficios
+previstos. Los líderes de portafolio pueden evaluar si el resultado del proyecto aumentó
+la satisfacción del cliente, disminuyó el costo por unidad u otras medidas que no están
+disponibles hasta después del cierre del proyecto. Del mismo modo, los gerentes de negocio
+pueden evaluar el proyecto desde la perspectiva del valor que el resultado aporta a la
+organización. Las medidas empresariales pueden incluir el aumento de la participación en el
+mercado, el aumento de las ganancias o la disminución del costo por unidad. El Dominio de
+Desempeño de la Medición aborda las medidas y métricas que se utilizan durante el proyecto.
+
+2.7.1 ESTABLECIMIENTO DE MEDIDAS EFECTIVAS
+Establecer medidas efectivas ayuda a garantizar que las cosas correctas se midan
+y se informen a los interesados. Las medidas efectivas permiten rastrear, evaluar y generar
+información que puede comunicar el estado del proyecto, ayudar a mejorar el desempe ño del
+proyecto y reducir la probabilidad de deterioro del desempeño. Estas medidas permiten al equipo
+de proyecto utilizar la información para tomar decisiones oportunas y medidas efectivas.
+
+2.7.1.1 Indicadores Claves de Desempeño
+Los indicadores clave de desempeño (KPI) para proyectos son medidas cuantificables utilizadas
+para evaluar el éxito de un proyecto. Existen dos tipos de indicadores clave de rendimiento:
+indicadores adelantados e indicadores rezagados.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+95
+
+► Indicadores adelantados. Los indicadores adelantados predicen cambios o tendencias
+en el proyecto. Si el cambio o tendencia es desfavorable, el equipo de proyecto evalúa
+la causa raíz de la medición del indicador adelantado y toma acciones para revertir
+la tendencia. Utilizados de esta manera, los indicadores adelantados pueden reducir
+el riesgo de desempeño en un proyecto al identificar posibles variaciones de desempeño
+antes de que superen el umbral de tolerancia.
+Los indicadores adelantados pueden ser cuantificables, tales como el tamaño del
+proyecto o el número de elementos que están en curso en la lista de trabajo pendiente.
+Otros indicadores principales son más difíciles de cuantificar, pero proporcionan señales
+de alerta temprana acerca de posibles problemas. La falta de un proceso de gestión
+de riesgos, los interesados que no están disponibles o comprometidos, o los criterios
+de éxito del proyecto mal definidos son ejemplos de indicadores adelantados de que
+el desempeño del proyecto puede estar en riesgo.
+► Indicadores rezagados. Los indicadores rezagados miden los entregables o eventos
+del proyecto. Proporcionan información después de que se presentan los hechos. Los
+indicadores rezagados reflejan el desempeño o las condiciones pasadas. Los indicadores
+rezagados son más fáciles de medir que los indicadores adelantados. Los ejemplos
+incluyen el número de entregables completados, el cronograma o la variación del costo
+y la cantidad de recursos consumidos.
+Los indicadores rezagados también pueden utilizarse para encontrar correlaciones entre
+los resultados y las variables ambientales. Por ejemplo, un indicador rezagado que muestra
+una variación del cronograma puede mostrar una correlación con la insatisfacción de los
+miembros del equipo de proyecto. Esta correlación puede ayudar al equipo de proyecto a
+abordar una causa raíz que puede no haber resultado obvia si la única medida fue el estado
+del cronograma.
+En sí mismos, los KPI son simplemente medidas que no tienen un uso real a menos que y hasta
+que se utilicen. Discutir los indicadores adelantados y rezagados e identificar áreas para mejorar,
+según corresponda, puede tener un impacto positivo sobre el desempeño.
+
+96
+
+Guía del PMBOK®
+
+2.7.1.2 Métricas Efectivas
+La medición requiere tiempo y esfuerzo, que de otro modo podrían gastarse en otro trabajo
+productivo; por lo tanto, los equipos del proyecto solo deberían medir lo que es relevante y deberían
+garantizar que las métricas sean útiles. Las características de las métricas efectivas (o criterios SMART
+por sus siglas en inglés) incluyen:
+► Específica. Las mediciones son específicas en cuanto a qué medir. Los ejemplos incluyen
+el número de defectos, los defectos que se han corregido o el tiempo promedio que lleva
+corregir los defectos.
+► Significativa. Las medidas deben estar vinculadas al caso de negocio, las líneas base
+o los requisitos. No es eficiente medir los atributos del producto o el desempeño del
+proyecto que no conducen al cumplimiento de los objetivos o a la mejora del desempeño.
+► Alcanzable. El objetivo es alcanzable dadas las personas, la tecnología y el entorno.
+► Relevante. Las medidas deberían ser pertinentes. La información proporcionada por
+la medida debe aportar valor y permitir información procesable.
+► Oportuna. Las mediciones útiles son oportunas. La información que es antigua no
+es tan útil como la información reciente. La información prospectiva, tal como las
+tendencias emergentes, puede ayudar a los equipos de proyecto a cambiar de dirección
+y tomar mejores decisiones.
+
+El acrónimo SMART descrito anteriormente puede usar términos alternativos. Por ejemplo,
+algunas personas prefieren “medible” en lugar de significativa, “acordada” en lugar de alcanzable,
+“realista” o “razonable” en lugar de relevante, y “limitado en el tiempo” en lugar de oportuno.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+97
+
+2.7.2 QUÉ MEDIR
+Lo que se mide, los parámetros y el método de medición dependen de los objetivos del
+proyecto, los resultados previstos y el entorno en el que se desarrolla el proyecto. Las categorías
+comunes de métricas incluyen:
+► Métricas sobre entregables,
+► Entrega,
+► Desempeño con respecto a la línea base,
+► Recursos,
+► Valor de negocio,
+► Interesados, y
+► Pronósticos.
+Un conjunto equilibrado de métricas ayuda a entregar una imagen holística del proyecto,
+su desempeño y sus resultados.
+Las secciones 2.7.2.1 a 2.7.2.7 proporcionan una breve descripción de estas categorías.
+
+2.7.2.1 Métricas sobre Entregables
+Por necesidad, los productos, servicios o resultados que se entregan determinan las medidas
+útiles. Entre las medidas habituales figuran las siguientes:
+► Información sobre errores o defectos. Esta medida incluye el origen de los defectos,
+el número de defectos identificados y el número de defectos resueltos.
+► Medidas del desempeño. Las medidas del desempeño caracterizan los atributos físicos
+o funcionales relacionados con la operación del sistema. Los ejemplos incluyen tamaño,
+peso, capacidad, exactitud, confiabilidad, eficiencia y medidas de desempeño similares.
+► Medidas de desempeño técnico. Las medidas cuantificables de desempeño técnico se
+utilizan para garantizar que los componentes del sistema cumplen los requisitos técnicos.
+Proporcionan información sobre el avance hacia el logro de la solución técnica.
+
+98
+
+Guía del PMBOK®
+
+2.7.2.2 Entrega
+Las mediciones de la entrega están asociadas con el trabajo en curso. Estas medidas se utilizan
+con frecuencia en proyectos que utilizan enfoques adaptativos.
+► Trabajo en curso. Esta medida indica la cantidad de elementos de trabajo que están
+bajo elaboración en un momento dado. Se utiliza para ayudar al equipo de proyecto
+a limitar el número de elementos en curso a un tamaño manejable.
+► Tiempo de entrega. Esta medida indica la cantidad de tiempo transcurrido desde una
+historia o fragmento de trabajo que ingresa a la lista de trabajo pendiente hasta el final de
+la iteración o la liberación. Un menor tiempo de entrega indica un proceso más efectivo
+y un equipo de proyecto más productivo.
+► Tiempo de ciclo. En relación con el tiempo de entrega, el tiempo de ciclo indica
+la cantidad de tiempo que tarda el equipo de proyecto en completar una tarea.
+Los tiempos más cortos indican un equipo de proyecto más productivo. Un tiempo
+constante ayuda a predecir la posible tasa de trabajo en el futuro.
+► Tamaño de la cola. Esta medida realiza un seguimiento del número de elementos
+en una cola. Esta métrica se puede comparar con el límite de trabajo en curso.
+La Ley de Little establece que el tamaño de la cola es proporcional tanto a la tasa de
+llegada a la cola como a la tasa de finalización de los elementos de la cola. Uno puede
+obtener información sobre los tiempos de finalización midiendo el trabajo en curso
+y desarrollando un pronóstico para la finalización futura del trabajo.
+► Tamaño del lote. El tamaño del lote mide la cantidad estimada de trabajo (nivel
+de esfuerzo, puntos de historia, etc.) que se espera que se complete en una iteración.
+► Eficiencia de procesos. La eficiencia de procesos es una proporción utilizada en
+sistemas lean para optimizar el flujo de trabajo. Esta medida calcula la relación entre
+el tiempo de las actividades que agregan valor y las actividades sin valor agregado. Las
+tareas que están en espera aumentan el tiempo sin valor agregado. Las tareas que están
+en desarrollo o en verificación representan tiempo de valor agregado. Las proporciones
+más altas indican un proceso más eficiente.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+99
+
+2.7.2.3 Desempeño con respecto a la línea base
+Las líneas base más comunes son de costo y de cronograma. Los proyectos que rastrean
+un alcance o línea base técnica pueden utilizar información en las medidas sobre entregables.
+La mayoría de las medidas de cronograma realizan un seguimiento del desempeño real
+contra el desempeño planificado con relación a:
+► Fechas de inicio y finalización. Comparar las fechas reales de inicio con las fechas
+de inicio planificadas y las fechas reales de finalización con las fechas de finalización
+planificadas puede medir el grado en que el trabajo se realiza según lo planeado.
+Incluso si el trabajo no está en el camino más largo a través del proyecto (la ruta crítica),
+las fechas tardías de inicio y finalización indican que el proyecto no está funcionando
+según lo planeado.
+► Esfuerzo y duración. El esfuerzo y la duración reales en comparación con el esfuerzo
+y la duración planificados indican si las estimaciones de la cantidad de trabajo y el tiempo
+que toma el trabajo son válidas.
+► Variación del cronograma (SV). Una simple variación del cronograma se determina
+observando el desempeño en la ruta crítica. Cuando se usa con la gestión del valor ganado
+es la diferencia entre el valor ganado y el valor planificado. El Gráfico 2-24 muestra un
+gráfico del valor ganado que ilustra la variación del cronograma.
+► Índice de desempeño del cronograma (SPI). El índice de desempeño del cronograma
+es una medida de gestión del valor ganado que indica cuán eficientemente se está
+realizando el trabajo programado.
+► Tasas de finalización de características. Examinar la tasa de aceptación de
+características durante las revisiones frecuentes puede ayudar a evaluar el progreso
+y estimar las fechas y los costos de finalización.
+Las medidas de costo comunes incluyen:
+► Costo real en comparación con el costo planificado. Esta medida de costo compara
+el costo real de la mano de obra o los recursos con el costo estimado. Este término
+también puede ser mencionado como la tasa de consumo.
+► Variación del costo (CV). Una simple variación del costo se determina comparando
+el costo real de un entregable con el costo estimado. Cuando se usa con la gestión
+del valor ganado es la diferencia entre el valor ganado y el costo real. El Gráfico 2-24
+muestra un gráfico del valor ganado que ilustra la variación del costo.
+► Índice de desempeño del costo (CPI). Medida de gestión del valor ganado que
+indica la eficiencia con que se está llevando a cabo el trabajo con respecto al costo
+presupuestado del mismo.
+
+100
+
+Guía del PMBOK®
+
+BAC
+
+CV
+
+Costo
+
+SV
+
+CV = EV - AC
+SV = EV - PV
+CPI = EV / AC
+SPI = EV / PV
+
+Valor Planificado (PV)
+Costos Reales (AC)
+Valor Ganado (EV)
+
+Tiempo
+
+Gráfico 2-24. Análisis del Valor Ganado que muestra la Variación del Cronograma y del Costo
+
+2.7.2.4 Recursos
+Las mediciones de recursos pueden ser un subconjunto de las mediciones de costo, ya que
+las variaciones de recursos a menudo conducen a variaciones del costo. Las dos medidas evalúan
+la variación del precio y la variación del uso. Las medidas incluyen:
+► Utilización planificada de los recursos en comparación con la utilización real
+de los mismos. Esta métrica compara el uso real de los recursos con el uso estimado.
+Una variación de uso se calcula restando el uso planificado del uso real.
+► Costo planificado de los recursos en comparación con el costo real de los mismos.
+Esta medida compara el costo real de los recursos con el costo estimado. La variación de
+precios se calcula restando el costo estimado del costo real.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+101
+
+2.7.2.5 Valor de Negocio
+Las mediciones del valor de negocio se utilizan para garantizar que el entregable del proyecto
+se mantenga alineado con el caso de negocio y los planes de realización de beneficios. El valor de
+negocio tiene muchos aspectos — tanto financieros como no financieros. Las métricas que miden
+el valor de negocio financiero incluyen:
+► Relación costo-beneficio. Esta es una medida del valor presente esperado de una
+inversión comparado con el costo inicial. La relación costo-beneficio se utiliza para
+determinar si los costos de un proyecto superan sus beneficios. Si los costos son
+mayores que los beneficios, el resultado será mayor que 1,0. En este caso, el proyecto
+no debe ser tomado en consideración a menos que existan razones regulatorias,
+de bienestar social u otras razones para llevarlo a cabo. Una medida similar es una
+relación beneficio-costo. Se utilizan las mismas medidas, pero los beneficios están en
+el numerador y los costos están en el denominador. Para esta medida, si el cociente es
+mayor que 1,0 se debería considerar el proyecto.
+► Entrega de beneficios planificada en comparación con entrega real de beneficios.
+Como parte de un caso de negocio, las organizaciones pueden identificar el valor como
+el beneficio que se entregará como resultado de hacer el proyecto. Para los proyectos
+que esperan entregar beneficios durante el ciclo de vida del proyecto, medir los beneficios
+entregados y el valor de esos beneficios, y luego comparar esa información con el caso
+de negocio, proporciona información que puede justificar la continuación del proyecto,
+o en algunos casos, la cancelación del mismo.
+► Retorno de la inversión (ROI). Medida de la cantidad de rendimiento financiero
+en comparación con el costo, el ROI generalmente se desarrolla como una entrada para
+la decisión de emprender un proyecto. Puede haber estimados del ROI en diferentes
+momentos a lo largo del ciclo de vida del proyecto. Al medir el ROI a lo largo del proyecto,
+el equipo de proyecto puede determinar si tiene sentido continuar con la inversión de
+recursos organizacionales.
+► Valor actual neto (NPV). Diferencia entre el valor actual de las entradas de capital y el
+valor actual de las salidas de capital durante un período de tiempo, el NPV generalmente
+se desarrolla cuando se decide emprender un proyecto. Al medir el NPV a lo largo
+del proyecto, el equipo de proyecto puede determinar si tiene sentido continuar con
+la inversión de recursos de la organización.
+
+102
+
+Guía del PMBOK®
+
+2.7.2.6 Interesados
+La satisfacción de los interesados se puede medir con encuestas o infiriendo satisfacción
+o la falta de ella, y observando las métricas relacionadas, tales como:
+► Puntuación Neta del Promotor (Net Promoter Score®, NPS®). Las puntuaciones
+netas del promotor miden el grado en que un interesado (generalmente el cliente) está
+dispuesto a recomendar un producto o servicio a otros. Mide un rango de -100 a +100.
+Una puntuación neta del promotor elevada no solo mide la satisfacción con una marca,
+producto o servicio, sino que también es un indicador de la lealtad del cliente.
+► Diagrama de estados de ánimo. Un diagrama de estados de ánimo puede rastrear
+el estado de ánimo o las reacciones de un grupo de interesados muy importantes —el
+equipo de proyecto. Al final de cada día, los miembros del equipo de proyecto pueden
+usar colores, números o emojis para indicar su estado de ánimo. El Gráfico 2-25 muestra
+un diagrama de estados de ánimo usando emojis. El seguimiento del estado de ánimo
+del equipo de proyecto o de los estados de ánimo de los miembros individuales del
+equipo de proyecto puede ayudar a identificar posibles problemas y áreas a mejorar.
+
+Domingo
+
+Lunes
+
+Martes
+
+Miércoles
+
+Jueves
+
+Viernes
+
+Sábado
+
+Gráfico 2-25. Tablero de Estados de Ánimo
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+103
+
+► Moral. Ya que los tableros de estados de ánimo pueden ser subjetivos, otra opción es
+medir la moral del equipo de proyecto. Esto se puede hacer mediante encuestas, pidiendo
+a los miembros del equipo deproyecto que califiquen en una escala del 1 al 5 su acuerdo
+con afirmaciones tales como:
+
+▹ Siento que mi trabajo contribuye a los resultados generales.
+▹ Me siento apreciado.
+▹ Estoy satisfecho con la forma en que mi equipo de proyecto trabaja en conjunto.
+► Rotación. Otra forma de controlar la moral es observando la rotación no planificada
+del equipo de proyecto. Las altas tasas de rotación no planificada pueden indicar una
+moral baja.
+
+2.7.2.7 Pronósticos
+Los equipos de proyecto utilizan los pronósticos con el fin de considerar lo que podría
+suceder en el futuro, para que puedan considerar y discutir si deben adaptar los planes y el trabajo
+del proyecto en consecuencia. Los pronósticos pueden ser cualitativos, como el uso de juicio de
+expertos sobre lo que deparará el futuro. También pueden ser causales cuando se busca entender
+el impacto que un evento o condición específica tendrá en eventos futuros. Los pronósticos
+cuantitativos buscan utilizar la información pasada para estimar lo que sucederá en el futuro.
+Los pronósticos cuantitativos incluyen:
+► Estimación hasta la conclusión (ETC).3 Medida de la gestión del valor ganado que
+pronostica el costo previsto para terminar todo el trabajo restante del proyecto. Existen
+muchas maneras diversas para calcular la estimación hasta la conclusión. Suponiendo
+que el desempeño pasado sea un indicativo del desempeño futuro, una medición
+común es el cálculo del presupuesto hasta la conclusión menos el valor ganado,
+dividido a continuación por el índice de desempeño del costo. Para obtener más cálculos
+con el fin de determinar el ETC, véase El Estándar para la Gestión del Valor Ganado [2].
+► Estimación a la conclusión (EAC). Esta medida de gestión del valor ganado pronostica
+el costo total previsto para completar todo el trabajo (véase el Gráfico 2-26). Existen
+muchas maneras diversas para calcular la estimación a la conclusión. Suponiendo que
+el desempeño pasado es indicativo del desempeño futuro, una métrica común es el
+presupuesto hasta la conclusión dividido por el índice de desempeño del costo. Para
+obtener más cálculos con el fin de determinar el EAC, véase El Estándar para la Gestión
+del Valor Ganado [2].
+
+Los pronósticos cuantitativos asociados con la gestión del valor ganado a menudo se utilizan para proyectos
+muy grandes. Algunos entregables en esos proyectos pueden utilizar métodos de desarrollo adaptativo.
+Sin embargo, las métricas de pronóstico en la gestión del valor ganado se utilizan predominantemente en
+entornos predictivos.
+3
+
+104
+
+Guía del PMBOK®
+
+Estimación a la Conclusión (EAC)
+
+Estimación
+hasta la Conclusión
+(ETC)
+
+Presupuesto hasta la Conclusión (BAC)
+
+Costo
+
+PV
+AC
+EV
+Curva de Valor Planificado (PV)
+Curva de Costos Reales (AC)
+Fecha de
+Estado
+
+Curva del Valor Ganado (EV)
+
+Tiempo
+
+Gráfico 2-26. Pronóstico de Estimación a la Conclusión y Estimación hasta la Conclusión
+
+► Variación a la conclusión (VAC). Medida de gestión del valor ganado que pronostica
+el monto del déficit o superávit presupuestal. Se expresa como la diferencia entre el
+presupuesto hasta la conclusión (BAC) y la estimación hasta la conclusión (EAC).
+► Índice de desempeño del trabajo por completar (TCPI). Medida de gestión del valor
+ganado que estima el desempeño del costo requerido para cumplir con un objetivo
+de gestión especificado. El TCPI se expresa como el cociente entre el costo para culminar
+el trabajo pendiente y el presupuesto restante.
+► Análisis de regresión. Método analítico en el que una serie de variables de entrada
+se examinan en relación a sus correspondientes resultados de salida a fin de
+desarrollar una relación matemática o estadística. La relación puede utilizarse para
+inferir el rendimiento futuro.
+► Análisis de rendimiento. Este método analítico evalúa el número de elementos
+que se completan en un marco de tiempo fijo. Los equipos de proyecto que utilizan
+prácticas adaptativas utilizan métricas de rendimiento tales como características
+completas versus características restantes, velocidad y puntos de historia para evaluar
+su progreso y estimar las fechas probables de terminación. El uso de estimaciones de
+duración y tasas de utilización de equipos de proyecto estables puede ayudar a verificar
+y actualizar las estimaciones de costos.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+105
+
+2.7.3 PRESENTACIÓN DE LA INFORMACIÓN
+Las medidas que se están recopilando son importantes, pero lo que se hace con las medidas
+es igual de importante. Para que la información sea útil, debe ser oportuna, accesible, fácil de
+absorber y digerir, y presentarse de manera que transmita correctamente el grado de incertidumbre
+asociado con la información. Las indicaciones visuales con gráficos pueden ayudar a los interesados
+a absorber y dar sentido a la información.
+
+2.7.3.1 Tableros de Control
+Una forma común de mostrar grandes cantidades de información sobre métricas es un
+tablero de control. Los tableros de control generalmente recopilan información electrónicamente
+y generan diagramas que representan el estado. A menudo, los tableros de control ofrecen
+resúmenes de datos de alto nivel y permiten un análisis detallado de los datos aportados.
+El Gráfico 2-27 proporciona un ejemplo de un tablero de control.
+Los tableros de control a menudo incluyen información que se muestra como diagramas de
+semáforo (también conocidos como diagramas RAG donde RAG es una abreviatura de rojo-amarilloverde en inglés), diagramas de barras, diagramas circulares y diagramas de control. Se puede utilizar
+una explicación de texto para cualquier medida que esté fuera de los umbrales establecidos.
+
+106
+
+Guía del PMBOK®
+
+Nombre del Proyecto de la Organización
+Nombre del Proyecto
+y Descripción de
+Alto Nivel
+Patrocinador Ejec.:
+
+DP:
+
+Fecha de Inicio:
+Estatus:
+
+Período del Informe:
+
+Fecha de Finalización:
+
+Cronograma
+
+Actividades Clave
+
+Recursos
+
+Presupuesto
+
+Logros Recientes
+
+Próximos Entregables Clave
+
+Estatus
+
+Actividad No. 1
+
+Inquietud
+
+Actividad No. 2
+
+A tiempo
+
+Actividad No. 3
+
+Incidente
+
+A tiempo
+
+Completa
+
+Inquietud
+
+Riesgos Clave Actuales - Amenazas y oportunidades;
+Mitigación
+
+Incidente
+
+En espera
+
+Cancelada
+
+No iniciada
+
+Incidentes Clave Actuales - Descripción
+
+Gráfico 2-27. Ejemplo de Tablero de Control
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+107
+
+2.7.3.2 Radiadores de Información
+Los radiadores de información, también conocidos como grandes gráficos visibles (BVC),
+son indicaciones visibles y físicos que proporcionan información al resto de la organización y
+permiten el intercambio oportuno de conocimiento. Se publican en un lugar donde la gente pueda
+ver la información fácilmente, en lugar de tener información en una herramienta de programación
+de cronograma o para informes. Los BVC deberían ser fáciles de actualizar y deberían actualizarse
+con frecuencia. A menudo son de “baja tecnología y alto contacto” en el sentido de que se procesan
+manualmente en lugar de generarse electrónicamente. El Gráfico 2-28 muestra un radiador
+de información asociado con el trabajo completado, el trabajo restante y los riesgos.
+
+Gráfica de Trabajo pendiente (Burndown)
+
+Gráfica combinada de trabajo
+pendiente o realizado
+
+Gráfica de Trabajo realizado (Burnup)
+
+Muestra cuánto
+trabajo aún no se
+ha completado
+
+Muestra cuánto
+trabajo se ha
+completado
+
+Referencia
+
+Descripción del riesgo
+
+Fecha
+
+Probabilidad
+
+Impacto
+
+Clasificación
+del Riesgo
+
+1
+
+El proveedor principal no puede
+entregar a tiempo debido a
+otros compromisos comerciales
+
+21/03
+
+Probable
+
+Alto
+
+2
+
+El tiempo de entrega de la línea
+arrendada supera los 90 días
+
+21/03
+
+Poco
+probable
+
+La liberación del nuevo sistema
+está retrasada porque las
+pruebas de aceptación del
+usuario comienzan después del
+inicio planificado
+
+21/03
+
+No hay suficiente capacidad
+para crear instancias de base
+de datos adicionales para la
+migración y prueba de los datos
+
+18/04
+
+3
+
+4
+
+Muestra cuánto
+trabajo se ha
+completado y
+cuánto resta
+
+Respuesta
+
+Dueño
+
+Alto
+
+Incluir penalizaciones financieras en
+el contrato; incorporar contingencia
+en el cronograma; monitorear el
+desempeño del contratista
+
+Annie
+
+Medio
+
+Medio
+
+Pedir la línea arrendada antes
+de lo necesario; incurrir en
+gastos de alquiler adicionales
+
+Jim
+
+Muy
+probable
+
+Alto
+
+Alto
+
+Emplear personal temporal
+para liberar recursos para las
+pruebas; revisar el cronograma
+del proyecto
+
+Mark
+
+Muy
+improbable
+
+Medio
+
+Bajo
+
+Priorizar proyectos; eliminar
+temporalmente la instancia de
+desarrollo alternativo.
+
+Jim
+
+Registro de Riesgos
+
+Gráfico 2-28. Radiador de Información
+
+108
+
+Guía del PMBOK®
+
+2.7.3.3 Controles Visuales
+En entornos lean, los radiadores de información se conocen como controles visuales. Los
+controles visuales ilustran los procesos para comparar fácilmente el desempeño real con el esperado.
+Los controles visuales muestran un proceso utilizando señales visuales. Los controles visuales pueden
+estar presentes para todos los niveles de información, desde el valor de negocio entregado hasta las
+tareas que han comenzado. Deberían ser muy visibles para que cualquiera los vea.
+► Tableros de tareas. Representación visual del trabajo planeado que permite a cualquiera
+visualizar el estado de las tareas. Un tablero de tareas puede mostrar el trabajo que está
+listo para ser iniciado (por hacer), el trabajo en progreso y el trabajo que se ha completado
+(véase el Gráfico 2-29).
+Un tablero de tareas permite a cualquiera apreciar de un vistazo el estado de una tarea
+en particular o el número de tareas en cada etapa del trabajo. Las notas adhesivas de
+diferentes colores pueden representar diferentes tipos de trabajo, y los puntos pueden
+utilizarse para mostrar cuántos días ha estado una tarea en su posición actual.
+Los proyectos basados en flujos, como los que utilizan tableros kanban, pueden utilizar
+estos diagramas para limitar la cantidad de trabajo en curso. Si una columna se acerca
+al límite de trabajo en progreso, los miembros del equipo de proyecto pueden congregarse
+alrededor del trabajo actual para ayudar a aquellos que trabajan en tareas que están
+volviendo lento el flujo.
+► Gráficas de trabajo pendiente o realizado. Las gráficas de trabajo pendiente
+o realizado, pueden mostrar la velocidad del equipo de proyecto. La velocidad mide
+la tasa a la que los entregables son producidos, validados y aceptados dentro de un
+intervalo predefinido. Un gráfica de trabajo realizado (burnup) puede rastrear la cantidad
+de trabajo realizado en comparación con el trabajo esperado que debería estar hecho
+(véase el Gráfico 2-30). Un diagrama de trabajo pendiente (burndown) puede mostrar
+el número de puntos de historia restantes o la cantidad de exposición al riesgo que
+ha sido reducida.
+► Otros tipos de gráficas. Los diagramas visuales también pueden incluir información
+tal como una lista de impedimentos que muestra una descripción del impedimento para
+realizar el trabajo, la gravedad y las acciones que se están tomando para solucionarlo.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+109
+
+Tablero Kanban
+Desarrollo
+y Pruebas
+Unitarias
+
+Listo
+
+8
+
+3
+
+Desarrollado
+
+Prueba de
+Sistema
+
+Completado
+
+2
+
+Tiempo de ciclo:
+desde el momento
+en que inicia una
+tarea hasta que se
+completa.
+
+Entrega al Cliente
+Tiempo de entrega: desde el
+momento en que ingresa al
+tablero hasta que se entrega.
+Debido a que puede cambiar
+el orden de los elementos en
+la columna “Listo”, éste
+puede ser impredecible.
+
+Existe un límite
+para esta columna.
+Puede intercambiar
+algo existente por
+algo distinto en
+cualquier momento.
+
+Gráfico 2-29. Tablero de Tareas o Tablero Kanban
+
+110
+
+Guía del PMBOK®
+
+Puntos de Historia Realizados
+35
+30
+25
+20
+
+Puntos de
+Historia
+Realizados
+
+15
+10
+5
+0
+Día
+1
+
+Día
+2
+
+Día
+3
+
+Día
+4
+
+Día
+5
+
+Día
+6
+
+Día
+7
+
+Día
+8
+
+Día
+9
+
+Día
+10
+
+Gráfico 2-30. Gráfica de Trabajo Realizado (Burnup)
+
+2.7.4 PELIGROS EN LAS MEDICIONES
+Las medidas del proyecto ayudan al equipo de proyecto a cumplir con los objetivos del mismo.
+Sin embargo, hay algunos peligros asociados con las mediciones. El tener conciencia de estos peligros
+puede ayudar a minimizar su efecto negativo.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+111
+
+► Efecto Hawthorne. El efecto Hawthorne afirma que el acto mismo de medir algo influye
+en el comportamiento. Por lo tanto, hay que tener cuidado al establecer métricas.
+Por ejemplo, medir solo la producción de entregables de un equipo de proyecto puede
+alentar al equipo de proyecto a centrarse en crear un gran volumen de entregables en
+lugar de centrarse en entregables que proporcionarían una mayor satisfacción al cliente.
+► Métrica de vanidad. Una métrica de vanidad es una medida que muestra datos,
+pero que no proporciona información útil para la toma de decisiones. Medir las vistas
+de página de un sitio web no es tan útil como medir el número de nuevos visitantes.
+► Desmoralización. La moral del equipo de proyecto puede disminuir si se establecen
+medidas y objetivos que no son alcanzables, ya que continuamente no cumplen con los
+objetivos. Establecer metas desafiantes y medidas ambiciosas es aceptable, pero las
+personas también quieren que se reconozca su arduo trabajo. Los objetivos poco realistas
+o inalcanzables pueden ser contraproducentes.
+► Mal uso de las métricas. Independientemente de las métricas utilizadas para medir
+el desempeño, existe la oportunidad de que las personas distorsionen las mediciones
+o se concentren en lo incorrecto. Algunos ejemplos:
+
+▹ Centrarse en métricas menos importantes en lugar de las métricas que más importan,
+▹ Centrarse en el buen desempeño de las métricas a corto plazo a expensas de las
+métricas a largo plazo, y
+
+▹ Trabajar en actividades fuera de secuencia que sean fáciles de lleva a cabo con el fin
+de mejorar los indicadores de desempeño.
+► Sesgo de confirmación. Como seres humanos, tendemos a buscar y ver información
+que respalde nuestro punto de vista preexistente. Esto puede llevarnos a interpretaciones
+falsas de los datos.
+► Correlación versus causalidad. Un error común en la interpretación de los datos de
+medición es confundir la correlación de dos variables con la idea de que una es causa de
+la otra. Por ejemplo, al ver proyectos que están atrasados y que exceden el presupuesto,
+se podría inferir que los proyectos que exceden el presupuesto causan problemas de
+programación del cronograma. Esto no es cierto, ni tampoco es cierto que los proyectos
+que están atrasados causen sobrecostos presupuestales. En cambio, es probable que
+haya otros factores correlacionados que no se están considerando, como la habilidad
+para estimar, la capacidad para gestionar el cambio y la gestión activa del riesgo.
+Ser consciente de los peligros asociados con las métricas puede ayudar a establecer métricas
+efectivas, además de estar atento a los peligros asociados con las medidas inapropiadas.
+
+112
+
+Guía del PMBOK®
+
+2.7.5 RESOLUCIÓN DE PROBLEMAS DE DESEMPEÑO
+Parte de la medición es haber acordado planes para medidas que están fuera de los rangos
+de los umbrales. Se pueden establecer umbrales para una diversidad de métricas, tales como
+cronograma, presupuesto, velocidad y otras medidas específicas del proyecto. El grado de variación
+dependerá de las tolerancias al riesgo de los interesados.
+El Gráfico 2-31 muestra un ejemplo de un umbral presupuestal establecido en +10 % (naranja)
+y -20 % (verde) de la tasa de gasto prevista. La línea azul representa el gasto real, y en enero, excedió
+la tolerancia superior del +10 % que activaría el plan de excepción.
+
+Gasto Proyectado y Real del Proyecto con Tolerancias
+$300,000
+
+$250,000
+
+$200,000
+
+$150,000
+Planneado
+Superior + 10 %
+Inferior – 20 %
+Reales
+
+$100,000
+
+$50,000
+
+$0
+Jun
+
+Jul
+
+Ago
+
+Sep
+
+Oct
+
+Nov
+
+Dic
+
+Ene
+
+Feb
+
+Mar
+
+Abr
+
+May
+
+Gráfico 2-31. Tasas de Gasto Planificadas y Reales
+
+Idealmente, los equipos de proyecto no deberían esperar hasta que se haya sobrepasado
+un umbral antes de tomar medidas. Si se puede pronosticar un incumplimiento a través de
+una tendencia o nueva información, el equipo de proyecto puede ser proactivo para abordar la
+variación esperada.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+113
+
+Un plan de excepciones es un conjunto acordado de acciones que deben tomarse en caso
+de que se cruce un umbral o se pronostique ese cruce. Los planes de excepciones no tienen que
+ser formales; pueden ser tan simples como convocar una reunión de interesados para discutir
+el asunto. La importancia del plan de excepciones es discutir el incidente y desarrollar un plan
+para lo que se debe hacer. A continuación, seguir adelante para asegurarse de que el plan sea
+implementado y determinar si el plan está funcionando.
+
+2.7.6 CRECIMIENTO Y MEJORA
+La intención en la medición y visualización de datos es aprender y mejorar. Para optimizar
+el desempeño y la eficiencia del proyecto, se mide e informa solamente la información que:
+► Permita que el equipo de proyecto aprenda,
+► Facilite una decisión,
+► Mejore algún aspecto del desempeño del producto o proyecto,
+► Ayude a evitar un problema, y
+► Prevenga el deterioro del desempeño.
+Aplicadas adecuadamente, las mediciones facilitan la capacidad del equipo de proyecto para
+generar valor de negocio y alcanzar los objetivos del proyecto y las metas de desempeño.
+
+2.7.7 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+El Dominio de Desempeño de la Medición interactúa con los Dominios de Desempeño de
+la Planificación, del Trabajo del Proyecto y de la Entrega a medida que los planes forman la base
+para comparar las entregas con el plan. El Dominio de Desempeño de la Medición puede apoyar
+las actividades que forman parte del Dominio de Desempeño de la Planificación presentando
+información actualizada para que las lecciones aprendidas puedan reflejar información favorable
+o desfavorable para actualizar los planes. Los Dominios de Desempeño del Equipo y de los
+Interesados interactúan mientras los miembros del equipo de proyecto desarrollan los planes
+y crean los entregables y entregas que se miden.
+
+114
+
+Guía del PMBOK®
+
+A medida que ocurren eventos impredecibles, tanto positivos como negativos, estos tienen
+un impacto en el desempeño del proyecto y, por lo tanto, en las mediciones y métricas del mismo.
+Responder a los cambios causados por eventos inciertos que han ocurrido incluye actualizar
+las mediciones que se han visto afectadas debido al cambio. Las actividades en el Dominio de
+Desempeño de la Incertidumbre, como la identificación de riesgos y oportunidades, se pueden
+iniciar en función de las mediciones de desempeño.
+Parte del trabajo del proyecto es colaborar con el equipo de proyecto y otros interesados
+para establecer las métricas, recopilar los datos, analizarlos, tomar decisiones e informar
+sobre el estado del proyecto.
+
+2.7.8 VE RIFICA CIÓ N DE RESULTADOS
+En la Tabla 2-9 se identifican los resultados de la aplicación efectiva del Dominio de Desempeño
+de la Medición a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-9. Verificación de Resultados — Dominio de Desempeño de la Medición
+
+Resultado
+
+Verificar
+
+Una comprensión confiable del
+estado del proyecto
+
+Las mediciones e informes de auditoría demuestran si los datos son confiables.
+
+Datos procesables para facilitar la
+toma de decisiones
+
+Las mediciones indican si el desempeño del proyecto es el esperado o si
+existen variaciones.
+
+Acciones oportunas y apropiadas
+para mantener el desempeño del
+proyecto bien encaminado
+
+Las mediciones proporcionan indicadores adelantados y/o el estado actual
+conduce a decisiones y acciones oportunas.
+
+Lograr objetivos y generar valor del
+negocio mediante la toma de
+decisiones informadas y oportunas
+basadas en pronósticos y
+evaluaciones confiables
+
+La revisión de los pronósticos pasados y el desempeño actual muestra si los
+pronósticos anteriores reflejan el presente con precisión. La comparación del
+desempeño real con el desempeño planeado y la evaluación de los
+documentos de negocio mostrarán la probabilidad de lograr el valor previsto
+del proyecto.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+115
+
+2.8 DOMINIO DE DE SEMPEÑO DE LA INCERTIDUMBRE
+
+DOMINIO DE DESEMPEÑO DE LA INCERTIDUMBRE
+EI Dominio de Desempeño
+de Ia Incertidumbre se
+ocupa de Ias actividades
+y funciones asociadas con
+eI riesgo y Ia incertidumbre.
+
+La ejecución efectiva de este dominio de desempeño tiene los
+siguientes resultados deseados:
+Concientización del entorno en el que se producen los proyectos,
+incluidos, entre otros, los entornos técnico, social, político,
+de mercado y económico.
+Exploración proactiva y respuesta a la incertidumbre.
+Concientización de la interdependencia de múltiples variables
+en el proyecto.
+La capacidad de anticipar amenazas y oportunidades
+y comprender las consecuencias de los incidentes.
+Entrega de proyectos con poco o ningún impacto negativo
+procedente de eventos o condiciones imprevistas.
+Se aprovechan las oportunidades para mejorar el desempeño
+y los resultados del proyecto
+Las reservas de costos y cronograma se utilizan de manera efectiva
+para mantener la alineación con los objetivos del proyecto.

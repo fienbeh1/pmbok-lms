@@ -1,0 +1,511 @@
+
+9
+
+Entorno Externo
+Entorno Interno
+Sistema de Entrega de Valor
+Portafolio A
+Programa A.1
+
+Portafolio B
+
+Programa A.2
+
+Programa B.1
+
+Proyectos
+Proyectos
+
+Proyectos
+Proyectos
+
+Programa N.1
+
+Proyectos
+
+Operaciones
+
+Gráfico 2-2. Componentes de un Sistema para la Entrega de Valor
+
+Los componentes de un sistema de entrega de valor crean entregables utilizados para
+producir resultados. Un resultado es el efecto o consecuencia final de un proceso o proyecto.
+Centrarse en los resultados, las elecciones y las decisiones enfatiza el desempeño del proyecto a
+largo plazo. Los resultados generan beneficios, que son ganancias obtenidas por la organización.
+Los beneficios, a su vez, crean valor, que es algo que tiene mérito, importancia o utilidad.
+
+10
+
+El Estándar para la Dirección de Proyectos
+
+2.1.2 FLUJO DE INFORMACIÓN
+Un sistema para la entrega de valor funciona con mayor eficacia cuando la información
+y la retroalimentación son compartidas de manera consistente entre todos los componentes,
+manteniendo el sistema alineado con la estrategia y en sintonía con el entorno.
+El Gráfico 2-3 muestra un modelo del flujo de información donde las flechas negras
+representan información que fluye desde el personal directivo superior a los portafolios, desde
+los portafolios a los programas y los proyectos, y luego a las operaciones. Los líderes sénior
+comparten información estratégica con los portafolios. Los portafolios comparten los resultados,
+beneficios y valor deseados con los programas y proyectos. Los entregables de los programas y
+proyectos se transmiten a las operaciones junto con información sobre el soporte y mantenimiento
+para los entregables.
+Las flechas grises claras en el Gráfico 2-3 representan el flujo inverso de información.
+La información desde las operaciones a los programas y proyectos sugiere ajustes, correcciones
+y actualizaciones a los entregables. Los programas y proyectos proporcionan información sobre
+el desempeño y el progreso en el logro de los resultados, beneficios y valor deseados para los
+portafolios. Los portafolios proporcionan evaluaciones del desempeño del portafolio con el
+personal directivo superior. Además, las operaciones proporcionan información sobre qué tan
+bien avanza la estrategia de la organización.
+
+Resultados, beneficios
+y valor deseados
+
+Estrategia
+
+Líderes
+Sénior
+
+Portafolios
+
+Información de desempeño
+del portafolio
+
+Entregables con información
+de soporte y mantenimiento
+
+Programas
+y Proyectos
+
+Información de desempeño
+y progreso
+
+Operaciones
+
+Información para actualizaciones,
+correcciones y ajustes
+
+Resultados, Beneficios, Análisis de Desempeño de Valor
+
+Gráfico 2-3. Ejemplo de Flujo de Información
+
+Sección 2 – Un sistema para la Entrega de Valor
+
+11
+
+2.2 SISTEM AS DE G OBERN ANZ A O R G ANIZ AC ION AL
+El sistema de gobernanza funciona en conjunto con el sistema para la entrega de valor a fin de
+permitir flujos de trabajo fluidos, gestionar incidentes y apoyar la toma de decisiones. Los sistemas
+de gobernanza proporcionan un marco de referencia con funciones y procesos que orientan las
+actividades. Un marco de referencia de gobernanza puede incluir elementos de supervisión, control,
+evaluación de valor, integración entre componentes y capacidades de toma de decisiones.
+Los sistemas de gobernanza proporcionan una estructura integrada para evaluar los
+cambios, incidentes y riesgos asociados con el entorno y cualquier componente en el sistema
+de entrega de valor. Esto incluye objetivos del portafolio, beneficios del programa y entregables
+producidos por los proyectos.
+Los proyectos pueden operar dentro de un programa o portafolio o como una actividad
+independiente. En algunas organizaciones, una oficina de dirección de proyectos podría prestar
+soporte a programas y proyectos dentro de un portafolio. La gobernanza del proyecto incluye definir
+la autoridad para aprobar cambios y tomar otras decisiones de negocio relacionadas con el proyecto.
+La gobernanza del proyecto está alineada con la gobernanza del programa y/o de la organización.
+
+2.3 FUNCIONES AS OCI AD AS CON P ROYECTOS
+Las personas impulsan la entrega del proyecto. Lo hacen desempeñando las funciones
+necesarias para que el proyecto funcione de manera efectiva y eficiente. Las funciones relacionadas
+con el proyecto pueden ser realizadas por una persona, por un grupo de personas o combinadas
+en roles definidos.
+Coordinar un esfuerzo de trabajo colectivo es extremadamente importante para el éxito de
+cualquier proyecto. Existen diferentes tipos de coordinación adecuados para diferentes contextos.
+Algunos proyectos se benefician de la coordinación descentralizada, en la que los miembros
+del equipo del proyecto se auto-organizan y se auto-gestionan. Otros proyectos se benefician
+de una coordinación centralizada con el liderazgo y la orientación de un director del proyecto
+designado o de un rol similar. Algunos proyectos con coordinación centralizada también pueden
+beneficiarse de la inclusión de equipos de proyectos auto-organizados para partes del trabajo.
+Independientemente de cómo se lleve a cabo la coordinación, los modelos de liderazgo de apoyo
+y el involucramiento significativo y continuo entre los equipos del proyecto y otros interesados
+respaldan los resultados exitosos.
+
+12
+
+El Estándar para la Dirección de Proyectos
+
+El esfuerzo colectivo del equipo del proyecto ofrece los resultados, beneficios y valor, en forma
+independiente de cómo se coordinen los proyectos. El equipo del proyecto puede estar respaldado
+por funciones adicionales dependiendo de los entregables, el sector industrial, la organización y
+otras variables. Las Secciones 2.3.1 a 2.3.8 proporcionan ejemplos de funciones que a menudo se
+encuentran en los proyectos, aunque no se trata de una lista completa. Además de estas funciones,
+pueden ser necesarias otras para permitir entregables del proyecto que produzcan los resultados
+deseados. Las necesidades del proyecto, la organización y el entorno influyen en qué funciones se
+utilizan en un proyecto y cómo se llevan a cabo esas funciones.
+
+2.3.1 PROPORCIONAR SUPERVISIÓN Y COORDINACIÓ N
+Las personas que llevan a cabo esta función ayudan al equipo del proyecto a lograr los
+objetivos del mismo, normalmente orquestando el trabajo del proyecto. Los detalles sobre cómo
+se lleva a cabo esta función dentro del equipo del proyecto pueden variar entre las organizaciones,
+pero podrían incluir encabezar las actividades de planificación, monitoreo y control. En algunas
+organizaciones, esta función puede implicar algunas actividades de evaluación y análisis como
+parte de las actividades previas al proyecto. Esta función incluye monitorear y trabajar para
+mejorar la salud, la seguridad y el bienestar general de los miembros del equipo del proyecto.
+La coordinación incluye consultas con líderes ejecutivos y de unidades de negocio acerca de
+ideas para promover los objetivos, mejorar el desempeño del proyecto o satisfacer las necesidades
+de los clientes. También puede incluir la asistencia en el análisis del negocio, la licitación y las
+negociaciones del contrato, y el desarrollo del caso de negocio.
+La supervisión puede estar involucrada en actividades de seguimiento relacionadas con
+la obtención y el sostenimiento de beneficios después de que se completen los entregables del
+proyecto, pero antes del cierre formal del mismo. Esta función puede prestar soporte a portafolios
+y programas dentro de los cuales se inicia el proyecto. En última instancia, la función es adaptada
+para ajustarse a la organización.
+
+2.3.2 PRESENTAR OBJ ETIVOS Y RETROAL IM ENTACIÓN
+Las personas que llevan a cabo esta función aportan perspectivas, percepciones y una
+dirección clara proveniente de los clientes y usuarios finales. El cliente y el usuario final no
+siempre son sinónimos. Para el propósito de este estándar, el cliente se define como la persona
+o grupo que ha solicitado o está financiando el proyecto. El usuario final es la persona o grupo
+que experimentará el uso directo del entregable del proyecto.
+
+Sección 2 – Un sistema para la Entrega de Valor
+
+13
+
+Los proyectos necesitan una dirección clara proveniente de los clientes y usuarios finales
+con respecto a los requisitos, resultados y expectativas del proyecto. En los entornos de proyectos
+adaptativos e híbridos, la necesidad de retroalimentación continua es mayor, porque los equipos
+del proyecto están explorando y desarrollando elementos del producto dentro de incrementos
+específicos. En algunos entornos de proyecto, el cliente o usuario final se involucra con el equipo del
+proyecto para su revisión y retroalimentación periódicas. En algunos proyectos, un representante
+del cliente o del cliente participa en el equipo del proyecto. Las necesidades de entrada y
+retroalimentación del cliente y del usuario final se determinan en función de la naturaleza
+del proyecto y de la orientación o dirección requerida.
+
+2.3.3 FACILITAR Y APOYAR
+La función de facilitación y apoyo puede estar estrechamente relacionada con la supervisión
+y coordinación, dependiendo de la naturaleza del proyecto. El trabajo implica alentar la
+participación de los miembros del equipo del proyecto, la colaboración y un sentido compartido
+de responsabilidad por la salida del trabajo. La facilitación ayuda al equipo del proyecto a crear
+consenso en torno a las soluciones, resolver conflictos y tomar decisiones. También se requiere
+facilitación para coordinar las reuniones y contribuir de manera imparcial al avance de los
+objetivos del proyecto.
+Del mismo modo, es requerido apoyar a las personas a través del cambio y ayudar
+a abordar los obstáculos que pueden impedir el éxito. Esto puede incluir evaluar el desempeño
+y proporcionar retroalimentación a las personas y los equipos del proyecto para ayudarlos
+a aprender, adaptarse y mejorar.
+
+2.3.4 REALIZAR EL TRABAJO Y APORTAR IDEAS
+Este grupo de personas proporciona el conocimiento, habilidades y experiencia necesarios
+para elaborar los productos y materializar los resultados del proyecto. El trabajo puede ser a
+tiempo completo o a tiempo parcial durante la duración del proyecto o por un período limitado,
+y el trabajo puede ser co-ubicado o virtual, dependiendo de los factores del entorno. Algunos
+trabajos pueden ser altamente especializados, mientras que otros pueden ser realizados por
+miembros del equipo del proyecto que tengan amplios conjuntos de habilidades.
+Obtener información de los miembros del equipo del proyecto multidisciplinario que
+representan diferentes partes de la organización puede proporcionar una mezcla de perspectivas
+internas, establecer alianzas con unidades de negocio clave y alentar a los miembros del equipo
+de proyecto a actuar como agentes de cambio dentro de sus áreas funcionales. Este trabajo
+puede extenderse a las funciones de soporte (durante o después del proyecto) a medida que
+los entregables del proyecto son implementados o pasan a operaciones.
+
+14
+
+El Estándar para la Dirección de Proyectos
+
+2.3.5 APLICAR CO NOCI MIENTOS ESPECI ALIZADOS
+Las personas en esta función proporcionan el conocimiento, la visión y la pericia en un tema
+específico para un proyecto. Ofrecen asesoramiento y apoyo en toda la organización, y contribuyen
+al proceso de aprendizaje y la precisión del trabajo del equipo del proyecto. Estas personas pueden
+ser externas a la organización o pueden ser miembros internos del equipo del proyecto. Pueden
+ser necesarios durante todo el proyecto o durante un período de tiempo específico.
+
+2.3.6 PROPORCIONAR ORIENTACIÓN E INFORMACIÓN EMPRESARIAL
+Las personas en esta función guían y aclaran la dirección del proyecto o resultado del
+producto. Esta función implica priorizar los requisitos o elementos de la lista de trabajo pendiente
+en función del valor de negocio, las dependencias y el riesgo técnico u operativo. Las personas en
+esta función proporcionan retroalimentación a los equipos del proyecto y establecen la dirección
+para el siguiente incremento o elemento que se desarrollará o entregará. La función involucra
+interactuar con los interesados, los clientes y sus equipos del proyecto a fin de definir la orientación
+del producto. El objetivo es maximizar el valor del entregable del proyecto.
+En entornos adaptativos e híbridos, la dirección y el conocimiento pueden proporcionarse
+utilizando una cadencia específica. En entornos predictivos, se pueden designar puntos de
+control para la presentación y retroalimentación sobre el progreso del proyecto. En algunos casos,
+la dirección del negocio puede interactuar con las funciones de financiación y dotación de recursos.
+
+2.3.7 PR O P OR CIO N AR RECURSOS Y DIRECCIÓN
+Las personas que llevan a cabo esta función promueven el proyecto y comunican la visión,
+las metas y las expectativas de la organización al equipo del proyecto y a la comunidad de
+interesados en general. Abogan por el proyecto y el equipo del proyecto ayudando a asegurar las
+decisiones, los recursos y la autoridad que permiten que las actividades del proyecto progresen.
+Las personas en esta función sirven de enlace entre la alta dirección y el equipo del proyecto,
+desempeñan un papel de apoyo para mantener los proyectos alineados con los objetivos de negocio,
+eliminar obstáculos y abordar incidentes que queden afuera de los límites de la autoridad de decisión
+del equipo del proyecto. Las personas en esta función proporcionan una ruta de escalamiento para
+problemas, incidentes o riesgos que los equipos del proyecto no pueden resolver o gestionar por sí
+solos, tales como una escasez de fondos u otros recursos, o plazos que no se pueden cumplir.
+
+Sección 2 – Un sistema para la Entrega de Valor
+
+15
+
+Esta función puede facilitar la innovación al identificar las oportunidades que surgen dentro
+del proyecto y comunicarlas a la alta dirección. Las personas en esta función pueden monitorear
+los resultados del proyecto después del cierre del mismo para garantizar que se obtengan los
+beneficios de negocio previstos.
+
+2.3.8 MANTENER LA GOBERNANZA
+Las personas que cumplen una función de gobernanza aprueban y apoyan las
+recomendaciones hechas por el equipo del proyecto y monitorean el progreso del proyecto
+para lograr los resultados deseados. Mantienen vínculos entre los equipos del proyecto y los
+objetivos estratégicos o de negocios que pueden cambiar durante el transcurso del proyecto.
+
+2.4 EL ENTORNO DEL PROYECTO
+Los proyectos existen y operan dentro de entornos internos y externos que tienen diversos
+grados de influencia en la entrega de valor. Los entornos internos y externos pueden influir en
+la planificación y otras actividades del proyecto. Estas influencias pueden producir un impacto
+favorable, desfavorable o neutral en las características del proyecto, los interesados o los equipos
+del proyecto.
+
+2.4.1 ENTORNO INTERNO
+Los factores internos a la organización pueden surgir de la misma organización, un
+portafolio, un programa, otro proyecto o una combinación de estos. Incluyen artefactos, prácticas
+o conocimiento interno. El conocimiento incluye las lecciones aprendidas, así como los artefactos
+completados procedentes de proyectos anteriores. Algunos ejemplos incluyen, entre otros:
+
+16
+
+El Estándar para la Dirección de Proyectos
+
+► Activos de procesos. Los activos del proceso pueden incluir herramientas, metodologías,
+enfoques, plantillas, marcos de referencia, patrones o recursos de la PMO.
+► Documentación de la gobernanza. Esta documentación incluye políticas y procesos.
+► Activos de datos. Los activos de datos pueden incluir bases de datos, bibliotecas
+de documentos, métricas, datos y artefactos de proyectos anteriores.
+► Activos de conocimiento. Los activos de conocimiento pueden incluir conocimiento
+tácito entre los miembros del equipo del proyecto, expertos en la materia y otros
+empleados.
+► Seguridad. Las medidas de seguridad pueden incluir procedimientos y prácticas para
+el acceso a la instalación, protección de datos, niveles de confidencialidad y secretos
+de propiedad.
+► Cultura, estructura y gobernanza de la organización. Estos aspectos de una
+organización incluyen visión, misión, valores, creencias, normas culturales, estilo de
+liderazgo, jerarquía y relaciones de autoridad, estilo de la organización, ética y código
+de conducta.
+► Distribución geográfica de instalaciones y recursos. Estos recursos incluyen
+ubicaciones de trabajo, equipos del proyecto virtuales y sistemas compartidos.
+► Infraestructura. La infraestructura consiste de instalaciones existentes, equipamiento,
+canales de telecomunicaciones de la organización, hardware informático, disponibilidad
+y capacidad.
+► Software informático. Algunos ejemplos incluyen software de programación, sistemas
+de gestión de la configuración, interfaces web a sistemas automatizados en línea,
+herramientas de colaboración y sistemas de autorización de trabajos.
+► Disponibilidad de recursos. Algunos ejemplos incluyen restricciones contractuales
+y de compra, proveedores y subcontratistas aprobados y acuerdos de colaboración.
+La disponibilidad relacionada con personas y materiales incluye restricciones contractuales
+y de compra, proveedores y subcontratistas aprobados y líneas de tiempo.
+► Capacidad de los empleados. Algunos ejemplos incluyen la pericia, habilidades,
+competencias, técnicas y conocimiento generales y especializados.
+
+Sección 2 – Un sistema para la Entrega de Valor
+
+17
+
+2.4.2 ENTORNO EXTERNO
+Los factores externos a la organización pueden mejorar, restringir o tener una influencia
+neutral sobre los resultados del proyecto. Algunos ejemplos incluyen, entre otros:
+► Condiciones del mercado. Entre los condiciones del mercado se incluyen
+competidores, participación en el mercado, reconocimiento de marca, tendencias
+tecnológicas y marcas registradas.
+► Influencias y asuntos de índole social y cultural. Entre estos factores se incluyen
+clima político, costumbres y tradiciones regionales, días festivos y eventos públicos,
+códigos de conducta, ética y percepciones.
+► Entorno regulatorio. El entorno regulatorio puede incluir leyes y regulaciones
+nacionales y regionales relacionadas con seguridad, protección de datos, conducta
+de negocios, empleo, licenciamiento y adquisiciones.
+► Bases de datos comerciales. Las bases de datos incluyen datos para estimación
+estandarizada de costos e información de estudios de los riesgos de la industria.
+► Investigaciones académicas. Esta investigación puede incluir estudios del sector,
+publicaciones y resultados de estudios comparativos.
+► Estándares de la industria. Estos estándares están relacionados con productos,
+producción, medio entorno, calidad y fabricación.
+► Consideraciones financieras. Entre estas consideraciones se incluyen tasas de cambio
+de divisas, tasas de interés, inflación, impuestos y tarifas.
+► Entorno físico. El entorno físico corresponde a las condiciones laborales y climáticas.
+
+2.5 CONSID ER ACI O NES SOBRE LA GESTIÓN DEL PRODUCTO
+Las disciplinas de dirección de portafolios, programas y proyectos y de gestión del
+producto están cada vez más interrelacionadas. Si bien la dirección de portafolios y programas
+y la gestión del producto están más allá del alcance de este estándar, comprender cada disciplina
+y las relaciones entre ellas proporciona un contexto útil para proyectos cuyos entregables
+consisten en productos.
+
+18
+
+El Estándar para la Dirección de Proyectos
+
+Un producto es un artefacto que es producido, que es cuantificable y que puede ser
+un elemento terminado por sí mismo o un elemento de un componente. La gestión del producto
+implica la Integración de personas, datos, procesos y sistemas comerciales para crear, mantener
+y desarrollar un producto o servicio a lo largo de su ciclo de vida. El ciclo de vida del producto
+es una serie de fases que representan la evolución de un producto, desde la introducción hasta
+su crecimiento, madurez y retiro.
+La gestión del producto puede iniciar programas o proyectos en cualquier punto del ciclo
+de vida del producto para crear o mejorar componentes, funciones o capacidades específicas
+(véase el Gráfico 2-4). El producto inicial puede comenzar como un entregable de un programa
+o proyecto. A lo largo de su ciclo de vida, un nuevo programa o proyecto puede agregar o
+mejorar componentes, atributos o capacidades específicos que crean valor adicional para los
+clientes y la organización patrocinadora. En algunos casos, un programa puede abarcar el ciclo
+de vida completo de un producto o servicio para administrar los beneficios y crear valor para la
+organización en forma más directa.
+
+Gobernanza del Portafolio
+
+Uso del Proyecto, Ventas, Impacto
+
+Programa A
+
+Programa B
+
+Proyecto 3
+
+(Adiciones)
+
+Proyecto 4
+
+(Revisiones)
+
+Proyecto 5
+
+Proyecto 2
+
+(Más Características)
+
+(Revisiones)
+
+Proyecto 6
+
+(Revisiones)
+
+Proyecto 1
+
+Proyecto 7
+
+(Creación Inicial)
+
+(Retiro)
+
+Tiempo
+Ciclo de Vida
+del Producto:
+
+Introducción
+
+Crecimiento
+
+Madurez
+
+Declive / Retiro
+
+Gráfico 2-4. Muestra de Ciclo de Vida del Producto
+
+Sección 2 – Un sistema para la Entrega de Valor
+
+19
+
+La gestión del producto puede existir en diferentes formas que incluyen, entre otras:
+► Dirección del programa dentro de un ciclo de vida del producto. Este enfoque
+incorpora proyectos, programas subsidiarios y actividades de programas relacionados.
+Para productos de tamaño muy grande o de larga duración, una o más fases del ciclo
+de vida del producto pueden ser lo suficientemente complejas como para merecer
+un conjunto de programas y proyectos que operen en conjunto.
+► Dirección de proyectos dentro de un ciclo de vida del producto. Este enfoque
+supervisa el desarrollo y la maduración de las capacidades del producto como una
+actividad de negocio continua. La gobernanza del portafolio constituye proyectos
+individuales según sea necesario para realizar fortalecimientos y mejoras, o para
+producir otros resultados únicos.
+► Gestión del producto dentro de un programa. Este enfoque aplica el ciclo
+de vida completo del producto dentro del ámbito y los límites de un programa dado.
+Se constituirán una serie de programas o proyectos subsidiarios para lograr beneficios
+específicos para un producto. Esos beneficios pueden mejorarse aplicando competencias
+de gestión del producto tales como el análisis competitivo, la adquisición de clientes
+y la defensa de los mismos.
+Si bien la gestión del producto es una disciplina separada con su propio cuerpo de
+conocimiento, representa un punto de integración clave dentro de las disciplinas de dirección
+del programa y dirección de proyectos. Los programas y proyectos con entregables que incluyen
+productos utilizan un enfoque adaptado e integrado que incorpora todos los fundamentos
+relevantes y sus prácticas, métodos y artefactos relacionados.
+
+20
+
+El Estándar para la Dirección de Proyectos
+
+3
+Principios de la
+Dirección de Proyectos
+Los principios para una profesión sirven como pautas fundamentales para la estrategia,
+toma de decisiones y resolución de problemas. Los estándares y metodologías profesionales a
+menudo se basan en principios. En algunas profesiones, los principios sirven como leyes o reglas,
+y por lo tanto son de naturaleza prescriptiva. Los principios de la dirección de proyectos no son
+de naturaleza prescriptiva. Están concebidos para guiar el comportamiento de las personas
+involucradas en los proyectos. Son de base amplia, por lo que hay muchas maneras en que las
+personas y las organizaciones pueden mantener la alineación con los principios.
+Los principios pueden, pero no necesariamente, reflejar la ética. Un código de ética está
+relacionado con la moral. Una persona o profesión puede adoptar un código de ética para
+una profesión con el fin de establecer expectativas para la conducta moral. El Código de Ética y
+Conducta Profesional del PMI [2] está basado en cuatro valores que fueron identificados como los
+más importantes para la comunidad de dirección de proyectos:
+► Responsabilidad,
+► Respeto,
+► Imparcialidad, y
+► Honestidad.
+Los 12 principios de la dirección de proyectos están alineados con los valores identificados
+en el Código de Ética y Conducta Profesional del PMI. No siguen el mismo formato, y no están
+duplicados, sino que los principios y el Código de Ética son complementarios.
+Los principios de la dirección de proyectos fueron identificados y desarrollados mediante
+la participación de una comunidad mundial de profesionales de proyectos . Los profesionales
+representan diferentes industrias, orígenes culturales y organizaciones en diferentes roles y con
+experiencia en diversos tipos de proyectos. Múltiples rondas de retroalimentación dieron como
+resultado 12 principios que proporcionan orientación para una dirección de proyectos eficaz.
+
+21
+
+Debido a que los principios de la dirección de proyectos proporcionan orientación, el grado
+de aplicación y la forma en que se aplican vienen influenciados por el contexto de la organización,
+el proyecto, los entregables, el equipo del proyecto, los interesados y otros factores. Los principios
+son internamente coherentes, lo que significa que ningún principio contradice ningún otro
+principio. Sin embargo, en la práctica se pueden presentar momentos en que los principios
+puedan superponerse. Por ejemplo, la orientación para navegar por la complejidad puede
+presentar información útil para reconocer, evaluar y responder a las interacciones del sistema
+u optimizar las respuestas a los riesgos.
+Los principios de la dirección de proyectos también pueden tener áreas de superposición
+con los principios generales de gestión. Por ejemplo, tanto los proyectos como el negocio en
+general se centran en entregar valor. Los métodos pueden ser algo diferentes en los proyectos
+en comparación con las operaciones, pero puede aplicarse a ambos el principio subyacente
+asociado con centrarse en el valor. El Gráfico 3-1 demuestra esta superposición.
+
+Principios de
+la Dirección
+de Proyectos
+
+Principios
+Generales
+de Gestión
+
+Gráfico 3-1. Superposición de los Principios de la Dirección de Proyectos
+y los Principios Generales de Gestión
+
+22
+
+El Estándar para la Dirección de Proyectos
+
+Las etiquetas de los principios se enumeran aquí sin ponderación u orden específico . Las
+declaraciones de principios son presentadas y descritas en las Secciones 3.1 a 3.12. Cada sección
+comienza con un gráfico que proporciona la etiqueta principal en la parte superior con el principio
+y los puntos clave debajo de la etiqueta Cada principio se desarrolla en el texto a continuación del
+gráfico. Las principales etiquetas son:
+► Ser un administrador diligente, respetuoso y cuidadoso (véase la Sección 3.1).
+► Crear un entorno colaborativo del equipo del proyecto (véase la Sección 3.2).
+► Involucrarse eficazmente con los Interesados (véase la Sección 3.3).
+► Enfocarse en el valor (véase la Sección 3.4).
+► Reconocer, evaluar y responder a las interacciones del sistema(véase la Sección 3.5).
+► Demostrar comportamientos de liderazgo (véase la Sección 3.6).
+► Adaptar en función del contexto (véase la Sección 3.7).
+► Incorporar la calidad en los procesos y los entregables (véase la Sección 3.8).
+► Navegar en la complejidad (véase la Sección 3.9).
+► Optimizar las respuestas a los riesgos (véase la Sección 3.10).
+► Adoptar la adaptabilidad y la resiliencia (véase la Sección 3.11).
+► Permitir el cambio para lograr el estado futuro previsto (véase la Sección 3.12).

@@ -1,0 +1,1499 @@
+la biblioteca de productos de estándares del PMI y PMIstandards+™ para obtener descripciones
+y explicaciones más completas de los modelos.
+
+4.2.1 MODELOS DE LIDERAZGO SITUACIONAL
+Los modelos de liderazgo situacional son un subconjunto de una amplia gama de modelos
+de liderazgo. Así como los equipos de proyecto adaptan los procesos, los métodos, los ciclos de vida
+y los enfoques de desarrollo, los estilos de liderazgo también resultan adaptados. Los modelos de
+liderazgo situacional describen formas de adaptar el estilo de liderazgo de cada uno para satisfacer
+las necesidades del individuo y del equipo de proyecto. Los siguientes son ejemplos de dos modelos
+de liderazgo situacional:.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+155
+
+4.2.1.1 Situational Leadership® II
+Situational Leadership ® II de Ken Blanchard mide el desarrollo de los miembros del equipo
+de proyecto utilizando la competencia y el compromiso como las dos variables principales . La
+competencia es la combinación de habilidad, conocimiento y destreza. El compromiso habla de
+la confianza y la motivación que un individuo posee. A medida que evolucionan la competencia y
+el compromiso de un individuo, los estilos de liderazgo evolucionan desde la dirección al coaching
+luego al apoyo y luego a la delegación para satisfacer las necesidades del individuo.
+
+4.2.1.2 Modelo OSCAR
+El modelo OSCAR de coaching y mentoría fue desarrollado por Karen Whittleworth y Andrew
+Gilbert. Ayuda a los individuos a adaptar sus estilos de coaching o liderazgo para apoyar a los
+individuos que tienen un plan de acción para el desarrollo personal. El modelo se refiere a cinco
+factores contribuyentes:
+► Resultado. Un resultado identifica los objetivos a largo plazo de un individuo
+y el resultado deseado de cada sesión de conversación.
+► Situación. Una situación permite conversar sobre las aptitudes, capacidades
+y conocimientos actuales del miembro del equipo del proyecto; por qué la persona
+está en ese nivel; y cómo ese nivel repercute en el rendimiento del individuo y en
+las relaciones con sus compañeros.
+► Opciones/consecuencias. Las opciones y/o las consecuencias identifican todas las
+posibles vías para alcanzar el resultado deseado y las consecuencias de cada opción
+para que un individuo pueda elegir vías viables para lograr sus metas a largo plazo.
+► Acciones. Una acción se compromete a mejoras específicas centrándose en objetivos
+inmediatos y alcanzables, en los que un individuo puede trabajar dentro de un marco
+de tiempo determinado.
+► Revisión. Celebrar reuniones periódicas ofrece apoyo y ayuda a garantizar
+que las personas se mantengan motivadas y alineadas.
+
+156
+
+Guía del PMBOK®
+
+4.2.2 MODELOS DE COMUNI CACIÓN
+El éxito del proyecto depende de una comunicación efectiva. Los modelos de comunicación
+demuestran conceptos relacionados con la forma en que los marcos de referencia del emisor y
+el receptor influyen en la eficacia de la comunicación, la forma en que el medio de comunicación
+influye en la eficacia de la comunicación, y los tipos de desconexiones entre la realidad y las
+expectativas del usuario final. Con la prevalencia de equipos de proyecto multiculturales y de
+interesados dispersos, estos modelos proporcionan una forma de visualizar los estilos y métodos
+de comunicación para mejorar la eficiencia y la efectividad de la comunicación. Hay muchos
+modelos de comunicación que demuestran diferentes aspectos de la misma. En las secciones
+4.2.2.1 a 4.2.2.3 se ofrece un muestreo de los modelos de comunicación.
+
+4.2.2.1 Comunicación Intercultural
+Un modelo de comunicación desarrollado por Browaeys y Price incorpora la idea de que el
+mensaje en sí mismo y la forma en que se transmite están influenciados por el conocimiento, la
+experiencia, el idioma, el pensamiento y los estilos de comunicación actuales del emisor, así como
+por los estereotipos y la relación con el receptor. Del mismo modo, el conocimiento, la experiencia,
+el idioma, el pensamiento y los estilos de comunicación del receptor, así como los estereotipos
+y la relación con el emisor, influirán en la forma de interpretar el mensaje.
+
+4.2.2.2 Efectividad de los Canales de Comunicación
+Alistair Cockburn desarrolló un modelo que describe los canales de comunicación a lo largo
+de los ejes de la efectividad y la riqueza. Según la definición de Richard Daft y Robert Lengel, la
+riqueza se relaciona con la cantidad de aprendizaje que puede ser transmitido a través de un
+medio. La riqueza de los medios de comunicación es una función de las características, incluyendo
+la capacidad de:
+► Manejar múltiples pistas de información simultáneamente,
+► Facilitar una retroalimentación rápida,
+► Establecer un enfoque personal, y
+► Utilizar el lenguaje natural.
+La riqueza de la comunicación permite transmitir rápidamente un amplio espectro de
+información. Las situaciones que implican información compleja, complicada y personal se
+benefician de canales de comunicación más ricos, como la comunicación cara a cara. Las
+situaciones que entregan información sencilla y factual pueden utilizar canales de comunicación
+menos ricos, como una nota o un mensaje de texto.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+157
+
+4.2.2.3 Brecha de Ejecución y de Evaluación
+Donald Norman describió la brecha de ejecución como el grado en que un elemento
+corresponde a lo que una persona espera que haga. Dicho de otra manera, es la diferencia entre
+la intención de un usuario y lo que el elemento le permite hacer o le ayuda a hacer. Un automóvil
+que tiene la capacidad de estacionarse en paralelo por sí mismo tendría una brecha de ejecución
+si el conductor esperara apretar un botón etiquetado como “estacionar” y hacer que el automóvil
+se estacione por sí mismo, y el automóvil no se estacionara por sí mismo.
+La brecha de evaluación es el grado en que un elemento ayuda al usuario a descubrir cómo
+interpretarlo e interactuar con él eficazmente. El mismo ejemplo del estacionamiento mostraría
+una brecha de evaluación si los controles no estuvieran diseñados de manera que el conductor
+pudiera determinar fácilmente cómo iniciar la función de auto-estacionamiento.
+
+4.2.3 MODELOS DE MOTIVACIÓN
+Las personas se desempeñan mejor cuando están motivadas, y las personas se sienten
+motivadas por cosas diferentes. Comprender lo que motiva a los miembros del equipo del
+proyecto y a otros interesados ayuda a adaptar las recompensas a cada persona, suscitando así
+un involucramiento más eficaz. Existe un número significativo de modelos que ilustran cómo
+se motiva a las personas. En las Secciones 4.2.3.1 a 4.2.3.4 se describen cuatro modelos, aunque
+se trata de una pequeña representación de los modelos disponibles.
+
+4.2.3.1 Factores de Higiene y de Motivación
+Frederick Herzberg realizó un estudio de los factores de motivación en la vida laboral.
+Creía que la satisfacción y el descontento en el trabajo provenían de condiciones llamadas factores
+de motivación. Los factores de motivación incluyen asuntos que se relacionan con el contenido
+del trabajo, como el logro, el crecimiento y el avance. La insuficiencia en los factores de motivación
+conduce a la insatisfacción. Suficientes factores de motivación llevan a la satisfacción.
+Herzberg también identificó factores de higiene relacionados con el trabajo, como las políticas
+de la empresa, el salario y el entorno físico. Si los factores de higiene son insuficientes, provocan
+insatisfacción. Sin embargo, aunque sean suficientes, no conducen a la satisfacción.
+
+158
+
+Guía del PMBOK®
+
+4.2.3.2 Motivación Intrínseca versus Extrínseca
+Daniel Pink publicó varios libros sobre los factores intrínsecos que motivan a la gente.
+Declaró que si bien las recompensas extrínsecas, como el salario, son motivadoras hasta cierto
+punto, una vez que una persona es pagada en forma justa por su trabajo, el poder de motivación
+de las recompensas extrínsecas deja de existir. En el caso de trabajos complicados y desafiantes,
+como gran parte del trabajo en proyectos, los motivadores intrínsecos son mucho más duraderos
+y efectivos. Pink identifica tres tipos de motivadores intrínsecos: autonomía, dominio y propósito:
+► Autonomía. La autonomía es el deseo de dirigir la vida propia. Esto está en línea con
+el hecho de poder determinar cómo, dónde y cuándo realizar el trabajo. La autonomía
+incluye un horario de trabajo flexible, trabajar desde casa y trabajar en equipos de
+proyecto auto-seleccionados y auto-administrados.
+► Dominio. Dominio se trata de ser capaz de mejorar y sobresalir. El deseo de hacer
+un trabajo excelente, aprender y alcanzar metas son aspectos del dominio.
+► Propósito. Propósito se refiere a la necesidad de marcar una diferencia. Conocer la
+visión del proyecto y la forma en que el trabajo contribuye a lograr esa visión permite
+a las personas sentir que están marcando una diferencia.
+
+4.2.3.3 Teoría de las Necesidades
+El modelo de David McClellan establece que todas las personas son impulsadas por las
+necesidades de logro, poder y afiliación. La fortaleza relativa de cada necesidad depende de las
+experiencias de un individuo y de su cultura.
+► Logro. Las personas que se sienten motivadas por los logros, como el logro de una meta,
+se sienten impulsadas por actividades y trabajos que son desafiantes, pero razonables.
+► Poder. A las personas que están motivadas por el poder les gusta organizar, motivar
+y liderar a los demás. Están motivadas por una mayor responsabilidad.
+► Afiliación. Las personas que están motivadas por la afiliación buscan aceptación
+y pertenencia. Están motivadas por el ser parte de un equipo.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+159
+
+4.2.3.4 Teoría X, Teoría Y y Teoría Z
+Douglas McGregor ideó los modelos de Teoría X y Teoría Y, que representan un espectro
+de motivación de los empleados y los correspondientes estilos de administración . Esto fue
+ampliado más tarde para incluir la Teoría Z.
+► Teoría X. El lado X del espectro asume que los individuos trabajan con el único
+propósito de obtener ingresos. No son ambiciosos ni están orientados a lograr metas.
+El correspondiente estilo de gestión para motivar a estos individuos es un enfoque
+práctico y top-down. Este estilo de gestión se ve a menudo en un entorno de producción
+o de trabajo intensivo, o uno con muchas capas de administración.
+► Teoría Y. El lado Y del espectro asume que los individuos están intrínsecamente
+motivados para hacer un buen trabajo. El estilo de gestión correspondiente tiene
+un toque más personal de coaching . El supervisor alienta la creatividad y la discusión.
+Este estilo de gestión se ve a menudo en los entornos de trabajadores creativos
+y del conocimiento.
+► Teoría Z. Abraham Maslow vio la Teoría Z como una dimensión trascendente para
+el trabajo, donde los individuos están motivados por la auto-realización, los valores
+y una vocación superior. El estilo de gestión óptimo en esta situación es el que
+cultiva la percepción y el significado.
+La versión de William Ouchi de la Teoría Z se centra en motivar a los empleados creando
+un trabajo para toda la vida donde el foco reside en el bienestar de los empleados y sus
+familias. Este estilo de gestión busca promover alta productividad, moral y satisfacción.
+
+4.2.4 MODELOS DE CAMBIO
+Muchos proyectos abarcan un aspecto de cambio de sistemas, comportamientos, actividades
+y, a veces, culturas. La gestión de este tipo de cambio requiere pensar en cómo pasar del estado
+actual al estado futuro deseado. Existen muchos modelos que describen las actividades necesarias
+para una gestión exitosa del cambio. En las secciones 4.2.4.1 a 4.2.4.5 se ofrece un muestreo de los
+modelos de cambio.
+
+160
+
+Guía del PMBOK®
+
+4.2.4.1 Gestión del Cambio en las Organizaciones
+Gestión del Cambio en las Organizaciones: Guía Práctica [3] es un modelo iterativo que se
+basa en elementos comunes a través de una gama de modelos de gestión de cambios. El marco
+de referencia tiene cinco elementos asociados interconectados a través de una serie de ciclos de
+retroalimentación:
+► Formular el cambio. Este elemento se enfoca en la construcción de los fundamentos
+para ayudar a la gente a entender por qué es necesario el cambio y cómo el estado
+futuro será mejor.
+► Planificar el cambio. La identificación de las actividades ayuda a las personas a prepararse
+para la transición del estado actual al futuro.
+► Implementar el cambio. Este elemento iterativo se centra en la demostración de las
+capacidades del estado futuro, la comprobación para garantizar que las capacidades
+están teniendo el impacto deseado, y en respuesta, la realización de las mejoras
+o adaptaciones necesarias.
+► Gestionar la transición. Este elemento considera la forma de abordar las necesidades
+relacionadas con el cambio que puede surgir una vez que se logre el estado futuro.
+► Mantener el cambio. Este elemento busca asegurar que las nuevas capacidades
+continúen y que cesen los procesos o comportamientos previos.
+
+4.2.4.2 Modelo ADKAR®
+Jeff Hiatt desarrolló el Modelo ADKAR®, que se centra en cinco pasos secuenciales que los
+individuos experimentan cuando se adaptan al cambio:
+► Paso 1: Concienciación. Este paso identifica por qué es necesario el cambio.
+► Paso 2: Deseo. Una vez que la gente sabe por qué es necesario el cambio, debe haber
+un deseo de formar parte y apoyar el cambio.
+► Paso 3: Conocimiento. La gente necesita entender cómo cambiar. Esto incluye
+la comprensión de los nuevos procesos y sistemas además de los nuevos roles y
+responsabilidades. El conocimiento puede ser impartido a través de la capacitación
+y la educación.
+► Paso 4: Capacidad. En este paso, el conocimiento se apoya sobre la práctica y el acceso
+a los conocimientos especializados y a la ayuda que se necesite.
+► Paso 5: Refuerzo. El refuerzo presta soporte al sostenimiento del cambio. Esto puede
+incluir recompensas, reconocimiento, retroalimentación y métrica.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+161
+
+4.2.4.3 El Proceso de 8 Pasos para Liderar el Cambio
+John Kotter presentó el Proceso de 8 pasos para Liderar el Cambio para la transformación
+de las organizaciones. Se trata de un enfoque top-down en el que la necesidad y el enfoque del
+cambio tienen su origen en los niveles superiores de la organización, y luego se promueven hacia
+abajo a través de las capas de gestión de la organización hasta los receptores del cambio. Los ocho
+pasos son:
+► Paso 1: Crear urgencia. Identificar las posibles amenazas y oportunidades que impulsan
+la necesidad del cambio.
+► Paso 2: Formar una coalición poderosa. Identificar a los líderes del cambio. Los líderes
+del cambio no necesariamente se basan en la jerarquía. Los líderes del cambio deben ser
+personas influyentes con una diversidad de funciones, conocimientos especializados
+e importancia social y política.
+► Paso 3: Crear una visión para el cambio. Identificar los valores que son cruciales para
+el cambio. A continuación, crear una breve declaración de la visión que resuma el cambio.
+Luego, identificar una estrategia para llevar a cabo la visión.
+► Paso 4: Comunicar la visión. Comunicar la visión a través del proceso de cambio.
+Aplicar la visión en todos los aspectos de la organización. La alta dirección y la coalición
+para el cambio deben comunicar sistemáticamente la visión y demostrar la urgencia
+y los beneficios del cambio.
+► Paso 5: Eliminar los obstáculos. Todo cambio viene acompañado de obstáculos.
+A veces los obstáculos son los procesos anticuados; otras veces se basan en la estructura
+organizacional y otras veces son personas que se resisten al cambio. Independientemente
+de esto, es necesario abordar todos los obstáculos.
+► Paso 6: Crear ganancias a corto plazo. Identificar las ganancias rápidas y fáciles para
+crear impulso y apoyo para el cambio.
+► Paso 7: Construir sobre el cambio. Una vez que se completen las ganancias a corto
+plazo, la organización debe establecer objetivos para la mejora continua.
+► Paso 8: Anclar los cambios en la cultura corporativa. Asegurarse de que el cambio
+tenga arraigo en la cultura: seguir comunicando la visión, contar historias de éxito,
+reconocer a las personas de la organización que encarnan y empoderan el cambio,
+y seguir apoyando a la coalición de cambio.
+
+162
+
+Guía del PMBOK®
+
+4.2.4.4 Modelo de Cambios de Virginia Satir
+Virginia Satir desarrolló un modelo sobre cómo las personas experimentan y enfrentan
+el cambio. Su propósito es ayudar a los miembros del equipo del proyecto a comprender lo que
+sienten y permitirles avanzar a través del cambio de manera más eficiente.
+► Último statu quo. Esta etapa inicial es cuando todo se siente familiar y puede ser
+caracterizado como “seguir funcionando como hasta ahora”. Para algunas personas,
+el seguir funcionando como hasta ahora puede ser bueno porque saben qué esperar.
+Para otros este estado puede parecer un poco anticuado o aburrido.
+► El elemento extraño. Algo sucede que cambia el statu quo en esta etapa. Esto puede
+incluir el iniciar un proyecto que introduzca un cambio en la forma habitual de trabajar
+de las personas. A menudo se presenta un período de resistencia y reducción del
+desempeño después de que se introduce el cambio. Las personas pueden ignorar
+el cambio o descartar su relevancia.
+► Caos. Las personas se encuentran en un territorio desconocido. Ya no se sienten
+cómodas, y el desempeño cae a su nivel más bajo. Los sentimientos, acciones y
+comportamientos son impredecibles. Algunas personas se sienten ansiosas, otras
+pueden encerrarse y otras pueden sentirse emocionadas. El caos puede hacer que las
+personas se tornen muy creativas al tratar de encontrar maneras de darle sentido a la
+situación. Prueban varias ideas y comportamientos para ver de cuál de ellos se obtiene
+un resultado positivo.
+► La idea transformadora. Las personas llegan a un punto en el que se les ocurre una
+idea que les ayuda a dar sentido a la situación. Empiezan a ver cómo pueden encontrar
+una salida al caos y hacer frente a la nueva realidad. El desempeño laboral comienza
+a aumentar.
+► Práctica e integración. Las personas tratan de implementar sus nuevas ideas o
+comportamientos. Pueden presentarse contratiempos y un período de prueba y error,
+pero eventualmente aprenden lo que funciona y lo que no. Esto lleva a una mejora
+del desempeño. A menudo el desempeño queda a un nivel más alto que antes de que
+se introdujera el elemento extraño.
+► Nuevo statu quo. Las personas se acostumbran al nuevo entorno, y su desempeño
+se estabiliza. Con el tiempo, el nuevo statu quo se vuelve la forma normal de trabajar.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+163
+
+4.2.4.5 Modelo de Transición
+El Modelo de Transición de William Bridges proporciona una comprensión de lo que ocurre
+psicológicamente a los individuos cuando se produce un cambio organizacional. Este modelo
+diferencia entre cambio y transición. El cambio es situacional y se produce tanto si las personas
+pasan por él como si no. La transición es un proceso psicológico en el que las personas aceptan
+gradualmente los detalles de la nueva situación y los cambios que conlleva.
+El modelo identifica tres etapas de transición asociadas con el cambio:
+► Terminar, perder y dejar ir. En esta etapa se introduce el cambio. A menudo se asocia
+con el miedo, la ira, el disgusto, la incertidumbre, la negación y la resistencia al cambio.
+► La zona neutral. En esta etapa sucede el cambio. En algunos casos, las personas pueden
+sentir frustración, resentimiento, confusión y ansiedad acerca del cambio. La productividad
+puede disminuir a medida que la gente aprende nuevas formas de hacer el trabajo. En
+otros casos, las personas pueden volverse muy creativas, innovadoras y apasionadas por
+probar nuevas formas de trabajo.
+► El nuevo comienzo. En este punto, las personas aceptan e incluso aprecian el cambio.
+Se están volviendo más adeptas a las nuevas habilidades y a las nuevas formas de trabajar.
+Las personas suelen estar abiertas al aprendizaje y se sienten energizadas por el cambio.
+
+4.2.5 MODELOS DE COMPLEJIDAD
+Los proyectos existen en un estado de ambigüedad y requieren interacciones entre
+múltiples sistemas, a menudo con resultados inciertos. La complejidad es un desafío con el que
+hay que trabajar. Los dos modelos descritos en las Secciones 4.2.5.1 y 4.2.5.2 proporcionan un
+marco de referencia para comprender la complejidad y determinar cómo tomar decisiones en un
+entorno complejo.
+
+4.2.5.1 Marco de Referencia Cynefin
+El marco de referencia Cynefin, creado por Dave Snowden, es un marco de referencia
+conceptual utilizado para diagnosticar las relaciones de causa y efecto como ayuda para la toma de
+decisiones. El marco de referencia ofrece cinco contextos problemáticos y de toma de decisiones:
+
+164
+
+Guía del PMBOK®
+
+► Se utilizan las mejores prácticas para tomar decisiones cuando existe una relación obvia
+de causa y efecto.
+► Existen relaciones complicadas cuando hay un conjunto de incógnitas conocidas (known
+unknowns) o un rango de respuestas correctas. En estas situaciones, lo mejor es evaluar
+los hechos, analizar la situación y aplicar buenas prácticas.
+► Las relaciones complejas incluyen incógnitas desconocidas (unknown unknowns).
+No hay causa y efecto aparentes, y no hay respuestas correctas y obvias. En ambientes
+complejos, se debe sondear el entorno, percibir la situación y responder con acciones.
+Este estilo utiliza prácticas emergentes que permiten ciclos repetidos de sondear—
+percibir-responder, a medida que los entornos complejos cambian en reacción a múltiples
+estímulos, y lo que funcionó una vez puede no ser efectivo la próxima vez.
+► En ambientes caóticos, la causa y los efectos no son claros. Existe demasiada confusión
+como para esperar entender la situación. En estas situaciones, el primer paso es tomar
+medidas para tratar de estabilizar la situación, luego sentir dónde existe cierta estabilidad
+y responder tomando medidas para llevar la situación caótica a una situación compleja.
+► Las relaciones desordenadas carecen de claridad y pueden requerir que se descompongan
+en partes más pequeñas cuyo contexto se relacione con uno de los otros cuatro contextos.
+El marco de referencia Cynefin ayuda a identificar comportamientos, como sondear, sentir,
+responder, actuar y categorizar, que pueden ayudar a influir en las relaciones entre las variables
+y guiar las acciones.
+
+4.2.5.2 Matriz de Stacey
+Ralph Stacey desarrolló la matriz de Stacey que es similar al marco de referencia Cynefin,
+pero examina dos dimensiones para determinar la complejidad relativa de un proyecto:
+(a) la incertidumbre relativa de las necesidades del producto, y (b) la incertidumbre relativa de
+la tecnología que se utilizará para crear el entregable. Basándose en la relativa incertidumbre de
+estas dimensiones, un proyecto se considera sencillo, complicado, complejo o caótico. El grado
+de complejidad es uno de los factores que influyen en la adaptación de los métodos y prácticas
+para el proyecto.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+165
+
+4.2.6 MODELOS DE DESARROLLO DEL EQUIPO DEL PROYECTO
+Los equipos de proyecto se mueven a través de diferentes etapas de desarrollo.
+El entendimiento de la etapa del equipo en su desarrollo ayuda a los directores de proyecto a
+apoyar al equipo del proyecto y su crecimiento. Los dos modelos presentados en las Secciones
+4.2.6.1 y 4.2.6.2 ilustran cómo los equipos de proyecto pasan por diferentes etapas para
+convertirse en equipos de alto desempeño.
+
+4.2.6.1 Escalera de Tuckman
+Bruce Tuckman articuló las etapas de desarrollo del equipo como formación, turbulencia,
+normalización y desempeño. Mucha gente añade una quinta etapa, disolución.
+► Formación. El equipo del proyecto se reúne por primera vez. Los miembros conocen
+el nombre de cada uno, su posición en el equipo del proyecto, sus habilidades y otra
+información de antecedentes pertinente. Esto puede ocurrir en la reunión de lanzamiento.
+► Turbulencia. Los miembros del equipo del proyecto se preparan para ocupar una
+posición en el equipo. En esta fase es donde las personalidades, fortalezas y debilidades
+de las personas comienzan a emerger. Puede presentarse algún conflicto o lucha
+a medida que la gente averigua cómo trabajar juntos. La turbulencia puede durar un
+tiempo o pasar relativamente rápido.
+► Normalización. El equipo del proyecto comienza a funcionar como un órgano colectivo.
+En este punto, los miembros del equipo del proyecto conocen su lugar en el equipo y
+cómo se relacionan e interactúan con todos los demás miembros. Están comenzando
+a trabajar juntos. Pueden existir algunos desafíos a medida que el trabajo avanza, pero
+estos incidentes se resuelven rápidamente, y el equipo del proyecto pasa a la acción.
+► Desempeño. El equipo del proyecto se vuelve operativamente eficiente. Esta es la etapa
+madura del equipo de proyecto. Los equipos de proyecto que han estado juntos durante
+un tiempo son capaces de desarrollar una sinergia. Al trabajar juntos, los miembros del
+equipo del proyecto logran más y producen un producto de alta calidad.
+► Disolución. El equipo del proyecto completa el trabajo y se dispersa para trabajar
+en otras cosas. Si en el equipo de proyecto se han formado buenas relaciones, algunos
+miembros del equipo de proyecto podrían estar tristes por haber dejado el mismo.
+La cultura del equipo de proyecto en este modelo comienza en la etapa de formación y
+evoluciona a lo largo del resto de las etapas de desarrollo. Mientras que este modelo muestra una
+progresión lineal, los equipos de proyecto pueden moverse hacia adelante y hacia atrás entre estas
+etapas. Además, no todos los equipos de proyecto consiguen culminar las etapas de desempeño
+o incluso de normalización.
+
+166
+
+Guía del PMBOK®
+
+4.2.6.2 Modelo de Desempeño del Equipo de Drexler/Sibbet
+Allan Drexler y David Sibbet desarrollaron un modelo de desempeño del equipo con siete
+pasos. Los pasos 1 a 4 describen las etapas de la creación de un equipo de proyecto, y los pasos 5
+a 7 cubren la sostenibilidad y el desempeño del equipo de proyecto.
+► Paso 1: Orientación. La orientación responde a la pregunta de por qué. En esta etapa,
+el equipo del proyecto conoce el propósito y la misión del proyecto. Esto suele ocurrir en
+una reunión de lanzamiento, o está documentado en un caso de negocio, en el acta de
+constitución del proyecto, o en el lienzo lean startup.
+► Paso 2: Crear confianza. La creación de confianza responde a la pregunta de quién.
+Esta etapa arroja luz sobre quiénes están en el equipo del proyecto y las habilidades
+y destrezas que cada persona aporta. También puede incluir información sobre los
+principales interesados que tal vez no formen parte del equipo del proyecto pero que
+pueden influir en él.
+► Paso 3: Aclaración de la meta. La aclaración de la meta responde a qué. En esta etapa,
+el equipo del proyecto elabora la información de alto nivel del proyecto. Esto puede
+incluir averiguar más sobre las expectativas de los interesados, requisitos, supuestos
+y criterios de aceptación de los entregables.
+► Paso 4: Compromiso. El compromiso aborda la pregunta de cómo. En esta etapa, el
+equipo del proyecto comienza a definir los planes para lograr los objetivos. Esto puede
+incluir cronogramas de hitos, planes de liberación, presupuestos de alto nivel, necesidades
+de recursos, etc.
+► Paso 5: Implementación. Los planes de alto nivel son descompuestos en mayores niveles
+de detalle, como un cronograma o una lista de trabajo pendiente (backlog) detallado.
+El equipo del proyecto comienza a trabajar en conjunto para producir entregables.
+► Paso 6: Alto desempeño. Después de que el equipo del proyecto haya trabajado
+conjuntamente durante algún tiempo, los miembros del mismo alcanzan un alto nivel
+de desempeño. Trabajan bien juntos, no necesitan mucha supervisión y experimentan
+sinergias dentro del equipo del proyecto.
+► Paso 7: Renovación. La renovación es la etapa de trabajar a través de los cambios en
+el equipo del proyecto o en el proyecto. Los entregables, los interesados, el entorno, el
+liderazgo del equipo de proyecto o la composición del equipo pueden cambiar . Esto hace
+que el equipo del proyecto considere si el comportamiento y las acciones del pasado siguen
+siendo suficientes, o si el equipo del proyecto necesita regresar a una etapa anterior para
+restablecer las expectativas y las formas de trabajar juntos.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+167
+
+4.2.7 OTROS MODELOS
+Los modelos descritos en las Secciones 4.2.7.1 a 4.2.7.5 abarcan una amplia gama de
+temas, entre ellos la gestión de conflictos, la negociación, la planificación, los grupos de procesos
+y la prominencia.
+
+4.2.7.1 Modelo de Conflicto
+Los conflictos son comunes en los proyectos. Los conflictos pueden resultar saludables y
+productivos si se manejan bien. Pueden dar lugar a una mayor confianza entre los miembros del
+equipo del proyecto y a un compromiso más profundo con los resultados. El miedo al conflicto
+puede restringir la comunicación y la creatividad. Sin embargo, los conflictos también pueden ser
+poco saludables. Abordar los conflictos de manera inapropiada puede llevar a la insatisfacción,
+la falta de confianza y la reducción de la moral y la motivación. El modelo basado en el trabajo de
+Ken Thomas y Ralph Kilmann describe seis formas de abordar el conflicto enfocándose en el poder
+relativo entre los individuos y el deseo de mantener una buena relación, de la siguiente manera:
+► Confrontación/resolución del problema. Enfrentar un conflicto maneja el conflicto
+como un problema a resolver. Este estilo de resolución de conflictos se utiliza cuando
+la relación entre las partes es importante y cuando cada persona confía en la capacidad
+de la otra para resolver problemas.
+► Colaboración. Colaborar implica incorporar múltiples puntos de vista sobre el conflicto.
+El objetivo es aprender sobre los diferentes puntos de vista y ver las cosas desde múltiples
+perspectivas. Este es un método efectivo cuando existe confianza entre los participantes y
+cuando hay tiempo para llegar a un consenso. Un director de proyecto puede facilitar este
+tipo de resolución de conflictos entre los miembros del equipo de proyecto.
+► Compromiso. Existen algunos conflictos en los que todas las partes no quedarán
+completamente satisfechas. En esos casos, el mejor enfoque es encontrar una forma de
+compromiso. El compromiso implica la voluntad de dar y recibir. Esto permite a todas las
+partes lograr algo que quieren, y evita el escalamiento del conflicto. Este estilo se utiliza a
+menudo cuando las partes involucradas poseen el mismo “poder”. Un director de proyecto
+puede llegar a un compromiso con un gerente técnico respecto de la disponibilidad de un
+miembro del equipo del proyecto para trabajar en el mismo.
+
+168
+
+Guía del PMBOK®
+
+► Estabilización/complacencia. Estabilizar y complacer es útil cuando lograr el objetivo
+general es más importante que el desacuerdo. Este enfoque conserva la armonía en la
+relación y puede crear buena voluntad entre las partes. Este enfoque también se usa
+cuando hay una diferencia en la autoridad o el poder relativos de los individuos. Por
+ejemplo, este enfoque puede resultar apropiado cuando hay un desacuerdo con el
+patrocinador. Dado que el patrocinador tiene mayor rango que el director del proyecto
+o el miembro del equipo del proyecto, y que existe el deseo de mantener una buena
+relación con el patrocinador, puede ser adecuado adoptar una postura complaciente.
+► Imposición. La imposición se utiliza cuando no hay suficiente tiempo para colaborar o
+resolver problemas. En este escenario, una parte fuerza su voluntad sobre la otra. La parte
+que impone tiene más poder que la otra parte. Se puede utilizar un estilo de imposición si
+hay un conflicto de salud y seguridad que deba ser resuelto inmediatamente.
+► Retirada/evasión. A veces un problema desaparece por sí solo, o a veces las discusiones
+se enardecen y las personas necesitan un período de enfriamiento. En ambos escenarios,
+retirarse de la situación resulta apropiado. La retirada también se utiliza en una situación
+sin salida, como el cumplimiento de un requisito impuesto por un órgano regulador en
+lugar de impugnarlo.
+
+4.2.7.2 Negociación
+Existen muchos modelos de negociación. Uno de ellos es el principio de Steven Covey
+de “Pensar en Ganar-Ganar”. Este principio se aplica a todas las interacciones, no sólo a las
+negociaciones, pero se describe aquí en el contexto de negociación. En las negociaciones, hay
+diversos resultados posibles:
+► Ganar-ganar. Este es el resultado óptimo, en el que cada persona está satisfecha
+con el mismo.
+► Ganar-perder/perder-ganar. Esto describe una perspectiva de competencia donde
+para poder ganar, alguien tiene que perder. También puede venir de una perspectiva
+de “mártir”, donde alguien elige perder para que otros puedan ganar.
+► Perder-perder. Este resultado puede darse cuando hubiera sido posible obtener
+resultados tipo ganar-ganar, pero la competencia supera a la colaboración. En este
+escenario, todos terminan peor que al principio.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+169
+
+Por lo general, se encuentra una perspectiva de ganar-ganar cuando están presentes los
+siguientes aspectos:
+► Carácter. Las partes involucradas son maduras, demuestran integridad y comparten
+la perspectiva de que hay suficiente valor para todos.
+► Confianza. Las partes confían entre sí, establecen acuerdos sobre cómo operar
+y muestran responsabilidad.
+► Enfoque. Cada parte está dispuesta a apreciar la situación desde el punto de vista
+de la otra. Las partes colaboran para determinar los problemas y preocupaciones
+fundamentales. Identifican cómo es una solución aceptable e identifican opciones
+para lograrla.
+
+4.2.7.3 Planificación
+Barry Boehm elaboró un modelo que compara el tiempo y el esfuerzo invertidos en la
+elaboración de planes para reducir el riesgo, incluidos los retrasos y otros costos asociados con
+la sobreplanificación. Al tomarse más tiempo para planificar por adelantado, muchos proyectos
+pueden reducir la incertidumbre, los descuidos y el retrabajo. Sin embargo, cuanto más tiempo
+se dedique a la planificación, más tiempo se tardará en obtener un retorno de la inversión, se
+podría perder más cuota de mercado y podrían cambiar las circunstancias aún más en el momento
+en que se entregue la salida. La intención de este modelo es ayudar a identificar la cantidad
+óptima de planificación, a veces llamada el punto óptimo. El punto óptimo es diferente para cada
+proyecto; por lo tanto, no hay una respuesta correcta para la cantidad correcta de planificación
+en general. Este modelo demuestra que hay un punto en el que la planificación adicional se torna
+contraproducente.
+
+4.2.7.4 Grupos de Procesos
+Los procesos de dirección de proyectos pueden organizarse en agrupaciones lógicas de
+entradas, herramientas y técnicas de dirección de proyectos, y salidas que se adapten a las
+necesidades de la organización, los interesados y el proyecto.
+Los grupos de procesos no son fases de un proyecto. Los Grupos de Procesos interactúan
+dentro de cada fase del ciclo de vida de un proyecto. Es posible que todos estos procesos pudieran
+ocurrir dentro de una sola fase. Los procesos pueden ser iterados dentro de una fase o ciclo
+de vida. El número de iteraciones e interacciones entre los procesos varía según las necesidades
+del proyecto.
+
+170
+
+Guía del PMBOK®
+
+Los proyectos que se rigen por un enfoque basado en procesos pueden utilizar las siguientes
+cinco agrupaciones de procesos como estructura organizativa:
+► Inicio. Procesos realizados para definir un nuevo proyecto o nueva fase de un proyecto
+existente al obtener la autorización para iniciar el proyecto o fase.
+► Planificación. Procesos requeridos para establecer el alcance del proyecto, refinar
+los objetivos y definir el curso de acción requerido para alcanzar los objetivos propuestos
+del proyecto.
+► Ejecución. Procesos realizados para completar el trabajo definido en el plan para
+la dirección del proyecto a fin de satisfacer los requisitos del proyecto.
+► Monitoreo y Control. Procesos requeridos para hacer seguimiento, analizar y regular
+el progreso y el desempeño del proyecto, para identificar áreas en las que el plan
+requiera cambios y para iniciar los cambios correspondientes.
+► Cierre. Procesos llevados a cabo para completar o cerrar formalmente un proyecto,
+fase o contrato.
+Estos Grupos de Procesos son independientes del enfoque de entrega, de las áreas de
+aplicación (como marketing, servicios de información o contabilidad) y de la industria (como
+construcción, aeroespacial, telecomunicaciones). En un enfoque basado en procesos, la salida
+de un proceso normalmente se convierte en la entrada para otro proceso o es un entregable del
+proyecto o fase del proyecto. Por ejemplo, el plan para la dirección del proyecto y los documentos
+del proyecto (p.ej., registro de riesgos, registro de supuestos, etc.) producidos en el grupo de
+procesos de planificación son entradas para el grupo de procesos de ejecución donde se realizan
+las actualizaciones a los artefactos asociados.
+
+4.2.7.5 Modelo de Prominencia
+El Modelo de Prominencia se refiere a los interesados. Prominencia significa notorio, notable
+o percibido como importante. Este modelo fue propuesto por Ronald K. Mitchell, Bradley R. Agle y
+Donna J. Wood. Los autores denotaron una identificación de los interesados basada en tres variables:
+poder de influencia, legitimidad de las relaciones de los interesados con el proyecto y la urgencia de
+la reclamación de los interesados en el proyecto para el involucramiento de los mismos.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+171
+
+4.3 MODELOS APLI C ADOS A TRAVÉS DE LOS DOMINIOS
+DE DESEM PEÑO
+Es más probable que los diferentes modelos sean útiles en los distintos dominios de
+desempeño de los proyectos. Si bien las necesidades del proyecto, los interesados y el entorno
+organizacional determinarán qué modelos son más aplicables para un proyecto específico, hay
+algunos dominios de desempeño que tienen más probabilidades de hacer uso de cada modelo.
+En la Tabla 4-1 se sugiere(n) el(los) dominios de desempeño en los que es más probable que cada
+modelo sea de utilidad; sin embargo, el director y el equipo del proyecto tienen la responsabilidad
+última de seleccionar los modelos adecuados para su proyecto.
+
+172
+
+Guía del PMBOK®
+
+Tabla 4-1. Mapeo de los Modelos que Probablemente se Usarán en Cada Dominio de Desempeño
+
+Modelos de Liderazgo Situacional:
+Situational Leadership® II
+OSCAR
+Modelos de Comunicación:
+Comunicación intercultural
+Efectividad de los canales de comunicación
+Brecha de ejecución y evaluación
+Modelos de Motivación:
+Factores de higiene y de motivación
+Motivación intrínseca versus extrínseca
+Teoría de las necesidades
+Teoría X, Teoría Y y Teoría Z
+Modelos de Cambio:
+Gestión del Cambio en las Organizaciones
+ADKAR®
+Proceso de 8 Pasos para liderar el Cambio
+Transición
+Modelos de Complejidad:
+Marco de referencia Cynefin
+Matriz de Stacey
+Modelos de Desarrollo del Equipo de Proyecto:
+Escalera de Tuckman
+Desempeño del Equipo de Drexler/Sibbet
+Otros Modelos:
+Conflicto
+Negociación
+Planificación
+Grupos de Procesos
+Prominencia
+
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+
+Incertidumbre
+
+Medición
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+X
+
+X
+X
+
+X
+X
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+Entrega
+
+X
+X
+
+X
+X
+X
+X
+
+X
+
+Trabajo
+del Proyecto
+
+Planificación
+
+Enfoque de
+Desarrollo y
+Ciclo de Vida
+
+Interesados
+
+Modelo
+
+Equipo
+
+Dominio de Desempeño
+
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+
+173
+
+4.4 MÉTODOS COM ÚNM ENTE UTILIZ ADOS
+Un método es un medio para lograr un efecto, salida, resultado o entregable del proyecto .
+Los métodos descritos aquí son un muestreo de los que se utilizan comúnmente para apoyar el
+trabajo en los proyectos. Hay muchos métodos que no se describen aquí, ya sea porque se utilizan
+en la dirección de proyectos de la misma manera que en otras disciplinas, como las entrevistas, los
+grupos focales, las listas de verificación, etc., o porque no se utilizan con frecuencia en un amplio
+espectro de proyectos (es decir, los métodos son específicos de la industria).
+Muchos de los métodos están relacionados por el propósito al que sirven, como la estimación
+o la recopilación de datos, y por lo tanto, se presentan en un grupo. Otros están relacionados por
+el tipo de actividad que se realiza, como en los grupos de reuniones y los grupos de análisis.
+El contenido de esta sección no está diseñado para describir cómo llevar a cabo un método .
+Las descripciones se presentan a un alto nivel con información más detallada disponible en muchas
+fuentes, entre ellas PMIstandards+.
+
+4.4.1 RECOPILACIÓN Y ANÁLISIS DE DATOS
+Los métodos de recopilación y análisis de datos son utilizados para recopilar, valorar
+y evaluar datos e información con el fin de obtener una comprensión más profunda de una
+situación. Los resultados del análisis de datos pueden organizarse y presentarse como uno de los
+artefactos que se muestran en la Sección 4.6.6. Los métodos para la recopilación y el análisis de
+datos aquí descritos, junto con los artefactos descritos en la Sección 4.6.6, se utilizan a menudo
+para informar las decisiones.
+► Análisis de alternativas. El análisis de alternativas es utilizado para evaluar las
+opciones identificadas a fin de seleccionar las opciones o enfoques a utilizar para llevar
+a cabo el trabajo del proyecto.
+► Análisis de supuestos y restricciones. Un supuesto es un factor que se considera
+verdadero, real o cierto, sin prueba ni demostración. Una restricción es un factor limitante
+que afecta la ejecución de un proyecto, programa, portafolio o proceso. Esta forma
+de análisis asegura que los supuestos y las restricciones sean integradas en los planes
+y documentos del proyecto, y que haya coherencia entre ellos.
+
+174
+
+Guía del PMBOK®
+
+► Estudios Comparativos. Los estudios comparativos son la comparación de prácticas,
+procesos y productos reales o planificados con los de organizaciones comparables, lo que
+identifica las mejores prácticas, genera ideas para mejorar y proporciona una base para
+medir el desempeño.
+► Métodos de análisis de justificación del negocio. Este grupo de métodos de análisis
+se asocia con la autorización o justificación de un proyecto o de una decisión . Los
+resultados de los siguientes análisis se utilizan a menudo en un caso de negocio que
+justifique la realización de un proyecto:
+
+▹ Plazo de recuperación. Plazo de recuperación es el tiempo necesario para recuperar
+una inversión, generalmente expresado en meses o años.
+
+▹ Tasa interna de retorno (IRR). La tasa interna de retorno es el rendimiento anual
+proyectado de una inversión en un proyecto, incorporando los costos iniciales y
+continuos en una tasa de crecimiento porcentual estimada que se espera que tenga
+un proyecto determinado.
+
+▹ Retorno de la inversión (ROI). El retorno de la inversión es el porcentaje de retorno
+de una inversión inicial, calculado tomando el promedio proyectado de todos los
+beneficios netos y dividiéndolos por el costo inicial.
+
+▹ Valor actual neto (NPV). El valor actual neto es el valor futuro de los beneficios previstos,
+expresado en el valor que esos beneficios tienen en el momento de la inversión. El NPV
+toma en cuenta los costos y beneficios actuales y futuros y la inflación.
+
+▹ Análisis costo-beneficio. Un análisis costo-beneficio es una herramienta de análisis
+financiero utilizada para determinar los beneficios proporcionados por un proyecto
+respecto a sus costos.
+► Hoja de verificación. Una hoja de verificación es una hoja de anotaciones que puede
+utilizarse como lista de control cuando se recopilan datos. Las hojas de verificación
+pueden utilizarse para reunir y separar los datos en categorías. Las hojas de verificación
+también pueden utilizarse para crear histogramas y matrices, como se describe en la
+Sección 4.6.6.
+► Costo de la calidad. El costo de la calidad incluye todos los costos en los que
+se ha incurrido durante la vida del producto a través de inversiones para prevenir
+el incumplimiento de los requisitos, de la evaluación de la conformidad del producto
+o servicio con los requisitos, y del no cumplimiento de los requisitos.
+► Análisis mediante árbol de decisiones. Un análisis mediante árbol de decisiones
+es un método de diagramación y cálculo para evaluar las implicaciones de una cadena
+de opciones múltiples en presencia de incertidumbre. Los árboles de decisiones pueden
+utilizar la información generada por un análisis de valor monetario esperado para poblar
+las ramas del árbol de decisión.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+175
+
+► Análisis del valor ganado. El análisis del valor ganado es un método de análisis que
+utiliza un conjunto de mediciones asociadas con el alcance, cronograma y costo para
+determinar el desempeño del costo y del cronograma de un proyecto.
+► Valor monetario esperado (EMV). El valor monetario esperado es el valor estimado
+de un resultado expresado en términos monetarios. Se usa para cuantificar el valor
+de la incertidumbre, como un riesgo, o comparar el valor de alternativas que no son
+necesariamente equivalentes. El EMV se calcula multiplicando la probabilidad de que
+ocurra un evento y el impacto económico que tendría el evento si ocurriera.
+► Pronóstico. Un pronóstico es una estimación o predicción de condiciones y eventos
+futuros para el proyecto, basada en la información y el conocimiento disponibles en el
+momento de realizar el pronóstico. Los métodos de pronóstico cualitativo utilizan las
+opiniones y juicios de los expertos en la materia. El pronóstico cuantitativo utiliza modelos
+en los que la información del pasado se utiliza para predecir el desempeño futuro . Los
+pronósticos causales o econométricos, como el análisis de regresión, identifican las
+variables que pueden tener un impacto significativo en los resultados futuros.
+► Diagrama de influencias. Este diagrama es una representación gráfica de situaciones
+que muestran las influencias causales, la cronología de eventos y otras relaciones entre
+las variables y los resultados.
+► Evaluación del ciclo de vida. Esta evaluación es una herramienta utilizada para evaluar
+el impacto ambiental total de un producto, proceso o sistema. Incluye todos los aspectos
+de la producción de un entregable del proyecto, desde el origen de los materiales
+utilizados en el entregable hasta su distribución y eliminación final.
+► Análisis de hacer o comprar. El análisis de hacer o comprar es el proceso de recopilar
+y organizar datos acerca de los requisitos del producto y analizarlos frente a las
+alternativas disponibles, incluida la compra versus la fabricación interna del producto.
+► Matriz de probabilidad e impacto. Una matriz de probabilidad e impacto es una
+cuadrícula para vincular la probabilidad de ocurrencia de cada riesgo y su impacto sobre
+los objetivos del proyecto en caso de que ocurra dicho riesgo.
+► Análisis de procesos. Este análisis es una revisión sistemática de los pasos
+y procedimientos para realizar una actividad.
+► Análisis de regresión. Un análisis de regresión es una técnica analítica en la que
+una serie de variables de entrada son examinadas en relación a sus correspondientes
+resultados de salida a fin de desarrollar una relación matemática o estadística.
+
+176
+
+Guía del PMBOK®
+
+► Análisis de reserva. Esta técnica analítica se usa para evaluar la cantidad de riesgo
+del proyecto y la cantidad de reserva de cronograma y de presupuesto para determinar
+si la reserva es suficiente para el riesgo restante. La reserva contribuye a reducir el riesgo
+a un nivel aceptable.
+► Análisis de causa raíz. Esta técnica analítica es utilizada para determinar la causa
+subyacente básica para una variación, un defecto o un riesgo. Más de una variación,
+defecto o riesgo pueden deberse a una causa raíz.
+► Análisis de sensibilidad. Esta técnica analítica se usa para determinar qué riesgos
+individuales del proyecto u otras fuentes de incertidumbre tienen el mayor impacto
+posible sobre los resultados del proyecto, mediante la correlación de las variaciones
+en los resultados del proyecto con las variaciones en los elementos de un modelo
+cuantitativo de análisis de riesgo.
+► Simulación. Esta técnica analítica utiliza modelos para mostrar el efecto combinado
+de las incertidumbres para evaluar su posible impacto en los objetivos. Una simulación
+de Monte Carlo es un método para la identificación de los impactos potenciales del riesgo
+y la incertidumbre utilizando múltiples iteraciones de un modelo computarizado para
+desarrollar una distribución de probabilidad de un rango de resultados que podrían ser
+consecuencia de una decisión o curso de acción.
+► Análisis de interesados. Esta técnica implica recopilar y analizar de manera sistemática
+información cuantitativa y cualitativa acerca de los interesados, a fin de determinar qué
+intereses particulares deben tenerse en cuenta a lo largo del proyecto.
+► Análisis FODA. Un análisis FODA evalúa las fortalezas, oportunidades, debilidades
+y amenazas de una organización, proyecto u opción.
+► Análisis de tendencias. Un análisis de tendencias utiliza modelos matemáticos para
+pronosticar resultados futuros basado en resultados históricos.
+► Mapeo del flujo de valor. El mapeo del flujo de valor es un método empresarial “lean”
+utilizado para documentar, analizar y mejorar el flujo de información o materiales
+necesarios con el fin de producir un producto o servicio para un cliente.
+► Análisis de variación. El análisis de variación es utilizado para determinar la causa
+y el grado de diferencia entre la línea base y el desempeño real.
+► Análisis de escenarios “¿Qué pasa si…?”. Esta técnica analítica evalúa escenarios
+a fin de predecir su efecto sobre los objetivos del proyecto.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+177
+
+4.4.2 ESTIMACIÓN
+Los métodos de estimación son utilizados para desarrollar una aproximación del trabajo,
+tiempo o costos en un proyecto.
+► Agrupamiento de afinidad. El agrupamiento de afinidad involucra la clasificación
+de los elementos en categorías o colecciones similares de acuerdo con su semejanza.
+Los agrupamientos de afinidad comunes incluyen la estimación por tamaño de camiseta
+(t-shirt sizing) y los números de Fibonacci.
+► Estimación análoga. La estimación análoga evalúa la duración o el costo de una
+actividad o un proyecto utilizando datos históricos de una actividad o proyecto similar.
+► Punto de función. Un punto de función es una estimación de la cantidad de funcionalidad
+comercial en un sistema de información. Los puntos de función se usan para calcular una
+medida de tamaño funcional (FSM) de un sistema de software.
+► Estimación multipunto. La estimación multipunto evalúa el costo o la duración
+mediante la aplicación de un promedio o promedio ponderado de estimaciones
+optimistas, pesimistas y más probables, usado cuando existe incertidumbre en las
+estimaciones de las actividades individuales.
+► Estimación paramétrica. La estimación paramétrica utiliza un algoritmo para calcular
+el costo o la duración con base en datos históricos y parámetros del proyecto.
+► Estimación relativa. La estimación relativa es usada para crear estimaciones que
+se derivan de la realización de una comparación con un conjunto de trabajos similares,
+teniendo en cuenta el esfuerzo, la complejidad y la incertidumbre. La estimación relativa
+no está basada necesariamente en unidades absolutas de costo o tiempo. Los puntos
+de historia son una medida común sin unidad utilizada en la estimación relativa.
+► Estimación puntual. La estimación puntual (single-point estimating) involucra
+el uso de datos para calcular un único valor que refleje una estimación más probable.
+Una estimación puntual se opone a una estimación de rango, que incluye el mejor
+y el peor escenario.
+► Estimación por punto de historia. La estimación por punto de historia implica que
+los miembros del equipo del proyecto asignen puntos de esfuerzo abstractos, pero
+relativos, requeridos para implementar una historia de usuario. Le comunica al equipo
+del proyecto la dificultad de la historia considerando la complejidad, los riesgos y el
+esfuerzo involucrados.
+► Delphi de banda ancha (Wideband Delphi). El Delphi de banda ancha es una variación
+del método de estimación Delphi, en el que los expertos en la materia completan
+múltiples rondas de producción de estimaciones de forma individual, con un debate
+del equipo del proyecto después de cada ronda, hasta que se llega a un consenso. En el
+caso de Delphi de banda ancha, los que crearon las estimaciones más altas y más bajas
+explican su fundamento, tras lo cual todo el mundo vuelve a estimar. El proceso se repite
+hasta que se logra la convergencia. El póker de planificación (“planning poker”) es una
+variación del Delphi de banda ancha.
+
+178
+
+Guía del PMBOK®
+
+4.4.3 REUNIONES Y EVENTOS
+Las reuniones son un medio importante para involucrar al equipo del proyecto y a los otros
+interesados. Constituyen un medio de comunicación primario en todo el proyecto.
+► Perfeccionamiento de la lista de trabajo pendiente (Backlog refinement).
+En una reunión de perfeccionamiento de la lista de trabajo pendiente, la lista de trabajo
+pendiente es elaborada progresivamente y repriorizada para identificar el trabajo que
+se puede realizar en una próxima iteración.
+► Conferencia de oferentes. Reuniones con posibles vendedores previas a la preparación
+de una licitación o propuesta para asegurar que todos los posibles proveedores
+comprendan de manera clara y uniforme la necesidad de adquisición. Esta reunión
+puede también ser conocida como conferencias de contratistas, conferencias de
+proveedores o conferencias previas a la licitación.
+► Comité de control de cambios. Una reunión del comité de control de cambios incluye
+al grupo de personas que son responsables de revisar, evaluar, aprobar, retrasar
+o rechazar los cambios del proyecto. Las decisiones adoptadas en esta reunión son
+registradas y comunicadas a los interesados correspondientes. Esta reunión también
+puede ser mencionada como reunión de control de cambios.
+► Reunión diaria de pie (daily standup). Una reunión diaria de pie en una breve reunión
+de colaboración en la que el equipo del proyecto revisa su progreso desde el día anterior,
+declara sus intenciones para el día actual y destaca los obstáculos encontrados o previstos.
+Esta reunión también puede ser mencionada como un Scrum diario (Daily Scrum).
+► Planificación de la iteración. Una reunión para planificación de la iteración
+es realizada para aclarar los detalles de los ítems de la lista de trabajo pendiente,
+los criterios de aceptación y el esfuerzo de trabajo requerido para cumplir con un
+compromiso de iteración próximo. Esta reunión también puede ser mencionada
+como una reunión de planificación de “sprint”.
+► Revisión de la iteración. Una revisión de la iteración es celebrada al final de una
+iteración para demostrar el trabajo realizado durante la misma. Esta reunión también
+puede ser mencionada como una revisión de “sprint”.
+► Lanzamiento. Una reunión de lanzamiento es un encuentro de los miembros del equipo
+de proyecto y otros interesados clave al comienzo de un proyecto con el fin de establecer
+formalmente las expectativas, obtener un entendimiento común y dar comienzo
+al trabajo. Establece el inicio de un proyecto, fase o iteración.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+179
+
+► Reunión de lecciones aprendidas. Una reunión sobre las lecciones aprendidas se
+utiliza para identificar y compartir los conocimientos adquiridos durante un proyecto,
+fase o iteración con el objetivo de mejorar el desempeño del equipo del proyecto. En esta
+reunión se pueden abordar situaciones que se podrían haber manejado mejor, además
+de buenas prácticas y situaciones que produjeron resultados muy favorables.
+► Reunión de planificación. Una reunión de planificación se utiliza para crear, elaborar
+o revisar un plan o planes y garantizar el compromiso para el plan o planes.
+► Cierre del proyecto. Una reunión de cierre del proyecto se utiliza para obtener la
+aceptación final del alcance entregado por parte del patrocinador, el dueño del producto
+o el cliente. Esta reunión indica que la entrega del producto está completa.
+► Revisión del proyecto. Una revisión del proyecto es un evento al final de una fase o un
+proyecto para evaluar el estado, el valor entregado y determinar si el proyecto está listo
+para pasar a la siguiente fase o para hacer la transición a operaciones.
+► Planificación de la liberación. Las reuniones de planificación de la liberación
+identifican un plan de alto nivel con miras a la liberación o la transición de un producto,
+entregable o incremento de valor.
+► Retrospectiva. Una retrospectiva es un taller que ocurre periódicamente, en el que
+los participantes exploran su trabajo y sus resultados con el fin de mejorar tanto
+el proceso como el producto. Las retrospectivas son una modalidad de reunión de
+lecciones aprendidas.
+► Revisión del riesgo. Reunión para analizar el estado de los riesgos existentes y la
+identificación de nuevos riesgos. Esto incluye determinar si el riesgo todavía está
+activo y si se han producido cambios en los atributos del riesgo (como la probabilidad,
+el impacto, la urgencia, etc.). Las respuestas al riesgo se evalúan para determinar
+si son efectivas o deben actualizarse. Se pueden identificar y analizar nuevos riesgos
+y se pueden cerrar los que ya no están activos. La reevaluación del riesgo es un ejemplo
+de una reunión de revisión de riesgos.
+► Reunión de estatus. Una reunión de estatus es un evento programado periódicamente
+para intercambiar y analizar información sobre el progreso actual del proyecto
+y su desempeño.
+► Comité de dirección. Reunión donde interesados sénior proporcionan dirección y apoyo
+al equipo del proyecto y toman decisiones fuera de la autoridad del equipo de proyecto.
+
+180
+
+Guía del PMBOK®
+
+4.4.4 OTROS MÉTODOS
+Los métodos descritos en esta sección no entran en una categoría específica; sin embargo,
+son métodos comunes que se utilizan con diversos fines en los proyectos.
+► Mapeo de impacto. El mapeo de impacto es un método de planificación estratégica
+que sirve como una hoja de ruta visual para la organización, durante el desarrollo
+del producto.
+► Modelado. El modelado es el proceso de creación de representaciones simplificadas
+de sistemas, soluciones o entregables, tales como prototipos, diagramas o guiones
+gráficos. El modelado puede facilitar un análisis más profundo al identificar lagunas
+en la información, áreas de falta de comunicación o requisitos adicionales.
+► Puntuación Neta del Promotor (Net Promoter Score®, NPS®). Índice que mide
+la voluntad de los clientes para recomendar a otros los productos o servicios de una
+organización. La puntuación se usa como un indicador para medir la satisfacción
+general del cliente con el producto o servicio de una organización y la lealtad
+del cliente a la marca.
+► Esquema de priorización. Los esquemas de priorización son métodos utilizados
+para priorizar el portafolio, el programa o los componentes del proyecto, así como los
+requisitos, riesgos, características u otra información del producto. Los ejemplos incluyen
+un análisis ponderado multi-criterio y el método MoSCoW (debe tener, debería tener,
+podría tener y no tendrá).
+► Período de Tiempo Preestablecido. Un período de tiempo preestablecido es un
+período corto y fijo de tiempo en el que se debe completar el trabajo, como una semana,
+dos semanas o un mes.
+
+4.5 MÉTODOS APLIC ADOS A TRAVÉS DE LOS DOMINIOS
+DE DESEM PEÑO
+Es más probable que diferentes métodos sean útiles en cada uno de los dominios de
+desempeño. Si bien las necesidades del enfoque de entrega, el producto y el entorno organizacional
+determinarán qué métodos son más aplicables para un proyecto específico, hay algunos dominios
+de desempeño que tienen más probabilidades de hacer uso de métodos específicos. En la Tabla
+4-2 se sugiere(n) el(los) dominio(s) de desempeño en los que es más probable que cada método sea
+de utilidad; sin embargo, el director y/o el equipo del proyecto tienen la responsabilidad última de
+seleccionar los métodos adecuados para su proyecto.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+181
+
+Tabla 4-2. Mapeo de los Métodos que Probablemente se Usarán
+en Cada Dominio de Desempeño
+
+182
+
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+
+Incertidumbre
+
+X
+
+Medición
+
+X
+X
+
+Entrega
+
+Trabajo
+del Proyecto
+
+Enfoque de
+Desarrollo y
+Ciclo de Vida
+X
+
+Planificación
+
+Métodos para Recopilación y Análisis de Datos:
+Análisis de alternativas
+Análisis de supuestos y restricciones
+Estudios Comparativos
+Análisis de justificación del negocio
+Plazo de recuperación
+Tasa interna de retorno
+Retorno de la inversión
+Valor actual neto
+Relación costo-beneficio
+Hoja de verificación
+Costo de la calidad
+Análisis mediante árbol de decisiones
+Análisis del valor ganado
+Valor monetario esperado
+Pronósticos
+Diagrama de influencias
+Evaluación del ciclo de vida
+Análisis de hacer o comprar
+Matriz de probabilidad e impacto
+Análisis de procesos
+Análisis de regresión
+Análisis de causa raíz
+Análisis de sensibilidad
+Simulación
+Análisis de interesados
+Análisis FODA
+Análisis de tendencias
+Mapeo del flujo de valor
+Análisis de variación
+Análisis de escenarios “¿Qué pasa si…?”
+
+Interesados
+
+Método
+
+Equipo
+
+Dominio de Desempeño
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+
+X
+X
+
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+Guía del PMBOK®
+
+Tabla 4-2. Mapeo de los Métodos que Probablemente se Usarán
+en cada Dominio de Desempeño (cont.)
+
+Métodos de Estimación:
+Agrupamiento de afinidad
+Estimación análoga
+Puntos de función
+Estimación multipunto
+Estimación paramétrica
+Estimación relativa
+Estimación puntual
+Estimación por punto de historia
+Delphi de banda ancha
+Métodos de Reuniones y Eventos:
+Perfeccionamiento de la lista de trabajos pendientes
+Conferencia de oferentes
+Comité de control de cambios
+Reunión diaria de pie (daily standup)
+Revisión de la iteración
+Planificación de la iteración
+Lanzamiento
+Lecciones aprendidas
+Planificación
+Cierre del proyecto
+Revisión del proyecto
+Planificación de la liberación
+Retrospectiva
+Revisión del riesgo
+Estatus
+Comité de dirección
+Otros Métodos:
+Mapeo de impacto
+Modelado
+Puntuación Neta del Promotor
+Esquema de priorización
+Período de tiempo preestablecido
+
+Incertidumbre
+
+Medición
+
+Entrega
+
+Trabajo
+del Proyecto
+
+Planificación
+
+Enfoque de
+Desarrollo y
+Ciclo de Vida
+
+Interesados
+
+Método
+
+Equipo
+
+Dominio de Desempeño
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+183
+
+4.6 ARTEF ACTOS COM ÚNM ENTE UTILIZ ADOS
+Un artefacto es una plantilla, documento, salida o entregable del proyecto. Hay muchos
+documentos o entregables que no se describen aquí, ya sea porque: (a) son algo genéricos,
+como las actualizaciones; (b) son específicos de la industria; o (c) son el resultado de un método
+específico que se utilizó para crearlo, por ejemplo, si bien los estimados de costos son un artefacto
+importante, son el resultado de diversos métodos de estimación.
+El contenido de esta sección no está diseñado para describir cómo desarrollar o crear un
+artefacto. Las descripciones se presentan a un alto nivel, ya que se espera que los directores
+de proyecto y/o los miembros del equipo de proyecto adapten el uso de estos artefactos a las
+necesidades de su proyecto concreto. Existe información más detallada sobre estos y otros
+artefactos en muchas fuentes, incluyendo PMIstandards+.
+
+4.6.1 ARTEFACTOS DE ESTRATEGIA
+Documentos que son creados antes o al comienzo del proyecto que abordan información
+estratégica, de negocio o de alto nivel sobre el proyecto. Los artefactos de estrategia son
+desarrollados al comienzo de un proyecto y normalmente no cambian, aunque pueden ser
+revisados a lo largo del proyecto.
+► Caso de negocio. Un caso de negocio es una propuesta de valor para un proyecto
+propuesto, que puede incluir beneficios financieros y no financieros.
+► Lienzo de modelo de negocio. Este artefacto es un resumen visual de una página que
+describe la propuesta de valor, la infraestructura, los clientes y las finanzas. Estos se
+utilizan a menudo en situaciones de lean startup.
+► Informe del proyecto. Un informe del proyecto entrega una visión general de alto nivel,
+sobre los objetivos, entregables y procesos del proyecto.
+► Acta de constitución del proyecto. Un acta de constitución del proyecto es
+un documento emitido por el iniciador del proyecto o patrocinador, que autoriza
+formalmente la existencia de un proyecto y confiere al director del proyecto la
+autoridad para aplicar los recursos de la organización a las actividades del proyecto.
+► Declaración de la visión del proyecto. Este documento es una descripción concisa
+y de alto nivel del proyecto, que declara el propósito e inspira al equipo del proyecto
+a contribuir al mismo.
+► Hoja de Ruta. Este documento proporciona una línea de tiempo de alto nivel que
+describe hitos, acontecimientos significativos, revisiones y puntos de decisión.
+
+184
+
+Guía del PMBOK®
+
+4.6.2 BITÁCORAS Y REG ISTROS
+Se utilizan registros para documentar los aspectos en continua evolución del proyecto.
+Son actualizados a lo largo del proyecto. Los términos bitácora y registro se podrían utilizar
+indistintamente. Podría verse el término registro de riesgos o bitácora de riesgos refiriéndose
+al mismo artefacto.
+► Registro de supuestos. Un supuesto es un factor que se considera verdadero, real o
+cierto, sin prueba ni demostración. Una restricción es un factor que limita las opciones
+para dirigir un proyecto, programa, portafolio o proceso. Un registro de supuestos
+registra todos los supuestos y restricciones a lo largo del proyecto.
+► Lista de Trabajo Pendiente. Una lista de trabajo pendiente es una lista ordenada del
+trabajo a realizar. Los proyectos pueden tener listas de trabajo pendiente asociadas
+al producto, a los requisitos, a los impedimentos, y así sucesivamente. Se priorizan los
+elementos de la lista de trabajo pendiente. El trabajo priorizado es entonces programado
+para las próximas iteraciones.
+► Registro de cambios. Un registro de cambios es una lista completa de los cambios
+presentados durante el proyecto y su estado actual. Un cambio puede ser una
+modificación de cualquier entregable, componente del plan para la dirección del
+proyecto o documento del proyecto formalmente controlados.
+► Registro de incidentes. Un incidente es una condición o situación actual que puede
+tener un impacto en los objetivos del proyecto. Se utiliza un registro de incidentes para
+registrar y supervisar la información sobre los incidentes activos. Los incidentes son
+asignados a una parte responsable para su seguimiento y resolución.
+► Registro de lecciones aprendidas. Un registro de lecciones aprendidas se utiliza para
+registrar los conocimientos adquiridos durante un proyecto, fase o iteración, de modo
+que se puedan utilizar para mejorar el desempeño futuro del equipo del proyecto y/o
+de la organización.
+► Lista de trabajo pendiente ajustada al riesgo. Una lista de trabajo pendiente ajustada
+al riesgo incluye el trabajo y las acciones para abordar las amenazas y oportunidades.
+► Registro de riesgos. Un registro de riesgos es un repositorio en el cual se registran las
+salidas de los procesos de gestión de riesgos. La información de un registro de riesgos
+puede incluir la persona responsable de la gestión del riesgo, la probabilidad, el impacto,
+la puntuación del riesgo, las respuestas previstas al riesgo y otra información utilizada
+para obtener una comprensión de alto nivel de los riesgos individuales.
+► Registro de interesados. Un registro de interesados registra información acerca de los
+interesados del proyecto, que incluye información, evaluación y clasificación de los mismos.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+185
+
+4.6.3 PLANES
+Un plan es un medio propuesto para lograr algo. Los equipos de proyecto desarrollan planes
+para los aspectos individuales de un proyecto y/o combinan toda esa información en un plan global
+para la dirección del proyecto. Los planes generalmente son documentos escritos, pero también
+pueden verse reflejados en pizarras visuales/virtuales.
+► Plan de control de cambios. Un plan de control de cambios es un componente
+del plan para la dirección del proyecto que establece el comité de control de cambios,
+documenta su grado de autoridad y describe cómo se ha de implementar el sistema
+de control de cambios.
+► Plan de gestión de las comunicaciones. Este plan es un componente del plan para
+la dirección del proyecto, programa o portafolio que describe cómo, cuándo y por medio
+de quién se administrará y difundirá la información del proyecto.
+► Plan de gestión de los costos. Este plan es un componente de un plan para la dirección
+del proyecto o programa que describe la forma en que los costos serán planificados,
+estructurados y controlados.
+► Plan de Iteración. Este plan es un plan detallado para la iteración actual.
+► Plan de gestión de las adquisiciones. Este plan es un componente del plan para la
+dirección del proyecto o programa que describe cómo un equipo de proyecto adquirirá
+bienes y servicios fuera de la organización ejecutante.
+► Plan para la dirección del proyecto. El plan para la dirección del proyecto es
+un documento que describe el modo en que el proyecto será ejecutado, monitoreado
+y controlado y cerrado.
+► Plan de gestión de la calidad. Este plan es un componente del plan para la dirección del
+proyecto o programa que describe cómo se implementarán las políticas, procedimientos
+y pautas aplicables para alcanzar los objetivos de calidad.
+► Plan de liberación. Este plan establece las expectativas para las fechas, características
+y/o resultados que se espera obtener en el curso de múltiples iteraciones.
+► Plan de gestión de los requisitos. Este plan es un componente del plan para
+la dirección de un proyecto o programa que describe cómo serán analizados,
+documentados y gestionados los requisitos.
+► Plan de gestión de los recursos. Este plan es un componente del plan para la dirección
+del proyecto que describe cómo se adquieren, asignan, monitorean y controlan los
+recursos del proyecto.
+► Plan de gestión de los riesgos. Este plan es un componente del plan para la dirección
+del proyecto, programa o portafolio que describe el modo en que las actividades de
+gestión de riesgos serán estructuradas y llevadas a cabo.
+
+186
+
+Guía del PMBOK®
+
+► Plan de gestión del alcance. Este plan es un componente del plan para la dirección del
+proyecto o programa que describe el modo en que el alcance será definido, desarrollado,
+monitoreado, controlado y validado.
+► Plan de gestión del cronograma. Este plan es un componente del plan para la dirección
+del proyecto o programa que establece los criterios y las actividades para desarrollar,
+monitorear y controlar el cronograma.
+► Plan de involucramiento de los interesados. Este plan es un componente del plan
+para la dirección del proyecto que identifica las estrategias y acciones requeridas para
+promover el involucramiento productivo de los interesados en la toma de decisiones
+y la ejecución del proyecto o programa.
+► Plan de pruebas. Este documento describe los entregables que serán probados,

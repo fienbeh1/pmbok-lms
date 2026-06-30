@@ -1,0 +1,379 @@
+
+El trabajo de proyecto está asociado con el establecimiento de los procesos y la realización del
+trabajo para permitir que el equipo de proyecto cumpla con los entregables y resultados esperados.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+69
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño del Trabajo
+del Proyecto:
+Documentos de las licitaciones. Todos los documentos utilizados para solicitar información,
+cotizaciones o propuestas a posibles vendedores.
+Conferencia de Oferentes. Reuniones con posibles vendedores previas a la preparación de
+una licitación o propuesta para asegurar que todos los posibles proveedores comprendan la
+necesidad de adquisición de manera clara y uniforme. También conocidas como conferencias
+de contratistas, conferencias de proveedores o conferencias previas a la licitación.
+Conocimiento Explícito. Conocimiento que puede codificarse utilizando símbolos tales como
+palabras, números e imágenes.
+Conocimiento Tácito. Conocimiento personal que puede ser difícil de articular y compartir
+tal como creencias, experiencia y percepciones.
+
+El trabajo del proyecto mantiene enfocado al equipo de proyecto y a las actividades del
+proyecto en ejecución sin problemas. Esto incluye, entre otras cosas:
+► Gestionar el flujo de trabajo existente, el nuevo trabajo y los cambios en el trabajo;
+► Mantener centrado al equipo de proyecto;
+► Establecer sistemas y procesos de proyecto eficientes;
+► Comunicarse con los interesados;
+► Gestionar los materiales, equipamiento, suministros y logística;
+► Trabajar con profesionales y proveedores en relación contractual para planificar
+y gestionar adquisiciones y contratos;
+► Monitorear los cambios que pueden afectar el proyecto; y
+► Habilitar el aprendizaje de proyectos y la transferencia de conocimiento.
+
+70
+
+Guía del PMBOK®
+
+2.5.1 PROCES OS DEL P ROYECTO
+El director del proyecto y el equipo de proyecto establecen y revisan periódicamente los
+procesos que el equipo de proyecto está utilizando para llevar a cabo el trabajo. Esto puede
+consistir en revisar los tableros de tareas para determinar si hay cuellos de botella en el proceso,
+si el trabajo fluye al ritmo esperado y si hay algún impedimento que esté bloqueando el progreso.
+La adaptación del proceso se puede utilizar para optimizar el mismo para las necesidades
+del proyecto. En general, los proyectos grandes tienen más procesos en comparación con los
+pequeños, y los proyectos críticos tienen más procesos que los proyectos menos significativos.
+La adaptación toma en consideración las demandas del entorno. Las formas de optimizar los
+procesos para el entorno incluyen:
+► Métodos de producción Lean. La producción Lean utiliza técnicas tales como el
+mapeo del flujo de valor para medir la proporción de actividades que agregan valor y las
+actividades que no agregan valor. Las métricas calculadas forman una base y un sistema
+de medición para identificar y eliminar los desperdicios de los sistemas de producción.
+► Retrospectivas o lecciones aprendidas. Estas reuniones brindan una oportunidad
+para que el equipo de proyecto revise la forma en que funciona y sugiera cambios para
+mejorar el proceso y la eficiencia.
+► ¿Cuál es la siguiente mejor inversión? Hacer esta pregunta puede ayudar a los
+equipos de proyecto a determinar si deben continuar con la tarea actual o pasar a la
+siguiente actividad para optimizar la entrega de valor.
+Revisar los procesos puede implicar determinar si los procesos son eficientes o si hay
+desperdicio en el proceso que se puede eliminar. El tiempo dedicado al seguimiento de la
+conformidad con el proceso es el tiempo que el equipo de proyecto no puede dedicar a entregar
+los resultados para los cuales se emprendió el proyecto. Por lo tanto, los equipos de proyecto
+utilizan el tiempo justo para revisar la conformidad del proceso con el fin de maximizar los
+beneficios entregados a partir de la revisión, al tiempo que satisfacen las necesidades
+de gobernanza del proceso.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+71
+
+Ejemplo de trabajo sin valor agregado. Una PMO quiere rastrear el tipo de trabajo que están
+realizando los miembros del equipo de proyecto. Piden al equipo de proyecto que registre el
+tipo de trabajo que están haciendo en categorías específicas en sus hojas de tiempo . El tiempo
+necesario para categorizar y registrar su tiempo puede considerarse como trabajo sin valor
+agregado.
+
+Además de ser eficientes, los procesos deben ser eficaces. Esto significa que necesitan
+cumplir con los requisitos de calidad, regulaciones, estándares y políticas organizacionales, además
+de producir el resultado deseado. La evaluación de procesos puede incluir auditorías de procesos
+y actividades de aseguramiento de calidad para garantizar que los procesos se respeten y estén
+logrando los resultados previstos.
+
+2.5.2 EQUILIBRIO DE LAS RESTRICCIONE S EN COMPETENCIA
+Liderar con éxito un proyecto incluye comprender las restricciones asociadas con el trabajo.
+Las restricciones pueden adoptar la forma de fechas de entrega fijas, cumplimiento de los códigos
+regulatorios, un presupuesto predeterminado, políticas de calidad, consideraciones del triple
+resultado final, y así sucesivamente. Las restricciones pueden desplazarse y cambiar a lo largo
+del proyecto. Un nuevo requisito de los interesados puede implicar la ampliación del cronograma
+y del presupuesto. Una reducción en el presupuesto puede implicar la relajación de un requisito
+de calidad o la reducción del alcance.
+Equilibrar estas restricciones cambiantes, al tiempo que se conserva la satisfacción de los
+interesados, es una actividad continua en el proyecto. A veces, puede incluir reunirse con el cliente,
+el patrocinador o el dueño del producto para presentar alternativas e implicaciones. Otras veces,
+las decisiones y posibles variaciones pueden estar dentro de la autoridad del equipo de proyecto
+para hacer concesiones con el fin de entregar el resultado final. De cualquier manera, esta actividad
+de equilibrar está en curso a lo largo de todo el proyecto.
+
+72
+
+Guía del PMBOK®
+
+2.5.3 CONSERVACIÓN DEL ENFOQUE DEL EQUIPO DE PROYECTO
+Los directores de proyecto tienen la responsabilidad de evaluar y equilibrar el enfoque y la
+atención del equipo de proyecto. Esto implica evaluar las proyecciones a corto y largo plazo del
+progreso hacia los objetivos de entrega.
+Liderar el equipo de proyecto incluye equilibrar la carga de trabajo y evaluar si los miembros
+del equipo de proyecto están satisfechos con su trabajo para que permanezcan motivados . Para
+maximizar el valor del negocio y de los interesados entregado a lo largo del proyecto, la atención
+del equipo de proyecto debe mantenerse en un equilibrio saludable. Liderar con el objetivo de
+maximizar el valor total entregado implica centrarse en la producción (entrega de valor) y proteger
+la capacidad de producción del equipo deproyecto (salud y satisfacción del equipo deproyecto).
+El objetivo es conservar al equipo de proyecto centrado en entregar valor y mantener la conciencia
+de cuándo ingresan en el proyecto posibles incidentes, retrasos y sobrecostos.
+
+2.5.4 COMUNICACIO NES E INVOLUCRAMIENTO EN EL PROYECTO
+Gran parte del trabajo del proyecto está asociado con la comunicación y el involucramiento,
+especialmente el trabajo asociado con el mantenimiento del involucramiento de los miembros del
+equipo de proyecto y otros interesados. Como se describe en el Dominio de Desempeño de los
+Interesados, la comunicación implica comunicación formal e informal, además de la comunicación
+verbal y escrita. La información se puede recopilar en reuniones, conversaciones y extrayendo
+información de repositorios electrónicos. Una vez recogida, se distribuye como se indica en el plan
+de comunicaciones de la dirección de proyectos.
+En el día a día, hay solicitudes ad hoc de información, presentaciones, informes y otras
+formas de comunicación. Una abundancia de solicitudes de comunicación ad hoc puede indicar
+que la planificación de la comunicación no fue suficiente para satisfacer las necesidades de los
+interesados. En esta situación, puede ser necesario un mayor involucramiento de los interesados
+para garantizar que se cumplan los requisitos de información de los mismos.
+
+2.5.5 GESTIÓN DE REC URSOS FÍSICOS
+Algunos proyectos requieren materiales y suministros provenientes de terceros. Planificar,
+ordenar, transportar, almacenar, rastrear y controlar estos recursos físicos puede implicar una gran
+cantidad de tiempo y esfuerzo.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+73
+
+Grandes cantidades de recursos físicos requieren un sistema logístico integrado. Esto
+generalmente está documentado en las políticas de la empresa que luego se implementan en
+los proyectos. Un plan de logística describe la manera en que se implementará la política de la
+empresa en el proyecto. La documentación de apoyo incluye estimados para el tipo de material,
+base de las estimaciones, uso esperado a lo largo del tiempo, especificaciones para el grado,
+y el momento y el lugar para las entregas.
+Los objetivos desde la perspectiva de los recursos físicos son los siguientes:
+► Reducir o eliminar el manejo y almacenamiento de materiales en el sitio,
+► Eliminar los tiempos de espera para los materiales,
+► Minimizar los desechos y los desperdicios, y
+► Promover un ambiente de trabajo seguro.
+Todo este trabajo se integra con el cronograma maestro del proyecto para proporcionar
+expectativas y comunicaciones claras para todas las partes involucradas.
+
+2.5.6 TRABAJO CON ADQUISICIONES
+Muchos proyectos involucran alguna forma de contratación o adquisición. Las adquisiciones
+pueden cubrir todo, desde materiales, equipos de capital y suministros hasta soluciones, mano
+de obra y servicios. En la mayoría de las organizaciones, los directores de proyectos no tienen
+autoridad para contratar. Más bien, trabajan con funcionarios de contratación u otras personas
+con experiencia en contratos, leyes y regulaciones. Las organizaciones generalmente tienen
+políticas y procedimientos rigurosos asociados con las adquisiciones. Las políticas identifican quién
+tiene autoridad para celebrar un contrato, los límites de autoridad y los procesos y procedimientos
+que deberían seguirse.
+Antes de efectuar una adquisición, el director del proyecto y los miembros del equipo de
+proyecto técnicamente calificados trabajan con profesionales contratantes para desarrollar la
+solicitud de propuesta (RFP), el enunciado del trabajo (SOW), los términos y condiciones y otros
+documentos necesarios para abrir la licitación.
+
+74
+
+Guía del PMBOK®
+
+2.5.6.1 Proceso de Licitación
+El proceso de licitación incluye el desarrollo y la publicidad de los documentos de las
+licitaciones, conferencias de oferentes y selección de un oferente.
+Los documentos de las licitaciones pueden incluir:
+► Solicitud de información. Una solicitud de información se utiliza para recopilar más
+información del mercado antes de enviar los documentos de las licitaciones a un conjunto
+de proveedores seleccionados.
+► Solicitud de propuesta. Este documento de las licitaciones se utiliza en el caso de
+un alcance complejo o complicado donde el comprador está buscando que el proveedor
+proporcione una solución.
+► Solicitud de cotización. Este documento de las licitaciones se utiliza cuando el precio
+es el principal factor decisivo y la solución propuesta está fácilmente disponible.
+Estos tres tipos cubren la mayoría de las necesidades de las licitaciones. Existen otros
+documentos de las licitaciones; sin embargo, tienden a ser específicos para cada industria.
+Una vez que se distribuyen los documentos de las licitaciones, el comprador generalmente
+convoca a una conferencia de oferentes para responder a las preguntas de los mismos y proporcionar
+información aclaratoria. A continuación, los oferentes desarrollan sus respuestas y las entregan
+al comprador en la fecha especificada en los documentos de la licitación.
+Elegir el mejor proveedor, a veces conocido como selección de fuente, frecuentemente
+se basa en una serie de criterios, tales como experiencia, referencias, precio y entrega oportuna .
+Estas variables pueden ponderarse para reflejar la importancia relativa de cada una. El comprador
+evalúa las ofertas de los proveedores según los criterios para seleccionar un(os) proveedor(es)
+apropiado(s). El comprador y el proveedor negocian los términos y condiciones. En su mayoría
+todo se puede negociar, desde el costo hasta las fechas de entrega y pago, hasta la ubicación del
+trabajo, la propiedad intelectual, etc.
+
+2.5.6.2 Contratación
+Finalmente, las partes llegan a un acuerdo y celebran un contrato. El tipo de medio de
+contratación depende del tamaño de la compra, la estabilidad del alcance del trabajo y las
+tolerancias al riesgo de las organizaciones.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+75
+
+Para los proyectos que utilizan un enfoque adaptativo para algunos entregables y un enfoque
+predictivo para otros, se puede utilizar un acuerdo maestro para el contrato general. El trabajo
+adaptativo puede ser colocado en un apéndice o suplemento. Esto permite que los cambios
+ocurran en el alcance adaptativo sin afectar el contrato general.
+
+Una vez seleccionado el proveedor, los planes y documentos del proyecto son actualizados
+para incorporar las fechas, los recursos, los costos, los requisitos de calidad, los riesgos, etc. A partir
+de ese momento, el proveedor se convierte en un interesado del proyecto. La información en el
+Dominio de Desempeño de los Interesados y el Dominio de Desempeño de la Medición se aplicará
+al(a los) proveedor(es) a lo largo del proyecto.
+Las adquisiciones pueden producirse en cualquier momento durante el proyecto. Todas las
+actividades de adquisición se integran en las operaciones del proyecto.
+
+2.5.7 MONITOREO DE NUEVOS TRABAJOS Y CAMBIOS
+En los proyectos adaptativos, existe la expectativa de que el trabajo evolucionará y se
+adaptará. Como resultado, se puede añadir el nuevo trabajo a la lista de trabajo pendiente del
+producto, según sea necesario. Sin embargo, si se añade más trabajo del que se está completando,
+o si se añade la misma cantidad de trabajo que se está completando, el proyecto continuará sin fin.
+El director del proyecto trabaja con el dueño del producto para gestionar las expectativas en torno
+a la adición de alcance, las implicaciones para el presupuesto y la disponibilidad de los miembros
+del equipo de proyecto. El dueño del producto prioriza la lista de trabajo pendiente del proyecto
+de forma continua, para que se completen los elementos de alta prioridad. Si el cronograma o
+presupuesto está restringido, el dueño del producto puede considerar el proyecto como realizado
+cuando se entregan los elementos de mayor prioridad.
+
+76
+
+Guía del PMBOK®
+
+En proyectos predictivos, el equipo de proyecto gestiona activamente los cambios en el
+trabajo para garantizar que en la línea base del alcance solo se incluyan cambios aprobados .
+Cualquier cambio en el alcance va acompañado de cambios apropiados en las personas, recursos,
+cronograma y presupuesto. Los cambios en el alcance pueden aumentar la incertidumbre; por lo
+tanto, cualquier solicitud de cambio debe ir acompañada de una evaluación de cualquier nuevo
+riesgo que se introduzca debido a la adición o cambio en el alcance. El director del proyecto trabaja
+con el comité de control de cambios y el solicitante del cambio para guiar las solicitudes de cambio
+a través del proceso de control de cambios. Los cambios aprobados se integran en los documentos
+aplicables de planificación del proyecto, la lista de trabajo pendiente asociado al producto y el
+alcance del proyecto. Los cambios también son comunicados a los interesados correspondientes.
+
+2.5.8 APRENDIZAJE A LO LARGO DEL PROYECTO
+Periódicamente, el equipo de proyecto puede reunirse para determinar qué pueden hacer
+mejor en el futuro (lecciones aprendidas) y cómo pueden mejorar y cuestionar el proceso en las
+próximas iteraciones (retrospectivas). Las formas de trabajar pueden evolucionar para producir
+mejores resultados.
+
+2.5.8.1 Gestión del Conocimiento
+Durante los proyectos se aprende mucho. Parte del aprendizaje es específico del proyecto,
+tal como una manera más rápida de realizar un trabajo específico. Algo del aprendizaje se puede
+compartir con otros equipos de proyecto para mejorar los resultados, tal como un enfoque
+de aseguramiento de calidad que resulta en menos defectos. Aún se pueden compartir otros
+aprendizajes en toda la organización, tal como capacitar a los usuarios sobre cómo trabajar con
+una nueva aplicación de software.
+
+2.5.8.2 Conocimiento Tácito y Explícito
+A lo largo del proyecto, los equipos de proyecto desarrollan y comparten conocimiento
+explícito. El conocimiento explícito puede codificarse fácilmente mediante palabras, imágenes o
+números. Por ejemplo, los pasos para un nuevo proceso constituyen conocimiento explícito que
+se puede documentar. El conocimiento explícito se puede distribuir utilizando herramientas de
+gestión de la información para vincular a las personas con la información, tales como manuales,
+registros, búsquedas web y bases de datos.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+77
+
+Otro tipo de conocimiento es el conocimiento tácito. El conocimiento tácito es difícil de
+expresar, ya que no se puede codificar. Se compone de experiencia, percepciones y conocimiento
+práctico o habilidad. El conocimiento tácito se comparte vinculando a las personas que necesitan
+el conocimiento con las personas que tienen ese conocimiento. Esto se puede lograr a través
+de creación de relaciones de trabajo (networking), entrevistas, observación del trabajo, foros de
+discusión, talleres u otros métodos similares.
+Dado que los proyectos son esfuerzos temporales, gran parte del conocimiento se pierde
+una vez que se completa el proyecto. Estar atento a la transferencia de conocimiento sirve a
+la organización no solo al entregar el valor en busca del cual se acometió el proyecto, sino que
+también permite a la organización obtener conocimiento de la experiencia de ejecutar proyectos.
+
+2.5.9 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+El Dominio de Desempeño del Trabajo del Proyecto interactúa con y habilita otros dominios
+de desempeño en el proyecto. El trabajo del proyecto permite y apoya la planificación, entrega y
+métricas eficientes y efectivas. Proporciona el entorno para que las reuniones del equipo de proyecto,
+las interacciones y el compromiso de los interesados sean eficaces. El trabajo del proyecto apoya
+la navegación de la incertidumbre, la ambigüedad y la complejidad; y equilibra sus impactos
+con las otras restricciones del proyecto.
+
+78
+
+Guía del PMBOK®
+
+2.5.10 VE RIFICA CIÓ N DE RESULTADOS
+La Tabla 2-7 identifica los resultados a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-7. Verificación de Resultados — Dominio de Desempeño del Trabajo del Proyecto
+
+Resultado
+
+Verificar
+
+Desempeño eficiente y efectivo del
+proyecto
+
+Los informes de estado muestran que el trabajo del proyecto es eficiente
+y efectivo.
+
+Procesos del proyecto que son
+apropiados para el proyecto y
+el entorno
+
+La evidencia muestra que los procesos del proyecto han sido adaptados para
+satisfacer las necesidades del proyecto y del entorno. Las auditorías de
+procesos y las actividades de aseguramiento de calidad muestran que los
+procesos son relevantes y son utilizados de manera efectiva.
+
+Comunicación e involucramiento
+adecuados con los interesados
+
+El plan de comunicación del proyecto y los artefactos de comunicación
+demuestran que las comunicaciones planificadas se están entregando a los
+interesados. Existen pocas solicitudes ad hoc de información o
+malentendidos que puedan indicar que las actividades de involucramiento y
+comunicación no son efectivas.
+
+Gestión eficiente de los recursos
+físicos
+
+La cantidad de material utilizado, los desechos y la cantidad de retrabajo
+indican que los recursos se están utilizando eficientemente.
+
+Gestión eficaz de las adquisiciones
+
+Una auditoría sobre las adquisiciones demuestra que los procesos
+apropiados utilizados fueron suficientes para la adquisición y que el
+desempeño del contratista está de acuerdo con el plan.
+
+Manejo efectivo del cambio
+
+Los proyectos que utilizan un enfoque predictivo tienen un registro de
+cambios que muestra que los cambios están siendo evaluados de manera
+holística teniendo en cuenta el alcance, el cronograma, el presupuesto, los
+recursos, los interesados y los impactos del riesgo. Los proyectos que utilizan
+un enfoque adaptativo tienen una lista de trabajo pendiente que indica la
+tasa de logro del alcance y la tasa de adición de nuevo alcance.
+
+Capacidad mejorada gracias al
+aprendizaje continuo y a la mejora
+de los procesos
+
+Los informes de estado del equipo muestran menos errores y retrabajo con
+un aumento en la velocidad.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+79
+
+2.6 DOMINIO DE DE SEMPEÑO DE LA ENTREG A
+
+DOMINIO DE DESEMPEÑO DE LA ENTREGA
+EI Dominio de Desempeño
+de Ia Entrega aborda Ias
+actividades y funciones
+asociadas con Ia entrega
+deI aIcance y Ia caIidad
+para cuyo Iogro se
+emprendió eI proyecto.
+
+La ejecución efectiva de este dominio de desempeño tiene los
+siguientes resultados deseados:
+Los proyectos contribuyen a los objetivos de negocio y al avance
+de la estrategia.
+Los proyectos materializan los resultados para los que fueron
+iniciados.
+Los beneficios del proyecto se obtienen en el plazo en que se
+planificaron.
+El equipo de proyecto tiene una clara comprensión de los requisitos.
+Los interesados aceptan y están satisfechos con los entregables
+del proyecto.

@@ -1,0 +1,550 @@
+
+Los proyectos apoyan la ejecución de la estrategia y el avance de los objetivos del negocio. La
+entrega del proyecto se enfoca en cumplir con los requisitos, el alcance y las expectativas de calidad
+para producir los entregables esperados que impulsarán los resultados previstos.
+
+80
+
+Guía del PMBOK®
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño de la Entrega:
+Requisito. Condición o capacidad que debe estar presente en un producto, servicio o resultado
+para satisfacer una necesidad de negocio.
+Estructura de Desglose del Trabajo (WBS/EDT). Descomposición jerárquica del alcance
+total del trabajo a ser realizado por el equipo del proyecto para cumplir con los objetivos del
+proyecto y crear los entregables requeridos.
+Definición de Terminado (DoD). Lista de verificación que incluye todos los criterios requeridos
+para que un entregable sea considerado como listo para ser usado por el cliente.
+Calidad. Grado en el que un conjunto de características inherentes satisface los requisitos.
+Costo de la Calidad (COQ). Todos los costos incurridos durante la vida del producto por
+inversión en la prevención de no conformidad con los requisitos, evaluación del producto
+o servicio en cuanto a su conformidad con los requisitos, e incumplimiento de los requisitos.
+
+Los proyectos proporcionan valor de negocio desarrollando nuevos productos o servicios,
+resolviendo problemas o reparando características que eran defectuosas o sub-óptimas. Los
+proyectos a menudo producen múltiples resultados que los interesados pueden valorar de manera
+diferente. Por ejemplo, un grupo puede valorar la facilidad de uso o los aspectos de ahorro de
+tiempo de un entregable, mientras que otro grupo valora su retorno económico o diferenciación
+en el mercado.
+
+2.6.1 ENTREGA DE VALOR
+Los proyectos que utilizan un enfoque de desarrollo que apoya la liberación de entregables
+a lo largo del ciclo de vida del proyecto pueden comenzar a entregar valor al negocio, al cliente
+o a otros interesados durante el proyecto. Los proyectos que entregan la mayor parte de sus
+entregables al final del ciclo de vida del proyecto generan valor después del despliegue inicial.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+81
+
+El valor de negocio a menudo continúa siendo captado mucho después de que el proyecto
+inicial haya terminado. Con frecuencia, se utilizan ciclos de vida de productos y programas más
+extensos para medir los beneficios y el valor aportados por proyectos anteriores.
+Un documento de caso de negocio a menudo proporciona la justificación del negocio y una
+proyección del valor de negocio anticipado a partir de un proyecto. El formato de este caso de
+negocio varía según el enfoque de desarrollo y el ciclo de vida seleccionados. Los ejemplos incluyen
+documentos de casos de negocio con estimados detallados del retorno de la inversión o un lienzo
+de inicio lean que describe elementos de alto nivel tales como el problema, la solución, los flujos de
+ingresos y las estructuras de costos. Estos documentos de negocio muestran cómo los resultados
+del proyecto se alinean con los objetivos de negocio de la organización.
+Los documentos que autorizan el proyecto intentan cuantificar los resultad os deseados
+del mismo para permitir mediciones periódicas. Estos documentos pueden variar desde planes
+detallados de referencia u hojas de ruta de alto nivel que proporcionan una visión general del ciclo
+de vida del proyecto, liberaciones principales, entregables clave, revisiones y otra información de
+alto nivel.
+
+2.6.2 ENTREGABLES
+En este contexto, entregable se refiere al producto, servicio o resultado, provisional o final,
+de un proyecto. Los entregables facilitan los resultados que el proyecto se comprometió a crear.
+Los entregables reflejan los requisitos de los interesados, el alcance y la calidad, junto con los
+impactos a largo plazo sobre las ganancias, las personas y el planeta.
+
+2.6.2.1 Requisitos
+Un requisito es una condición o capacidad que debe estar presente en un producto, servicio
+o resultado para satisfacer una necesidad de negocio. Los requisitos pueden ser de muy alto nivel,
+como los que se encuentran en un caso de negocio, o pueden ser muy detallados, como los que
+se encuentran en los criterios de aceptación para un componente de un sistema.
+En los proyectos que tienen un alcance bien definido y relativamente estable, los interesados
+del proyecto generalmente trabajan para obtener y documentar los requisitos durante la planificación
+inicial. En los proyectos para los que se tiene un entendimiento de alto nivel de los requisitos al inicio,
+esos requisitos pueden evolucionar con el tiempo. En algunos proyectos se descubren los requisitos
+durante el trabajo del proyecto.
+
+82
+
+Guía del PMBOK®
+
+► Recolección de requisitos. Recolectar en este caso significa sacar, producir o evocar.
+La recolección de requisitos es más que entrevistar o realizar grupos focales. A veces los
+requisitos se establecen analizando datos, observando procesos, revisando registros de
+defectos u otros métodos.
+Parte de la recolección de requisitos es documentarlos y obtener el acuerdo de los
+interesados. Los requisitos bien documentados cumplen los siguientes criterios:
+
+▹ Claro. Sólo existe una manera de interpretar el requisito.
+▹ Conciso. El requisito es formulado en tan pocas palabras como sea posible.
+▹ Verificable. Existe una forma de verificar que el requisito se haya cumplido.
+▹ Consistente. No hay requisitos contradictorios.
+▹ Completo. El conjunto de requisitos representa la totalidad de las necesidades
+actuales del proyecto o producto.
+
+▹ Trazable. Cada requisito puede ser reconocido mediante un identificador único.
+► Evolución y descubrimiento de requisitos. En proyectos que no tienen requisitos
+claramente definidos por adelantado, pueden utilizarse prototipos, demostraciones,
+guiones gráficos y maquetas para evolucionar los requisitos. En estas situaciones, es
+más probable que los interesados adopten un enfoque de “lo sabré cuando lo vea” para
+desarrollar los requisitos. Los requisitos en evolución son comunes en proyectos que
+utilizan enfoques de desarrollo iterativos, incrementales o adaptativos. En algunos casos
+surgen nuevas oportunidades que cambian los requisitos.
+► Gestión de los requisitos. Existe la necesidad de gestionar los requisitos,
+independientemente de si se documentan por adelantado, evolucionan a lo largo
+del camino o son descubiertos. La gestión ineficaz de los requisitos puede conducir a
+retrabajo, corrupción del alcance, insatisfacción del cliente, sobrecostos presupuestales,
+retraso en el cronograma y falla general del proyecto. Por lo tanto, muchos proyectos
+tienen una persona responsable de la gestión de los requisitos. Esta persona puede
+actuar como analista de negocios, dueño del producto, ingeniero de valor u otro título.
+Las personas que gestionan los requisitos pueden utilizar software especializado, listas
+de trabajo pendiente, fichas (index cards), matrices de trazabilidad o algún otro método
+para garantizar que haya un nivel adecuado de flexibilidad de los requisitos frente a la
+estabilidad de los mismos, y que todos los interesados pertinentes estén de acuerdo
+sobre los requisitos nuevos y cambiantes.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+83
+
+2.6.2.2 Definición del Alcance
+A medida que se identifican los requisitos, se define el alcance que los cumplirá. El alcance es
+la suma de los productos, servicios y resultados a ser proporcionados como un proyecto . A medida
+que se define el alcance, se crea la necesidad de una mayor identificación de los requisitos. Por
+lo tanto, al igual que los requisitos, el alcance puede estar bien definido por adelantado, puede
+evolucionar con el tiempo o puede ser descubierto.
+► Descomposición del alcance. El alcance se puede preparar utilizando un enunciado
+del alcance para identificar los principales entregables asociados con el proyecto y los
+criterios de aceptación para cada entregable. El alcance también se puede elaborar
+descomponiéndolo en niveles más bajos de detalle utilizando una estructura de desglose
+del trabajo (EDT). Una EDT es una descomposición jerárquica del alcance total del trabajo
+a realizar por el equipo de proyecto para cumplir con los objetivos del proyecto y crear los
+entregables requeridos. Cada nivel hacia abajo en la jerarquía representa un mayor nivel
+de detalle del entregable y del trabajo requerido para producirlo.
+Otra manera de elaborar el alcance es identificando los temas del proyecto en un acta
+de constitución ágil, hoja de ruta o como parte de la jerarquía de los productos. Los
+temas representan grandes grupos de valor para el cliente reflejados como historias de
+usuario asociadas por un factor común, como la funcionalidad, la fuente de datos o el
+nivel de seguridad. Para llevar a cabo los temas, el equipo de proyecto desarrolla épicas,
+que son contenedores lógicos para una gran historia de usuario que es demasiado
+grande para completarse dentro de una iteración. Las épicas pueden descomponerse en
+características, un conjunto de requisitos relacionados típicamente descritos como una
+frase o función corta, que representan comportamientos específicos de un producto.
+Cada característica tendrá varias historias de usuario. Una historia de usuario es una
+breve descripción del resultado para un usuario específico. Es un compromiso de una
+conversación a fin de aclarar detalles. El equipo de proyecto define los detalles de la
+historia en el último momento responsable para evitar una planificación derrochadora
+en caso de que el alcance cambie. La historia es una representación clara y concisa de
+un requisito escrito desde la perspectiva del usuario final.
+
+84
+
+Guía del PMBOK®
+
+► Finalización de entregables. Dependiendo del enfoque utilizado, hay diferentes formas
+de describir la finalización de componentes o proyectos:
+
+▹ Criterios de aceptación o finalización. Los criterios que deben cumplirse antes de
+que el cliente acepte el entregable o antes de que el proyecto se considere completo
+a menudo se documentan en una declaración de alcance.
+
+▹ Medidas de desempeño técnico. Las especificaciones técnicas de un producto pueden
+ser documentadas en un documento de especificaciones separado, o pueden
+ser documentadas como una extensión de la EDT. Esta extensión, conocida como
+un diccionario de la EDT, elabora la información para cada entregable (paquete
+de trabajo) de la EDT.
+
+▹ Definición de terminado. La definición de terminado se utiliza con enfoques adaptativos,
+particularmente en proyectos de desarrollo de software. Es una lista de verificación que
+incluye todos los criterios requeridos para que un entregable sea considerado como
+listo para usar por parte del cliente.
+
+2.6.2.3 Objetivos Móviles de Finalización
+Los proyectos que operan en entornos inciertos y rápidamente cambiantes enfrentan la
+situación de que un objetivo “suficientemente bueno para ser liberado” o “terminado” puede
+estar sujeto a cambios. En los mercados en los que los competidores lanzan nuevos productos con
+frecuencia, las características previstas para una nueva liberación son susceptibles de actualización.
+Del mismo modo, las nuevas tendencias tecnológicas, tales como los dispositivos móv iles o los
+dispositivos para llevar puestos (wearable devices), podrían desencadenar un cambio de dirección
+o introducir nuevos requisitos.
+En estos entornos, la definición de la meta del proyecto que se está entregando o está
+“terminada” está en constante movimiento. Los equipos de proyecto rastrean la tasa planificada
+de logro de la meta del proyecto en relación con la tasa de progreso hacia la finalización. Cuanto
+más tarde el proyecto en completarse, más probable es que el objetivo de “terminado” del proyecto
+se mueva. Esto se denomina a veces “deriva de lo terminado (done drift)”.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+85
+
+El Gráfico 2-21 muestra un escenario para el desarrollo de un nuevo reloj inteligente.
+El cronograma inicial muestra 12 meses para desarrollar el reloj con el conjunto inicial de
+capacidades y características. A medida que los competidores lanzan productos similares,
+el conjunto inicial de capacidades y características aumenta para seguir siendo relevante en el
+mercado. Esto mueve la fecha de lanzamiento al Mes 14. A los 13 meses, otro competidor lanza
+un producto con aún más capacidades. Añadir estas capacidades retrasaría el lanzamiento
+al Mes 16. En algún momento, se tomará una decisión sobre si liberar el producto tal como está,
+aunque no tenga las características más recientes, o continuar actualizando las características
+antes del lanzamiento.
+
+Cronograma inicial
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+9
+
+10
+
+11
+
+12
+
+Se identifican
+nuevas características
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Se identifican
+nuevas características
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+13
+
+14
+
+Deriva de lo terminado
+Se identifican
+nuevas características
+
+10 11
+
+12 13 14 15
+
+16
+
+Deriva de lo terminado
+
+Gráfico 2-21. Escenario para Desarrollar un Reloj Inteligente
+
+86
+
+Guía del PMBOK®
+
+Los proyectos que operan en un entorno más estable a menudo se enfrentan a la “corrupción
+o deslizamiento del alcance”. Esto es cuando se aceptan alcance o requisitos adicionales sin
+ajustar el cronograma, presupuesto o necesidades de recursos correspondientes. Para combatir
+la corrupción o deslizamiento del alcance, los equipos de proyecto utilizan un sistema de control
+de cambios donde todos los cambios se evalúan para determinar el valor potencial que aportan al
+proyecto y los recursos, el tiempo y el presupuesto potenciales necesarios para concretar el valor
+potencial. A continuación, el equipo de proyecto presenta los cambios al organismo de gobernanza
+del proyecto, al dueño del producto o al patrocinador ejecutivo para su aprobación formal.
+
+2.6.3 CALIDAD
+La entrega es más que solo el alcance y los requisitos. El alcance y los requisitos se enfocan
+en lo que se debe entregar. La calidad se centra en los niveles de desempeño que deben cumplirse.
+Los requisitos de calidad pueden reflejarse en los criterios de finalización, la definición de terminado,
+el enunciado del trabajo o la documentación de requisitos.
+Gran parte de los costos asociados con la calidad nacen de la organización patrocinadora
+y se reflejan en las políticas, procedimientos y procesos de trabajo. Por ejemplo, las políticas
+organizacionales que rigen la forma en que se realiza el trabajo y los procedimientos que prescriben
+los procesos de trabajo a menudo forman parte de la política de calidad de la organización.
+Los costos de los gastos generales, capacitación y auditoría de procesos son asumidos por
+la organización, aunque son empleados por el proyecto. En los proyectos es inherente equilibrar
+las necesidades de calidad de los procesos y productos con los costos asociados con la satisfacción
+de esas necesidades.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+87
+
+2.6.3.1 Costo de la Calidad
+La metodología del costo de la calidad (COQ) se utiliza para encontrar el equilibrio adecuado
+para invertir en la prevención y evaluación de la calidad a fin de evitar defectos o fallas en los
+productos. Este modelo identifica cuatro categorías de costos asociados con la calidad: prevención,
+evaluación, falla interna y falla externa. Los costos de prevención y evaluación están asociados con
+el costo del cumplimiento de los requisitos de calidad. Los costos de fallas internas y externas están
+asociados con el costo del incumplimiento.
+► Prevención. Los costos de prevención se incurren para mantener los defectos y fallas
+alejados de un producto. Los costos de prevención evitan problemas de calidad. Se
+asocian al diseño, implementación y mantenimiento del sistema de gestión de calidad.
+Se planifican e incurren antes de la operación real. Algunos ejemplos:
+
+▹ Requisitos de productos o servicios, tales como el establecimiento de especificaciones
+para los materiales entrantes, procesos, productos terminados y servicios;
+
+▹ Planificación de la calidad, tales como la creación de planes de calidad, confiabilidad,
+operaciones, producción e inspección;
+
+▹ Aseguramiento de la calidad, tales como la creación y el mantenimiento del sistema
+de calidad; y
+
+▹ Capacitación, tales como el desarrollo, preparación y mantenimiento de programas.
+► Evaluación. Se incurre en costos de evaluación para determinar el grado de conformidad
+con los requisitos de calidad. Los costos de evaluación están asociados con las actividades
+de medición y monitoreo relacionadas con la calidad. Estos costos pueden estar asociados
+con la evaluación de los materiales, procesos, productos y servicios comprados para
+garantizar que cumplan con las especificaciones. Podrían incluir:
+
+▹ Verificación, tales como comprobar el material entrante, la configuración del proceso
+y los productos contra las especificaciones acordadas;
+
+▹ Auditorías de calidad, tales como la confirmación de que el sistema de calidad está
+funcionando correctamente; y
+
+▹ Calificación de proveedores, tales como evaluación y aprobación de proveedores
+de productos y servicios.
+
+88
+
+Guía del PMBOK®
+
+► Falla Interna. Los costos de falla interna están asociados con la búsqueda y corrección
+de defectos antes de que el cliente reciba el producto. En estos costos se incurre cuando
+los resultados del trabajo no alcanzan los estándares de calidad de diseño. Algunos
+ejemplos:
+
+▹ Desperdicio, tal como el desempeño de un trabajo innecesario o tener suficiente
+inventario para tomar en cuenta errores, mala organización o comunicación;
+
+▹ Desechos, tales como productos o materiales defectuosos que no pueden ser
+reparados, utilizados o vendidos;
+
+▹ Retrabajo o rectificación, tal como la corrección de material defectuoso o de errores; y
+▹ Análisis de fallas, tales como actividades requeridas para establecer las causas de fallas
+internas del producto o servicio.
+► Falla Externa. Los costos de falla externa se asocian con los defectos encontrados
+después de que el cliente tiene el producto y con su reparación. Hay que tener en cuenta
+que considerar estos fracasos de manera holística requiere pensar en el producto del
+proyecto mientras está en funcionamiento después de meses o años, no solo en la fecha
+de entrega. Los costos de falla externa ocurren cuando los productos o servicios que no
+alcanzan los estándares de calidad de diseño no se detectan hasta después de que han
+llegado al cliente. Algunos ejemplos:
+
+▹ Reparaciones y mantenimiento, tanto para los productos devueltos como para aquellos
+que están desplegados;
+
+▹ Reclamaciones de garantía, tales como productos con fallas que son reemplazados
+o servicios que se vuelven a prestar bajo una garantía;
+
+▹ Quejas, por todos los trabajos y costos asociados con el manejo y servicio de las quejas
+de los clientes;
+
+▹ Devoluciones, para el manejo e investigación de productos rechazados o retirados
+del mercado, incluidos los costos de transporte; y
+
+▹ Reputación, cuando la reputación y la percepción pública pueden verse afectadas
+dependiendo del tipo y gravedad de los defectos.
+Para optimizar el valor entregado, la inspección temprana y el trabajo de revisión centrado
+en encontrar incidentes de calidad lo antes posible son buenas inversiones. Los intentos de “probar
+la calidad” al final del ciclo de vida del desarrollo probablemente fracasen, porque descubrir
+problemas de calidad al final del desarrollo es prohibitivo en tiempo y costo debido a las altas tasas
+de desperdicio y retrabajo, junto con el efecto dominó para salidas posteriores y los interesados.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+89
+
+2.6.3.2 Costo del Cambio
+Cuanto más tarde se encuentre un defecto, más caro será corregirlo. Esto se debe a que
+el trabajo de diseño y desarrollo generalmente ya se ha producido en función del componente
+defectuoso. Además, las actividades son más costosas de modificar a medida que avanza el ciclo
+de vida, ya que más interesados se ven afectados. Este fenómeno se caracteriza por la curva de
+costo del cambio (véase el Gráfico 2-22).
+
+Costo del Cambio
+
+Costo
+
+150x
+
+50x
+20x
+1x
+Requisitos
+
+5x
+Diseño
+
+Construcción
+
+Prueba
+
+Producción
+
+Fase detectada
+Curva de Costo del Cambio de Boehm: El Cambio se Encarece con el Tiempo
+
+Gráfico 2-22. Curva de Costo del Cambio
+
+90
+
+Guía del PMBOK®
+
+Para contrarrestar los impactos de la curva de costo del cambio, los equipos de proyecto
+diseñan procesos del proyecto con el fin de incorporar calidad. Este enfoque puede incluir analistas
+de calidad que trabajan con los diseñadores e ingenieros para comprender y determinar la mejor
+manera de lograr calidad durante cada paso en el ciclo de vida del proyecto. Ser proactivo en el
+trabajo de calidad ayuda a evitar el alto costo del cambio asociado con la solución de problemas
+de calidad descubiertos más adelante en el ciclo de vida. Es más rápido y rentable solucionar un
+problema de diseño entre dos ingenieros que un problema de componentes que afecta a cientos
+de unidades o retirar un producto que afecta a miles de clientes.
+
+2.6.4 RESULTADOS SUB ÓPTIM OS
+Todos los proyectos intentan ofrecer resultados, aunque algunos pueden no hacerlo
+o pueden producir resultados subóptimos. El potencial de resultados subóptimos existe en cada
+proyecto. En el caso de un proyecto totalmente experimental, la organización está tratando de
+lograr un avance, tal como la creación de una tecnología completamente nueva, por ejemplo.
+Esto requiere una inversión deliberada en un resultado incierto. Las empresas que producen
+nuevos medicamentos o compuestos pueden experimentar varios fracasos antes de encontrar
+una fórmula exitosa. Algunos proyectos pueden fallar en la entrega de resultados porque la
+oportunidad de mercado ha pasado o los competidores llegaron primero al mercado con su oferta.
+La dirección eficaz del proyecto puede minimizar los resultados negativos, pero tales posibilidades
+son parte de la incertidumbre de intentar producir un entregable único.
+
+2.6.5 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+El Dominio de Desempeño de la Entrega es la culminación del trabajo realizado en el
+Dominio de Desempeño de la Planificación. La cadencia de entrega se basa en la forma en que
+el trabajo es estructurado en el Dominio de Desempeño del Enfoque de Desarrollo y del Ciclo
+de Vida. El Dominio de Desempeño del Trabajo del Proyecto permite las entregas mediante
+el establecimiento de procesos, la administración de los recursos físicos, la gestión de las
+adquisiciones, etc. Los miembros del equipo de proyecto realizan el trabajo en este dominio
+de desempeño para los interesados relevantes. La naturaleza del trabajo para crear las entregas
+influirá en la forma en que el equipo de proyecto navegue a través de la incertidumbre que
+afecta al proyecto.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+91
+
+2.6.6 VE RIFICA CIÓ N DE RESULTADOS
+La Tabla 2-8 identifica los resultados a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-8. Verificación de Resultados — Dominio de Desempeño de la Entrega
+
+Resultado
+
+92
+
+Verificar
+
+Los proyectos contribuyen a los
+objetivos del negocio y al avance
+de la estrategia
+
+El plan de negocio y el plan estratégico de la organización, junto con los
+documentos de autorización del proyecto, muestran que los entregables del
+proyecto y los objetivos de negocio están alineados.
+
+Los proyectos materializan los
+resultados para los que fueron iniciados
+
+El caso de negocio y los datos subyacentes indican que el proyecto todavía está
+encaminado a lograr los resultados previstos.
+
+Los beneficios del proyecto se
+obtienen en el plazo en que se
+planificaron
+
+El plan de realización de beneficios, el caso de negocio y/o el cronograma
+indican que las métricas financieras y las entregas programadas se están
+logrando según lo planeado.
+
+El equipo de proyecto tiene una clara
+comprensión de los requisitos
+
+En el desarrollo predictivo, pocos cambios en los requisitos iniciales reflejan
+comprensión. En los proyectos donde los requisitos están evolucionando, es
+posible que no se tenga una comprensión clara de los requisitos hasta bien
+entrado el proyecto.
+
+Los interesados aceptan y están
+satisfechos con los entregables del
+proyecto
+
+Las entrevistas, la observación y la retroalimentación del usuario final indican la
+satisfacción de los interesados con los entregables. Los niveles de quejas y
+devoluciones también pueden utilizarse para indicar satisfacción.
+
+Guía del PMBOK®
+
+2.7 DOMINIO DE DE SEMPEÑO DE LA M EDICIÓN
+
+DOMINIO DE DESEMPEÑO DE LA MEDICIÓN
+EI Dominio de Desempeño
+de Ia Medición aborda Ias
+actividades y funciones
+asociadas con Ia
+evaIuación deI desempeño
+de Ios proyectos y Ia
+adopción de medidas
+apropiadas para mantener
+un desempeño aceptabIe.
+
+La ejecución efectiva de este dominio de desempeño tiene los
+siguientes resultados deseados:
+Una comprensión confiable del estado del proyecto.
+Datos procesables para facilitar la toma de decisiones.
+Acciones oportunas y apropiadas para mantener el
+desempeño del proyecto de acuerdo a lo planeado.
+Lograr objetivos y generar valor de negocio mediante la
+toma de decisiones informadas y oportunas basadas en
+pronósticos y evaluaciones confiables.

@@ -1,0 +1,2499 @@
+Constituye la base para probar formalmente los componentes y los entregables.
+
+4.6.4 DIAGRAMAS JERÁRQUICOS
+Los diagramas jerárquicos comienzan con información de alto nivel que es descompuesta
+progresivamente en nivelesmás detallados. La información de los niveles superiores abarca
+toda la información de los niveles inferiores o subsidiarios. Los diagramas jerárquicos suelen
+elaborarse progresivamente en mayores niveles de detalle a medida que se conoce más
+información sobre el proyecto.
+► Estructura de desglose de la organización. Este diagrama es una representación
+jerárquica de la organización del proyecto que ilustra la relación entre las actividades
+del proyecto y las unidades de la organización que llevarán a cabo esas actividades.
+► Estructura de desglose del producto. Este diagrama es una estructura jerárquica
+que refleja los componentes y los entregables de un producto.
+► Estructura de desglose de recursos. Este diagrama es una representación jerárquica
+de los recursos por categoría y tipo.
+► Estructura de desglose del riesgo. Este diagrama es una representación jerárquica
+de las posibles fuentes de riesgos.
+► Estructura de desglose del trabajo. Este diagrama es una descomposición jerárquica
+del alcance total del trabajo a realizar por el equipo del proyecto para cumplir con los
+objetivos del proyecto y crear los entregables requeridos.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+187
+
+4.6.5 LÍNEAS BASE
+Una línea base es la versión aprobada de un producto de trabajo o plan de trabajo.
+El desempeño real se compara con las líneas base para identificar las variaciones.
+► Presupuesto. Un presupuesto es la estimación aprobada para el proyecto o cualquier
+componente de la estructura de desglose del trabajo (EDT) o cualquier actividad
+del cronograma.
+► Cronograma de hitos. Este tipo de cronograma presenta hitos con fechas planificadas.
+► Línea base para la medición del desempeño. Líneas base del alcance, cronograma y
+costos integradas, son utilizadas para comparación, a fin de gestionar, medir y controlar
+la ejecución del proyecto.
+► Cronograma del proyecto. Un cronograma del proyecto es una salida de un modelo de
+programación que presenta actividades vinculadas con fechas planificadas, duraciones,
+hitos y recursos.
+► Línea base del alcance. Una línea base es la versión aprobada de un enunciado del
+alcance, estructura de desglose del trabajo (EDT/WBS) y su diccionario de la EDT/WBS
+asociado, que puede cambiarse utilizando procedimientos formales de control de
+cambios y que se utiliza como base de comparación con los resultados reales.
+
+4.6.6 DATOS E INFORMACIÓN VISUALES
+Los datos e información visuales son artefactos que organizan y presentan los datos y la
+información en un formato visual, tal como tablas, gráficos, matrices y diagramas. La visualización
+de los datos facilita la absorción de los datos y su conversión en información. Los artefactos de
+visualización son producidos a menudo después de que los datos se hayan recogido y analizado .
+Estos artefactos pueden ayudar en la toma de decisiones y en la determinación de prioridades.
+► Diagrama de afinidad. Este diagrama muestra un gran número de ideas clasificadas
+en grupos para su revisión y análisis.
+► Gráfica de trabajo pendiente (burndown)/trabajo realizado (burnup). Este diagrama
+es una representación gráfica del trabajo pendiente (burndown) en un período de tiempo
+preestablecido o del trabajo realizado (burnup) con miras a la liberación de un producto
+o entregable del proyecto.
+► Diagrama de causa y efecto. Este diagrama es una representación visual que ayuda
+a rastrear un efecto no deseado hasta su causa raíz.
+► Diagrama de flujo acumulativo (CFD). Este diagrama indica las funcionalidades
+completadas a lo largo del tiempo, las funcionalidades en desarrollo y las que están en
+la lista de trabajo pendiente (backlog). También puede incluir características en estados
+intermedios, como las características diseñadas pero aún no construidas, las que están
+en garantía de calidad o las que están en prueba.
+
+188
+
+Guía del PMBOK®
+
+► Diagrama de tiempo de ciclo. Este diagrama muestra el tiempo de ciclo promedio de
+los elementos de trabajo completados a lo largo del tiempo. Un diagrama de tiempo
+de ciclo puede ser mostrado como un diagrama de dispersión o un diagrama de barras.
+► Tableros. Este conjunto de diagramas y gráficos muestra el progreso o el rendimiento
+en relación con mediciones importantes del proyecto.
+► Diagrama de Flujo. Este diagrama es una representación de las entradas, acciones
+de proceso y salidas de uno o más procesos dentro de un sistema.
+► Diagrama de Gantt. Este diagrama de barras suministra información del cronograma
+donde las actividades se enumeran en el eje vertical, las fechas se muestran en el eje
+horizontal y las duraciones de las actividades se muestran como barras horizontales
+colocadas según las fechas de inicio y finalización.
+► Histograma. Este diagrama de barras muestra la representación gráfica de datos
+numéricos.
+► Radiador de información. Este artefacto es una indicación visible y física que
+proporciona información al resto de la organización, pertimiendo el intercambio
+oportuno de conocimientos.
+► Diagrama de tiempo de entrega. Este diagrama muestra la tendencia a lo largo del
+promedio del tiempo de entrega de los elementos terminados en el trabajo. Un diagrama
+de tiempo de entrega puede ser mostrado como un diagrama de dispersión o un
+diagrama de barras.
+► Matriz de priorización. Esta matriz es un diagrama de dispersión que muestra el
+esfuerzo en el eje horizontal y el valor en el eje vertical, dividido en cuatro cuadrantes
+para clasificar los elementos por prioridad.
+► Diagrama de red del cronograma del proyecto. Esta representación gráfica muestra
+las relaciones lógicas que existen entre las actividades del cronograma del proyecto.
+► Matriz de trazabilidad de requisitos. Esta matriz vincula los requisitos del producto
+desde su origen hasta los entregables que los satisfacen.
+► Matriz de Asignación de Responsabilidades (RAM). Esta matriz es una cuadrícula que
+muestra los recursos del proyecto asignados a cada paquete de trabajo. Un diagrama
+RACI es una forma común de mostrar a los interesados que son responsables, que
+rinden cuentas, son consultados o informados y que están asociados con las actividades,
+decisiones y entregables del proyecto.
+► Diagrama de dispersión. Este gráfico muestra la relación entre dos variables.
+► Curva S. Este gráfico muestra los costos acumulados durante un período específico.
+► Matriz de evaluación del involucramiento de los interesados. Esta matriz compara
+los niveles de involucramiento actual y deseado de los interesados.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+189
+
+► Story map (mapa de historia). Un “story map” es un modelo visual de todas las
+características y funcionalidades deseadas para un producto determinado, creado con
+el fin de dar al equipo de proyecto una visión holística de lo que están construyendo
+y por qué.
+► Diagrama de rendimiento. Este diagrama muestra los entregables aceptados a lo largo
+del tiempo. Un diagrama de rendimiento puede ser mostrado como un diagrama de
+dispersión o un diagrama de barras.
+► Caso de uso. Este artefacto describe y explora la forma en que un usuario interactúa
+con un sistema a fin de lograr un objetivo específico.
+► Mapa del flujo de valor. Este es un método empresarial “lean” utilizado para documentar,
+analizar y mejorar el flujo de información o materiales necesarios con el fin de producir
+un producto o servicio para un cliente. Los mapas del flujo de valor pueden ser utilizados
+para identificar desperdicios.
+► Diagrama de velocidad. Este diagrama hace seguimiento de la tasa a la que son
+producidos, validados y aceptados los entregables dentro de un intervalo predefinido.
+
+4.6.7 INFORMES
+Los informes son registros o resúmenes formales de la información. Los informes comunican
+información pertinente (generalmente a nivel de resumen) a los interesados. A menudo se dan
+informes a los interesados que se interesan por el estado del proyecto, como los patrocinadores,
+los propietarios de empresas o las PMOs.
+► Informe de calidad. Este documento de proyecto incluye temas de gestión de la
+calidad, recomendaciones para la adopción de acciones correctivas y un resumen de las
+conclusiones de las actividades de control de la calidad. Puede incluir recomendaciones
+para mejorar los procesos, los proyectos y los productos.
+► Informe de riesgos. Este documento del proyecto es desarrollado progresivamente a
+lo largo de los procesos de gestión de riesgos y resume la información sobre los riesgos
+individuales del proyecto y el nivel de riesgo general del proyecto.
+► Informe de estado. Este documento proporciona un informe sobre el estado actual
+del proyecto. Puede incluir información sobre el avance desde el último informe
+y pronósticos sobre el desempeño de los costos y del cronograma.
+
+190
+
+Guía del PMBOK®
+
+4.6.8 ACUERDOS Y CONTRATOS
+Un acuerdo es cualquier documento o comunicación que defina las intenciones de las
+partes. En los proyectos, los acuerdos adoptan la forma de contratos u otros entendimientos
+definidos. Un contrato es un acuerdo vinculante para las partes en virtud del cual el vendedor
+se obliga a proveer el producto, servicio o resultado especificado y el comprador a pagar por él.
+Existen diferentes tipos de contratos, algunos de los cuales entran dentro de una categoría de
+contratos de precio fijo o de costo reembolsable.
+► Contratos de precio fijo. Esta categoría de contrato implica establecer un precio fijo
+para un producto, servicio o resultado bien definido. Los contratos de precio fijo
+incluyen el de precio fijo cerrado (FFP), el de precio fijo más honorarios con incentivos
+(FPIF), y el de precio fijo con ajuste económico de precio (FP-EPA), entre otros.
+► Contratos de costo reembolsable. Esta categoría de contratos implica efectuar
+pagos al vendedor por los costos reales en que incurriera para completar el trabajo,
+más honorarios que representan la ganancia del vendedor. Estos contratos se utilizan
+a menudo cuando el alcance del proyecto no está bien definido o está sujeto a cambios
+frecuentes. Los contratos de costo reembolsable incluyen el de costo más honorarios
+por cumplimiento de objetivos (CPAF), el de costo más honorarios fijos (CPFF) y el de
+costo más honorarios con incentivos (CPIF).
+► Contrato por tiempo y materiales (TyM). Este contrato establece una tarifa fija,
+pero no un enunciado preciso del trabajo. Puede utilizarse para el aumento de personal,
+expertos en la materia u otro tipo de apoyo externo.
+► Contrato de entrega indefinida cantidad indefinida (IDIQ). Este contrato provee una
+cantidad indefinida de bienes o servicios, con límites inferior y superior establecidos, y
+dentro de un período determinado. Estos contratos pueden ser usados para compromisos
+de arquitectura, ingeniería o tecnología de la información.
+► Otros acuerdos. Otros tipos de acuerdos son el memorando de entendimiento (MOU),
+el memorando de acuerdo (MOA), el acuerdo de nivel de servicios (SLA) y el acuerdo
+básico de pedidos (BOA), entre otros.
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+191
+
+4.6.9 OTROS ARTEFACTOS
+Los documentos y entregables descritos aquí no entran en una categoría específica; sin
+embargo, son artefactos importantes que se utilizan con diversos fines.
+► Lista de actividades. Este documento suministra una tabla documentada de las
+actividades del cronograma que muestra la descripción de la actividad, su identificador
+y una descripción suficientemente detallada del alcance del trabajo para que los miembros
+del equipo de proyecto comprendan cuál es el trabajo que deben realizar.
+► Documentos de las licitaciones. Los documentos de las licitaciones se utilizan para
+solicitar propuestas de los posibles vendedores. Según los bienes o servicios que se
+necesiten, los documentos de las licitaciones pueden incluir, entre otros:
+
+▹ Solicitud de información (RFI),
+▹ Solicitud de cotización (RFQ), y
+▹ Solicitud de propuesta (RFP).
+► Métricas. Las métricas describen un atributo y cómo medirlo.
+► Calendario del Proyecto. Este calendario identifica los días laborables y turnos
+de trabajo disponibles para las actividades programadas.
+► Documentación de requisitos. Este documento es un registro de los requisitos del
+producto y la información pertinente necesaria para administrar los requisitos, que
+incluye la categoría asociada, la prioridad y los criterios de aceptación.
+► Acta de constitución del equipo de proyecto. Este documento registra los valores,
+acuerdos y pautas operativas del equipo de proyecto y establece expectativas claras con
+respecto al comportamiento aceptable de los miembros del equipo de proyecto.
+► Historia de usuario. Una historia de usuario es una breve descripción del resultado para
+un usuario específico. Es un compromiso de una conversación a fin de aclarar detalles.
+
+4.7 ARTEF ACTOS APLIC ADOS A TRAVÉS DE LOS DOMINIOS
+DE DESEM PEÑO
+Es más probable que diferentes artefactos sean útiles en distintos dominios de desempeño .
+Si bien el enfoque de entrega, el producto y el entorno organizacional determinarán qué artefactos
+son más aplicables para un proyecto específico, hay algunos dominios de desempeño que tienen
+más probabilidades de hacer uso de artefactos específicos. En la Tabla 4-3 se sugiere(n) el(los)
+dominio(s) de desempeño en los que es más probable que cada artefacto sea de utilidad; sin
+embargo, el director y/o el equipo de proyecto tienen la responsabilidad última de seleccionar
+y adaptar los artefactos para su proyecto.
+
+192
+
+Guía del PMBOK®
+
+Tabla 4-3. Mapeo de los Artefactos que Probablemente se Usarán
+en Cada Dominio de Desempeño
+
+Artefactos de Estrategia:
+Caso de negocio
+Informe del proyecto
+Acta de constitución del proyecto
+Declaración de la visión del proyecto
+Hoja de ruta
+Artefactos de Bitácora y Registro:
+Registro de supuestos
+Lista de trabajo pendiente
+Registro de cambios
+Registro de incidentes
+Registro de lecciones aprendidas
+Lista de trabajo pendiente ajustada al riesgo
+Registro de riesgos
+Registro de interesados
+Artefactos de Plan:
+Plan de control de cambios
+Plan de gestión de las comunicaciones
+Plan de gestión de los costos
+Plan de Iteración
+Plan de gestión de las adquisiciones
+Plan para la dirección del proyecto
+Plan de gestión de la calidad
+Plan de liberación
+Plan de gestión de los requisitos
+Plan de gestión de los recursos
+Plan de gestión de los riesgos
+Plan de gestión del alcance
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+Incertidumbre
+
+Medición
+
+Entrega
+
+X
+X
+X
+X
+X
+X
+X
+
+X
+
+Trabajo
+del Proyecto
+
+Planificación
+
+Enfoque de
+Desarrollo y
+Ciclo de Vida
+
+Interesados
+
+Artefacto
+
+Equipo
+
+Dominio de Desempeño
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+X
+
+X
+X
+X
+
+X
+X
+
+X
+X
+
+193
+
+Tabla 4-3. Mapeo de los Artefactos que Probablemente se Usarán
+en Cada Dominio de Desempeño (cont.)
+
+194
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+X
+
+X
+X
+
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+Incertidumbre
+
+Entrega
+
+X
+X
+X
+
+Medición
+
+Trabajo
+del Proyecto
+
+Enfoque de
+Desarrollo y
+Ciclo de Vida
+
+X
+
+Planificación
+
+Plan de gestión del cronograma
+Plan de involucramiento de los interesados
+Plan de pruebas
+Artefactos de Diagramas Jerárquicos:
+Estructura de desglose de la organización
+Estructura de desglose del producto
+Estructura de desglose de recursos
+Estructura de desglose del riesgo
+Estructura de desglose del trabajo
+Artefactos de Línea base:
+Presupuesto
+Cronograma de hitos
+Línea base para la medición del desempeño
+Cronograma del proyecto
+Línea base del alcance
+Artefactos de Datos e Información Visuales:
+Diagrama de afinidad
+Gráfica de trabajo pendiente o realizado
+Diagrama de causa y efecto
+Diagrama de tiempo de ciclo
+Diagrama de flujo acumulativo
+Tablero
+Diagrama de flujo
+Diagrama de Gantt
+Histograma
+Radiador de información
+Diagrama de tiempo de entrega
+Matriz de priorización
+
+Interesados
+
+Artefacto
+
+Equipo
+
+Dominio de Desempeño
+
+X
+X
+
+X
+X
+X
+X
+
+Guía del PMBOK®
+
+Tabla 4-3. Mapeo de los Artefactos que Probablemente se Usarán
+en Cada Dominio de Desempeño (cont.)
+
+X
+
+Matriz de evaluación del involucramiento de los interesados
+
+Story map (mapa de historia)
+Diagrama de rendimiento
+Caso de uso
+Mapa del flujo de valor
+Diagrama de velocidad
+Artefactos de Informes:
+Informe de calidad
+Informe de riesgos
+Informe de estatus
+Acuerdos y Contratos:
+Precio fijo
+Costo reembolsable
+Tiempo y materiales
+Entrega Indefinida/Cantidad Indefinida (IDIQ)
+Otros acuerdos
+Otros Artefactos:
+Lista de actividades
+Documentos de las licitaciones
+Métricas
+Calendarios del proyecto
+Documentación de requisitos
+Acta de constitución del equipo de proyecto
+Historia de usuario
+
+X
+X
+X
+
+X
+X
+
+X
+
+Sección 4 – Modelos, Métodos y Artefactos
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Incertidumbre
+
+X
+
+Medición
+
+Trabajo
+del Proyecto
+
+X
+X
+X
+
+Entrega
+
+Planificación
+
+Diagrama de red del cronograma del proyecto
+Matriz de trazabilidad de requisitos
+Matriz de asignación de responsabilidades
+Diagrama de dispersión
+Curva S
+
+Enfoque de
+Desarrollo y
+Ciclo de Vida
+
+Interesados
+
+Artefacto
+
+Equipo
+
+Dominio de Desempeño
+
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+195
+
+REFERENCI AS
+[1] Project Management Institute. 2020. The Standard for Project Management. Newton Square,
+PA: Autor.
+[2] Project Management Institute. 2019. The Standard for Earned Value Management. Newton Square,
+PA: Autor.
+
+196
+
+Guía del PMBOK®
+
+Apéndice X1
+Colaboradores y revisores de
+El Estándar para la Dirección de Proyectos y
+Guía de los Fundamentos para la Dirección
+de Proyectos - Séptima Edición
+El Project Management Institute agradece a todos los colaboradores su apoyo y reconoce
+sus destacadas contribuciones a la profesión de la dirección de proyectos.
+
+X1.1 COL AB OR ADORES
+La siguiente lista de colaboradores contribuyó para configurar el contenido del estándar
+y/o la guía. Las personas enumeradas en negrita formaron parte del Equipo de Desarrollo
+de la Guía del PMBOK® – Séptima Edición. La inclusión del nombre de una persona en la lista
+no representa su aprobación o respaldo al contenido final en todas sus partes.
+Cynthia Snyder Dionisio, Presidente,
+MBA, PMI-ACP, PMP
+Michael Griffiths, Vice Presidente,
+PMI-ACP, PMP
+Nicholas Clemens, PMI-ACP, PMP
+Jean Luc Favrot, PMI-ACP, PMP, SPC5
+Jesse Fewell, CST, PMI-ACP, PMP
+Emily Jingjing Hu, MPM, PRINCE2, PMP
+Betsy Kauffman, PMI-ACP, PMP, ICP-ACC
+Nader K. Rad, PMP
+Giampaolo Marucci, PhD, PMI-ACP,
+PMP, CSM
+Klaus Nielsen, MBA, PMI-ACP, PMP
+Maria Specht, MSc, PMP, NLP
+Maricarmen Suarez, MBA, PMP, PgMP
+Laurent Thomas, PhD, SPC, PMI-ACP, PMP
+Jorge Federico Vargas Uzaga, PMP
+Mike Cooley, CSM, SCPM, PMP
+Diana E. A.García Sánchez
+Carlos Gonzalez Bejarano
+Venkatram Vasi Mohanvasi
+
+Apéndice X1
+
+Marwan Abdalla, MBA, PMI-RMP, PMP
+Abdalla Yassin Abdalla Mohammed,
+Eng, MBA, PMI-RMP, PMP
+Majed Abdeen, MSc, PMP, TOGAF
+Habeeb Abdulla, MS, CSM, PMP
+Tetsuhide Abe, PMP
+Ali Abedi, PhD, CSM, PMI-ACP, PMP
+Carlos Acuña, PMP, PgMP, PfMP
+Renee Adair, PMP
+Michael Adegbenro, PMP
+Albert Agbemenu, MSc, PMP
+Kevin Aguanno, CMC, PMI-ACP, PMP
+Fawad Ahmad Khan, PMI-PBA, PMP
+Prescort Leslie Ahumuza,
+Agile SM, CAPM, PMP
+Phil Akinwale
+Emi Akiode, PMP
+Tarik Al Hraki, MBA, PMI-RMP, PMP
+Ahmed Alageed, PhD, PMI-ACP, PMP
+Ruqaya Al Badi, PMP
+Francesco Albergo, PMP
+
+197
+
+Amer Albuttma, PMI-SP, PMP
+Mohamed Aldoubasi, Eng, MBA, PMI-RMP, PMP
+Emad Al Ghamdi, Eng, EMBA, PMP
+Ahmed Ali Eziza, Eng, PMP, IPMO-E
+Mehdi Alibakhshi, PMI-PBA, PMP
+Hammam Alkouz, MBA, PMI-RMP, PMP
+Michel Allan, MBA, PMI-RMP, PMP
+Sonja Almlie, CCBA, PMI-ACP, PMP
+Ahmad Al-Musallami, PMI-ACP, PMI-SP, PMP
+Moajeb Almutairi, PMP
+Husain Al-Omani, PMP, PgMP, PfMP
+Ahmed Alsenosy, PHD, PMP, PgMP, PfMP
+Mohand Alsikhan, PMP, CISM
+Abdulrahman Alulaiyan, MBA, CCMP, PMP
+Carlos Alvarez G., PMP
+Jaime Andres Alvarez Ospina,
+MBA, PMI-RMP, PMP
+Nahlah Alyamani, PMI-ACP, PMP, PgMP
+Angelo Amaral, PSM, PMI-ACP, PMP
+Shahin Amiri, MBA, PMP
+Serge Amon, MBA, PMP
+Anabella Amoresano, PMP
+Ashwani Anant, PMI-RMP, PMI-SP, PMP
+Filipy Henrique Bonfim Andrade, Eng, GPjr, PMP
+David Anyacho
+Charalampos Apostolopoulos, PhD, PgMP, PfMP
+Alejandro Gabriel Aramburu, PMP
+Christine Aras
+Kenichiro Aratake, PMP
+Viviane Arazi, PMP, PgMP
+Eileen Arnold
+Reza Atashfaraz, MSc, PMP
+Sivaram Athmakuri, PMP, PMI-ACP, PMI-PBA
+Sharaf Attas, PMI-RMP, PMP
+Carlos Augusto Freitas, CAPM, PMP
+Shahin Avak, PMP
+Zaheer Ahmad Awan, CSM, PMI-ACP, PMP
+Khaled Azab, ITIL4, PMP
+Vahid Azadmanesh, DBA, PMP, PfMP
+Emad E. Aziz, PMP, PgMP, PfMP
+Akbar Azwir, PMO-CP, PMI-SP, PMP
+Osama Azzam, HBDP, ICYB, PMP
+Nabeel Babeker
+Amgad Badewi, PhD, MSP, AP, PMP
+Amir Bahadorestani, RA, TA
+Kenneth Bainey, MBA, CCP, PMP
+Jardel Baldo
+
+198
+
+Kristi Baldwin, RYT, PMP
+Pablo Bálsamo, PMI-RMP, PMI-SP, PMP
+Zhang Baozhong, MSc, PMP, PgMP
+Manuel F. Baquero V., PhD, MSc, PMP
+Haytham Baraka, PMI-RMP, PMP, CCP
+Mohammad Moneer Barazi, MBA, PMP
+Maria Cristina Barbero, MBA, PMI-ACP, PMP
+Andre Barcaui, PhD, PMI-ACP, PMP
+Amalia Barthel, PMP
+Saeed Baselm
+Eduardo Bazo Safra, Mg, PMP
+Pierre Beaudry, Jr., MGP, CSM, PMP
+Gregory Becker, PMP
+Martial Bellec, PMI-ACP, PMP, PgMP
+Peter Berndt de Souza Mello, PgC, PMI-SP, PMP
+Rafael Beteli Silva Zanon, MBA, PMI-PBA, PMP
+Jeff Beverage, CSP-SM, PMI-ACP, PMP
+Shantanu Bhamare, CSM, LIMC, PMP
+Ajay Bhargove, BE, PGDBA, PMP
+Sanjoy Bhattacharjee, MSBIA, PMI-ACP, PMP
+Deepa Bhide, PhD, PMP
+Şafak Bilgi Akdemir
+Mohammed Bin Askar, PMP, PgMP, PfMP
+Nigel Blampied, PhD, PE, PMP
+Greta Blash, CDAI, PgMP, PMI-PBA
+Stephen Blash
+Gisela Bolbrügge, PhD, PSM1, PMP
+Kiron Bondale, PMI-ACP, PMI-RMP, PMP
+Simona Bonghez, PhD, PMP
+Mariana Borga, MBA, LSSBB, PMP
+Raul Borges, PMP
+David Borja Padilla, MSc, PMI-RMP, PMP
+Boshoff, PMP, PRINCE2, AgilePM
+Miguel A. Botana Cobas, MBA, PMP
+Pieter Botman, Eng
+Rodolphe Boudet, PMP
+Farid Bouges
+Betty Boushey, PMP
+Younes Bousnah, MBA, PMP
+Andrea Boxsley
+Blaine Boxwell, MBA, PMP
+Joan Boyadjman
+Padmakar Boyapati, PMP
+Didier Brackx, PhD, EMS, P3O, PMP
+Leslie Bradshaw
+Damiano Bragantini, PMP
+Fabio Braggio, MBA, PMP
+
+Guía del PMBOK®
+
+Ellie Braham, AOP, PMP
+Fernando Brandão, PMP
+Jim Branden, MBA, PMP
+Wayne R. Brantley, MSEd, PMI-ACP, PMP
+Myrna Bravo, PMP
+Rocío Briceño, MBA, PMP
+Bernd Brier
+Ana Briseño, MTIA, PMP
+Syed Asad Hasnain Bukhari, MBA, MIS, PMP
+Syed Qamar Abbas Bukhari, MBA, MSPM, PMP
+Gizem Bulu
+Rev. Andy Burns, CDAI, PMI-ACP, PMP
+Robert Buttrick, BEng, CEng, FAPM Hon
+Dieter Butz, PhD, PMP
+Karl Buxton, PMP
+Andrea Caccamese, PRINCE2, PMP
+Roberto A. Cadena Legaspi, MCI, PMP
+Feren Calderwood, MSc, PMP
+Saverio Calvano, MSc, PMP
+Diego Calvetti, MSc, PMP
+Luis Alberto Cordero-Calvo, MPM, PMP
+Adrien Camp, MEng, PMI-ACP, PMP
+Bryan Campbell, PMI-ACP, PMP, PgMP
+Charles Campbell, PhD, PMP
+Heberth Campos, PMI-ACP, PMI-RMP, PMP
+Ricardo P. Cantú, MBA, MSc, PMP
+Alexandre Caramelo Pinto, MSc, TOGAF, PMP
+Andrea Carbert, PMP, PMI-ACP
+Cheryl Carstens, CAPM, PMP
+Chris Cartwright, MPM
+Laura Solano De Carvalho
+Pietro Casanova, PMP
+Shoshanna Caster
+Larry Cebuano, PMP
+Manu Chandrashekhar, PMP
+V. Paul C. Charlesraj, MS, MRICS, AMASCE
+Panos Chatzipanos, PhD, FASCE, D.WRE
+Nguyen Si Trieu Chau, PMP, PgMP, PfMP
+Jing Chen
+Lily Chen, PMP
+Karl Cheney, PMP, MPM, MPA
+Ramesh Chepur, CSQA, PRINCE2, PMP
+Mona Chevis
+Oussama Chriss, PMP
+Jorge Clemente, CPA, PMP
+Xavier Clerfeuille, MSc, NLP
+Ashley Cometto, MBA
+
+Apéndice X1
+
+Sergio Luis Conte, PhD, PMI-PBA, PMI-ACP, PMP
+Carlos Contreras G., CSM, CSPO, PMP
+Helio Costa
+Pathica Coulat
+Thaigo Cristo
+Joshua Cunio, CPD, LSSBB, PMP
+Joseph Czarnecki, SCPM, PMP
+Alexandre Venâncio da Silva
+Long Dam, PMP, PgMP, PfMP
+Graziella D'Amico, CBAP, PMI-PBA, PMP
+Farshid Damirchilo, MSc, PMP
+Teodor Darabaneanu, PMP
+Russell Darnall, DM, MPM, PMP
+Yazmine Darcy, MBA, PMI-ACP, PMP
+Kaustav Das, MCP, PMP
+Gina Davidovic, PMP, PgMP
+Curtis Davis
+José de Franca, PMP
+Viviane de Paula, PMP
+Michael DeCicco, CSM, PMP
+Mustafa Degerli, PhD, PSM, PMI-RMP, PMP
+Murat Dengiz
+Valerie Denney, DBA, PMP
+John Dettbarn, DSc, PE, CGFM
+Saju Devassy, MBA, POPM, PMP
+Yaso Dhatry Kala, LSSMBB
+Philip Diab
+Angele Diboue, PMP
+Michelle Gois Gadelha Dias
+Danil Dintsis
+Gilberto Francisco Do Vale, MBA PM
+Roland Doerr, MBA, CSM, PMP
+Mustafa Donmez, PMP
+Bala Doppalapudi, MBA, B.Tech, PMP
+Jorge A. Dueñas Lozano, VMA, PMP
+Josée Dufour, PMP
+Darya Duma
+Eunice Duran, PMP, PgMP, PfMP
+Arijit Dutt, PMP
+Valecia Dyett, PhD, PMP
+Nicolas Egiaian, PMP
+Bechir El Hosni
+Salwa El Mesbahi, PMP
+Claude El Nakhel Khalil,
+PharmD, MBA, PMP
+Abdulrahman Eldabak, PMP
+Rafik Eldaly
+
+199
+
+Sameh Eldeeb Thabet Wahba,
+Eng, CPMC, PMC, PMP
+Ahmed Eldeep, PMI-RMP, PMP
+Walla Siddig Elhadey Mohamed,
+PMI-ACP, PMI-RMP, PMP
+Ahmed Elhakim, PMI-RMP, PMP
+Osman Elhassan, MBA, PMI-RMP, PMP
+Aileen Ellis, CSM, PMP, PgMP
+Wael Elmetwaly, PMI-ACP, PMP
+Khaled El-Nakib, MSc, PMI-RMP, PMP
+Basel El-Saady, PMP
+Constance Emerson
+Algin Erozan, MSc, PMP
+Fernando Escobar, MSc, PMP
+Behnam Faizabadi
+Delphine Falcoz, PMP
+Saurater (Sam) Faraday,
+MBA, PMI-ACP, PMI-RMP
+Jamil Faraj
+Fereydoun Fardad, PMI-PBA, PMI-RMP, PMP
+Jason Farley
+John Farlik, DBA, PMI-ACP, PMP
+Scott, Fass, MPA, PMP
+Edoardo Favari, PhD, PMP
+Amr Fayez Moustafa, Eng, SFC, SSYB, PMP
+Zhang Fengxiao
+Felipe Fernandes Moreira, PMP
+Rafael Fernando Ronces Rosas
+Gail Ferreira, PhD, SPC5, PMP
+Cornelius Fichtner, CSM, PMP
+William Flanagan
+Luis Alberto Flores,
+PhD, PMI-ACP, PMI-RMP, PMP
+Gustavo Flouret, DBA, PMP
+Les Foley, MPM, MBA, PMP
+Mitchell Fong, PEng, PMP
+Ali Forouzesh, PMP, PfMP
+Luis Eduardo Franca, PMO-CP, PMI-ACP, PMP
+Kellen Sabrina Rodrigues Francisco,
+MBA, PSM I, PMP
+Douglas Franco
+Carla Frazier
+Michael Frenette, SMC, ITCP, PMP
+Ray Frohnhoefer, MBA, CCP, PMP
+Michelle Fuale
+Steven Fullmer, MBA, CQ, PMP
+Jeff Furman, CompTIA, CTT+, PMP
+
+200
+
+Nestor Gabarda Jr., ECE, PMI-ACP, PMP
+Marius Gaitan, Eng, PMI-PBA, PMP
+Zsolt G. Gálfalvi, MSP, SCM, PRINCE2
+Sara Gallagher, PSM1, PMP
+Juan Gabriel Gantiva Vergara,
+PMI-ACP, PMI-RMP, PMP
+Napoleon Garde, PMP
+Artur Gasparyan, CSM, PMO-CP, PMP
+Louis-Charles Gauthier
+Eng. Fabio Gentilini, Eng, CAPM, PMP
+Paul Geraghty, BBS, CPMA
+Kian Ghadaksaz, EVP, PMI-SP, PMP
+Ahmed Ghanem, PMP, PSP, SFC
+Omar Ghazi Ahmad, PMD Pro, MCAD, PMP
+Arijit Ghosh, PGDBA, BCom
+Subhajit Ghosh, PMI-ACP, PMP, PgMP
+Hisham Ghulam, Eng, MBA, PMI-ACP, PMP
+Paul D. Giammalvo, PhD, MScPM, CCE
+Carl M. Gilbert, PMI-ACP, PMP, PfMP
+Theofanis Giotis, MSc, PMI-ACP, PMP
+Jörg Glunde, PMI-ACP, PMP
+Dhananjay Gokhale
+Henrique Gomes da Silva
+Herbert G. Gonder, IPMA B, ACE, PMP
+Jaime González Vargas, PMP
+Diego Goyes Mosquera, MSc, PMP
+Falko Graf, MA, CMC, PMP
+Ivan Graff, PE, CCP, PMP
+Denis Gritsiyenko, PhD, PMP
+Pier Luigi Guida, PMS, PMP, PgM
+Antun Guidoni
+Nagaraja Gundappa, MTech, CSM, PMP
+Nandakumar Guruswamy, PMP, PgMP
+Anil Guvenatam, PMI-ACP, PMP
+Mohamed Hamad Elneel, Eng, PMP
+Nagy Hamamo, MSP, MoP, PMP
+Karishma Hans, MBA, PMP
+Sharad Harale
+Simon Harris
+Laura Hart
+Mahmoud Hassaballa,
+Eng, CVS, 6SigmaGB, PMP
+Akram Hassan, PMI-RMP, PMP
+Hossam Hassan Anwar,
+MEng, PM, PMI-RMP, PMP
+Shane Hastie, MIM, ICE-AC, ICE-PO
+Damah Haubner
+
+Guía del PMBOK®
+
+Hironori Hayashi, PMI-PBA, PMP, PfMP
+Kristine Hayes Munson, CIA, CISM, PMP
+Bin He, PMI-ACP, PMP
+Antonio Hernández Negrete, MBA, CSM, PMP
+Abel Herrera Sillas, DM, PMP
+Sergio Herrera-Apestigue, P3O, PRINCE2, PMP
+Shirley Hinton, PMI-ACP, PMP
+Kenji Hiraishi, MsE, PMP
+Michael Hoffpauir
+Alberto Holgado, MBA
+Eden Holt, PMP
+Regina Holzinger, PhD, PMP
+George Hord, PMP
+Gheorghe Hriscu, CGEIT, PMP
+Zayar Htun, ICM.PM, AGTI.IT
+Varetta Huggins, MS(IST), PMP, PgMP
+Ritchie Hughes, CSM, CSPO, PMP
+Edward Hung, MBA, PMI-ACP, PMP
+David J. L. Hunter, MA, PMI-ACP, PMP
+Sherif Hussein, PMP, PgMP, PfMP
+Mohammed Elfatih Hussien Ibrahim,
+Eng, MBA, PMI-RMP, PMP
+Hany I. Zahran, SAMC, SSYB, VCA-DCV
+Shuichi Ikeda, CBAP, CSM/CSPO, PMP
+Dmitrii Ilenkov, PMP
+Muhammad A. B. Ilyas, PMI-ACP, PMP, PgMP
+Andrea Innocenti, CGEIT, PMP
+Suhail Iqbal, PMP, PgMP, PfMP
+Ilya Ivanichkin, CSM, CSPO, PMP
+Ravi Iyer, MS (M&E), MBA, PE
+Can Izgi, PMP
+Tony Jacob, C Eng, PMI-PBA, PMP
+Md Javeed, BE, PMP
+Suresh Jayappa
+Srini Jeyakumar, PEng, PMP
+Greeshma Johnson, CSM, PMP
+John Johnson
+Tony Johnson, CSP, PgMP, PfMP
+George Jucan, MBA, CMP, PMP
+Jonathan Justus, MBA, BCA, PMP
+Rami Kaibni, Eng, CBAP, PfMP
+Orhan Kalayci, ITIL, DevOps, PMP
+Mohini Kamble, PMP
+Sinbong Kang, PhD, PMP
+Antoine Karam, PMP, PMI-RMP
+Alankar Karpe, PMI-ACP, PMP
+Aras Kartouzian, PhD
+
+Apéndice X1
+
+Naoki Kasahara
+Rohit Kathuria, P.Eng, PMP
+Nikhil Srinivasan Kaundinya, PMP
+Rachel Keen
+Gretta Kelzi, CTT+, EADA, PMP
+Harry Kendrick, MPM, CSM, PMP
+Suhail Khaled, CSM, PMI-ACP, PMP
+Mohamed Khalifa, PMP, PgMP, PfMP
+Mehran Khalilnejadi
+Alexander Khaydarov
+Diwakar Killamsetty, CSM, PMP
+Ariel Kirshbom, CSP, PMI-ACP, PMP
+Hiroshi Kise
+Aparna R. Kishore, MCA, CSM, PMP
+Konstantinos Kirytopoulos,
+Dr Eng, MEng, PMP
+Hadi Kiyoumarsi
+Henry Kondo, PMP, PgMP, PfMP
+Steven Kopischke, MSPM, ITIL, PMP
+Markus Kopko, PMP, PSM
+Maciej Koszykowski, PgMP, PMP, PMI-RMP
+Srikanth Kota
+Rouzbeh Kotobzadeh, PMI-ACP, PMP, PfMP
+Kevin Kovalic, MCP, CSSGB, PMP
+Wayne Kremling
+Mohsen Krichi, Eng, COBIT, ITIL 4, PMP
+Ravindrakumar Kshirsagar, SPC, PMP, PgMP
+Ashis Kumar Garg
+Kathy Kuypers
+Thierry Labriet, Prosci, PMP
+Cédric Laffitte, PMP
+Marylene Lafon, PMP
+Marc Lafontrinz
+Harisha Lakkavalli, PMP, PgMP, PfMP
+G Lakshmi Sekhar, PMI-PBA, PMI-SP, PMP
+Arun Lal, PMP
+Soheil Lamei, PhD, PMP, PgMP, PfMP
+Hagit Landman, MBA, PMI-SP, PMP
+Olivier Lazar, PMP, PgMP, PfMP
+Chia Kuang Lee, PhD, CQRM, PMP
+Oliver F. Lehmann, MSc, ACE, PMP
+Raman Lemtsiuhou, PSM II, PMP
+Harvey Levine
+Richard Lewis, MBA, PMP
+Bing Li, PMP
+Xujie Liang
+Mei Lin, PMI-ACP, PMI-PBA, PMP
+
+201
+
+Kong Linghai, MD, PMP
+An Liu
+Kai Liu
+Haishan Liu
+Tong Liu
+Pablo Lledó, MSc, MBA, PMP
+Anand Lokhande, PSM, PMI-PBA, PMP
+Stefania Lombardi, PhD, PMP
+Carlos López Javier, MBA, ME, PMP
+Marisa Andrea Lostumbo, MScPM, PMP
+Hugo K. M. Lourenço, PMI-ACP, PMI-RMP, PMP
+Sérgio Lourenço, PMI-RMP, PMP
+Erin Danica Lovell, MBA, BRMP, PMP
+Sophie Lowery, MBA, PMP
+Paolo Lucena
+Francesco Ludovico, Eng, PMP
+Sergio Oswaldo Lugo, MBA, SSMC, PMP
+Emily Luijbregts, PMP
+Ionel Lumezianu
+Michele Lusciano
+Azam M. Zaqzouq, MCT, PMP
+M. Bhuvaneswari, BE
+Alejandro Maceda
+Jan Magdi, MSc
+Ganesh Mahalingam, CSM, PMP
+Patrick Maillard, MBA, PMP
+Abhijit Maity, CBAP, PMP, PgMP
+Kieran Major, MBA, PMP
+Richard Maltzman, PMP
+Arun Mandalika, PMI-ACP, PMP
+Hussam Mandil, MBA, PMI-ACP, PMP
+Nicole Mangona, PMP
+Nandhini Manikhavel, CSM, MBA, CAPM
+Rasa Manikkam, PMP
+Erasma Mariano, ESP GP, ICP, ITIL
+Antonio Marino, Eng, PSM, PMI-ACP, PMP
+Photoula Markou-Voskou, PMP
+Orlando Marone, PMI-ACP, PMP
+Bernardo Marques, PMI-ACP, PMI-RMP, PMP
+Lucía Márquez de la Plata, MBA, ACC, PMP
+Douglas Martin, CSP-SM, PMI-ACP, PMP
+Cesar Ulises Martinez Garcia,
+SAFe SSM, PMI-ACP, PMP
+Mercedes Martinez Sanz, PMP
+Ulises Martins
+Ronnie Maschk, ASM, PMI-ACP, PMP
+Faraz Masood, MS-EE, MBA, PMP
+
+202
+
+Abid Masood Ali, Eng
+Puian Masudi Far, PhD, PMP
+Mayte Mata Sivera, PMP
+Todd Materazzi, PMI-ACP, PMP
+Komal Mathur, PMP, CSM
+Mohit Mathur, PMP
+Cristiane da Silva Matos
+David Maynard, MBA, PMP
+David McDonald, MA, MBA, CSPO
+Jon McGlothian, MBA, PMI-ACP, PMP
+Alain Patrick Medenou, MSc, PRINCE2, PMP
+Maite Meijide Montes, MS-Eng, MBA, PMP
+Orlando Mendieta, CSM, KMP I, PMP
+Hamed Mesinehasl
+Mohamed MH. Elfouly, PhD, P, PMP
+Lubomira Mihailova, MBA, MSP, PMP
+Gloria J. Miller, PMI-ACP, PMP
+Vladimir Mininel, PMP
+Manuel Minute, CPIM, CGEIT, PMP
+Amr Miqdadi, CIPM, PMP
+Nick Mirabella, PSNI
+Kunihiko Mishima
+David E. Mitchell, PMP
+Stephanie Moffatt
+Wolf Dieter Moggert, PMI-ACP, PMI-PBA, PMP
+Walid Mohamed Ahmed
+Eman Mohamed El Rashidy, PMP, PgMP
+Omar Mohamed Sallam,
+PMI-RMP, PMI-SP, PMP
+Islam Mohamed Soliman, Eng, PMP
+Ahmed Ishage Mohammed Musa,
+MBA, PMI-RMP, PMP
+Shoeb Mohammed Nadeem Uddin, PMP
+Mohamed Mohsen Mohamed Hussein, PMP
+Jose Morales, DBA, PMP
+Paola Morgese, PMP
+Alessandro Moro, PSM-I, PMP
+Chuck Morton, CSM, PMI-ACP, PMP
+Henrique Moura, PMI-ACP, PMI-RMP
+Nitin Mukesh, PMP
+Gaurav Mukherjee, CSM, PMP
+Stephen Murefu
+Wanja Murekio, MBA, PMP
+Jennifer Murphy, B.Comm(Int), MBS, MSc
+Syed Ahsan Mustaqeem, PE, PMP
+Yassir Nagy, PMI-ACP, PMP, PgMP
+Devan Naidu, MBA, PMP, PfMP
+
+Guía del PMBOK®
+
+Brijesh Nair, CEng, PMP, PgMP
+Asaya Nakasone, PMP
+Saed Namazi, MBA, PRINCE2, PMP
+Sareesh Narayanan
+Sripriya V Narayanasamy, MCA, PMP
+Zabihollah Nasehi
+Faig Nasibov, PMP
+Mahmoud Nasr, Eng., MSc, CPM
+Asad Naveed, MS-Eng, MEF-CECP, PMP
+Karthikeyan NB, MCA, CSM, PMP
+Gundo Nevhutalu, MSc, PMP
+Kian Ching Ng, MSc, PMP
+Sam Nicholson
+Eric Nielsen, PMP, CDA
+Manisha Nigam, CSM, TOGAF 9, PMP
+Aleksei Nikitin, PMI-ACP, PMI-RMP, PMP
+Mohammad Ali Niroomand Rad, MArch, PMP
+Jose Noguera, 6SBB, CSP0, PMP
+Michael Nollet, MBA, PMI-ACP, PMP
+Eric Norman, PMP, PgMP, Fellow
+Patryk Nosalik, EMBA, AgilePM, PMP
+Toru Oda, PMP
+Antonio Oliva González, SMPC, SCPO, PMP
+Ernesto Olivares
+Matheus Angelini Vidigal de Oliveira
+Tiago Chaves Oliveira, PMP
+Antonio Olivieri, PMI-ACP, PMI-RMP, PMP
+Habeeb Omar, PMP, PgMP, PfMP
+Austin Baraza Omonyo, PhD, P2 Pr, PMP
+Stefan Ondek, PMP
+Arivazhagan Ondiappan,
+PhD(hon), MBB, PMI-RMP, PMP
+Michael Ord, AccMIVMA, CPEng, RPEQ
+Stefano Orfei, PMI-PBA, PMP
+Henrique Ortega-Tenorio, MBA, PMP
+Cristiano Ottavian, PRINCE2P, PMP
+Ramesh P B, CAIIB, PMI-ACP, PMP
+Antonio Pagano
+Vijayalakshmi S. Pai, PRINCE2, PMP
+Ravindranath Palahalli, BE, PG ADR, PMP
+Jorge Palomino Garcia, Eng, MBA, PMP
+Hariyo Pangarso
+Emmanouil Papadakis, PhD, MSc, PMP
+Paul Paquette, MBA, PMI-RMP, PMP
+Divya Pareek, BTech, GMP-YLP (IIMB Alumna)
+Stéphane Parent, PMI-RMP, PMI-SP, PMP
+Reginald Paul Parker, MS, CAS, PMP
+
+Apéndice X1
+
+Cristina Parodi
+Satyabrata Pati, PMP
+Laura Paton, MBA, PMI-PBA, PMP
+Nanette Patton, MSBA, PMP
+Marcus Paulus, MBA, P2P, PMP
+Neil Pearson, PhD, PMP
+Srinivasa Rao Pentapalli,
+CMQ/OE, LEED AP, PMP
+Craig A. Perue, MBA, CMQ/OE, PMP
+Dana Persada, MBA, PMP
+Pradeep Perumparambil
+Mark Peterson
+Yvan Petit
+Brian Phillips
+Durga P Phuyal, MA, CDA, PMP
+Paolo Pierani, PSM, 6 Sigma, PMP
+Kavita Pikle, PMP
+Crispin Kik Piney, PMP, PfMP
+Jose Angelo Pinto, PMP
+Daniel Fernandes Pinto, MSc, PMP
+Massimo Pirozzi, MSc Eng, PrinPM, PMI-ACP
+Frank Polack
+Alejandro Polanco, SCPM, LPM, PMP
+Aaron Porter
+Napoleon Posada, MBA, PMP
+Svetlana Prahova, PMP, CSPO
+B K Subramanya Prasad, CSM, PMP
+Adi Prasetyo, PrinPM, MEng, PRINCE2, PMP
+Pedro Pretorius, MCom, PMP
+Claudia Prince, PMP
+Carl Pritchard, PMI-RMP, PMP
+Carl Pro
+Hossein Radmehr
+Medhat Ragab Metwaly, PMI-RMP, PMP
+Sriramasundararajan Rajagopalan, PgMP, PfMP
+Anne Niroshi Rajamohan, MSc
+Swetha Rajesh, ITIL, CSM, PMP
+Karthik Ramamurthy, MCA, MBA, PMP
+Gurdev Randhawa, MBA, BE, PMP
+Alakananda Rao, MSc, PGDBA, PMP
+S. Raghavendra Rao, SAFe(Agi), CSM, PMP
+Reda Rashwan, Eng, MCP, AmiChemE, PMP
+Rahul Rathod, MSPM, MBA, PMP
+Steve Ratkaj
+P. Ravikumar, PMI-ACP, PMP, PgMP
+Kris Ravuvari, BSc Tech, M. Tech, PMP
+Mohammad Yawar Raza, Eng., PMI-ACP
+
+203
+
+Krupakara Reddy, PRINCE2, SMC, PMP
+S. Sreenivasula Reddy, MTech., MIE
+Lucas Rocha Rego
+Nabeel Ur Rehman,
+Eng, PMI-ACP, PMI-PBA, PMP
+Alexander V. Revin, PMP
+Roman Reznikov, PRINCE2, ITIL, PMP
+Tashfeen Riaz, PgMP, PMP, PMI-ACP
+Juan Carlos Ribero Gómez, Ing, PMP
+Andre Luis Fonseca Ricardi, PMP
+Chris Richards, PMP
+Fabio Rigamonti, PMP
+Ivan Rincon, PMP, PgMP, CISA
+Laurajean Rispens, PMP, PMI-ACP
+Hasnain Rizvi, PhD, SPC, CSP, PMP
+Kenneth Robson, PMP
+Ruy Rodriguez-Roman, CPA, PMP
+Sergio Rojas A., Eng, MBA, PMP
+Dan S. Roman, CSSBB, PMI-ACP, PMP
+Sadegh Roozbehi, DBA PMP
+María Rosas, PMO-CP, SA, PMP
+J. Travis Rose, PMP
+Michela Ruffa, PMI-RMP, PMP
+Tim Rumbaugh
+Brian Rush
+Philip Russell, PMP
+Mike Ryal, PMP
+Nagy Saad, ITIL, PMI-ACP, PMP
+Mohammed Salaheddien Saad, Ph, PMP
+Gopal Sahai, MSP, PMI-PBA, PMP
+Ahmad Said, MM, PMP
+Savio Saldanha, BE, CTFL, PMP
+Ahmed Omer Saleh Mubarak, Eng, MBA, PMP
+Sarvenaz Salimitabar
+Ing. Roger Salinas-Robalino, MSIG, PMP
+Emre Salmanoglu, PMP
+Mario Salmona, PMI-PBA, PMI-RMP, PMP
+Omar Samaniego
+Abubaker Sami, MoP, PgMP, PfMP
+Yishai Sandak, MSc, PMI-ACP, PMP
+Shankar Sankaran
+Prithvinand P. Sarode, BE, PMP
+Sachlani Sarono, P3OF, PSM I, PMP
+Muhammad Sauood ur Rauf, PMP
+Bipin Savant, MTech, CBM, PMP
+Jean-Charles Savornin, PMP
+Guy Schleffer, PMP, PgMP, PfMP
+
+204
+
+Gary Schmitz, PMI-ACP PMI-PBA, PMP
+David Schwantes, MBA, CSM, PMP
+Dayashankara Sedashivappa
+Arun Seetharaman
+Grégoire Semelet
+Yad Senapathy, MS, PMP
+Carl Sergeant, PMP
+Nikita Sergeev, PhD, MBA, IPMA, PM
+Daisy Sg
+Casey Shank, PEng, PMP
+Giridhar Shankavaram
+Ali Sheikhbahaei, PE, PMI-RMP, PMP
+Lokman Shental, PMP, TOGAF
+Dennis Sherman, PhD, PMP
+Hatim Sid Ahmed, MBBS, PMP
+Sameer Siddhanti, MSc, PMP, PMP
+Gary Sikma, PMI-ACP, PMP
+Marcos Felix Silva
+Marisa Silva, MSc, PMP
+Michael Sims, MBA
+Mayank Veer Singh, Eng
+Ravinder Singh, PSM I, PRINCE2, PMP
+Ashwani Kumar Sinha, MBA, MSc
+Gitika Sinha, ITIL, PMI-ACP, PMP
+Ann Skinner, PhD, PMP
+Daniel Sklar, PMP
+Jen Skrabak, PMP, PfMP
+Steven Skratulja
+Martin J Smit, PhD, PMP
+Daniele Almeida Sodré
+Victor S. Sohmen, EdD, MBA
+Boon Soon Lam
+Joseph Sopko
+Mauro Sotille, MBA, PMI-RMP, PMP
+Fernando Souza, CSM, CSPO, PMP
+Russel Souza, PMP
+Michael Spatola, MSSM, MS, PMP
+Clifford Sprague, PSPO1, PMP
+Mario Špundak, PhD, PfMP
+Sreeshaj Sreedhar, SS, BBELT, PMP
+Nitesh Srivantava
+Gunawan ST, PMI-RMP, PMP
+Klaus J. Stadlbauer, PMP
+Cameron Stewart, PMI-ACP, PMP
+Jim Stewart, CSM, PMI-ACP, PMP
+Ian R. Stokes, PMP
+Nathan Subramaniam, ITIL4, TOGAF 9, PMP
+
+Guía del PMBOK®
+
+Premkumar Subramanian, MBA, PMP
+Yasuji Suzuki, PMI-ACP, PMP
+Lisa Sweeney, PMP
+Grzegorz Szalajiko
+Ahmed Taha, PhD, PRINCE2, PMI-RMP, PMP
+Mohammad Mehdi Tahan, MSc, PMP
+Mohamed Taher Arafa, PMI-ACP, PMI-RMP, PMP
+Shoji Tajima, ITC, ITIL, PMP
+Nilton Takagi, MSc, PMP
+Peter Wee Seng Tan, CPP, CISSP, PMP
+Tetsuya Tani, CBAP, PMP
+Chelsea Tanimura, MPA, PMP
+Awadalsaid Tara, Eng, MScE, SFC, PMP
+Usama Tariq, Eng, PMP
+Carsten Tautz
+Jose Teixeira De Paulo, PMI-RMP, PMI-SP, PMP
+Iván Samuel Tejera Santana, PSM, PMI-ACP, PMP
+Gerhard Tekes, Dipl Inf, PMOVR-CP, PMP
+Maria Temchina, PMI-ACP, PMP
+Daniel Tennison, PE, PMP
+Hector Teran, PMP
+Gino Terentim, PMI-ACP, PMP, PfMP
+Carlos Tessore, PhD, PMI-RMP, PMP
+Mohammed Thoufeeq
+Shuang Tian, PMI-ACP, PMP
+Naveen Tirkey, PhD, PMP, CCRA
+Claudia Tocantins, MSc, PMP
+Mark Tolbert
+Dyana Torquato, PMI-ACP, PMP
+Süleyman Tosun, PhD, PSM I, ITIL, PMP
+Sayed Tousif, BE, PMCP
+Bella Trenkova, ICP-ACC, SPC4, PgMP
+Mario Trentim, PMI-PBA, PMP, PfMP
+John N. Tse, MBA, CDA, PMP
+Georg Turban, PMP
+Daniel Ubilla Baier, MBA, PMI-RMP, PMP
+Yoon Sup Um, PMI-ACP, PMI-RMP, PMP
+Hafiz Umar
+Judith W. Umlas, SVP, IIL
+Joseph Ursone, CSM, MCP, PMP
+Ebenezer Uy, SSBB, PMI-ACP, PMP
+Ali Vahedi, PMP, PgMP, PfMP
+Madrony Valdivia Ponce, ING, ITIL
+Andre Bittencourt do Valle, PhD, SAPM
+Henk-Jan van der Klis, MSc, PMP
+Tom Van Medegael, PMP
+Raymond van Tonder, PMP, PMI-ACP
+
+Apéndice X1
+
+Ricardo Vargas, PhD, SAFe SPC, PMP
+Enid T. Vargas Maldonado,
+PMI-ACP, PMI-PBA, PMP
+Santosh Varma, PDGCA, ITIL, PMP
+Norm Veen, MBA, PMP
+Jean Velasco, MBA, PMP
+Vijay Vemana, SAFe, PMP, PgMP
+Nagesh Venkataramanappa, PMP
+Charu Venkatararaman, CSM, CSPO, PMP
+Vanessa Ventura
+Eddy Vertil, PhD (ABD), PMI-RMP, PMP
+Anand Vijayakumar, PMI-RMP, PMP, PgMP
+Roberto Villa, PMP
+Tiziano Villa, PMI-ACP, PMP
+Aura Villagrana, MBA, SPC, PMP
+Esteban Villegas, PMI-ACP, PMP
+Andrea Vismara, MBA, PMI-PBA, PMP
+Lislal Viswam, MSc, CSM, PMP
+Yiannis Vithynos, PRINCE2P, PMI-ACP, PMP
+Vijay Vittalam, PMI-ACP, PMI-RMP, PMP
+Aline Vono
+Thomas Walenta, PMP, PgMP
+Qun Wang, CSPO, CSM, PMP
+Gorakhanath Wankhede, PMP
+J. LeRoy Ward, PMP, PgMP, PfMP
+Muhammad Waseem, MS(PM), PMP
+Toshiyuki Henry Watanabe, PE.JP, PMR.JP, PMP
+Barb Waters, MBA, PMP
+John Watson, PMP, PMI-ACP
+Darrell Glen Watson Jr., MPM, PMP
+Ganesh Watve, MBA, SMC, PMP
+Patrick Weaver, FAICD, PMI-SP, PMP
+Xu Wei, PMP
+Lars Wendestam, MSc, PMP
+Michal Wieteska, ASEP, PMP
+Bronsen Wijaya
+Angela Wiley, PMP
+Edward Williams
+Doug Winters, CSSBB, PMP
+Louise Worsley, MA
+Te Wu, PhD, PMP, PgMP, PfMP
+Yang Xiao, MBA, SCOR-P, PMP
+Rajesh K. Yadav, MTech
+Aliaa Yahia Elshamy, PharmD, PMP, MQM, TQM
+Zhang Yanxiang
+Bill Yates
+Auguste Yeboue, MBA, DBA, PMP
+
+205
+
+Fu Yongkang
+Cynthia Young, DBA, LSSMBB, CMQ/OE, PMP
+Daniel Alfredo Zamudio López,
+SMC, PgMP, PMP
+Stefano Mario Zanantoni, PMP
+Emanuele Zanotti, PhD, PMP
+Ken Zemrowski, ESEP, MSTM
+
+Cristina Zerpa, MC, PMP
+Bin Zhao
+Fangcun Zhao
+Jutta Edith Zilian, CISA, CISM, CGEIT
+Priscila Tavares da Sliva Zouback
+Alan Zucker, DAC, PMI-ACP, PMP
+
+X1.2 PERSON AL DEL PMI
+Se debe mencionar especialmente a los siguientes empleados del PMI:
+Marvin Nelson, DBA, SCPM
+Danielle Ritter, MLIS, CSPO
+Kim Shinners
+Roberta Storer
+Stephen A. Townsend
+Barbara Walsh, CSPO
+Daniel Wiser
+
+X1.3 GRUPO DE VOLUNTARIOS DE VERIFIC ACIÓN
+DE LA TR ADUC CIÓN AL ESPAÑOL
+Jorge Escotto, MIT, PMI-RMP, PMP
+Alejandra Nazar Kafaty, PMP, CSM
+Fernando Schinca, MBA, PMP
+Esteban Villegas, PMP, PMI-ACP
+
+X1.4 MIEMBROS DEL COMITÉ DE VERIFIC ACIÓN
+DE LAS TR ADUCCIONES
+Barbara Walsh, CSPO
+Kim Shinners
+Vivian Isaak, Presidente, Magnum Group, Inc., Agencia de traducción
+Brian Middleton, Gerente de Soluciones Estratégicas, Magnum Group, Inc., Agencia de traducción
+
+206
+
+Guía del PMBOK®
+
+Apéndice X2
+Patrocinador
+X2.1 INT RO DU C CIÓ N
+La investigación ha demostrado que un patrocinador activo del proyecto es un factor de éxito
+crítico para lograr resultados positivos del mismo. Este apéndice describe las acciones y el impacto
+de los patrocinadores y cómo estos factores contribuyen al éxito general del proyecto.
+
+X2.2 EL ROL DEL PATROCINADOR
+Dependiendo de la organización, un proyecto generalmente cuenta con un patrocinador.
+El patrocinador del proyecto aporta un liderazgo de decisión sobre la autoridad y la posición de
+poder del director del proyecto y del equipo de proyecto. El involucramiento activo y la supervisión
+de un patrocinador del proyecto prestan soporte al director del proyecto, al equipo de proyecto y,
+en última instancia, impulsan los resultados del mismo. El patrocinador también vincula al equipo
+de proyecto con la estrategia y la visión general a nivel ejecutivo de la organización.
+Los patrocinadores desempeñan las siguientes funciones, entre otras:
+► Comunicar la visión, las metas y las expectativas al equipo.
+► Abogar por el proyecto y el equipo.
+► Facilitar las decisiones a nivel ejecutivo.
+► Ayudar a asegurar los recursos.
+► Mantener los proyectos alineados con los objetivos del negocio.
+► Eliminar los obstáculos.
+► Abordar los problemas que quedan por fuera de la autoridad del equipo de proyecto.
+► Ofrecer a la alta dirección las oportunidades que surjan dentro del proyecto.
+► Monitorear los resultados del proyecto después del cierre para garantizar que se
+materialicen los beneficios de negocio previstos.
+
+Apéndice X2
+
+207
+
+La posición del patrocinador dentro de la organización y la perspectiva que se logre desde ese
+nivel le permiten al patrocinador proporcionar apoyo clave al equipo en las siguientes áreas:
+► Visión. Establecer y/o comunicar la visión y dirección del proyecto.
+► Valor del negocio. Trabajar con el equipo de manera consistente para mantener la
+alineación con los objetivos estratégicos y de negocio. Cuando el mercado, la competencia
+y la estrategia son volátiles y evolucionan, esto puede requerir interacciones frecuentes
+para ajustar el trabajo del proyecto con el fin de cumplir con la dirección evolutiva.
+► Enfoque en el cliente. Equilibrar las diferentes necesidades y prioridades de los
+interesados. Cuando hay múltiples interesados, especialmente interesados con
+necesidades en conflicto, puede ser necesario priorizar las necesidades de los mismos
+y hacer concesiones.
+► Decisiones. Tomar decisiones o dirigir decisiones a la persona o grupo apropiado
+cuando haya decisiones que estén fuera de la autoridad del equipo de proyecto. Si el
+equipo no puede tomar una decisión o si el equipo entra en conflicto, los patrocinadores
+pueden mediar en conflictos y facilitar el proceso de toma de decisiones.
+► Motivación. Al involucrarse y apoyar activamente al equipo del proyecto,
+los patrocinadores sirven como fuente de motivación.
+► Rendición de cuentas. Dependiendo del nivel de autoridad del rol, los patrocinadores
+a menudo rinden cuentas por los resultados del proyecto. En este rol, pueden aceptar
+o rechazar los entregables del proyecto.
+
+X2.3 FALTA DE I NVOLUC R AM I EN TO
+Cuando el patrocinador no está involucrado o cuando ese rol está vacante, se pierden
+muchos de los beneficios asociados con las actividades enumeradas en la Sección X2.2. Esto
+puede tener un impacto negativo sobre la efectividad del proyecto. El desempeño del proyecto
+se ve afectado porque a menudo existen plazos de decisión más prolongados y prioridades
+contradictorias. Si el patrocinador no está ayudando a asegurar los recursos, esa brecha puede
+afectar el acceso a los miembros del equipo necesarios o a la adquisición de recursos físicos.
+Cuando no existe apoyo directo del patrocinador los miembros del equipo pueden ser removidos
+o cambiados. Estos cambios pueden causar impactos negativos en el alcance, la calidad,
+el cronograma y el presupuesto y disminuir la probabilidad de lograr los resultados deseados
+y la satisfacción de los interesados.
+
+208
+
+Guía del PMBOK®
+
+X2.4 COMPORT AMIENTOS DEL PATROCINADOR
+Hay ciertos comportamientos que muestran los patrocinadores que pueden ayudar a los
+equipos a desempeñarse de manera efectiva y, por lo tanto, mejorar los resultados del proyecto:
+► Facilitar recursos. Actuar como enlace con la organización para garantizar que el equipo
+tenga los conjuntos de habilidades necesarios y los recursos físicos necesarios para
+entregar el proyecto.
+► Guiar. Proporcionar una visión motivadora alrededor de la cual el equipo
+pueda congregarse.
+► Alinear. Mantener la alineación entre las metas estratégicas de la organización y los
+resultados del proyecto. Si el mercado o las metas de la organización cambian, trabajar
+con el equipo de proyecto para reorientar la dirección del proyecto con el fin de
+satisfacer las necesidades actuales.
+► Adaptar. Trabajar junto al equipo para adaptar la estructura, cultura, procesos, roles
+y trabajar para optimizar los resultados.
+► Influenciar. Habilitar los cambios necesarios para la adopción en las operaciones
+posteriores al proyecto. Esto incluye liderazgo, compromiso y colaboración con
+los interesados en toda la organización.
+► Comunicar. Proporcionar un intercambio continuo de información desde
+la organización al equipo y desde el equipo a la organización.
+► Asociarse. Asociarse con el equipo para lograr el éxito. Esto puede incluir coaching,
+mentoría y demostrar un compromiso personal con el objetivo del proyecto.
+► Verificar. Involucrarse con el equipo para estimular el pensamiento crítico haciendo
+preguntas, cuestionando supuestos y fomentando la innovación.
+► Desbloquear. Eliminar impedimentos y barreras y resolver incidentes que están
+fuera de la autoridad o capacidad del equipo para abordarlos.
+
+Apéndice X2
+
+209
+
+X2.5 CO N CL USIÓN
+El vínculo estratégico que proporciona el patrocinador empodera y permite al equipo de
+proyecto optimizar su desempeño, manteniendo la alineación con la estrategia de la organización.
+El patrocinador facilita el involucramiento y la toma de decisiones y asegura que las habilidades
+y los recursos necesarios estén disponibles. Estas actividades y comportamientos aumentan la
+probabilidad de lograr los resultados deseados del proyecto.
+
+X2.6 RECURSOS SUGERIDOS
+Ahmed, R., Mohamad, N. A. B., & Ahmad, M. S. 2016. Effect of multidimensional top management
+support on project success: An empirical investigation. Quality & Quantity, 50(1), 151–176.
+https://doi.org/10.1007/s11135-014-0142-4
+Kloppenborg, T. J., Tesch, D., & Manolis, C. 2014. Project success and executive sponsor behaviors:
+Empirical life cycle stage investigations. Project Management Journal, 45(1), 9–20.
+https://doi.org/10.1002/pmj.21396
+Project Management Institute (PMI). 2012. Executive engagement: The role of the sponsor. Extraído
+de https://www.pmi.org/business-solutions/white-papers/executive-engagement-sponsor-role.
+Project Management Institute. 2014. Pulse of the Profession® Report, Executive sponsor engagement:
+Top driver of project and program success. Extraído de https://www.pmi.org/-/media/pmi/documents/
+public/pdf/learning/thought-leadership/pulse/executive-sponsor-engagement.pdf?v=411b7196-1cb44b29-b8d2-2764513bd175&sc_lang_temp=en
+Zwikael, O. 2008. Top management involvement in project management: Exclusive support practices
+for different project scenarios. International Journal of Managing Projects in Business, 1(3), 387–403.
+https://doi.org/10.1108/17538370810883837
+
+210
+
+Guía del PMBOK®
+
+Apéndice X3
+La Oficina de Dirección
+de Proyectos
+X3.1 INT RO DU C CIÓ N
+El acrónimo “PMO” puede referirse a una oficina de dirección de portafolios, programas
+o proyectos. En el contexto de la Guía del PMBOK® – Séptima Edición, la oficina de dirección de
+proyectos (PMO) representa una estructura de gestión que estandariza los procesos de gobernanza
+relacionados con el proyecto y facilita el intercambio de recursos, herramientas, metodologías
+y técnicas. Reconociendo que el carácter y la función de una PMO varían entre las organizaciones,
+e incluso dentro de la misma organización, este apéndice describe los atributos comunes entre
+las PMO y discute cómo prestan soporte al trabajo del proyecto.
+
+X3.2 LA PROPUESTA DE VALOR DE LA PMO —
+¿POR QUÉ TENER UNA?
+Las organizaciones establecen PMO por diversas razones, pero con un beneficio central
+en mente: mejor dirección de proyectos en términos de cronograma, costo, calidad, riesgo y
+otras facetas. Las PMO tienen muchas funciones potenciales en la alineación del trabajo con los
+objetivos estratégicos: involucrar y colaborar con los interesados, desarrollar el talento y obtener
+valor de las inversiones en los proyectos.
+
+Apéndice X3
+
+211
+
+Las PMO pueden adoptar múltiples formas. Comprender cómo se utilizan las PMO en las
+organizaciones, así como los roles y responsabilidades asignados resaltan la gama de beneficios
+que pueden ofrecer las PMO:
+► Algunas PMO proporcionan orientación acerca de la dirección de proyectos, lo que
+apoya la coherencia en la forma en que se ejecutan los proyectos. Estas PMO pueden
+proporcionar pautas, plantillas y ejemplos de buenas prácticas, junto con capacitación
+y coaching. Los enfoques y herramientas estandarizados promueven un panorama
+de negocio común a todos los proyectos y facilitan las decisiones que trascienden las
+preocupaciones individuales de los proyectos. Este tipo de PMO a menudo existe en
+organizaciones que apenas están comenzando a mejorar sus capacidades de dirección
+de proyectos.
+► Una PMO puede ofrecer servicios de apoyo al proyecto para actividades de planificación,
+gestión de riesgos, seguimiento del desempeño del proyecto y actividades similares. Este
+modelo de servicios compartidos de una PMO a menudo existe en organizaciones con
+unidades de negocio independientes o diversas que solicitan apoyo para la entrega y al
+mismo tiempo mantienen un control más directo sobre sus proyectos.
+► Las PMO pueden formar parte de un departamento o unidad de negocio y supervisar un
+portafolio de proyectos. La supervisión puede incluir actividades tales como requerir un
+caso de negocio para iniciar un proyecto, asignar recursos financieros y de otro tipo para
+entregar el proyecto, aprobar solicitudes para cambiar el alcance o las actividades del
+proyecto, y funciones similares. Este tipo de PMO proporciona una dirección centralizada
+de los proyectos. Esta estructura existe en organizaciones que tienen departamentos con
+múltiples proyectos y que ofrecen resultados estratégicamente importantes, como las
+capacidades de TI o el desarrollo de nuevos productos.
+► Una organización puede tener una PMO a nivel empresarial (EPMO) que vincule la
+implementación de la estrategia organizacional con las inversiones a nivel de portafolio
+en programas y proyectos que brindan resultados, cambios o productos específicos.
+Esta estructura existe en organizaciones con capacidades de dirección de proyectos bien
+establecidas que están directamente vinculadas al logro de la estrategia organizacional
+y amplios objetivos de negocio.
+► Las organizaciones con estructuras más planas, iniciativas centradas en el cliente y
+enfoques de entrega más adaptables pueden adoptar una estructura de Centro de
+Excelencia Ágil (ACoE) u Oficina de Entrega de Valor (VDO). La ACoE/VDO cumple un rol
+habilitador, más que una función de gestión o supervisión. Se centra en realizar coaching
+a equipos, desarrollo de aptitudes y capacidades ágiles en toda la organización y mentoría
+a los patrocinadores y dueños de los productos para que sean más efectivos en esos
+roles. Este tipo de estructura está surgiendo dentro de las organizaciones que adoptan
+estructuras más descentralizadas donde los equipos deben responder rápidamente
+a las cambiantes necesidades del cliente.
+Las PMO pueden ser estratificadas. Por ejemplo, una EPMO puede tener PMO y VDO
+subordinadas que residen dentro de departamentos específicos. Dicha estratificación apoya la
+alineación estratégica a nivel de EPMO y las capacidades de dirección de proyectos específicas
+dentro de la PMO o VDO departamental.
+
+212
+
+Guía del PMBOK®
+
+La formación de cualquier tipo de PMO o VDO se basa en las necesidades organizacionales.
+Los personas influyentes clave que ayudan a dar forma a la PMO o VDO incluyen los tipos de
+proyectos que se están entregando, el tamaño de la organización, su(s) estructura (s), el grado
+de toma de decisiones centralizada/descentralizada y la cultura corporativa. A medida que
+las necesidades de la organización cambian con el tiempo, las PMO y las VDO evolucionan en
+consecuencia. Por ejemplo, una PMO puede transformarse en una VDO, o la PMO puede ser
+cerrada después de cumplir con el propósito de su constitución.
+
+X3.3 C AP ACIDADES CLAVE DE LA PMO
+El Estándar para la Dirección de Proyectos establece que los proyectos son parte de un sistema
+para la entrega de valor dentro de las organizaciones. Las PMO pueden apoyar ese sistema y son
+parte del mismo. Así como los equipos de proyecto necesitan capacidades específicas para ofrecer
+resultados, también las necesitan las PMO. Las PMO efectivas efectúan tres contribuciones clave
+que apoyan la entrega de valor:
+► Fomentar la entrega y las capacidades orientadas a los resultados. Las PMO
+fomentan las capacidades de dirección de proyectos. Se aseguran de que los empleados,
+contratistas, asociados, etc., que están dentro y fuera de la PMO, entiendan, desarrollen,
+apliquen y valoren una gama de habilidades y competencias de dirección de proyectos.
+Se centran en el dimensionamiento correcto de los procesos y la gobernanza, en función
+de las características únicas de cada proyecto, para producir resultados de alta calidad
+de manera eficiente, rápida y efectiva.
+► Mantener la perspectiva del “panorama general”. Mantenerse fiel a los objetivos
+de un proyecto sigue siendo un elemento clave del éxito. La corrupción o deslizamiento
+del alcance y las nuevas prioridades no alineadas con los objetivos estratégicos o de
+negocio pueden permitir que los proyectos se desvíen del curso. Las PMO fuertes evalúan
+el desempeño de los proyectos con miras a la mejora continua. Evalúan el trabajo en el
+contexto del éxito general de la organización en lugar de maximizar los resultados de un
+proyecto específico. Proporcionan a los equipos de proyecto, la alta dirección y los líderes
+de negocio información y orientación que les ayudan a comprender las circunstancias y
+opciones actuales como apoyo a la toma de decisiones.
+► Mejora continua, transferencia de conocimiento y gestión de cambios. Las PMO
+fuertes comparten regularmente los resultados del proyecto en toda la organización con
+el fin de transferir el conocimiento valioso obtenido de cada proyecto. Las actividades
+de aprendizaje y de intercambio informan los objetivos estratégicos y de negocio, al
+tiempo que mejoran las actividades que fortalecen la ejecución futura de proyectos.
+La gestión efectiva de cambios en la organización construye y mantiene la alineación con
+las actualizaciones de procesos, las mejoras de las capacidades y las nuevas habilidades
+que apoyan la dirección de proyectos.
+
+Apéndice X3
+
+213
+
+X3.4 EVOLUCIONAR PARA FORTALECER LA OBTE NCIÓN
+DE BENEFICIOS
+Para muchas empresas, una mayor incertidumbre, un ritmo acelerado de cambio, una
+mayor competencia y clientes más empoderados quieren decir que las organizaciones producen
+valor en un entorno cada vez más complejo. La capacidad de implementar nuevas iniciativas
+estratégicas y cambiar rápidamente se está convirtiendo en un diferenciador clave. Estos cambios
+también están ejerciendo una mayor presión sobre las PMO para demostrar sus contribuciones
+a la obtención de beneficios y la creación de valor. Las PMO están evolucionando para hacer frente
+a estos desafíos:
+► Centrándose en iniciativas críticas. Si bien todos los proyectos son importantes,
+las iniciativas estratégicas pueden afectar significativamente el futuro de la organización,
+su relación con sus interesados y sus capacidades. Los PMO están cambiando de ser
+guardianes del proyecto a orquestar conversaciones entre líderes sénior, jefes de
+unidades de negocio, dueños de producto y equipos de proyecto. Estas conversaciones
+proporcionan información precisa sobre el desempeño, las amenazas y las oportunidades
+del proyecto que pueden afectar iniciativas estratégicas importantes. Tal enfoque
+promueve la claridad y la corrección del curso en torno a los incidentes emergentes
+y a la obtención más completa posible de los resultados de negocio.
+► Instituyendo procesos inteligentes y sencillos. Las PMO están dimensionando
+correctamente las capacidades de su organización al establecer la disciplina de procesos
+y prácticas justas para permitir una comunicación, colaboración y mejora continua
+efectivas sin agregar pasos innecesarios o anular procesos que están produciendo valor.
+► Fomentando el talento y la capacidad. Las PMO están desempeñando un rol más
+proactivo en el reclutamiento y retención de miembros talentosos del equipo. Están
+desarrollando y nutriendo habilidades técnicas, estratégicas, de gestión y de liderazgo
+dentro de los equipos de proyecto y en toda la organización.
+► Fomentando y habilitando una cultura de cambio. Las PMO se están convirtiendo
+en líderes del cambio al crear activamente apoyo y compromiso a nivel de toda la
+organización, para los resultados y el desempeño centrado en los beneficios y la gestión
+de cambios en la organización como diferenciadores competitivos.
+
+214
+
+Guía del PMBOK®
+
+X3.5 MÁS IN FOR MA CIÓN SOBRE LAS PMO
+Estos estándares y guías del PMI proporcionan información adicional sobre el rol de la PMO
+desde diferentes perspectivas. Pueden ofrecer percepciones adicionales e información útil.
+Project Management Institute. 2017. The Standard for Organizational Project Management. Newton
+Square, PA: Autor.
+Project Management Institute. 2017. The Standard for Portfolio Management. Newton Square,
+PA: Autor.
+Project Management Institute. 2017. El Estándar para la Dirección de Programas. Newton Square,
+PA: Autor.
+Project Management Institute. 2017. The Standard for Business Analysis. 2017. Newton Square,
+PA: Autor.
+Project Management Institute. 2017. Guía Práctica de Ágil. Newton Square, PA: Autor.
+Project Management Institute. 2016. Governance of Portfolios, Programs, and Projects: A Practice Guide.
+Newton Square, PA: Autor.
+
+X3.6 RECURSOS SUGERIDOS
+Project Management Institute. 2013. Strategic Initiative Management: The PMO Imperative. Disponible
+en https://www.pmi.org/learning/thought-leadership/pulse/strategic-initiative-management-thepmo-imperative.
+Project Management Institute. 2013. The Impact of PMOs on Strategy Implementation. Disponible
+en https://www.pmi.org/learning/thought-leadership/pulse/impact-pmo-strategy-in-depth.
+Project Management Institute. 2013. PMO Frameworks. Disponible en https://www.pmi.org/learning/
+thought-leadership/pulse/pmo-frameworks.
+
+Apéndice X3
+
+215
+
+Apéndice X4
+Producto
+X4.1 INT RO DU C CIÓ N
+En la última década se ha producido una transición gradual en los conceptos de dirección
+de proyectos. Criterios tales como la definición del éxito como el cumplimiento del alcance, el
+cronograma y los objetivos del presupuesto, han pasado a medir el valor y los resultados (no las
+salidas) del proyecto. La gestión del producto está alineada con este concepto de valor y añade
+una perspectiva de plazo más extenso. Estos conceptos se muestran en la Tabla X4-1.
+
+Tabla X4-1. Vistas de Dirección de Proyectos y Gestión de Productos
+
+Atributo
+
+Vista de Proyecto
+
+Vista de Producto
+
+Enfoque
+
+Resultados
+
+Resultados
+
+Métricas usuales
+
+Valor
+
+Valor de negocio
+
+Modelo de dotación de personal
+
+Equipos temporales
+
+Equipos estables
+
+Énfasis en la entrega
+
+Rendición de cuentas por “Entregar valor” Rendición de cuentas por "Inicio a retiro”
+
+Apéndice X4
+
+217
+
+Este apéndice proporciona información sobre el desarrollo del producto que plantea
+consideraciones sobre adaptación para que los equipos las tomen en cuenta. Describe cómo los
+productos y servicios continúan desarrollándose y evolucionando a través de su utilización y durante
+su vida. Para los propósitos de este apéndice, los productos, la gestión del producto y el ciclo de vida
+del producto se definen como:
+Producto. Un producto es un artefacto que es producido, es cuantificable y puede ser
+un elemento terminado en sí mismo o un componente de un elemento.
+Gestión del producto. La gestión del producto es la Integración de personas, datos,
+procesos y sistemas comerciales para crear, mantener y evolucionar un producto o servicio
+a lo largo de su ciclo de vida.
+Ciclo de vida del producto. El ciclo de vida del producto es una serie de fases que
+representan la evolución de un producto, desde el concepto hasta la entrega, el crecimiento,
+la madurez y el retiro.
+Dadas estas definiciones, los productos van más allá de un ciclo de vida del proyecto.
+Funcionan más como programas de larga duración que se centran en maximizar la obtención
+de beneficios. Por ejemplo:
+► El producto iPhone® de Apple ha pasado por múltiples versiones con futuras
+actualizaciones en el tablero de dibujo de alguien.
+► Una vez terminados, los edificios y viviendas requieren un mantenimiento continuo
+para conservarlos funcionando correctamente y, en puntos específicos, pueden ser
+remodelados o ampliados para diferentes usos.
+El desarrollo continuo influye en muchos factores que incluyen, entre otros, modelos de
+financiamiento, modelos de dotación de personal, desarrollo y prácticas de sostenimiento.
+
+218
+
+Guía del PMBOK®
+
+X4.2 C AMBIOS EN EL MERC ADO GLOBAL
+Tres tendencias a nivel global están alterando los modelos de negocio tradicionales
+y transformando los productos y los servicios (véase el Gráfico X4-1).
+
+Centralidad en el Cliente
+
+Valor Mejorado
+por Medio de Software
+
+Gestión del Producto
+
+Provisión y Pago Continuos
+
+Gráfico X4-1. Tendencias Globales de Negocio que Influyen en la Gestión del Producto
+
+► Centralidad en el Cliente. La centralidad en el cliente invierte el modelo tradicional
+de las organizaciones que desarrollan productos y los envían a los clientes. Hoy en día,
+las organizaciones están cambiando con el fin de comprender mejor, servir y mantener
+la lealtad del cliente (véase el Gráfico X4-2). La tecnología actual puede capturar una
+gama de datos y requisitos de los clientes que las organizaciones analizan y utilizan
+para posibles mejoras de productos, oportunidades de venta cruzada, ideas de nuevos
+productos, etc.
+
+Apéndice X4
+
+219
+
+Organización que
+Entrega Productos al Cliente
+
+Organización que Gira
+en Torno al Cliente
+Participación
+del Cliente
+
+Experiencia
+del Cliente
+
+Lealtad
+del Cliente
+
+Valor
+del Cliente
+
+Ciclo de Vida
+del Cliente
+
+Relaciones
+con el Cliente
+
+Gráfico X4-2. La Relación Cambiante entre una Organización y sus Clientes
+
+► Valor mejorado por medio de software. El software y las capacidades que puede
+proporcionar se han convertido en diferenciadores clave en una gama de productos y
+servicios hoy en día. Hace treinta años, el software funcionaba predominantemente en
+computadores dedicados. Hace diez años, el software fue incorporado en los sistemas
+de control para vehículos y hogares, como resultado de los sistemas mejorados de
+comunicación inalámbrica y por satélite. Ahora, incluso los dispositivos más mundanos
+ejecutan software que añade nuevas capacidades y captura datos sobre uso.
+La mayoría de las organizaciones realizan al menos una parte de sus negocios
+transaccionales electrónicamente a través de sitios web y aplicaciones. Debido a la
+necesidad continua de actualizar y mantener estos sistemas, estos servicios terminan
+su ciclo de desarrollo únicamente cuando el producto o servicio es retirado.
+► Provisión y pago continuos. Los cambios en los modelos económicos establecidos
+están transformando muchas organizaciones. Los servicios de transacción única están
+siendo sustituidos por la provisión y el pago continuos. Algunos ejemplos:
+
+220
+
+Guía del PMBOK®
+
+▹ Publicación. Autopublicación, distribución directa y libros electrónicos que permiten
+un refinamiento y desarrollo continuos después de la publicación.
+
+▹ Financiamiento. El alejamiento de las sucursales locales y la orientación hacia el
+micro-préstamo con financiamiento en lotes más pequeños se basa en la evaluación
+del valor entregado.
+
+▹ Start-ups (Empresas emergentes). Con el aumento de la gig economy (economía
+de agentes libres) y los mercados personalizados, hoy en día hay más empresas
+emergentes y pequeños negocios que nunca. El trabajo está más distribuido,
+fragmentado y fluido que con los modelos tradicionales.
+
+▹ Medios. Un cambio de la compra de DVD y CD de tiendas centralizadas a un aumento
+en los servicios de suscripción con financiamiento continuo y entrega de beneficios.
+
+X4.3 IMPACTO EN LAS P RÁ CTICAS DE ENTREGA S
+DEL PROYECTO
+A medida que los mercados cambian de un modelo de entregas de proyecto únicas
+a un modelo de entregas continuas, algunas organizaciones están buscando alternativas a las
+estructuras de proyectos temporales que entregan un solo producto, cambio o servicio. En cambio,
+buscan construcciones de entregas que tengan un fuerte enfoque en el cliente, reconozcan
+la rápida evolución de la tecnología y se alineen con los flujos de servicio e ingresos continuos
+de los clientes leales.
+Estos factores han llevado a un mayor interés en y a un desplazamiento hacia ciclos de vida
+de gestión de productos para la entrega de valor. La gestión del producto adopta una visión de
+ciclo de vida más largo que abarca el soporte, el mantenimiento y la evolución continua con el
+mismo equipo. Los equipos estables son especialmente valiosos en dominios complejos y únicos,
+tales como sistemas con software integrado donde la transferencia de conocimiento consume
+mucho tiempo y es costosa. El cambio de enfoque hacia la gestión del producto está impulsando
+a algunas organizaciones orientadas a proyectos a adaptar sus modelos de entrega.
+
+X4.4 C ONSID ER ACIONES ORG AN IZ ACION AL ES PARA
+LA GESTIÓN DEL PRODUCTO
+Las organizaciones que están cambiando a entornos basados en productos de larga duración
+pueden utilizar varias estrategias para alinear y coordinar la gestión del producto. Se presentan tres
+estrategias que podrían no ser las únicas (véase también el Gráfico X4-3):
+
+Apéndice X4
+
+221
+
+Establecer Equipos Estables
+
+Entorno del Producto
+
+Utilizar Financiamiento
+Incremental
+
+Dirección de Programas
+
+Gráfico X4-3. Estrategias de Apoyo para la Entrega Continua de Valor
+
+► Establecer equipos estables. En lugar de disolver el equipo cuando se complete el
+desarrollo inicial, utilizar ese equipo para mantener y desarrollar el producto con el
+dueño del producto designado o la persona dentro del equipo que refleje la perspectiva
+del cliente. Esto elimina la necesidad de transferencia de conocimiento y reduce el riesgo
+de que futuras mejoras se retrasen debido a una pérdida de conocimiento tácito.
+Los equipos de larga duración también desarrollan una mejor conciencia del mercado,
+mejores percepciones de los clientes y empatía con los mismos que los equipos de corto
+plazo. Esto ayuda a mantener el enfoque en el cliente y la lealtad del mismo, y crea una
+ventaja competitiva. Cuando las personas saben que serán responsables de mantener
+y mejorar un producto, es menos probable que tomen atajos para tener algo listo para
+su lanzamiento. Como resultado, la calidad, mantenibilidad y la extensibilidad a menudo
+mejoran con equipos de servicio prolongado en lugar de con equipos que desarrollan y
+luego transfieren productos. Estos factores, a su vez, contribuyen a crear valor y mantener
+la entrega de valor.
+
+222
+
+Guía del PMBOK®
+
+Los asociados o contratistas que desarrollan productos iniciales para su implementación
+en un sitio del cliente incorporan una gestión de cambios efectiva para garantizar que
+los clientes dispongan de las capacidades para mantener el producto una vez que se
+realiza la transición. Parte de la planificación de la transición puede incluir discusiones
+sobre la creación de un equipo dentro de la organización receptora que pueda apoyar
+y evolucionar el producto a lo largo de su ciclo de vida.
+► Utilizar orientación y financiamiento incrementales. En lugar de duraciones
+de proyectos o presupuestos anuales predefinidos, tener en cuenta revisiones más
+frecuentes (por ejemplo, trimestrales) y el financiamiento para el próximo trimestre.
+Con evaluaciones y financiamiento más frecuentes, la empresa controla más de cerca
+el progreso en general, la dirección y la toma de decisiones.
+Al igual que en el caso del financiamiento con capital de riesgo, las revisiones periódicas
+del valor entregado permiten a los patrocinadores dirigir el financiamiento hacia los
+productos que están proporcionando el valor esperado y reducir o restringir la inversión
+en iniciativas de bajo desempeño. Esos modelos de financiamiento permiten a las
+organizaciones buscar nuevas oportunidades de mercado y capitalizar a partir de los
+esfuerzos que han tenido éxito, limitando al mismo tiempo la exposición al porcentaje
+inevitable de nuevas iniciativas que fracasan.
+► Utilizar estructuras de la dirección de programas. Los profesionales que operan
+con equipos estables que prestan soporte a productos centrados en el cliente pueden
+aplicar construcciones de dirección de programas para gestionar iniciativas de larga
+duración. Los programas se alinean bien con el ajuste a los cambios del mercado y el
+enfoque en los beneficios para el cliente. También son generalmente de una ejecución
+mucho más prolongada que un solo proyecto.
+El Estándar para la Dirección de Programas aborda los cambios de prioridad en curso de
+la siguiente manera: “La principal diferencia entre proyectos y programas se basa en
+el reconocimiento dentro de los programas de que las estrategias para la entrega de
+beneficios pueden necesitar ser optimizadas de manera adaptativa, a medida que se
+consiguen individualmente los resultados de los componentes. Los mejores mecanismos
+para obtener los beneficios de un programa pueden ser ambiguos o inciertos inicialmente”.
+Esta aceptación de la incertidumbre inicial, la necesidad de adaptación, el enfoque en los
+beneficios y los plazos más extensos pueden hacer que los programas encajen mejor que
+los proyectos para muchas organizaciones que gestionan la entrega de productos.
+
+Apéndice X4
+
+223
+
+Muchas industrias de productos tradicionales, tales como la de infraestructura, la
+aeroespacial y la automotriz, utilizan guías y marcos de dirección de programas. Estas
+industrias utilizan programas para la alineación direccional y la integración de las
+actividades de los componentes, tales como programas, subprogramas y actividades de
+proyectos. Por ejemplo, una organización con una plataforma tecnológica puede utilizar
+la dirección del programa y del producto para priorizar y supervisar las capacidades que
+maximizarán el retorno de la inversión de la plataforma a lo largo de su vida út il. Un
+equipo de desarrollo estable y continuo puede trabajar en características y funciones
+centradas en el cliente y que añadan valor. Los equipos de proyecto entregan entonces
+actualizaciones de equipos e interfaces con sistemas nuevos o mejorados. Los equipos
+operativos pueden solucionar los incidentes de la interfaz de usuario y ayudar a los
+clientes a adaptarse a las nuevas características. Cuando las estructuras de los programas
+ya existen en las organizaciones, el cambio a esas estructuras para la gestión de los
+productos no requiere reorientar a todos hacia una nueva forma de pensar o trabajar.
+
+Tabla X4-2. Características Únicas de los Proyectos, Programas y Productos
+
+Característica
+
+224
+
+Proyecto
+
+Programa
+
+Producto
+
+Duración
+
+Corto plazo, temporal
+
+A más largo plazo
+
+Largo plazo
+
+Alcance
+
+Los proyectos tienen objetivos
+definidos. El alcance se elabora
+progresivamente a lo largo del
+ciclo de vida.
+
+Los programas producen
+beneficios agregados
+entregados a través de
+múltiples componentes.
+
+Los productos se centran
+en el cliente y se basan
+en los beneficios.
+
+Cambio
+
+Los equipos de proyecto
+esperan cambios e
+implementan procesos para
+abordar los cambios, según
+sea necesario.
+
+Los equipos de programa
+exploran los cambios y se
+adaptan para optimizar la
+entrega de beneficios.
+
+Los equipos de producto
+exploran los cambios para
+optimizar la entrega de
+beneficios.
+
+Éxito
+
+El éxito es medido según la
+calidad del producto y del
+proyecto, los plazos, el
+presupuesto, la satisfacción del
+cliente y el logro de los
+resultados previstos.
+
+El éxito se mide según la
+obtención de los beneficios
+previstos y la eficiencia y la
+efectividad en la entrega de
+esos beneficios.
+
+El éxito se mide según la
+capacidad de entregar los
+beneficios previstos y la
+viabilidad continua para un
+financiamiento continuo.
+
+Financiamiento
+
+El financiamiento es
+determinado en gran medida
+por adelantado, en base a las
+proyecciones del ROI y las
+estimaciones iniciales. El
+financiamiento se actualiza en
+función del desempeño real y
+las solicitudes de cambio.
+
+Financiamiento por adelantado
+y continuo. El financiamiento se
+actualiza con resultados que
+muestran cómo se están
+entregando los beneficios.
+
+Los equipos de producto
+participan en el desarrollo
+continuo a través de
+financiamiento, bloques de
+desarrollo y revisiones de la
+entrega de valor.
+
+Guía del PMBOK®
+
+Las organizaciones que adopten una visión integrada de la dirección de proyectos y de
+productos pueden beneficiarse de examinar los marcos de referencia de la dirección del programa
+como un paso intermedio. Los programas están mucho mejor alineados con el concepto del producto
+a través de su aceptación de la incertidumbre inicial, la necesidad de adaptación, el enfoque en los
+beneficios y los plazos más extensos.
+
+X4.5 RESUMEN
+Los mercados mundiales, la mayor diversificación y la adición de programas informáticos a
+más productos están dando lugar a una ampliación del soporte, el sostenimiento y los plazos para
+la obtención del valor. Las organizaciones centradas en el cliente y en lo digital están encontrando
+ventajas en la formación de equipos estables para el soporte de por vida y el crecimiento de estas
+nuevas clases de productos.
+Los ciclos de vida de los productos pueden parecer contradictorios con las construcciones
+tradicionales de entrega de proyectos, tales como la naturaleza temporal de los proyectos . Sin
+embargo, tienen muchos solapamientos con la evolución del concepto de los proyectos que incluye
+centrarse en el valor para el cliente.
+Las organizaciones en tales ambientes pueden encontrar alineamiento y recursos adicionales
+en la creación de equipos estables de larga duración, financiamiento por etapas y construcciones
+de dirección de programas.
+
+X4.6 RECURSOS SUGERIDOS
+Kelly, A. 2018. Continuous Digital: An Agile Alternative to Projects for Digital Business. Columbus,
+OH: Allan Kelly Associates.
+Leybourn, E. and Hastie, S. 2019. #noprojects: A Culture of Continuous Value. Toronto, Ontario,
+Canadá: C4Media.
+Kersten, M. 2018. Project to Product: How to Survive and Thrive in the Age of Digital Disruption with
+the Flow Framework. Portland, OR: IT Revolution Press.
+Project Management Institute. 2017. El Estándar para la Dirección de Programas – Cuarta Edición.
+Newton Square, PA: Autor.
+
+Apéndice X4
+
+225
+
+Apéndice X5
+Investigación y Desarrollo para
+El Estándar para la Dirección
+de Proyectos
+X5.1 INT RO DU C CIÓ N
+El propósito de este apéndice es proporcionar información sobre cómo se desarrolló
+la actualización de El Estándar para la Dirección de Proyectos. El contenido incluye:
+► Justificación para pasar a un estándar basado en principios,
+► Descripción general de la investigación realizada antes del desarrollo del estándar,
+► Descripción de cómo se desarrolló el estándar, e
+► Información sobre cómo se validó el contenido en el estándar.
+
+X5.2 EL PASO A UN ESTÁNDAR BASADO EN PRI NCIPIOS
+Desde 2010, el programa de estándares del PMI ha incluido investigación, además de la
+experiencia de los profesionales para desarrollar estándares. La investigación académica, la
+investigación de mercado, los grupos focales y la experiencia de los profesionales se han constituido
+en entradas al actualizar muchos de los documentos de los estándares, incluido El Estándar para
+la Dirección de Proyectos.
+Ya en 2012, la investigación sugirió un cambio de un estándar prescriptivo orientado a
+procesos hacia uno que requiriera reflexión para ser aplicado en la práctica. Desde entonces,
+muchos de los estándares de PMI han sido convertidos a un formato basado en principios,
+como El Estándar para la Dirección de Proyectos – Tercera Edición y El Estándar para la Dirección de
+Portafolios – Cuarta Edición. Además, como parte del apoyo al desarrollo de los estándares ISO,
+PMI participó en discusiones dentro del ISO TC258 1 con respecto a la necesidad de cambiar a un
+enfoque basado en narrativas o principios y alejarse de un enfoque basado en procesos.
+
+Comité Técnico 258 de la Organización Internacional de Normalización, Dirección de Proyectos, Programas
+y Portafolios.
+
+1
+
+Apéndice X5
+
+227
+
+Los comentarios de los equipos de revisión y los participantes del borrador para exposición
+afirmaron colectivamente el desplazamiento de El Estándar para la Dirección de Proyectos desde un
+enfoque basado en procesos a un estándar basado en principios, de acuerdo con los hallazgos de
+la investigación y la necesidad de los profesionales.
+
+X5.3 INVE STIG AC IÓN SOBRE EL ESTÁNDAR
+PARA LA DIRECCIÓN DE PROYECTOS
+Antes de actualizar El Estándar para la Dirección de Proyectos, se realizaron investigaciones
+y revisiones significativas, que incluyeron:
+► Estándares internacionales de la dirección de proyectos o documentos similares a
+estándares, junto con principios “lean”, ágil y de pensamiento de diseño y algunos de
+los marcos más comúnmente utilizados. Esta investigación ayudó a identificar áreas
+de práctica y temas comunes que sirvieron como entradas para desarrollar los principios
+en El Estándar para la Dirección de Proyectos.
+► La investigación por parte del PMI, como Pulse of the Profession®, que indicó que cada vez
+más organizaciones y profesionales están adoptando modelos ágiles e híbridos junto con
+nuevas formas de trabajo (es decir, herramientas, marcos, tecnologías, etc.).
+► Revisión de documentos técnicos publicados, artículos sobre liderazgo de pensamiento
+y documentos relacionados para recolectar principios subyacentes.
+► Grupos focales y talleres para recopilar aportes de los interesados con el fin de mejorar
+la usabilidad de El Estándar para la Dirección de Proyectos.
+El análisis de la investigación llevó a la conclusión de que cada vez más organizaciones
+están adoptando una variedad de enfoques de dirección de proyectos. Algunas organizaciones
+están avanzando hacia un enfoque híbrido que combina prácticas predictivas y adaptativas.
+Las organizaciones y los equipos del proyecto están adaptando sus enfoques a las necesidades
+de la industria, la organización y el proyecto. Estos hallazgos indicaron que el estándar del PMI
+necesitaba reflejar una visión más holística e inclusiva de la dirección de proyectos aplicable a los
+enfoques predictivos, híbridos y adaptativos.
+
+228
+
+Guía del PMBOK®
+
+Toda esta información aportó percepciones al proceso de desarrollo para explorar:
+► Un cambio desde un enfoque basado en procesos a uno basado en principios que reflejaría
+todo el espectro de las diversas formas en que se gestionan los proyectos.
+► Posibles nuevas áreas de contenido a ser incluidas, tales como la gestión de la realización
+de beneficios, la gestión de cambios organizacionales y la complejidad, en consonancia
+con las guías de prácticas en esas áreas.
+► Mover cualquier contenido sobre “cómo hacerlo” a un medio más interactivo y adaptativo,
+y adaptar ese contenido para reflejar mejor una serie de consideraciones basadas en la
+industria, el tipo de proyecto y otras características importantes.
+► Ampliar el enfoque del estándar para incluir todos los proyectos y poner más énfasis en
+los resultados deseados del proyecto.
+
+X5.4 PROCESO DE DESARROLLO DEL ESTÁNDAR
+El desarrollo del estándar incluyó garantizar la representación global de los interesados
+de una amplia gama de industrias y los diversos enfoques para la dirección de proyectos.
+
+X5.4.1 EQUIPOS DE DESARROLLO Y REVISIÓN
+Antes de desarrollar el contenido del estándar, fueron formados un Equipo de Desarrollo
+y dos equipos de revisión. Aproximadamente 450 personas solicitaron participar en los equipos.
+Se seleccionaron doce personas para el Equipo de Desarrollo, y aproximadamente 70 personas
+para participar en uno de los dos equipos de revisión. El Equipo de Desarrollo y los equipos de
+revisión estaban compuestos por interesados de todo el mundo y de todos los segmentos y roles
+de la industria (por ejemplo, gobierno, profesionales, académicos, consultores y proveedores
+organizacionales). Los equipos incluyeron destreza en la ejecución de proyectos utilizando
+enfoques predictivos, híbridos y adaptativos.
+
+Apéndice X5
+
+229
+
+X5.4.2 CONTENIDO
+El estándar se compone de tres secciones: Introducción, Un Sistema para Entrega de Valor
+y Principios de la Dirección de Proyectos.
+La Introducción incluye términos y conceptos clave asociados con la dirección de proyectos.
+Gran parte de esta información es consistente con ediciones anteriores.
+El contenido de la sección sobre Un sistema para la Entrega de Valor se basa en el contenido
+de los estándares fundamentales del PMI 2, así como en la investigación sobre la gestión de la
+realización de beneficios y la agilidad organizacional. El contenido es presentado con un enfoque
+sobre la entrega de valor e incluye las diversas formas en que se crea el valor.
+La sección de Principios de la Dirección de Proyectos evolucionó a lo largo del proceso
+de desarrollo y validación. Los conceptos iniciales para los principios fueron identificados a través
+de la investigación discutida anteriormente. El Equipo de Desarrollo trabajó en forma individual
+y colaborativa para identificar posibles principios y luego los agrupó en categorías de afinidad.
+Cada categoría fue analizada y descompuesta adicionalmente para incluir una lista de palabras
+clave asociadas con cada una de ellas. Las posibles categorías y palabras clave fueron integradas
+en un borrador inicial, que luego fue revisado y comentado por todo el Equipo de Desarrollo con
+el fin de garantizar que la intención de los principios fuera reflejada en el borrador.
+Es importante señalar que los principios están destinados a disponer de una amplia base.
+Nada en los principios pretende ser dogmático, restrictivo o prescriptivo. Los principios están
+alineados con, pero no duplican, el contenido del Código de Ética y Conducta Profesional del PMI.
+No es posible generar los “principios correctos” ya que cada proyecto y organización es
+diferente. Por lo tanto, los principios están diseñados como una guía para las personas que trabajan
+en proyectos. Los profesionales del proyecto y otras personas que trabajan en proyectos pueden
+tratar de alinearse con los principios, pero estos no están destinados a proporcionar instrucciones
+para la dirección de proyectos.
+
+X5.5 VALIDACIÓN DEL ESTÁNDAR
+El contenido del estándar fue validado utilizando tres enfoques principales: talleres globales,
+desarrollo iterativo y borrador para exposición pública.
+
+El Estándar para la Dirección de Programas – Cuarta Edición y The Standard for Portfolio Management
+(El Estándar para la Dirección de Portafolios, disponible sólo en inglés) – Cuarta Edición.
+2
+
+230
+
+Guía del PMBOK®
+
+X5.5.1 TALLERES A NIVEL MUNDIAL
+A lo largo del proceso de desarrollo, se celebraron talleres a nivel mundial en los que se
+presentó el paso a un estándar basado en principios y se pidió a los participantes del taller que
+estudiaran los principios rectores para la dirección de proyectos. Se presentaron talleres en Dublín,
+Irlanda (PMI Global Congress – EMEA); Bangalore, India; Brasil; Ottawa, Canadá (reunión del PMI
+Global Executive Council); Filadelfia, Pensilvania, Estados Unidos (PMI Global Conference); y Beijing,
+China. Estos talleres sirvieron como entrada para el trabajo del Equipo de Desarrollo y como puntos
+de control de validación durante el desarrollo.
+
+X5.5.2 DESARROLLO ITERATIVO
+El Equipo de Desarrollo trabajó en parejas y equipos pequeños con el fin de desarrollar el
+contenido inicial para cada una de las tres secciones que componen El Estándar para la Dirección
+de Proyectos. Una vez integrados los borradores iniciales, el Equipo de Desarrollo y el Equipo de
+Revisión 1 revisaron y comentaron los borradores de cada sección del estándar. Estas revisiones
+produjeron más de mil comentarios. que el Equipo de Desarrollo analizó y abordó para producir
+un segundo borrador del estándar completo. El Equipo de Revisión 2 revisó todo el borrador del
+estándar y proporcionó al Equipo de Desarrollo comentarios con una nueva perspectiva. Esos
+comentarios fueron analizados e integrados en el contenido, según correspondiese.
+
+X5.5.3 BORRADOR PARA EXPOSICIÓN
+El borrador del estándar se puso a disposición del público para su revisión y comentarios
+del 15 de enero al 14 de febrero de 2020. Unas 600 personas presentaron comentarios sobre
+el borrador para exposición. En respuesta a los comentarios sobre el borrador para exposición,
+el contenido fue reorganizado y editado para mayor claridad. La mayoría de los comentarios
+indicaron que estaban de acuerdo con la intención del estándar basado en principios. El Equipo
+de Desarrollo revisó a continuación el borrador del estándar y dio su aprobación para que fuera
+enviado al Comité de Consenso de Estándares para la votación de consenso según la Política
+de Desarrollo y Coordinación de Estándares Nacionales Estadounidenses del PMI.
+
+Apéndice X5
+
+231
+
+X5.6 RESUMEN
+Los cambios continuos en la profesión de la dirección de proyectos y las formas en que
+se gestionan los proyectos apoyan un estándar menos prescriptivo. La investigación en la
+industria, la participación global con una amplia representación de la misma y un proceso de
+revisión de iteraciones dieron forma y validaron el paso de un estándar basado en procesos a un
+estándar basado en principios. Los futuros equipos pueden evaluar el impacto del cambio en la
+presentación de El Estándar para la Dirección de Proyectos y utilizar esa información para mejorar
+o revisar futuras ediciones.
+
+232
+
+Guía del PMBOK®
+
+Glosario
+1. INCLUSIONES Y EXCLUSIONES
+Este glosario combinado incluye definiciones de términos y acrónimos de lo siguiente:
+► El Estándar para la Dirección de Proyectos
+► Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK®) - Séptima Edición

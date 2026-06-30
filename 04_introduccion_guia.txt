@@ -1,0 +1,306 @@
+Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK) – Séptima edición
+y El Estándar para la Dirección de Proyectos
+ISBN: 978-1-62825-679-6
+Publicado por:
+Project Management Institute, Inc.
+14 Campus Boulevard
+Newtown Square, Pennsylvania 19073-3299 USA
+Teléfono: +1 610 356 4600
+Correo electrónico: customercare@pmi.org
+Sitio web: www.PMI.org
+©2021 Project Management Institute, Inc.
+
+Todos los derechos reservados.
+
+El contenido del Project Management Institute, Inc. sujeto a derechos de autor está protegido por
+la ley de propiedad intelectual de los EE.UU. reconocida por la mayoría de los países. Para republicar
+o remprimir el contenido del PMI, deberá primero obtener nuestro permiso.
+Visite http://www.pmi.org/permissions para obtener más detalles.
+PMI, el logotipo de PMI, PMBOK, OPM3, PMP, CAPM, PgMP, PfMP, PMI-RMP, PMI-SP, PMI-ACP,
+PMI-PBA, PROJECT MANAGEMENT JOURNAL, PM NETWORK, PMI TODAY, PULSE OF THE PROFESSION
+y el eslogan MAKING PROJECT MANAGEMENT INDISPENSABLE FOR BUSINESS RESULTS. son todas
+marcas registradas del Project Management Institute, Inc. Para obtener una lista completa de las
+marcas comerciales de PMI, póngase en contacto con el Departamento legal de PMI. Todas las otras
+marcas comerciales, marcas de servicio, nombres e imágenes comerciales, nombres de productos y
+logotipos que aparecen en el presente documento son propiedad de sus respectivos dueños. Quedan
+reservados todos los derechos que no estén expresamente cedidos en el presente documento.
+Para colocar una orden comercial u obtener información sobre precios, póngase en contacto
+con Independent Publishers Group:
+Independent Publishers Group
+Order Department
+814 North Franklin Street
+Chicago, IL 60610 USA
+Teléfono: 800 888 4741
+Fax: +1 312 337 5985
+Correo electrónico: orders@ipgbook.com (para órdenes solamente)
+Impreso en los Estados Unidos de América. Ninguna parte de esta obra puede ser reproducida
+o transmitida en forma alguna ni por ningún medio, ya sea éste electrónico, manual, fotocopia o
+grabación, ni por ningún sistema de almacenamiento y recuperación de información, sin permiso
+previo y por escrito del editor.
+El papel utilizado en este libro cumple con la norma Z39.48—1984 (Permanent Paper Standard)
+publicada por NISO (National Information Standards Organization).
+10 9 8 7 6 5 4 3 2 1
+
+Aviso
+Las publicaciones de normas y guías de Project Management Institute, Inc. (PMI), una de
+las cuales es el presente documento, se elaboran mediante un proceso de desarrollo de normas
+por consenso voluntario. Este proceso reúne a voluntarios y/o procura obtener las opiniones
+de personas que tienen interés en el tema objeto de esta publicación. Si bien PMI administra el
+proceso y establece reglas para promover la equidad en el desarrollo del consenso, PMI no redacta
+el documento y no prueba, evalúa, ni verifica de manera independiente la exactitud o integridad de
+ninguna información ni la solidez de ningún juicio contenidos en sus publicaciones de normas y guías.
+PMI no asume responsabilidad alguna por cualesquiera daños personales, a la propiedad u
+otros daños de cualquier naturaleza, ya sean especiales, indirectos, consecuentes o compensatorios,
+que resulten directa o indirectamente de la publicación, uso o dependencia de este documento.
+PMI no se hace responsable ni proporciona garantía alguna, expresa o implícita, con respecto
+a la exactitud o integridad de cualquier información publicada aquí, y no se hace responsable ni
+proporciona garantía alguna de que la información incluida en este documento satisfaga cualquiera
+de sus objetivos o necesidades particulares. PMI no se compromete a garantizar el desempeño de los
+productos o servicios de cualquier fabricante o vendedor individual en virtud de esta norma o guía.
+Al publicar y hacer disponible este documento PMI no se compromete a prestar servicios
+profesionales o de otro tipo para o en nombre de ninguna persona o entidad, ni asume ninguna
+obligación adquirida por una persona o entidad hacia otra. Cualquiera que use este documento
+lo hará bajo su propio criterio independiente o, según corresponda, buscará el consejo de
+un profesional competente a la hora de determinar las precauciones razonables a aplicar en
+cualesquiera circunstancias dadas. Tanto información como otras normas relativas al tema objeto
+de esta publicación pueden estar disponibles en otras fuentes, que el usuario podrá consultar
+para ampliar con opiniones e informaciones adicionales las ofrecidas por esta publicación.
+PMI no tiene el poder para, ni se compromete a vigilar o hacer cumplir el contenido de este
+documento. PMI no certifica, prueba ni inspecciona aspectos de seguridad y salud de productos,
+diseños o instalaciones. Cualquier certificación u otra declaración de conformidad con cualquier
+información relacionada con la salud o la seguridad incluida en este documento no será atribuible
+a PMI y será responsabilidad única del certificador o del autor de la declaración.
+
+v
+
+Prefacio
+Cada vez que se empieza a trabajar sobre una nueva edición de El Estándar para la Dirección de
+Proyectos y de la Guía del PMBOK®, existe la oportunidad de tomar en consideración las perspectivas
+mundiales sobre los cambios en la dirección de proyectos y los enfoques utilizados para obtener
+beneficios y valor de los resultados de los proyectos. En el tiempo transcurrido entre cada edición,
+se ha producido una gran cantidad de cambios. Algunas organizaciones han dejado de existir y han
+aparecido otras nuevas. Las tecnologías más antiguas han llegado al final de su vida, mientras que
+han evolucionado tecnologías que ofrecen capacidades completamente nuevas. Las personas que
+continúan en la fuerza de trabajo han avanzado en su pensamiento, habilidades y capacidades,
+a medida que los recién llegados se centran en comprender rápidamente su lenguaje profesional,
+desarrollar sus habilidades y su visión empresarial, y contribuir a los objetivos de sus empleadores.
+Sin embargo, aun en medio de tales cambios, hay conceptos y construcciones fundamentales
+que permanecen en su lugar. Continúa la comprensión de que el pensamiento colectivo produce más
+soluciones holísticas que los pensamientos de un individuo en particular Y perdura el hecho de que
+las organizaciones utilizan proyectos como vehículo para obtener un resultado o producto único.
+
+DISEÑO CENTRADO EN EL CLIENTE Y USU ARIO FINAL
+Mientras se estaba desarrollando la Sexta Edición de la Guía del PMBOK® y a lo largo
+del desarrollo de esta Séptima Edición, PMI ha participado activamente con una amplia gama
+de interesados a nivel mundial en sus experiencias con el uso de El Estándar para la Dirección
+de Proyectos y la Guía del PMBOK®. Estas participaciones han incluido:
+► Encuestas en línea a muestras representativas de interesados de PMI;
+► Grupos focales con líderes de PMO, directores de proyectos, profesionales practicantes
+de ágil, miembros de equipos de proyectos, y educadores e instructores; y
+► Talleres interactivos con profesionales en diversos eventos de PMI en todo el mundo.
+
+vii
+
+La retroalimentación y las entradas en conjunto destacaron cuatro puntos clave:
+► Mantener y mejorar la credibilidad y la relevancia de la Guía del PMBOK®.
+► Incrementar la legibilidad y la utilidad de la Guía del PMBOK®, evitando al mismo tiempo
+sobrecargarla con nuevos contenidos.
+► Detectar las necesidades de información y contenido de los interesados y proporcionar
+un contenido suplementario comprobado que preste apoyo a la aplicación práctica.
+► Reconocer que para algunos interesados la estructura y el contenido de las ediciones
+anteriores siguen siendo valiosos, de modo que cualquier cambio brinde mejora sin
+excluir ese valor.
+
+CONSERVACIÓN DE LA RELEVANCIA DE LA GUÍA DEL PMBOK ®
+Desde su creación como los Fundamentos para la Dirección de Proyectos (PMBOK) en 1987,
+la Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK®) ha evolucionado,
+reconociendo al mismo tiempo que los elementos fundamentales de la gestión de proyectos
+perduran. Su evolución no sólo ha implicado un aumento del número de páginas, sino que
+también ha involucrado cambios significativos y sustanciales en la naturaleza del contenido.
+La siguiente tabla incluye una muestra de algunos de esos cambios clave:
+
+viii
+
+Evolución de los Cambios clave en la Guía del PMBOK®
+
+Edición de la
+Guía del PMBOK®
+
+Cambios Evolutivos Clave
+
+1996
+
+• Distinguido como "una guía de los fundamentos", en lugar de los fundamentos para la dirección
+de proyectos.
+• Reflejaba el subconjunto de los fundamentos para la dirección de proyectos que es "generalmente
+aceptado", es decir, aplicable a la mayoría de los proyectos la mayoría de las veces, con un consenso
+generalizado de que las prácticas tienen valor y utilidad.
+• Definía la dirección de proyectos como "la aplicación de conocimientos, aptitudes, herramientas y
+técnicas a las actividades de los proyectos a fin de satisfacer o superar las necesidades y expectativas
+de los interesados en un proyecto" (sin negrilla en el original).
+• Decisión específica de pasar a un estándar basado en procesos, impulsada por el deseo de mostrar las
+interacciones entre las Áreas de Conocimiento; crear una estructura robusta y flexible; y reconocer que
+la ISO y otras organizaciones de normalización estaban estableciendo normas basadas en procesos.
+
+Tercera (2004)
+
+• Primera edición que incorpora el logotipo de "Estándar ANSI" en la portada.
+• Primera edición en designar formalmente El estándar para la Dirección de Proyectos de un Proyecto
+como separado y distinto del Marco de Referencia para la Dirección de Proyectos y de los Fundamentos.
+• Incluía material "generalmente reconocido como buenas prácticas en la mayoría de los proyectos la
+mayor parte del tiempo".
+• Definía la dirección de proyectos como “la aplicación de conocimientos, habilidades, herramientas y
+técnicas a las actividades del proyecto para cumplir con los requisitos del mismo".
+
+Sexta (2017)
+
+• Primera edición en la que se denota una separación clara entre el estándar ANSI y la guía.
+• Incorpora por primera vez contenido “ágil” al texto, no sólo lo menciona en los ejemplos.
+• Ampliación del texto introductorio del Área de Conocimiento, incluyendo conceptos clave,
+tendencias y prácticas emergentes, consideraciones de adaptación y consideraciones para
+entornos ágiles/adaptativos.
+
+ix
+
+Al igual que las ediciones anteriores del Estándar para la Dirección de Proyectos y la Guía del
+PMBOK®, esta edición reconoce que el panorama de la dirección de proyectos continúa evolucionando
+y adaptándose. Solo en los últimos 10 años, el avance del software hacia todo tipo de productos,
+servicios y soluciones ha crecido exponencialmente. Lo que el software puede habilitar sigue
+cambiando a medida que la inteligencia artificial, las capacidades basadas en la nube y los nuevos
+modelos de negocio impulsan la innovación y las nuevas formas de trabajo. La transformación de
+los modelos organizacionales ha dado lugar a nuevas estructuras de trabajo de proyectos y equipos,
+a la necesidad de una amplia gama de enfoques para la ejecución de proyectos y productos, y a una
+mayor atención a los resultados en lugar de a los entregables. Los colaboradores individuales pueden
+unirse a los equipos de proyecto desde cualquier parte del mundo, desempeñando una matriz
+más amplia de funciones y posibilitando nuevas formas de pensar y trabajar en colaboración. Estos
+cambios y otros más han creado esta oportunidad de reconsiderar las perspectivas para prestar
+apoyo a la continua evolución de El Estándar para la Dirección de Proyectos y de la Guía del PMBOK®.
+
+RESUMEN DE CAM BIOS
+Desde 1987, El Estándar para la Dirección de Proyectos ha representado un estándar basado en
+procesos. El Estándar para la Dirección de Proyectos incluido en la Guía del PMBOK® alineó la disciplina
+y la función de la dirección de proyectos en torno a un conjunto de procesos empresariales . Esos
+procesos empresariales permitieron la concepción de prácticas coherentes y previsibles:
+► Que podían ser documentadas;
+► A través de las cuales era posible evaluar el desempeño en relación con los procesos; y
+► Mediante las cuales se podían hacer mejoras en el proceso con el fin de maximizar
+la eficiencia y minimizar las amenazas.
+Si bien son eficaces en soporte de las buenas prácticas, los estándares basados en procesos
+son imperativos por naturaleza. Dado que la dirección de proyectos está evolucionando más
+rápidamente que nunca, la orientación basada en procesos de las ediciones anteriores no puede
+conservarse de manera tal que refleje el panorama total de la entrega de valor. Por lo tanto, esta
+edición cambia a un estándar basado en principios con el fin de apoyar la dirección eficaz de los
+proyectos, y centrarse más en los resultados previstos que en los entregables.
+
+x
+
+Una comunidad mundial de profesionales de diferentes industrias y organizaciones,
+con diferentes funciones y que trabajan en diferentes tipos de proyectos, han elaborado y/o
+proporcionado información sobre los borradores del estándar a medida que ha ido evolucionando
+para la presente edición. Además, los co-directores y el personal de la Guía del PMBOK® – Séptima
+Edición revisaron otros fundamentos y trabajos centrados en la dirección de proyectos para
+identificar los conceptos principales incorporados en esos textos. Estos esfuerzos combinados
+mostraron una fuerte alineación y apoyaron la validación de que los principios rectores de esta
+edición del estándar se aplican en todo el espectro de la dirección de proyectos.
+Hasta la fecha, la comunidad mundial de dirección de proyectos ha aceptado el desplazamiento
+de este estándar hacia un conjunto de declaraciones de principios. Las declaraciones de principios
+captan y resumen los objetivos generalmente aceptados para la práctica de la dirección de proyectos
+y sus funciones básicas. Las declaraciones de principios proporcionan amplios parámetros dentro
+de los cuales pueden operar los equipos de proyecto y ofrecen muchas maneras de mantenerse
+alineados con la intención de los principios.
+Utilizando estas declaraciones de principios, PMI puede reflejar una gestión eficaz de los
+proyectos en el panorama de entrega de valor total: de predictivo a adaptativo y todo lo demás.
+Este enfoque basado en principios también es coherente con la evolución de El Estándar para
+la Dirección de Programas (Tercera y Cuarta Ediciones) y The Standard for Portfolio Management –
+Cuarta Edición (El Estándar para la Dirección de Portafolios, disponible solo en inglés). The Standard
+for Risk Management in Portfolios, Programs and Projects y Benefits Realization Management: A Practice
+Guide (El Estándar para la Gestión de Riesgos en Portafolios, Programas y Proyectos y Gestión de la
+Obtención de Beneficios: Guía Práctica,disponible solo en inglés) representan nuevos productos
+estándar desarrollados intencionalmente, con un enfoque basado en principios, por equipos
+mundiales de expertos en la materia.
+Nada en esta edición de El Estándar para la Dirección de Proyectos o de la Guía de los
+Fundamentos para la Dirección de Proyectos contradice la alineación con el enfoque basado en
+procesos de las ediciones anteriores. Muchas organizaciones y profesionales siguen considerando
+que ese enfoque es útil con el fin de orientar su capacidad para la dirección de proyectos, armonizar
+sus metodologías y evaluar su capacidad para la dirección de proyectos. Ese enfoque sigue siendo
+importante en el contexto de esta nueva edición.
+Otro cambio significativo con esta edición de la Guía del PMBOK® es una visión sistémica
+de la dirección de proyectos. Este cambio comienza con una visión de sistemas para entrega de
+valor como parte de El Estándar para la Dirección de Proyectos y continúa con la presentación del
+contenido de la Guía del PMBOK®. Un enfoque de los sistemas hacia la entrega de valor cambia la
+perspectiva de dirigir portafolios, programas y proyectos, para centrarse en la cadena de valor que
+vincula esas y otras capacidades empresariales para avanzar en la estrategia organizativa, el valor
+y los objetivos del negocio. En el contexto de la dirección de proyectos, El Estándar para la Dirección
+de Proyectos y la Guía del PMBOK ® hacen hincapié en que los proyectos no sólo producen salidas,
+sino que, lo que es más importante, permiten que esas salidas impulsen resultados que, en última
+instancia, aportan valor a la organización y a sus interesados.
+
+xi
+
+Esta vista sistémica refleja un desplazamiento desde las Áreas de Conocimiento de las
+ediciones pasadas de la Guía del PMBOK® a ocho dominios de desempeño. Un dominio de
+desempeño es un grupo de actividades relacionadas que son fundamentales para la conse cución
+efectiva de los resultados de los proyectos. En conjunto, los dominios de desempeño representan
+un sistema de dirección de proyectos de capacidades de gestión interactivas, interrelacionadas
+e interdependientes que funcionan al unísono para lograr los resultados deseados del proyecto.
+A medida que los dominios de desempeño interactúan y reaccionan entre sí, se producen cambios.
+Los equipos de proyecto revisan, discuten, adaptan y responden a esos cambios continuamente
+teniendo en cuenta todo el sistema, no sólo el dominio de desempeño específico en el que
+se produjo el cambio. En consonancia con el concepto de un sistema para entrega de valor en
+El Estándar para la Dirección de Proyectos, los equipos evalúan el desempeño efectivo en cada
+dominio de desempeño mediante mediciones centradas en los resultados, más que mediante
+la adhesión a procesos o a la producción de artefactos, planes, etc.
+En ediciones anteriores de la Guía del PMBOK® se subrayaba la importancia de adaptar el
+enfoque de la dirección de proyectos a las características únicas de cada proyecto y su contexto.
+La Sexta Edición específicamente incorporó consideraciones para ayudar a los equipos de proyecto
+a pensar en cómo adaptar su enfoque a la dirección de proyectos. Ese contenido fue incluido en
+el texto preliminar de cada una de las Áreas de Conocimiento y proporcionó consideraciones para
+todos los tipos de entornos de proyectos. Esta edición amplía aún más esa labor con una sección
+dedicada a la Adaptación en la Guía del PMBOK®.
+Una nueva sección sobre Modelos, Métodos y Artefactos ofrece una agrupación de alto nivel de
+modelos, métodos y artefactos que apoyan la dirección de proyectos. En esta sección se mantienen
+los vínculos con las herramientas, técnicas y salidas de ediciones anteriores que apoyan la dirección
+de proyectos sin prescribir cuándo, cómo o qué herramientas deben utilizar los equipos.
+El cambio final refleja el avance más significativo en la historia de la Guía del PMBOK® —la
+creación de PMIstandards+™, una plataforma digital interactiva que incorpora prácticas, métodos
+y artefactos actuales, emergentes y futuros, y otra información útil. El contenido digital refleja
+de mejor manera la naturaleza dinámica de un conjunto de conocimientos. PMIstandards+
+proporciona a los profesionales de proyectos y a otros interesados acceso a una gama más rica
+y amplia de información y recursos, que pueden adaptarse más rápidamente a los avances y
+cambios en la dirección de proyectos. El contenido explica cómo se aplican prácticas, métodos
+o artefactos específicos a los proyectos en función de los segmentos de la industria, tipos de
+proyectos u otras características. A partir de las entradas, herramientas y técnicas, y de las salidas
+de la Guía del PMBOK® – Sexta Edición, PMIstandards+ seguirá incorporando nuevos recursos
+que apoyen la evolución continua en la dirección de proyectos. En adelante, los usuarios de
+El Estándar para la Dirección de Proyectos y de la Guía del PMBOK® pueden encontrar información
+en PMIstandards+ que complementará la información incluida en la publicación impresa.
+La siguiente figura ilustra la revisión de El Estándar para la Dirección de Proyectos.y la migración
+de la Sexta a la Séptima Edición de la Guía del PMBOK®, junto con la conexión a la plataforma digital
+PMIstandards+.
+
+xii
+
+Guía del PMBOK® – Sexta Edición
+Guía de los Fundamentos para
+la Dirección de Proyectos:
+• Introducción, Entorno del Proyecto y Rol del
+Director del Proyecto
+• Áreas de Conocimiento
+• Integración
+• Alcance
+• Cronograma
+• Costo
+• Calidad
+• Recursos
+• Comunicaciones
+• Riesgo
+• Adquisiciones
+• Interesados
+
+El Estándar para la Dirección de Proyectos:
+• Inicio
+• Planificación
+• Ejecución
+• Monitoreo y Control
+• Cierre
+

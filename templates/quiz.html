@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}Quiz - PMBOK LMS{% endblock %}
+{% block content %}
+<h2 style="margin-bottom:1rem">Quiz de Conocimiento</h2>
+
+<div class="card">
+    <label for="chapter-select">Filtrar por capítulo:</label>
+    <select id="chapter-select" class="search-box" onchange="startQuiz()">
+        <option value="">Todos los capítulos</option>
+        {% for ch in chapters %}
+        <option value="{{ ch.id }}">{{ ch.number }}. {{ ch.title }}</option>
+        {% endfor %}
+    </select>
+    <label for="num-questions">Número de preguntas:</label>
+    <input type="number" id="num-questions" class="search-box" value="5" min="1" max="20" style="width:100px">
+    <button class="btn btn-primary" onclick="startQuiz()">Comenzar Quiz</button>
+</div>
+
+<div id="quiz-area" class="quiz-container"></div>
+<div id="result-area"></div>
+
+<script>
+let currentQuestions = [];
+let currentIndex = 0;
+let score = 0;
+
+async function startQuiz() {
+    const chapterId = document.getElementById('chapter-select').value;
+    const limit = document.getElementById('num-questions').value;
+    document.getElementById('quiz-area').innerHTML = '<p style="text-align:center;color:var(--text-muted)">Cargando preguntas...</p>';
+    document.getElementById('result-area').innerHTML = '';
+    currentIndex = 0;
+    score = 0;
+
+    let url = `/api/quiz/questions?limit=${limit}`;
+    if (chapterId) url += `&chapter_id=${chapterId}`;
+
+    const res = await fetch(url);
+    currentQuestions = await res.json();
+    if (currentQuestions.length === 0) {
+        document.getElementById('quiz-area').innerHTML = '<p style="text-align:center;color:var(--text-muted)">No hay preguntas disponibles.</p>';
+        return;
+    }
+    showQuestion();
+}
+
+async function showQuestion() {
+    if (currentIndex >= currentQuestions.length) {
+        document.getElementById('quiz-area').innerHTML = `
+            <div class="card" style="text-align:center">
+                <h3>¡Quiz completado!</h3>
+                <p style="font-size:1.5rem;color:var(--primary);margin:1rem 0">${score}/${currentQuestions.length}</p>
+                <button class="btn btn-primary" onclick="startQuiz()">Intentar de nuevo</button>
+            </div>
+        `;
+        return;
+    }
+
+    const q = currentQuestions[currentIndex];
+    document.getElementById('quiz-area').innerHTML = `
+        <div class="quiz-question">
+            <span class="badge" style="background:var(--primary)">${currentIndex + 1}/${currentQuestions.length}</span>
+            <span class="concept-tag">${q.concept}</span>
+            <h3>${q.question}</h3>
+            <div id="answer-area-${q.id}">
+                <button class="btn btn-primary" onclick="showAnswer(${q.id})">Mostrar respuesta</button>
+            </div>
+            <div id="quiz-answer-${q.id}" class="quiz-answer"></div>
+        </div>
+    `;
+}
+
+async function showAnswer(id) {
+    const res = await fetch(`/api/quiz/answer/${id}`);
+    const data = await res.json();
+    const answerDiv = document.getElementById(`quiz-answer-${id}`);
+    answerDiv.innerHTML = data.answer;
+    answerDiv.style.display = 'block';
+    document.getElementById(`answer-area-${id}`).innerHTML = `
+        <button class="btn btn-success" onclick="nextQuestion(true)">Correcta ✓</button>
+        <button class="btn btn-outline" onclick="nextQuestion(false)" style="margin-left:0.5rem">Incorrecta ✗</button>
+    `;
+}
+
+function nextQuestion(correct) {
+    if (correct) score++;
+    currentIndex++;
+    showQuestion();
+}
+</script>
+{% endblock %}

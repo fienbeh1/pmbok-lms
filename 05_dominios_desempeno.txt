@@ -1,0 +1,90 @@
+DOMINIOS DE DESEMPEÑO DEL PROYECTO ......................................... 7
+2.1 Dominio de Desempeño de los Interesados ................................. 8
+2.1.1 Involucramiento de los Interesados ................................ 10
+2.1.2 Interacciones con Otros Dominios de Desempeño ........ 14
+2.1.3 Verificación de Resultados ..................................................15
+2.2 Dominio de Desempeño del Equipo ............................................. 16
+2.2.1 Dirección y Liderazgo del Equipo de Proyecto ............. 17
+2.2.2 Cultura del Equipo de Proyecto ....................................... 20
+2.2.3 Equipos de Proyecto de Alto Rendimiento .................... 22
+2.2.4 Habilidades de Liderazgo .................................................. 23
+2.2.5 Adaptación de Estilos de Liderazgo ................................ 30
+2.2.6 Interacciones con Otros Dominios de Desempeño ........ 31
+2.2.7 Verificación de Resultados ..................................................31
+2.3 Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida ................................................. 32
+2.3.1 Relación entre Cadencia, Desarrollo y Ciclo de vida ..... 33
+2.3.2 Cadencia de Entrega.......................................................... 33
+2.3.3 Enfoques de Desarrollo ..................................................... 35
+2.3.4 Consideraciones para Seleccionar un Enfoque
+de Desarrollo ...........................................................................39
+2.3.5 Ciclo de Vida y Definiciones de Fase ................................42
+2.3.6 Alineación de Cadencia de Entrega,
+Enfoque de Desarrollo y Ciclo de Vida ........................... 46
+2.3.7 Interacciones con Otros Dominios de Desempeño ........ 49
+2.3.8 Medición de los Resultados ............................................. 50
+2.4 Dominio de Desempeño de la Planificación...................................... 51
+2.4.1 Descripción General de la Planificación .............................. 52
+2.4.2 Variables para la Planificación ............................................... 53
+xvii
+
+2.4.3
+
+Composición y Estructura del Equipo de Proyecto ....... 63
+
+2.5
+
+2.6
+
+2.7
+
+xviii
+
+2.4.4 Comunicación ..................................................................... 64
+2.4.5 Recursos Físicos................................................................ 65
+2.4.6 Adquisición ......................................................................... 65
+2.4.7 Cambios .............................................................................. 66
+2.4.8 Métricas ............................................................................ 66
+2.4.9 Alineación ........................................................................... 67
+2.4.10 Interacciones con Otros Dominios de Desempeño ........ 67
+2.4.11 Verificación de Resultados ..................................................68
+Dominio de Desempeño del Trabajo del Proyecto .................... 69
+2.5.1 Procesos del Proyecto ...................................................... 71
+2.5.2 Equilibrio de las Restricciones en Competencia ........... 72
+2.5.3 Conservación del Enfoque del Equipo de Proyecto ...... 73
+2.5.4 Comunicaciones e Involucramiento en el Proyecto ....... 73
+2.5.5 Gestión de Recursos Físicos............................................ 73
+2.5.6 Trabajo con Adquisiciones ............................................... 74
+2.5.7 Monitoreo de Nuevos Trabajos y Cambios .................... 76
+2.5.8 Aprendizaje a lo largo del Proyecto ................................ 77
+2.5.9 Interacciones con Otros Dominios de Desempeño ........ 78
+2.5.10 Verificación de Resultados ..................................................79
+Dominio de Desempeño de la Entrega ........................................ 80
+2.6.1 Entrega de Valor ............................................................. 81
+2.6.2 Entregables ..................................................................... 82
+2.6.3 Calidad ................................................................................. 87
+2.6.4 Resultados Subóptimos .................................................... 91
+2.6.5 Interacciones con Otros Dominios de Desempeño ........ 91
+2.6.6 Verificación de Resultados ..................................................92
+Dominio de Desempeño de la Medición ...................................... 93
+2.7.1 Establecimiento de Medidas Efectivas ............................ 95
+2.7.2 Qué medir ........................................................................ 98
+2.7.3 Presentación de la Información ..................................... 106
+2.7.4 Peligros en las Mediciones ............................................. 111
+2.7.5 Resolución de Problemas de Desempeño .................... 113
+2.7.6 Crecimiento y Mejora ....................................................... 114
+2.7.7 Interacciones con Otros Dominios de Desempeño ...... 114
+2.7.8 Verificación de Resultados ............................................... 115
+
+2.8
+
+Dominio de Desempeño de la Incertidumbre ........................... 116
+2.8.1 Incertidumbre General ..................................................... 119
+2.8.2 Ambigüedad .................................................................. 120
+2.8.3 Complejidad ...................................................................... 120
+2.8.4 Volatilidad ...................................................................... 122
+2.8.5 Riesgo ................................................................................ 122
+2.8.6 Interacciones con Otros Dominios de Desempeño ...... 128
+2.8.7 Verificación de Resultados ............................................... 129
+
+3. 

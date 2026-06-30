@@ -1,0 +1,3030 @@
+► Son propios o prácticamente propios, de la dirección de proyectos (por ejemplo, producto
+mínimo viable, estructura de desglose del trabajo, diagrama de Gantt), y
+► No son propios de la dirección de proyectos, pero se usan de una forma diferente
+o con un significado más concreto en este ámbito que en el uso cotidiano y general
+(por ejemplo, planificación de liberaciones, reserva para contingencias).
+En general, este glosario no incluye:
+► Términos específicos de un área de aplicación,
+► Términos cuyo uso en la de dirección de proyectos no difiere en forma sustancial
+del uso diario (por ejemplo, día calendario, retraso).
+► Términos compuestos cuyo significado se deduce claramente de la combinación
+de sus componentes.
+► Variantes, cuando el significado de la variante se deduce claramente del término básico, y
+► Términos que se utilizan una única vez y que no son críticos para comprender
+el propósito de la oración. Esto puede incluir una lista de ejemplos que no tendría
+cada término definido en el glosario.
+
+Glosario
+
+233
+
+2. SIGLAS COMUNES
+AC
+
+actual cost / costo real
+
+BAC
+
+budget at completion / presupuesto hasta la conclusión
+
+CCB
+
+change control board / comité de control de cambios
+
+CFD
+
+cumulative flow diagram / diagrama de flujo acumulativo
+
+COQ
+
+cost of quality / costo de la calidad
+
+CPAF
+
+cost plus award fee / costo más honorarios por cumplimiento de objetivos
+
+CPFF
+
+cost plus fixed fee / costo más honorarios fijos
+
+CPI
+
+cost performance index / índice de desempeño del costo
+
+CPIF
+
+cost plus incentive fee / costo más honorarios con incentivos
+
+CPM
+
+critical path method / método de la ruta crítica
+
+CV
+
+cost variance / variación del costo
+
+DoD
+
+definition of done / definición de terminado
+
+EAC
+
+estimate at completion / estimación a la conclusión
+
+EDT
+
+work breakdown structure / estructura de desglose del trabajo
+
+EEF
+
+enterprise environmental factors / factores ambientales de la empresa
+
+EMV
+
+expected monetary value / valor monetario esperado
+
+ETC
+
+estimate to complete / estimación hasta la conclusión
+
+EV
+
+earned value / valor ganado
+
+EVA
+
+earned value analysis / análisis del valor ganado
+
+FFP
+
+firm fixed price / precio fijo cerrado
+
+FPEPA
+
+fixed price with economic price adjustment / precio fijo con ajuste económico de precio
+
+FPIF
+
+fixed price incentive fee / precio fijo más honorarios con incentivos
+
+IDIQ
+
+indefinite delivery indefinite quantity / entrega indefinida cantidad indefinida
+
+LCA
+
+life cycle assessment / evaluación del ciclo de vida
+
+MVP
+
+minimum viable product / producto mínimo viable
+
+OBS
+
+organizational breakdown structure / estructura de desglose de la organización
+
+OPA
+
+organizational process assets / activos de los procesos de la organización
+
+PMB
+
+performance measurement baseline / línea base para la medición del desempeño.
+
+PMBOK
+
+Project Management Body of Knowledge / fundamentos para la dirección de proyectos
+
+PMO
+
+project management office / oficina de dirección de proyectos
+
+PV
+
+planned value / valor planificado
+
+RAM
+
+responsibility assignment matrix / matriz de asignación de responsabilidades
+
+RBS
+
+risk breakdown structure / estructura de desglose de riesgos
+
+SOW
+
+statement of work / enunciado del trabajo
+
+SPI
+
+schedule performance index / índice de desempeño del cronograma
+
+SV
+
+schedule variance / variación del cronograma
+
+SWOT
+(FODA)
+
+strengths, weaknesses, opportunities, and threats / fortalezas, oportunidades,
+debilidades y amenazas
+
+T&M
+
+time and material contract / contrato por tiempo y materiales
+
+VAC
+
+variance at completion / variación a la conclusión
+
+VDO
+
+value delivery office / oficina de entrega de valor
+
+234
+
+Guía del PMBOK®
+
+3. DEFINICIONES
+Muchas de las palabras definidas aquí tienen definiciones más amplias, y en algunos casos
+distintas, en el diccionario. En algunos casos, un único término del glosario consiste en varias
+palabras (p.ej., análisis de causa raíz).
+Aceptar el Riesgo / Risk Acceptance. Estrategia de respuesta a los riesgos según la cual el equipo
+del proyecto decide reconocer el riesgo y no tomar ninguna medida a menos que el riesgo ocurra.
+Acta de Constitución / Charter. Véase acta de constitución del proyecto.
+Acta de Constitución del Equipo / Team Charter. Documento que registra los valores,
+acuerdos y pautas operativas del equipo, estableciendo además expectativas claras con respecto
+al comportamiento aceptable de los miembros del equipo del proyecto.
+Acta de Constitución del Proyecto / Project Charter. Documento emitido por el iniciador del
+proyecto o patrocinador, que autoriza formalmente la existencia de un proyecto y confiere al director
+de proyecto la autoridad para aplicar los recursos de la organización a las actividades del proyecto.
+Activos de los Procesos de la Organización (OPA) / Organizational Process Assets (OPA).
+Planes, procesos, políticas, procedimientos y bases de conocimiento que son específicos
+de la organización ejecutante y que son utilizados por la misma.
+Adaptación / Tailoring. La adecuación deliberada del enfoque, la gobernanza y los procesos
+con el fin de que resulten más adecuados para el entorno dado y el trabajo en cuestión.
+Adelanto / Lead. Cantidad de tiempo en la que una actividad sucesora se puede anticipar
+con respecto a una actividad predecesora.
+Ágil / Agile. Término que describe una mentalidad definida por los valores y los principios
+del Manifiesto de Ágil.
+Agrupamiento de Afinidad / Affinity Grouping. Proceso de clasificación de los elementos
+en categorías o colecciones similares de acuerdo con su semejanza.
+Alcance / Scope. Suma de productos, servicios y resultados a ser proporcionados como un proyecto.
+Véase también alcance del proyecto y alcance del producto.
+Alcance del Producto / Product Scope. Características y funciones de un producto, servicio
+o resultado.
+Alcance del Proyecto / Project Scope. Trabajo realizado para entregar un producto, servicio
+o resultado con las funciones y características especificadas.
+Ambigüedad / Ambiguity. Estado de confusión, con dificultad para identificar la causa de los eventos,
+o tener múltiples opciones entre las cuales elegir.
+Amenaza / Threat. Riesgo que tendría un efecto negativo sobre uno o más objetivos del proyecto.
+Análisis Costo-Beneficio / Cost-Benefit Analysis. Método de análisis financiero utilizado para
+determinar los beneficios proporcionados por un proyecto respecto a sus costos.
+Análisis de Alternativas / Alternatives Analysis. Método utilizado para evaluar las opciones
+identificadas a fin de seleccionar las opciones o enfoques a utilizar para llevar a cabo el trabajo
+del proyecto.
+Análisis de Causa Raíz / Root Cause Analysis. Método analítico utilizado para determinar
+el motivo subyacente básico que causa una variación, un defecto o un riesgo.
+
+Glosario
+
+235
+
+Análisis de Escenarios “¿Qué pasa si…?” / What-If-Scenario Analysis. Proceso que consiste
+en evaluar escenarios a fin de predecir su efecto sobre los objetivos del proyecto.
+Análisis de Hacer o Comprar / Make-or-Buy Analysis. Proceso de recopilar y organizar datos
+acerca de los requisitos del producto y analizarlos frente a las alternativas disponibles, incluida
+la compra o fabricación interna del producto.
+Análisis de Interesados / Stakeholder Analysis. Método que consiste en recopilar y analizar
+de manera sistemática información cuantitativa y cualitativa, a fin de determinar los intereses de
+quiénes deberían tenerse en cuenta a lo largo del proyecto.
+Análisis de Regresión / Regression Analysis. Método analítico en el que una serie de variables
+de entrada se examinan en relación a sus correspondientes resultados de salida a fin de desarrollar
+una relación matemática o estadística.
+Análisis de Reserva / Reserve Analysis. Método utilizado para evaluar la cantidad de riesgo
+del proyecto y la cantidad de reserva de cronograma y de presupuesto para determinar
+si la reserva es suficiente para el riesgo restante.
+Análisis de Sensibilidad / Sensitivity Analysis. Método de análisis para determinar qué riesgos
+individuales del proyecto u otras fuentes de incertidumbre tienen el mayor impacto posible
+sobre los resultados del proyecto, mediante la correlación de las variaciones en los resultados
+del proyecto con las variaciones en los elementos de un modelo cuantitativo de análisis de riesgo.
+Análisis de Supuestos y Restricciones / Assumption and Constraint Analysis. Evaluación
+que asegura que los supuestos y las restricciones sean integradas en los planes y documentos
+del proyecto, y que haya coherencia entre ellos.
+Análisis de Tendencias / Trend Analysis. Método analítico que utiliza modelos matemáticos
+para pronosticar resultados futuros basada en resultados históricos.
+Análisis de Variación / Variance Analysis. Método para determinar la causa y el grado de diferencia
+entre la línea base y el desempeño real.
+Análisis del Valor Ganado (EVA) / Earned Value Analysis (EVA). Método de análisis que utiliza
+un conjunto de mediciones asociadas con el alcance, cronograma y costo para determinar
+el desempeño del costo y cronograma de un proyecto.
+Análisis FODA / SWOT Analysis. Análisis de Fortalezas, Oportunidades, Debilidades y Amenazas
+de una organización, proyecto u opción.
+Análisis Mediante Árbol de Decisiones / Decision Tree Analysis. Método de diagramación y cálculo
+para evaluar las implicancias de una cadena de opciones múltiples en presencia de incertidumbre.
+Apetito al Riesgo / Risk Appetite. Grado de incertidumbre que una organización o un individuo
+están dispuestos a aceptar con miras a una recompensa.
+Artefacto / Artifact. Plantilla, documento, salida o entregable del proyecto.
+Artefactos de Estrategia (Strategy Artifacts) / Strategy Artifacts. Documentos creados antes
+o al comienzo del proyecto que abordan información estratégica, comercial o de alto nivel
+sobre el proyecto.
+Autoridad / Authority. Derecho de aplicar recursos al proyecto, gastar fondos, tomar decisiones
+u otorgar aprobaciones.
+Base de las Estimaciones / Basis of Estimates. Documentación de apoyo que describe los
+detalles utilizados para establecer estimaciones del proyecto tales como supuestos, restricciones,
+nivel de detalle, rangos y niveles de confianza.
+
+236
+
+Guía del PMBOK®
+
+Bloqueo / Blocker. Véase impedimento.
+Cadencia / Cadence. Ritmo de las actividades realizadas a lo largo del proyecto.
+Calendario del Proyecto / Project Calendar. Calendario que identifica los días laborables y turnos
+de trabajo disponibles para las actividades del cronograma.
+Calidad / Quality. Grado en el que un conjunto de características inherentes satisface los requisitos.
+Cambio / Change. Modificación de cualquier entregable, componente del plan para la dirección
+del proyecto o documento del proyecto formalmente controlados.
+Caso de Negocio / Business Case. Propuesta de valor para un proyecto propuesto, que puede
+incluir beneficios financieros y no financieros.
+Caso de Uso / Use Case. Artefacto para describir y explorar la forma en que un usuario interactúa
+con un sistema a fin de lograr un objetivo específico.
+Ciclo de Vida / Life Cycle. Véase ciclo de vida del proyecto.
+Ciclo de Vida del Producto / Product Life Cycle. Serie de fases que representan la evolución
+de un producto, desde el concepto hasta la entrega, el crecimiento, la madurez y el retiro.
+Ciclo de Vida del Proyecto / Project Life Cycle. Serie de fases que atraviesa un proyecto desde
+su inicio hasta su conclusión.
+Comité de Control de Cambios (CCB) / Change Control Board (CCB). Grupo formalmente
+constituido responsable de revisar, evaluar, aprobar, retrasar o rechazar los cambios en el proyecto,
+así como de registrar y comunicar dichas decisiones.
+Comité de Dirección / Steering Committee. Órgano asesor de los interesados sénior que
+proporciona dirección y apoyo al equipo del proyecto y toma decisiones fuera de la autoridad
+del mismo.
+Compartir el Riesgo / Risk Sharing. Estrategia de respuesta a los riesgos según la cual el equipo
+del proyecto asigna la responsabilidad de una oportunidad a un tercero que está en las mejores
+condiciones de capturar el beneficio de esa oportunidad.
+Complejidad / Complexity. Característica de un programa o proyecto o de su entorno que es difícil
+de gestionar debido al comportamiento humano, el comportamiento del sistema y la ambigüedad.
+Compresión del Cronograma / Schedule Compression. Método utilizado para acortar la duración
+del cronograma sin reducir el alcance del proyecto.
+Comunicación Osmótica / Osmotic Communication. Medios para recibir información sin
+comunicación directa por medio de la audición por casualidad y a través de señales no verbales.
+Conferencia de Oferentes / Bidder Conference. Reuniones con posibles vendedores previas
+a la preparación de una licitación o propuesta para asegurar que todos los posibles proveedores
+comprendan la necesidad de adquisición de manera clara y uniforme. También conocidas como
+conferencias de contratistas, conferencias de proveedores o conferencias previas a la licitación.
+Conformidad / Conformance. Grado en que los resultados cumplen con los requisitos
+de calidad establecidos.
+Conocimiento / Knowledge. Mezcla de experiencia, valores y creencias, información contextual,
+intuición y percepción que las personas utilizan para darle sentido a nuevas experiencias e información.
+Conocimiento Explícito / Explicit Knowledge. Conocimiento que puede codificarse utilizando
+símbolos tales como palabras, números e imágenes.
+
+Glosario
+
+237
+
+Conocimiento Tácito / Tacit Knowledge. Conocimiento personal que puede ser difícil de articular
+y compartir tal como creencias, experiencia y percepciones.
+Contingencia / Contingency. Evento o una ocurrencia que podría afectar la ejecución del proyecto
+y que puede tenerse en cuenta con una reserva.
+Contrato / Contract. Un acuerdo vinculante para las partes en virtud del cual el vendedor se obliga
+a proveer el producto, servicio o resultado especificado y el comprador a pagar por él.
+Contrato de Costo Más Honorarios con Incentivos (CPIF) / Cost Plus Incentive Fee Contract
+(CPIF). Tipo de contrato de costos reembolsables en el que el comprador reembolsa al vendedor
+su costo permitido correspondiente (según se defina costo permitido en el contrato) y el vendedor
+obtiene sus ganancias si cumple los criterios de desempeño definidos.
+Contrato de Costo Más Honorarios Fijos (CPFF) / Cost Plus Fixed Fee Contract (CPFF). Tipo
+de contrato de costos reembolsables en el que el comprador reembolsa al vendedor por su costo
+permitido correspondiente (según se defina costo permitido en el contrato) más una cantidad fija
+de ganancias (honorarios).
+Contrato de Costo Más Honorarios por Cumplimiento de Objetivos (CPAF) / Cost Plus Award
+Fee Contract (CPAF). Categoría de contrato que implica efectuar pagos al vendedor por todos los
+costos legítimos y reales en que incurriera para completar el trabajo, más una bonificación que
+representa la ganancia del vendedor.
+Contrato de Costo Reembolsable / Cost-Reimbursable Contract. Tipo de contrato que implica
+el pago al vendedor por los costos reales del proyecto, más un honorario que, por lo general,
+representa la ganancia del vendedor.
+Contrato de Precio Fijo / Fixed-Price Contract. Acuerdo que fija los honorarios que se pagarán
+por un alcance definido del trabajo independientemente del costo o esfuerzo para entregarlo.
+Contrato de Precio Fijo Cerrado (FFP) / Firm Fixed Price Contract (FFP). Tipo de contrato de precio
+fijo en el cual el comprador paga al vendedor un monto establecido (conforme lo defina el contrato),
+independientemente de los costos del vendedor.
+Contrato de Precio Fijo con Ajuste Económico de Precio (FPEPA) / Fixed Price with Economic
+Price Adjustment Contract (FPEPA). Contrato de precio fijo, pero con una disposición especial que
+permite ajustes finales predefinidos al precio del contrato debido a cambios en las condiciones, tales
+como cambios inflacionarios o aumentos (o disminuciones) del costo de productos específicos.
+Contrato de Precio Fijo Más Honorarios con Incentivos (FPIF) / Fixed Price Incentive Fee
+Contract (FPIF). Tipo de contrato en el cual el comprador paga al vendedor un monto establecido
+(conforme lo defina el contrato) y el vendedor puede ganar un monto adicional si cumple con los
+criterios de desempeño establecidos.
+Contrato por Tiempo y Materiales (T&M) / Time and Material Contract (T&M). Tipo de contrato
+que es un acuerdo contractual híbrido, el cual contiene aspectos tanto de contratos de costos
+reembolsables como de contratos de precio fijo.
+Control de Cambios / Change Control. Proceso por medio del cual se identifican, documentan,
+aprueban o rechazan las modificaciones de documentos, entregables o líneas base asociados con
+el proyecto.
+Controlar / Control. Proceso de comparar el desempeño real con el desempeño planificado, analizar
+las variaciones, evaluar las tendencias para realizar mejoras en los procesos, evaluar las alternativas
+posibles y recomendar las acciones correctivas apropiadas según sea necesario.
+
+238
+
+Guía del PMBOK®
+
+Corrupción o Deslizamiento del Alcance / Scope Creep. Expansión no controlada del alcance
+del producto o proyecto sin ajustes de tiempo, costo y recursos.
+Costo de la Calidad (COQ) / Cost of Quality (COQ). Todos los costos incurridos durante la vida
+del producto por inversión en la prevención de no conformidad con los requisitos, evaluación del
+producto o servicio en cuanto a su conformidad con los requisitos, e incumplimiento de los requisitos.
+Costo Real (AC) / Actual Cost (AC). Costo real incurrido por el trabajo llevado a cabo en una
+actividad durante un período de tiempo específico.
+Criterios / Criteria. Estándares, reglas o pruebas en las que se puede basar un juicio o decisión
+o por medio de las cuales se puede evaluar un producto, servicio, resultado o proceso.
+Criterios de Aceptación / Acceptance Criteria. Conjunto de condiciones que debe cumplirse
+antes de que se acepten los entregables.
+Cronograma / Schedule. Véase cronograma del proyecto.
+Cronograma de Hitos / Milestone Schedule. Tipo de cronograma que presenta hitos con fechas
+planificadas.
+Cronograma del Proyecto / Project Schedule. Salida de un modelo de programación que presenta
+actividades vinculadas con fechas planificadas, duraciones, hitos y recursos.
+Curva S / S-Curve. Gráfico que muestra los costos acumulados durante un período específico.
+Datos e Información Visuales / Visual Data and Information. Artefactos que organizan y presentan
+los datos y la información en un formato visual, tal como tablas, gráficos, matrices y diagramas.
+Declaración de la Visión / Vision Statement. Descripción resumida y de alto nivel sobre
+las expectativas de un producto, tales como el mercado objetivo, los usuarios, los principales
+beneficios y lo que diferencia al producto de otros en el mercado.
+Declaración de la Visión del Proyecto / Project Vision Statement. Una descripción concisa
+y de alto nivel del proyecto que declara el propósito e inspira al equipo a contribuir al mismo.
+Definición de Terminado (DoD) / Definition of Done (DoD). Lista de verificación que incluye
+todos los criterios requeridos para que un entregable sea considerado como listo para ser usado
+por el cliente.
+Delphi de banda ancha (Wideband Delphi) / Wideband Delphi. Método de estimación en el que
+los expertos en la materia pasan por múltiples rondas de producción individual de estimaciones,
+con una discusión en equipo después de cada ronda, hasta que se logra un consenso.
+Dependencia Discrecional / Discretionary Dependency. Relación que se basa en las mejores
+prácticas o en las preferencias del proyecto.
+Dependencia Externa / External Dependency. Relación entre las actividades del proyecto
+y aquéllas que no pertenecen al proyecto.
+Dependencia Interna / Internal Dependency. Relación entre dos o más actividades del proyecto.
+Dependencia Obligatoria / Mandatory Dependency. Relación que es requerida por contrato
+o inherente a la naturaleza del trabajo.
+Descomposición / Decomposition. Método utilizado para dividir y subdividir el alcance del proyecto
+y los entregables del proyecto en partes más pequeñas y manejables.
+Desperdicio / Waste. Actividades que consumen recursos y/o tiempo sin añadir valor.
+
+Glosario
+
+239
+
+DevOps / DevOps. Conjunto de prácticas para crear un proceso fluido de entregas que mejora
+la colaboración entre los equipos de desarrollo y operaciones.
+Diagrama de Afinidad / Affinity Diagram. Diagrama que muestra un gran número de ideas
+clasificadas en grupos para su revisión y análisis.
+Diagrama de Causa y Efecto / Cause-and-Effect Diagram. Representación visual que ayuda
+a rastrear un efecto no deseado hasta su causa raíz.
+Diagrama de Control / Control Chart. Representación gráfica de los datos de un proceso
+a lo largo del tiempo y comparados con límites de control establecidos, que cuentan con una línea
+central que ayuda a detectar una tendencia de valores trazados con respecto a cualquiera de los
+límites de control.
+Diagrama de Dispersión / Scatter Diagram. Gráfico que muestra la relación entre dos variables.
+Diagrama de Estados de Ánimo / Mood Chart. Diagrama de visualización para el seguimiento de
+los estados de ánimo o las reacciones con el fin de identificar las áreas con oportunidad de mejora.
+Diagrama de Flujo / Flowchart. Representación en formato de diagrama de las entradas,
+acciones de proceso y salidas de uno o más procesos dentro de un sistema.
+Diagrama de Flujo Acumulativo (CFD) / Cumulative Flow Diagram (CFD). Diagrama que indica
+las funcionalidades completadas a lo largo del tiempo, las funcionalidades en otros estados
+de desarrollo y las que están como trabajo pendiente (backlog).
+Diagrama de Gantt / Gantt Chart. Diagrama de barras con información del cronograma donde
+las actividades se enumeran en el eje vertical, las fechas se muestran en el eje horizontal y las
+duraciones de las actividades se muestran como barras horizontales colocadas según las fechas
+de inicio y finalización.
+Diagrama de Influencias / Influence Diagram. Representación gráfica de situaciones que
+muestran las influencias causales, la cronología de eventos y otras relaciones entre las variables
+y los resultados.
+Diagrama de Red del Cronograma del Proyecto / Project Schedule Network Diagram.
+Representación gráfica de las relaciones lógicas que existen entre las actividades del cronograma
+del proyecto.
+Diagrama de Rendimiento / Throughput Chart. Diagrama que muestra los entregables
+aceptados a lo largo del tiempo.
+Diagrama de Tiempo de Ciclo / Cycle Time Chart. Diagrama que muestra el tiempo de ciclo
+promedio de los elementos de trabajo completados a lo largo del tiempo.
+Diagrama de Tiempo de Entrega / Lead Time Chart. Un diagrama que muestra la tendencia
+a lo largo del promedio del tiempo de entrega de los elementos terminados en el trabajo.
+Diagrama de Velocidad / Velocity Chart. Diagrama que hace seguimiento de la tasa a la que son
+producidos, validados y aceptados los entregables dentro de un intervalo predefinido.
+Diagramas Jerárquicos / Hierarchy Chart. Diagramas que comienzan con información de alto
+nivel que es descompuesta progresivamente en niveles de detalle más bajos.
+Diccionario de la EDT (WBS) / WBS Dictionary. Documento que proporciona información detallada
+sobre los entregables, actividades y planificación de cada componente de la estructura de desglose
+del trabajo.
+Dirección de Portafolios / Portfolio Management. Gestión centralizada de uno o más portafolios
+(también llamado cartera) a fin de alcanzar los objetivos estratégicos.
+
+240
+
+Guía del PMBOK®
+
+Dirección de Proyectos / Project Management. Aplicación de conocimientos, habilidades,
+herramientas y técnicas a actividades del proyecto para cumplir con los requisitos del proyecto.
+Dirección del Programa / Program Management. Aplicación de conocimientos, habilidades y
+principios a un programa para alcanzar los objetivos del programa y obtener beneficios y control
+no disponibles cuando los componentes del programa se gestionan individualmente.
+Director del Proyecto / Project Manager. Persona nombrada por la organización ejecutante
+para liderar al equipo que es responsable de alcanzar los objetivos del proyecto.
+Documentación de Requisitos / Requirements Documentation. Registro de los requisitos
+del producto y otra información sobre el producto, junto con todo lo que se registra con
+el fin de gestionarlo.
+Documentos de las Licitaciones / Bid Documents. Todos los documentos utilizados para solicitar
+información, cotizaciones o propuestas a posibles vendedores.
+Dominio de Desempeño de la Entrega / Delivery Performance Domain. Dominio de desempeño
+que aborda las actividades y funciones asociadas con la entrega del alcance y la calidad para cuyo
+logro se emprendió el proyecto.
+Dominio de Desempeño de la Incertidumbre / Uncertainty Domain. Dominio de desempeño
+que se ocupa de las actividades y funciones asociadas con el riesgo y la incertidumbre.
+Dominio de Desempeño de la Medición / Measurement Performance Domain. Dominio
+de desempeño que aborda las actividades y funciones asociadas con la evaluación del desempeño
+de los proyectos y la adopción de medidas apropiadas para mantener un desempeño aceptable.
+Dominio de Desempeño de la Planificación / Planning Performance Domain. Dominio de
+desempeño que aborda las actividades y funciones asociadas con la organización y coordinación
+iniciales, continuas y en evolución, necesarias para la entrega de los elementos entregables y los
+resultados de los proyectos.
+Dominio de Desempeño de los Interesados / Stakeholder Performance Domain. Dominio
+de desempeño que se ocupa de las actividades y funciones asociadas con los interesados.
+Dominio de Desempeño del Enfoque de Desarrollo y del Ciclo de Vida / Development
+Approach and Life Cycle Performance Domain. El dominio de desempeño que aborda las
+actividades y funciones asociadas con el enfoque de desarrollo la cadencia y las fases del ciclo
+de vida del proyecto.
+Dominio de Desempeño del Equipo / Team Performance Domain. Dominio de desempeño
+que se ocupa de las actividades y funciones asociadas con las personas responsables de producir
+los entregables del proyecto que hacen realidad los resultados de negocio.
+Dominio de Desempeño del Trabajo del Proyecto / Project Work Performance Domain. Dominio
+de desempeño que aborda las actividades y funciones asociadas con el establecimiento de los
+procesos del proyecto, la gestión de los recursos físicos y el fomento de un entorno de aprendizaje.
+Dueño del Producto / Product Owner. Persona responsable por maximizar el valor del producto
+y quien es el responsable final.
+Duración / Duration. Total de períodos de trabajo requeridos para completar una actividad
+o un componente de la estructura de desglose del trabajo, expresado en horas, días o semanas .
+Compárese con esfuerzo.
+Duración Fija / Fixed Duration. Tipo de actividad en la que el tiempo requerido para completar la
+actividad permanece constante independientemente del número de personas o recursos asignados
+a la misma.
+
+Glosario
+
+241
+
+Ejecución Rápida / Fast Tracking. Método de compresión del cronograma en el que actividades
+o fases que normalmente se realizan en secuencia se llevan a cabo en paralelo, al menos durante
+una parte de su duración.
+Elaboración Progresiva / Progressive Elaboration. Proceso iterativo de incrementar el nivel
+de detalle de un plan para la dirección del proyecto a medida que se cuenta con mayor cantidad
+de información y con estimaciones más precisas.
+Enfoque Adaptativo / Adaptive Approach. Enfoque de desarrollo en el que los requisitos están
+sujetos a un alto nivel de incertidumbre y volatilidad y es probable que cambien a lo largo del proyecto.
+Enfoque de Desarrollo / Development Approach. Método utilizado para crear y desarrollar el
+producto, servicio o resultado durante el ciclo de vida del proyecto, tal como un método predictivo,
+iterativo, incremental, ágil o híbrido.
+Enfoque Híbrido / Hybrid Approach. Combinación de dos o más elementos ágiles y no ágiles,
+que tienen un resultado final no ágil.
+Enfoque Incremental / Incremental Approach. Enfoque de desarrollo adaptativo en el que
+el entregable es producido en forma sucesiva añadiendo funcionalidades hasta que el entregable
+contenga la capacidad necesaria y suficiente para ser considerado completo.
+Enfoque Iterativo / Iterative Approach. Enfoque de desarrollo que se centra en una implementación
+inicial y simplificada, y luego elabora progresivamente adiciones al conjunto de funcionalidades
+hasta que el producto final queda completo.
+Enfoque Predictivo / Predictive Approach. Enfoque de desarrollo en el cual el alcance, tiempo
+y costo del proyecto se determinan en las fases tempranas del ciclo de vida.
+Enjambre / Swarm. Método en el que varios miembros del equipo se enfocan colectivamente
+en la resolución de una tarea o problema específico.
+Entrega Continua / Continuous Delivery. Práctica de entregar incrementos de funcionalidad
+a los clientes en forma inmediata, a menudo a través del uso de pequeños lotes de trabajo
+y tecnología de automatización.
+Entrega Indefinida Cantidad Indefinida (IDIQ) / Indefinite Delivery Indefinite Quantity (IDIQ).
+Contrato que provee una cantidad indefinida de bienes o servicios, con un límite inferior y superior
+establecidos, dentro de un período determinado.
+Entregable / Deliverable. Cualquier producto, resultado o capacidad única y verificable para
+ejecutar un servicio que se debe producir para completar un proceso, una fase o un proyecto.
+Enunciado del Alcance del Proyecto / Project Scope Statement. Descripción del alcance,
+los entregables principales y las exclusiones del proyecto.
+Enunciado del Trabajo (SOW) / Statement of Work (SOW). Descripción narrativa de los productos,
+servicios o resultados a ser entregados por el proyecto.
+Épica / Epic. Un gran conjunto de trabajo relacionado, destinado a organizar jerárquicamente
+un conjunto de requisitos y entregar resultados de negocio específicos.
+Equipo Auto-Organizado / Self-Organizing Team. Equipo multifuncional en el que las personas
+asumen el liderazgo de forma fluida, según sea necesario para lograr los objetivos del equipo.
+Equipo de Dirección del Proyecto / Project Management Team. Miembros del equipo del
+proyecto que participan directamente en las actividades de dirección del proyecto.
+Equipo del Proyecto / Project Team. Conjunto de individuos que realizan el trabajo del proyecto
+con el fin de alcanzar sus objetivos.
+
+242
+
+Guía del PMBOK®
+
+Equipo Virtual / Virtual Team. Grupos de personas con un objetivo compartido que trabajan
+en diferentes lugares, y que se relacionan entre sí principalmente a través del teléfono y de otras
+comunicaciones electrónicas.
+Escalamiento del Riesgo / Risk Escalation. Estrategia de respuesta a los riesgos según la cual
+el equipo reconoce que un riesgo está fuera de su esfera de influencia y traslada la responsabilidad
+del riesgo a un nivel más alto de la organización donde se le gestiona de forma más efectiva.
+Esfuerzo / Effort. Cantidad de unidades laborales necesarias para terminar una actividad del
+cronograma o un componente de la estructura de desglose del trabajo, generalmente expresado
+en horas, días o semanas de trabajo. Compárese con duración.
+Especificación / Specification. Enunciado preciso de las necesidades a ser satisfechas
+y las características esenciales requeridas.
+Esquema de Priorización / Prioritization Schema. Métodos utilizados para priorizar el portafolio,
+el programa o los componentes del proyecto, así como los requisitos, riesgos, características u otra
+información del producto.
+Estándar / Standard. Documento establecido por una autoridad, costumbre o consenso como
+un modelo o ejemplo.
+Estimación a la Conclusión (EAC) / Estimate at Completion (EAC). Costo total previsto para
+completar todo el trabajo, expresado como la suma del costo real a la fecha y la estimación hasta
+la conclusión.
+Estimación Análoga / Analogous Estimating. Método para estimar la duración o el costo de una
+actividad o un proyecto utilizando datos históricos de una actividad o proyecto similar.
+Estimación Hasta la Conclusión (ETC) / Estimate to Complete (ETC). Costo previsto para terminar
+todo el trabajo restante del proyecto.
+Estimación Multipunto / Multipoint Estimating. Método utilizado para estimar el costo
+o la duración mediante la aplicación de un promedio o promedio ponderado de estimaciones
+optimistas, pesimistas y más probables, usado cuando existe incertidumbre en las estimaciones
+de las actividades individuales.
+Estimación Paramétrica / Parametric Estimating. Método de estimación en el que se utiliza
+un algoritmo para calcular el costo o la duración con base en datos históricos y parámetros
+del proyecto.
+Estimación Probabilística / Probabilistic Estimating. Método utilizado para desarrollar un rango
+de estimaciones junto con las probabilidades asociadas dentro de ese rango.
+Estimación Puntual (Single-Point Estimating) / Single-Point Estimating. Método de estimación
+que involucra el uso de datos para calcular un único valor que refleje una estimación más probable.
+Estimación Relativa / Relative Estimating. Método para crear estimaciones que se derivan
+de la realización de una comparación con un conjunto de trabajos similares, teniendo en cuenta
+el esfuerzo, la complejidad y la incertidumbre.
+Estimado / Estimate. Evaluación cuantitativa del monto o resultado probable de una variable,
+tal como costos del proyecto, recursos, esfuerzo o duraciones.
+Estructura de Desglose de la Organización (OBS) / Organizational Breakdown Structure (OBS) .
+Representación jerárquica de la organización del proyecto que ilustra la relación entre las actividades
+del proyecto y las unidades de la organización que llevarán a cabo esas actividades.
+
+Glosario
+
+243
+
+Estructura de Desglose de Recursos / Resource Breakdown Structure. Representación
+jerárquica de los recursos por categoría y tipo.
+Estructura de Desglose de Riesgos (RBS) / Risk Breakdown Structure (RBS). Representación
+jerárquica de las posibles fuentes de riesgos.
+Estructura de Desglose del Producto / Product Breakdown Structure. Estructura jerárquica
+que refleja los componentes y los entregables de un producto.
+Estructura de Desglose del Trabajo (WBS/EDT) / Work Breakdown Structure (WBS).
+Descomposición jerárquica del alcance total del trabajo a ser realizado por el equipo del proyecto
+para cumplir con los objetivos del proyecto y crear los entregables requeridos.
+Estudios Comparativos / Benchmarking. Comparación de prácticas, procesos y productos reales
+o planificados con los de organizaciones comparables a fin de identificar las mejores prácticas,
+generar ideas para mejorar y proporcionar una base para medir el desempeño.
+Evaluación del Ciclo de Vida (LCA) / Life Cycle Assessment (LCA). Herramienta utilizada para
+evaluar el impacto ambiental total de un producto, proceso o sistema.
+Evitar el Riesgo / Risk Avoidance. Estrategia de respuesta a los riesgos según la cual el equipo
+del proyecto actúa para eliminar la amenaza o proteger al proyecto de su impacto.
+Exactitud / Accuracy. En el sistema de gestión de calidad, la exactitud es una evaluación
+de la corrección.
+Explotación del Riesgo / Risk Exploiting. Estrategia de respuesta a los riesgos según la cual
+el equipo del proyecto actúa para garantizar la ocurrencia de una oportunidad.
+Exposición al Riesgo / Risk Exposure. Medida acumulada del impacto potencial de todos los riesgos
+en cualquier momento dado de un proyecto, programa o portafolio.
+Factores Ambientales de la Empresa (EEF) / Enterprise Environmental Factors (EEF).
+Condiciones que no están bajo el control directo del equipo y que influyen, restringen o dirigen
+el proyecto, programa o portafolio.
+Fase del Proyecto / Project Phase. Conjunto de actividades del proyecto relacionadas lógicamente
+que culmina con la finalización de uno o más entregables.
+Flujo / Flow. Medida del grado de eficiencia en el que el trabajo se mueve a través de un proceso
+o marco de referencia determinado.
+Funcionalidad / Feature. Conjunto de requisitos o características relacionadas que aportan valor
+a una organización.
+Fundamentos para la Dirección de Proyectos (PMBOK) / Project Management Body
+of Knowledge (PMBOK). Término que describe los conocimientos de la profesión de Dirección
+de Proyectos.
+Gestión de Cambios / Change Management. Enfoque integral, cíclico y estructurado para la
+transición de individuos, grupos y organizaciones desde un estado actual a un estado futuro con
+beneficios comerciales previstos.
+Gestión del Producto / Product Management. Integración de personas, datos, procesos
+y sistemas comerciales para crear, mantener y evolucionar un producto o servicio a lo largo
+de su ciclo de vida.
+Gobernanza / Governance. Marco de referencia para dirigir y empoderar una organización
+a través de sus políticas y prácticas establecidas y otra documentación relevante.
+
+244
+
+Guía del PMBOK®
+
+Gobernanza del Proyecto / Project Governance. Marco, funciones y procesos que guían las
+actividades de dirección del proyecto a fin de crear un producto, servicio o resultado único para
+cumplir con las metas organizacionales, estratégicas y operativas.
+Grado / Grade. Categoría o nivel que se utiliza para distinguir elementos que tienen el mismo uso
+funcional pero que no comparten los mismos requisitos de calidad.
+Gráfica de Trabajo Pendiente o Realizado / Burn Chart. Representación gráfica del trabajo
+pendiente (burndown) en un período de tiempo preestablecido o del trabajo realizado (burnup)
+con miras a la liberación del entregable de un producto o proyecto.
+Grupo de Procesos de Cierre / Closing Process Group. Proceso(s) llevado(s) a cabo para completar
+o cerrar formalmente un proyecto, fase o contrato.
+Grupo de Procesos de Ejecución / Executing Process Group. Procesos realizados para
+completar el trabajo definido en el plan para la dirección del proyecto a fin de satisfacer los
+requisitos del proyecto.
+Grupo de Procesos de Inicio / Initiating Process Group. Procesos realizados para definir un
+nuevo proyecto o nueva fase de un proyecto existente al obtener la autorización para iniciar
+el proyecto o fase.
+Grupo de Procesos de la Dirección de Proyectos / Project Management Process Group .
+Agrupamiento lógico de las entradas, herramientas, técnicas y salidas relacionadas con la dirección
+de proyectos. Los Grupos de Procesos de la Dirección de Proyectos incluyen procesos de Inicio,
+Planificación, Ejecución, Monitoreo y Control, y Cierre.
+Grupo de Procesos de Monitoreo y Control / Monitoring and Controlling Process Group.
+Procesos requeridos para hacer seguimiento, analizar y regular el progreso y el desempeño
+del proyecto, para identificar áreas en las que el plan requiera cambios y para iniciar los cambios
+correspondientes.
+Grupo de Procesos de Planificación / Planning Process Group. Procesos requeridos para
+establecer el alcance del proyecto, refinar los objetivos y definir el curso de acción requerido para
+alcanzar los objetivos propuestos del proyecto.
+Habilidades Interpersonales / Interpersonal Skills. Habilidades que se utilizan para establecer
+y mantener relaciones con otras personas.
+Histograma / Histogram. Diagrama de barras que muestra la representación gráfica
+de datos numéricos.
+Historia de Usuario / User Story. Breve descripción del resultado para un usuario específico.
+Es un compromiso de discusión a fin de aclarar detalles.
+Hito / Milestone. Punto o evento significativo dentro de un proyecto, programa o portafolio.
+Hoja de Ruta / Roadmap. Línea de tiempo de alto nivel que describe cosas tales como hitos,
+eventos significativos, revisiones y puntos de decisión.
+Hoja de Verificación / Check Sheet. Hoja de anotaciones que puede utilizarse como lista
+de control cuando se recopilan datos.
+Impedimento / Impediment. Obstáculo que impide al equipo lograr sus objetivos. También
+conocido como bloqueo.
+Incertidumbre / Uncertainty. Falta de comprensión y conciencia de los problemas, eventos,
+camino a seguir o soluciones a buscar.
+
+Glosario
+
+245
+
+Incidente / Issue. Condición o situación actual que puede tener un impacto en los objetivos
+del proyecto.
+Índice de Desempeño del Costo (CPI) / Cost Performance Index (CPI). Medida de eficiencia
+en función de los costos de los recursos presupuestados expresada como la razón entre el valor
+ganado y el costo real.
+Índice de Desempeño del Cronograma (SPI) / Schedule Performance Index (SPI). Medida de
+eficiencia del cronograma que se expresa como la razón entre el valor ganado y el valor planificado.
+Informe / Report. Registro o resumen formal de la información.
+Informe de Calidad / Quality Report. Documento del proyecto que incluye asuntos relacionados
+con la gestión de la calidad, recomendaciones de acciones correctivas y un resumen de hallazgos
+de las actividades de control de calidad, y que puede incluir recomendaciones para la mejora de
+procesos, proyectos y productos.
+Informe de Estado / Status Report. Informe sobre el estado actual del proyecto.
+Informe de Riesgos / Risk Report. Documento del proyecto, desarrollado progresivamente a lo
+largo de los procesos de Gestión de los Riesgos del Proyecto, que resume la información sobre los
+riesgos individuales del proyecto y el nivel de riesgo general del proyecto.
+Informe del Proyecto / Project Brief. Visión general, de alto nivel, sobre los objetivos, entregables
+y procesos del proyecto.
+Inteligencia Emocional / Emotional Intelligence. Habilidad para identificar, evaluar y manejar
+las emociones personales de uno mismo y las de otras personas, así como las emociones colectivas
+de grupos de personas.
+Intensificación / Crashing. Método utilizado para acortar la duración del cronograma con el menor
+incremento de costo mediante la adición de recursos.
+Interesado / Stakeholder. Individuo, grupo u organización que puede afectar, verse afectado
+o percibirse a sí mismo como afectado por una decisión, actividad o resultado de un proyecto,
+programa o portafolio.
+Iteración / Iteration. Bloque de tiempo delimitado para el desarrollo de un producto o entregable
+en el que se realiza todo el trabajo necesario para entregar valor.
+Lecciones Aprendidas / Lessons Learned. Conocimiento adquirido durante un proyecto que
+muestra cómo se abordaron o deberían abordarse en el futuro los eventos del proyecto, a fin
+de mejorar el desempeño futuro.
+Liberación / Release. Uno o más componentes de uno o más productos, destinados a ser puestos
+en producción al mismo tiempo.
+Liderazgo de Servicio / Servant Leadership. Práctica de liderar al equipo centrándose en
+comprender y abordar las necesidades y el desarrollo de los miembros del mismo con el fin de
+permitir el máximo desempeño posible del equipo.
+Lienzo de Modelo de Negocio / Business Model Canvas. Resumen visual de una página que
+describe la propuesta de valor, la infraestructura, los clientes y las finanzas. Estos se utilizan
+a menudo en situaciones de lean startup.
+Lienzo Lean Startup (Lean Startup Canvas) / Lean Startup Canvas. Plantilla de una página
+diseñada para comunicar un plan de negocios a los principales interesados de una manera
+eficiente y efectiva.
+
+246
+
+Guía del PMBOK®
+
+Línea Base / Baseline. Versión aprobada de un producto de trabajo que se utiliza como base
+de comparación con los resultados reales.
+Línea Base de Costos / Cost Baseline. Versión aprobada del presupuesto del proyecto con
+fases de tiempo, excluida cualquier reserva de gestión, la cual sólo puede cambiarse a través de
+procedimientos formales de control de cambios y se utiliza como base de comparación con los
+resultados reales.
+Línea Base del Alcance / Scope Baseline. Versión aprobada de un enunciado del alcance,
+estructura de desglose del trabajo (EDT/WBS) y su diccionario de la EDT/WBS asociado, que puede
+cambiarse utilizando procedimientos formales de control de cambios y que se utiliza como base
+de comparación con los resultados reales.
+Línea Base del Cronograma / Schedule Baseline. Versión aprobada de un modelo de programación
+que puede cambiarse usando procedimientos formales de control de cambios y que se utiliza como
+base de comparación con los resultados reales.
+Línea Base para la Medición del Desempeño (PMB) / Performance Measurement Baseline
+(PMB). Líneas base del alcance, cronograma y costos integradas, utilizadas para comparación,
+a fin de gestionar, medir y controlar la ejecución del proyecto.
+Lista de Actividades / Activity List. Tabla documentada de las actividades del cronograma que
+muestra la descripción de la actividad, su identificador y una descripción suficientemente detallada
+del alcance del trabajo para que los miembros del equipo del proyecto comprendan cuál es el trabajo
+que deben realizar.
+Lista de Trabajo Pendiente / Backlog. Lista ordenada de los trabajos a realizar.
+Mapa del Flujo de Valor / Value Stream Map. Representación gráfica de los pasos críticos en
+un proceso y el tiempo tomado en cada paso, utilizado para identificar los desperdicios.
+Mapeo de Impacto / Impact Mapping. Método de planificación estratégica que sirve como una
+hoja de ruta visual para la organización, durante el desarrollo del producto.
+Mapeo del Flujo de Valor / Value Stream Mapping. Método empresarial lean utilizado para
+documentar, analizar y mejorar el flujo de información o materiales necesarios con el fin
+de producir un producto o servicio para un cliente.
+Matriz de Asignación de Responsabilidades (RAM) / Responsibility Assignment Matrix (RAM).
+Cuadrícula que muestra los recursos del proyecto asignados a cada paquete de trabajo.
+Matriz de Evaluación del Involucramiento de los Interesados / Stakeholder Engagement
+Assessment Matrix. Matriz que compara los niveles de participación actual y deseado
+de los interesados.
+Matriz de Priorización / Prioritization Matrix. Diagrama de dispersión que grafica el esfuerzo
+contra el valor, a fin de clasificar los elementos por prioridad.
+Matriz de Probabilidad e Impacto / Probability and Impact Matrix. Cuadrícula para mapear
+la probabilidad de ocurrencia de cada riesgo y su impacto sobre los objetivos del proyecto en caso
+de que ocurra dicho riesgo.
+Matriz de Trazabilidad de Requisitos / Requirements Traceability Matrix. Cuadrícula que vincula
+los requisitos del producto desde su origen hasta los entregables que los satisfacen.
+Medidas de Desempeño Técnico / Technical Performance Measures. Mediciones cuantificables
+de desempeño técnico que se utilizan para garantizar que los componentes del sistema cumplen
+los requisitos técnicos.
+
+Glosario
+
+247
+
+Medidas del Desempeño / Measures of Performance. Medidas que caracterizan los atributos
+físicos o funcionales relacionados con la operación del sistema.
+Mejora del Riesgo / Risk Enhancement. Estrategia de respuesta a los riesgos según la cual
+el equipo del proyecto actúa para incrementar la probabilidad de ocurrencia o impacto de una
+oportunidad.
+Método / Method. Medio para lograr un efecto, salida, resultado o entregable del proyecto.
+Método de la Ruta Crítica (CPM) / Critical Path Method (CPM). Método utilizado para estimar
+la mínima duración del proyecto y determinar el nivel de flexibilidad en la programación de los
+caminos de red lógicos dentro del cronograma.
+Metodología / Methodology. Sistema de prácticas, técnicas, procedimientos y normas utilizado
+por quienes trabajan en una disciplina.
+Métodos de Estimación / Estimating Methods. Métodos utilizados para desarrollar una
+aproximación del trabajo, tiempo o costos en un proyecto.
+Métodos para Recopilación y Análisis de Datos / Data Gathering and Analysis Methods.
+Métodos utilizados para recopilar, valorar y evaluar datos e información con el fin de obtener una
+comprensión más profunda de una situación.
+Métrica / Metric. Descripción de un atributo del proyecto o del producto y cómo medirlo.
+Métrica de Vanidad / Vanity Metric. Medida que parece mostrar algún resultado, pero que no
+proporciona información útil para la toma de decisiones.
+Métricas de Calidad / Quality Metrics. Descripción de un atributo del proyecto o del producto
+y de la manera en que se mide dicho atributo.
+Mitigar el Riesgo / Risk Mitigation. Estrategia de respuesta a los riesgos según la cual el equipo
+del proyecto actúa para disminuir la probabilidad de ocurrencia o impacto de una amenaza.
+Modelado / Modeling. Creación de representaciones simplificadas de sistemas, soluciones
+o entregables, tales como prototipos, diagramas o guiones gráficos.
+Modelo de Programación / Schedule Model. Representación del plan para ejecutar las actividades
+del proyecto que incluye duraciones, dependencias y demás información de planificación, utilizada
+para generar un cronograma del proyecto junto con otros objetos de planificación.
+Monitorear / Monitor. Recolectar datos de desempeño del proyecto, producir medidas
+de desempeño e informar y difundir la información sobre el desempeño.
+Objetivo / Objective. Una meta hacia la cual se debe dirigir el trabajo, una posición estratégica
+que se quiere lograr, un fin que se desea alcanzar, un resultado a obtener, un producto a producir
+o un servicio a prestar.
+Oficina de Dirección de Proyectos (PMO) / Project Management Office (PMO). Estructura
+de gestión que estandariza los procesos de gobernanza relacionados con el proyecto y facilita
+el intercambio de recursos, metodologías, herramientas y técnicas.
+Oficina de Entrega de Valor (VDO) / Value Delivery Office (VDO). Una estructura de apoyo
+de entrega del proyecto que se centra en realizar coaching a equipos, desarrollo de aptitudes
+y capacidades ágiles en toda la organización y mentoría a los patrocinadores y dueños de
+los productos para que sean más efectivos en esos roles.
+Oportunidad / Opportunity. Riesgo que tendría un efecto positivo sobre uno o más objetivos
+del proyecto.
+
+248
+
+Guía del PMBOK®
+
+Paquete de Trabajo / Work Package. Trabajo definido en el nivel más bajo de la estructura
+de desglose del trabajo para el cual se estiman y gestionan el costo y la duración.
+Patrocinador / Sponsor. Persona o grupo que provee recursos y apoyo para el proyecto, programa
+o portafolio y que es responsable de facilitar su éxito.
+Perfeccionamiento de la Lista de Trabajo Pendiente / Backlog Refinement. Elaboración
+progresiva del contenido de la lista de los trabajos pendientes y (re)priorización de los mismos
+para identificar el trabajo que se puede realizar en una próxima iteración.
+Período de Tiempo Preestablecido / Timebox. Período breve y fijo en el que se debe completar
+el trabajo.
+Plan / Plan. Medio propuesto para lograr algo.
+Plan de Control de Cambios / Change Control Plan. Componente del plan para la dirección
+del proyecto que establece el comité de control de cambios, documenta su grado de autoridad
+y describe cómo se ha de implementar el sistema de control de cambios.
+Plan de Gestión de Beneficios / Benefits Management Plan. Explicación documentada que
+define los procesos para crear, maximizar y mantener los beneficios proporcionados por un
+proyecto o programa.
+Plan de Gestión de la Calidad / Quality Management Plan. Componente del plan para la dirección
+del proyecto o programa que describe cómo se implementarán las políticas, procedimientos y pautas
+aplicables para alcanzar los objetivos de calidad.
+Plan de Gestión de las Adquisiciones / Procurement Management Plan. Componente del plan
+para la dirección del proyecto o programa que describe cómo un equipo de proyecto adquirirá
+bienes y servicios desde fuera de la organización ejecutante.
+Plan de Gestión de las Comunicaciones / Communications Management Plan. Componente del
+plan para la dirección del proyecto, programa o portafolio que describe cómo, cuándo y por medio
+de quién se administrará y difundirá la información del proyecto.
+Plan de Gestión de los Costos / Cost Management Plan. Componente del plan para la dirección
+del proyecto o programa que describe la forma en que los costos serán planificados, estructurados
+y controlados.
+Plan de Gestión de los Recursos / Resource Management Plan. Componente del plan para
+la dirección del proyecto que describe cómo se adquieren, asignan, monitorean y controlan los
+recursos del proyecto.
+Plan de Gestión de los Requisitos / Requirements Management Plan. Componente del plan
+para la dirección de un proyecto o programa que describe cómo serán analizados, documentados
+y gestionados los requisitos.
+Plan de Gestión de los Riesgos / Risk Management Plan. Componente del plan para la dirección
+del proyecto, programa o portafolio que describe el modo en que las actividades de gestión
+de riesgos serán estructuradas y llevadas a cabo.
+Plan de Gestión del Alcance / Scope Management Plan. Componente del plan para la dirección
+del proyecto o programa que describe el modo en que el alcance será definido, desarrollado,
+monitoreado, controlado y validado.
+Plan de Gestión del Cronograma / Schedule Management Plan. Componente del plan para
+la dirección del proyecto o programa que establece los criterios y las actividades para desarrollar,
+monitorear y controlar el cronograma.
+
+Glosario
+
+249
+
+Plan de Involucramiento de los Interesados / Stakeholder Engagement Plan. Componente
+del plan para la dirección del proyecto que identifica las estrategias y acciones requeridas para
+promover el involucramiento productivo de los interesados en la toma de decisiones y la ejecución
+del proyecto o programa.
+Plan de Iteración / Iteration Plan. Plan detallado para la iteración actual.
+Plan de Liberación / Release Plan. Plan que establece las expectativas para las fechas,
+características y/o resultados que se espera obtener en el curso de múltiples iteraciones.
+Plan de Pruebas / Test Plan. Documento que describe los entregables que serán probados,
+las pruebas que se llevarán a cabo y los procesos que se utilizarán para las mismas.
+Plan Estratégico / Strategic Plan. Documento de alto nivel que explica la visión y la misión
+de una organización, además del enfoque que se adoptará para lograr esta misión y visión,
+incluyendo las metas y los objetivos específicos que se materializarán durante el período
+cubierto por el documento.
+Plan para la Dirección del Proyecto / Project Management Plan. Documento que describe
+el modo en que el proyecto será ejecutado, monitoreado y controlado, y cerrado.
+Planificación de Iteraciones / Iteration Planning. Reunión para aclarar los detalles de los trabajos
+pendientes, los criterios de aceptación y el esfuerzo de trabajo requerido para cumplir con un
+compromiso de iteración próximo.
+Planificación de Liberaciones / Release Planning. Proceso de identificación de un plan de alto
+nivel con miras a la liberación o la transición de un producto, un entregable o un incremento
+de valor.
+Planificación Gradual / Rolling Wave Planning. Método de planificación iterativa en el cual el
+trabajo a realizar a corto plazo se planifica en detalle, mientras que el trabajo futuro se planifica
+a un nivel superior.
+Plantilla / Template. Documento parcialmente completo en un formato preestablecido, que
+proporciona una estructura definida para recopilar, organizar y presentar información y datos.
+Política de Calidad / Quality Policy. Política específica del Área de Conocimiento de Gestión
+de la Calidad del Proyecto que establece los principios básicos que deberían regir las acciones
+de la organización al implementar su sistema de gestión de calidad.
+Portafolio / Portfolio. Proyectos, programas, portafolios secundarios y operaciones gestionados
+como un grupo para alcanzar los objetivos estratégicos.
+Precisión / Precision. En el sistema de gestión de calidad, la precisión es una evaluación
+de la exactitud.
+Presupuesto / Budget. Estimado aprobado para el proyecto o cualquier componente de
+la estructura de desglose del trabajo (EDT) o cualquier actividad del cronograma.
+Presupuesto hasta la Conclusión (BAC) / Budget at Completion (BAC). Suma de todos los
+presupuestos establecidos para el trabajo a ser realizado.
+Producto / Product. Artefacto producido, cuantificable y que puede ser en sí mismo un elemento
+terminado o un componente de un elemento.
+Producto Digital / Digital Product. Producto o servicio que es entregado, utilizado y almacenado
+en un formato electrónico.
+
+250
+
+Guía del PMBOK®
+
+Producto Mínimo Viable (MVP) / Minimum Viable Product (MVP). Concepto utilizado para definir
+el alcance de la primera liberación de una solución para los clientes, mediante la identificación del
+menor número de funcionalidades o requisitos que aportarían valor.
+Programa / Program. Proyectos, programas secundarios y actividades de programas relacionados
+cuya gestión se realiza de manera coordinada para obtener beneficios que no se obtendrían si se
+gestionaran en forma individual.
+Pronóstico / Forecast. Estimación o predicción de condiciones y eventos futuros para el proyecto,
+basada en la información y el conocimiento disponibles en el momento de realizar el pronóstico.
+Pronósticos del Cronograma / Schedule Forecasts. Estimaciones o predicciones de condiciones
+y eventos en el futuro del proyecto, basadas en la información y el conocimiento disponibles en
+el momento de calcular el cronograma.
+Propuesta de Valor / Value Proposition. Valor de un producto o servicio que una organización
+transmite a sus clientes.
+Prototipo / Prototype. Modelo operativo para obtener una retroalimentación temprana respecto
+del producto esperado antes de construirlo realmente.
+Proyecto / Project. Esfuerzo temporal que se lleva a cabo para crear un producto, servicio
+o resultado único.
+Punto de Función / Function Point. Un estimado de la cantidad de funcionalidad comercial
+en un sistema de información, usada para calcular la métrica del tamaño funcional de un sistema
+de software.
+Puntuación Neta del Promotor (Net Promoter Score) / Net Promoter Score. Índice que mide
+la voluntad de los clientes para recomendar a otros los productos o servicios de una organización.
+Radiador de Información / Information Radiator. Una indicación visible y física que proporciona
+información al resto de la organización y permite el intercambio oportuno de conocimientos.
+Registro / Log. Documento que se utiliza para registrar y describir o indicar los elementos
+seleccionados identificados durante la ejecución de un proceso o actividad. Habitualmente se
+utiliza con un modificador, tal como de incidentes, de cambios o de supuestos.
+Registro / Register. Registro escrito de las entradas regulares para los aspectos en evolución
+de un proyecto, tales como los riesgos, los interesados o los defectos.
+Registro de Cambios / Change Log. Lista completa de los cambios presentados durante el proyecto
+y su estado actual.
+Registro de Incidentes / Issue Log. Documento del proyecto donde se registra y monitorea
+información sobre los incidentes.
+Registro de Interesados / Stakeholder Register. Documento del proyecto que incluye información,
+evaluación y clasificación de los interesados del proyecto.
+Registro de Lecciones Aprendidas / Lessons Learned Register. Documento del proyecto que se
+utiliza para registrar los conocimientos adquiridos durante un proyecto, fase o iteración, de modo
+que se puedan utilizar para mejorar el desempeño futuro del equipo y de la organización.
+Registro de Riesgos / Risk Register. Repositorio en el cual se registran las salidas de los procesos
+de gestión de riesgos.
+Registro de Supuestos / Assumption Log. Documento del proyecto utilizado para registrar todos
+los supuestos y restricciones a lo largo del proyecto.
+
+Glosario
+
+251
+
+Regulaciones / Regulations. Requisitos impuestos por una entidad gubernamental. Estos requisitos
+pueden establecer las características del producto, del proceso o del servicio (incluidas las disposiciones
+administrativas aplicables) que son de cumplimiento obligado, exigido por el gobierno.
+Rendimiento / Throughput. Número de elementos que pasan por un proceso.
+Requisito / Requirement. Condición o capacidad que debe estar presente en un producto, servicio
+o resultado para satisfacer una necesidad de negocio.
+Reserva / Reserve. Provisión de fondos en el plan para la dirección del proyecto para mitigar
+riesgos del cronograma y/o costos. Se utiliza a menudo con un modificador (p.ej., reserva de gestión,
+reserva para contingencias) con el objetivo de proporcionar más detalles sobre qué tipos de riesgos
+se pretende mitigar.
+Reserva de Gestión / Management Reserve. Parte del presupuesto del proyecto o cronograma
+del proyecto mantenida fuera de la línea base para la medición del desempeño con fines de control
+de gestión, que se reserva para trabajo imprevisto que está dentro del alcance del proyecto.
+Reserva para Contingencias / Contingency Reserve. Tiempo o dinero asignado en el cronograma
+o línea base de costos para riesgos conocidos con estrategias de respuesta activas.
+Responsabilidad / Responsibility. Asignación que puede delegarse dentro de un plan para la
+dirección del proyecto de modo tal que el recurso asignado incurre en la obligación de llevar a cabo
+los requisitos de la asignación.
+Restricción / Constraint. Factor limitant que afecta la ejecución de un proyecto, programa,
+portafolio o proceso.
+Resultado / Outcome. Efecto o consecuencia de un proceso o proyecto.
+Resultado / Result. Una salida de la ejecución de procesos y actividades de dirección de proyectos.
+Véase también entregable.
+Retrabajo / Rework. Acción tomada para hacer que un componente defectuoso o no conforme
+cumpla con las disposiciones de los requisitos o especificaciones.
+Retraso / Lag. Cantidad de tiempo en la que una actividad sucesora se retrasará con respecto
+a una actividad predecesora.
+Retrospectiva / Retrospective. Un taller que ocurre periódicamente, en el que los participantes
+exploran su trabajo y sus resultados con el fin de mejorar tanto el proceso como el producto.
+Reunión de Estatus / Status Meeting. Reunión programada periódicamente para intercambiar
+y analizar información sobre el progreso actual del proyecto y su desempeño.
+Reunión de Lanzamiento / Kickoff Meeting. Reunión de los miembros del equipo y otros
+interesados clave al comienzo de un proyecto con el fin de establecer formalmente las expectativas,
+obtener un entendimiento común y dar comienzo al trabajo.
+Reunión Diaria de Pie (Daily Standup) / Daily Standup. Breve reunión diaria de colaboración
+en la que el equipo revisa el progreso del día anterior, expresa las intenciones para el día actual
+y destaca los obstáculos encontrados o previstos.
+Revisión de Fase / Phase Gate. Revisión al final de una fase en la que se toma una decisión
+de continuar a la siguiente fase, continuar con modificaciones o dar por concluido un proyecto
+o programa.
+Revisión de Iteraciones / Iteration Review. Reunión celebrada al final de una iteración para
+demostrar el trabajo realizado durante la misma.
+
+252
+
+Guía del PMBOK®
+
+Revisión del Proyecto / Project Review. Evento al final de una fase o proyecto para evaluar
+el estado, valorar el valor entregado y determinar si el proyecto está listo para pasar a la siguiente
+fase o para hacer la transición a operaciones.
+Revisión del Riesgo / Risk Review. Proceso de análisis del estado de los riesgos existentes
+y la identificación de nuevos riesgos. También puede ser conocido como reevaluación de riesgos.
+Riesgo / Risk. Evento o condición incierta que, si se produce, tiene un efecto positivo o negativo
+en uno o más de los objetivos de un proyecto.
+Rol / Role. Función definida a ser realizada por un miembro del equipo del proyecto, como probar,
+archivar, inspeccionar o codificar.
+Ruta Crítica / Critical Path. Secuencia de actividades que representa el camino más largo a través
+de un proyecto, lo cual determina la menor duración posible.
+Ruta de Red / Network Path. Secuencia de actividades conectadas por relaciones lógicas en un
+diagrama de red del cronograma del proyecto.
+Sesgo de Confirmación / Confirmation Bias. Tipo de sesgo cognitivo que confirma creencias
+o hipótesis preexistentes.
+Simulación / Simulation. Método analítico que modela el efecto combinado de las incertidumbres
+para evaluar su posible impacto en los objetivos.
+Simulación Monte Carlo / Monte Carlo Simulation. Método para la identificación de los
+impactos potenciales del riesgo y la incertidumbre utilizando múltiples iteraciones de un modelo
+computarizado para desarrollar una distribución de probabilidad de un rango de resultados que
+podrían ser consecuencia de una decisión o curso de acción.
+Sistema de Control de Cambios / Change Control System. Conjunto de procedimientos que
+describe la forma en que se gestionan y controlan las modificaciones de los entregables
+y la documentación del proyecto.
+Sistema de Entrega de Valor / Value Delivery System. Conjunto de actividades estratégicas
+de negocio dirigidas a la construcción, sostenimiento y/o avance de una organización.
+Solicitud de Cambio / Change Request. Propuesta formal para modificar un documento,
+entregable o línea base.
+Sprint / Sprint. Intervalo breve dentro de un proyecto durante el cual se crea un incremento
+del producto, utilizable y potencialmente listo para producción. Véase también iteración.
+Story Map (Mapa de Historia) / Story Map. Modelo visual de todas las características y
+funcionalidades deseadas para un producto determinado, creado con el fin de dar al equipo
+una visión holística de lo que están construyendo y por qué.
+Story Point (Punto de Historia) / Story Point. Unidad utilizada para estimar el nivel relativo
+de esfuerzo necesario para implementar una historia de usuario.
+Supuesto / Assumption. Factor del proceso de planificación que se considera verdadero,
+real o cierto, sin prueba ni demostración.
+Tablero de Control / Dashboard. Conjunto de diagramas y gráficos que muestran el progreso
+o el rendimiento en relación con mediciones importantes del proyecto.
+Tablero de Tareas (Task Board) / Task Board. Representación visual del progreso del trabajo
+planeado que permite a cualquiera visualizar el estado de las tareas.
+
+Glosario
+
+253
+
+Tablero Kanban / Kanban Board. Una herramienta de visualización que muestra el progreso
+de trabajo para ayudar a identificar los cuellos de botella y el exceso de compromiso, lo que
+permite al equipo optimizar el flujo de trabajo.
+Tiempo de Ciclo / Cycle Time. Tiempo total transcurrido desde el inicio de una actividad
+o un elemento de trabajo en particular hasta su finalización.
+Tiempo de Entrega / Lead Time. El tiempo transcurrido entre la solicitud del cliente y la entrega real.
+Tolerancia / Tolerance. Descripción cuantificada de la variación aceptable de un requisito de calidad.
+Trabajo pendiente ajustado al riesgo / Risk-Adjusted Backlog. Registro de trabajo pendiente
+que incluye el trabajo de productos y acciones para abordar las amenazas y oportunidades.
+Transferir el Riesgo / Risk Transference. Estrategia de respuesta a los riesgos según la cual el
+equipo del proyecto traslada el impacto de una amenaza a un tercero, junto con la responsabilidad
+de la respuesta.
+Triple Resultado Final (TBL) / Triple Bottom Line. Marco de referencia para tomar en consideración
+el costo total de hacer negocios mediante la evaluación de los resultados finales de una empresa
+desde la perspectiva de los beneficios, las personas y el planeta.
+Último Momento Responsable / Last Responsible Moment. El concepto de aplazar una decisión
+para permitir que el equipo tome en consideración múltiples opciones hasta que el costo de un
+nuevo aplazamiento exceda el beneficio.
+Umbral / Threshold. Valor predeterminado de una variable medible del proyecto que representa
+un límite que exige tomar medidas en caso de ser alcanzado.
+Umbral de Riesgo / Risk Threshold. La medida de variación aceptable en torno a un objetivo que
+refleja el apetito al riesgo de la organización y de los interesados. Véase también apetito de riesgo.
+Validación / Validation. Proceso realizado para asegurar que un producto, servicio o resultado
+cumple con las necesidades del cliente y de otros interesados identificados. Véase también
+verificación.
+Valor / Value. Cualidad, importancia o utilidad de algo.
+Valor del Negocio / Business Value. Beneficio cuantificable neto que se deriva de una iniciativa
+de negocio, que puede ser tangible, intangible o ambos.
+Valor Ganado (EV) / Earned Value (EV). Cantidad de trabajo ejecutado a la fecha, expresado
+en términos del presupuesto autorizado para ese trabajo.
+Valor Monetario Esperado (EMV) / Expected Monetary Value (EMV). Valor estimado
+de un resultado expresado en términos monetarios.
+Valor Planificado (PV) / Planned Value (PV). Presupuesto autorizado que ha sido asignado
+al trabajo planificado.
+Variación a la Conclusión (VAC) / Variance at Completion (VAC). Proyección del monto del
+déficit o superávit presupuestario, expresada como la diferencia entre el presupuesto al concluir
+y estimación al concluir.
+Variación del Costo (CV) / Cost Variance (CV). Monto del déficit o superávit presupuestario
+en un momento dado, expresado como la diferencia entre el valor ganado y el costo real.
+Variación del Cronograma (SV) / Schedule Variance (SV). Medida de desempeño del cronograma
+que se expresa como la diferencia entre el valor ganado y el valor planificado.
+
+254
+
+Guía del PMBOK®
+
+Velocidad / Velocity. Medida de la tasa de productividad de un equipo a la que son producidos,
+validados y aceptados los entregables dentro de un intervalo predefinido.
+Verificación / Verification. Proceso que consiste en evaluar si un producto, servicio o resultado
+cumple o no con determinada regulación, requisito, especificación o condición impuesta. Véase
+también validación.
+Volatilidad / Volatility. Posibilidad de un cambio rápido e impredecible.
+Voz del Cliente / Voice of the Customer. Método de planificación utilizado para proveer
+productos, servicios y resultados que reflejen fielmente los requisitos del cliente traduciéndolos
+en requisitos técnicos apropiados para cada fase del desarrollo de producto del proyecto.
+
+Glosario
+
+255
+
+Índice
+A
+Acción correctiva, 190
+Acta de constitución ágil, 84
+Acta de constitución del equipo
+del proyecto, 19, 192
+Acta de constitución del proyecto
+arranque y, 46
+como artefacto de estrategia, 184
+fase de cierre y, 47
+Actualización(es)
+artefactos y, 171
+genéricas, 183
+Acuerdo básico de pedidos (BOA), 191
+Acuerdo de niveles de servicio (SLA), 191
+Acuerdos. Ver también Contrato(s); Acuerdo
+de nivel de servicios
+contratos y, 191
+Adaptabilidad, equipos de proyectos de alto
+rendimiento y, 22
+Adaptación
+adaptación de procesos, 135
+alternativas a, 132
+artefactos del proyecto, 136
+beneficios, directos e indirectos, 133
+contexto del proyecto y, 146, 154
+definición, 6, 131
+demandas que compiten entre sí y, 132
+diagnóstico, 151
+dominios de desempeño y, 145–150
+estilos de liderazgo, 30
+factores del proyecto y, 140
+organización y, 139–140
+para el proyecto, 141–145
+pasos involucrados, 145, 152
+patrocinadores y, 209
+proceso, 71, 137–145
+qué adaptar, 134–136
+razones, 133
+
+Índice
+
+resumen, 152
+selección de la herramienta, 136
+selección del ciclo de vida y del enfoque
+de desarrollo, 150
+situaciones comunes y sugerencias, 151
+visión general, 131–132
+Adaptación de dominios de desempeño, 145–150
+contexto del proyecto y, 146
+diagnóstico, 151
+enfoque de desarrollo y ciclo de vida, 148
+entrega, 149
+equipo del proyecto, 147
+incertidumbre, 150
+interesados, 147
+métricas, 150
+planificación, 148
+trabajo del proyecto, 149
+Adaptación de procesos, 71, 135
+Adaptación para el proyecto, 141–145
+atributos y, 141
+cultura y, 143
+equipo del proyecto, 142
+mejora continua, 144
+producto/entregable, 142
+Adelantos, retrasos y, 59
+Adquisición(es)
+contratación, 75–76
+Dominio de Desempeño de la Planificación, 65
+Dominio de Desempeño del Trabajo del
+Proyecto, 74–76
+proceso de licitación, 75
+trabajar con, 74–76
+Afiliación, teoría de las necesidades y, 159
+Agrupamiento de afinidad, 178
+Alcance, 224. Ver también Alcance del producto;
+Alcance del proyecto
+definición, 84–85
+Alcance del producto, 54
+Alcance del proyecto, 54
+
+257
+
+Alcance del trabajo, EDT y, 81, 84
+Alineación
+Dominio de Desempeño de la Planificación, 67
+Ambigüedad
+definición, 117
+soluciones, 120
+tipos, 120
+Dominio de Desempeño de la
+Incertidumbre, 120
+Ambigüedad conceptual, 120
+Ambigüedad situacional, 120
+Amenaza(s)
+definición, 123
+estrategias, 123
+perfil de amenaza, 124
+Análisis costo-beneficio, 175
+Análisis de alternativas, 122, 174
+Análisis de causa raíz, 177
+Análisis de datos, salidas, 174
+Análisis de escenarios “¿Qué pasa si…?”, 177
+Análisis de fallas, 89
+Análisis de hacer o comprar, 65, 176
+Análisis de interesados, 8, 177
+Análisis de procesos, 176
+Análisis de regresión, 105, 176
+Análisis de rendimiento, 105
+Análisis de reserva, 177. Ver también Reserva
+para contingencias
+Análisis de sensibilidad, 177
+Análisis de supuestos y restricciones, 174
+Análisis de tendencias, 177
+Análisis de variación, 177
+Análisis del valor. Ver Análisis del valor
+ganado (EVA)
+Análisis del valor ganado (EVA)
+cronograma y variación del costo, 101
+definición, 176
+Análisis FODA, 177
+Análisis mediante árbol de decisiones, 175
+Análisis ponderado con múltiples criterios, 181
+Apetito al riesgo
+incertidumbre y, 150
+planificación de respuesta y, 125
+umbrales de riesgo y, 122
+Apoyo, director del proyecto y, 21
+
+258
+
+Aprendizaje a lo largo del proyecto
+conocimiento explícito y tácito, 77–78
+gestión del conocimiento, 77
+Artefactos, 184–195
+acuerdos, 191
+adaptación, 136
+aplicados a través de los dominios
+de desempeño, 192–195
+bitácoras y registros, 185
+comunicación, 79
+contratos, 191
+datos e información visuales, 188–190
+definición, 153
+diagramas jerárquicos, 187
+estrategia, 184
+informes, 190
+líneas base, 188
+otros importantes, 192
+planes, 186–187
+visión general, 153–155
+Artefactos de comunicación, 79
+Artefactos de estrategia, 184
+Aseguramiento de calidad, 88
+Atributo(s), adaptación y, 141
+Auditoría de la adquisición, 79
+Auditorías, 115
+adquisición, 79
+calidad, 88
+proceso, 72, 79, 87
+Auditorías de calidad, 88
+Autoconciencia, 26, 27
+Autogestión, 26, 27
+Autonomía, 159
+
+B
+BAC. Ver Presupuesto hasta la conclusión
+Base de las estimaciones, 20, 54
+Bitácoras y registros, 185
+Brecha de ejecución, 158
+Brecha de evaluación, 158
+Bucles de retroalimentación, 13, 161
+Buenas prácticas, 165, 180, 212
+
+Guía del PMBOK®
+
+C
+Cadencia
+ciclo de vida, desarrollo y, 33, 55
+definición, 33
+Dominio de Desempeño del Enfoque de
+Desarrollo y del Ciclo de Vida, 33–34, 46–48
+entrega, 33–34
+Cadencia de entrega, 32–34, 46–50
+Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida, 46–48
+Calendario del proyecto, 192
+Calidad. Ver también Costo de la calidad (COQ)
+definición, 81
+Dominio de Desempeño de la Entrega, 87–91
+Calificación de proveedores, 88
+Cambio(s)
+costo, 90–91
+cultura, 214
+Dominio de Desempeño de la Planificación, 66
+facilidad, 40
+monitoreo de nuevos trabajos y, 76–77
+Proceso de 8 Pasos para liderar, 162, 173
+transiciones asociadas, 164
+Cambio del alcance, 84
+Cambios en el mercado global, 219–221
+Caos, 163
+Capacidad organizacional, 41
+Capacidades, PMO y, 213, 214
+Capacitación, 88
+Capacitación de patrullas de acción comunitaria
+(CAP), 45
+Carácter, perspectiva ganar-ganar y, 170
+Caso de negocio
+cadencia de entrega y, 50
+como artefacto de estrategia, 184
+definición, 184
+descripción, 82
+fase de viabilidad y, 42
+planificación y, 54
+resultados y, 175
+valor del negocio y, 102
+valor y, 82
+Caso de uso, 190
+Causa raíz, 24, 96, 177, 188
+Celebración del éxito, 21
+Centralidad en el cliente, 131, 219, 225
+Centro comunitario
+ciclo de vida, 48
+enfoques de desarrollo, 36, 38, 39
+
+Índice
+
+Centro de Excelencia Ágil (ACoE), 212
+Certidumbre en los requisitos, 39
+Ciclo de vida. Ver también Ciclo de vida del
+producto; Ciclo de vida del proyecto;
+Ciclo de vida predictivo
+adaptación y, 150
+centro comunitario, 48
+definiciones de fases, 42–45
+desarrollo, 89
+Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida, 42–45
+enfoque de desarrollo adaptativo, 45
+enfoque de desarrollo incremental, 44
+fases, 42, 46–48
+predictivo, 43, 49
+Ciclo de vida del desarrollo, 89
+Ciclo de vida del producto
+definición, 218
+Ciclo de vida del proyecto
+adaptación y, 131
+definición, 33
+enfoques de desarrollo y, 32, 35, 148
+entregables y, 81
+fases del proyecto y, 42
+Grupos de Procesos y, 170
+productos que van más allá de, 218
+valor del negocio y, 102
+verificación de resultados, 50
+Ciclo de vida predictivo, 43, 49
+Ciclo de vida y enfoque de desarrollo,
+adaptación y, 134
+Colaboración
+equipos de proyecto distribuidos y, 30
+equipos de proyectos de alto rendimiento y, 22
+Comité de control de cambios (CCB), 68, 77,
+169, 183, 186
+Comité de dirección, 180
+Competencia, 156, 213
+Complejidad, 120–121
+basada en procesos, 121
+basada en sistemas, 121
+definición, 117
+Dominio de Desempeño de la
+Incertidumbre, 120–121
+replanteamiento, 121
+Complejidad basada en procesos, 121
+Complejidad basada en sistemas, 120–121
+Componente del presupuesto del
+proyecto, 62, 63
+
+259
+
+Comportamiento
+patrocinadores, 209
+principios de dirección de proyectos y, 146
+Comprador
+acuerdos, contratos y, 191
+proceso de licitación y, 75
+Comunicación
+abierta, 22
+canales, 157
+conversación, 14, 156, 192
+discurso, positivo, 21
+Dominio de Desempeño de la Planificación, 64
+Dominio de Desempeño del Trabajo
+del Proyecto, 73
+equipos de proyectos de alto rendimiento y, 22
+estilos, 157
+interactiva, 13
+intercultural, 157
+involucramiento y, 73
+no verbal, 26
+patrocinadores y, 209
+por escrito, 72, 73
+tipos, 13
+Comunicación de tipo pull (tirar), 13
+Comunicación de tipo push (empujar), 13
+Comunicación escrita, 72. Ver también
+Correo electrónico
+Comunicación no verbal, 26
+Comunicaciones del proyecto,
+involucramiento y, 73
+Conciencia social, 26, 27
+Condiciones del mercado, 54
+Conferencia de oferentes, 70, 75, 179
+Conferencias de contratistas. Ver Conferencia
+de oferentes
+Conferencias de proveedores. Ver Conferencias
+de oferentes
+Conferencias previas a la licitación, 70, 179
+Confianza, 55
+cultura y, 143
+equipos de proyectos de alto rendimiento y, 22
+perspectiva ganar-ganar y, 170
+Conformidad
+costo de la calidad y, 81, 175
+evaluación y, 88
+proceso, 71
+Conocimiento
+explícito, 70, 77–78
+tácito, 77–78
+
+260
+
+Contexto del proyecto, adaptación para
+ajustarse, 146, 154
+Contrato por tiempo y materiales (TyM), 191
+Contratos, 191. Ver también Acuerdos
+Contratos de costo reembolsable, 191
+Contratos de precio fijo, 191
+Control, monitoreo y, 171
+Control de cambios
+cambios y, 66
+verificación de resultados y, 68
+Controles visuales, 109–111. Ver también Acta(s)
+de constitución
+tableros de tareas, 110
+tableros Kanban, 110
+Conversación, 14, 156, 192
+COQ. Ver Costo de la Calidad
+Coraje, 21
+Correlación versus causalidad, 112
+Corrupción del alcance, 12, 83, 87, 213
+Costo(s)
+cambio y, 90–91
+evaluación, 88
+falla, 88, 89
+falla externa, 89
+falla interna, 89
+prevención, 88
+real, 100
+Costo de la calidad (COQ), 88–89
+definición, 81
+Dominio de Desempeño de la Entrega, 88–89
+evaluación, 88
+falla externa, 89
+falla interna, 89
+prevención, 88
+recopilación y análisis de datos, 175
+Costo del cambio, 90–91
+Costo más honorarios con incentivos (CPIF), 191
+Costo más honorarios fijos (CPFF), 191
+Costo más honorarios por cumplimiento
+de objetivos (CPAF), 191
+Costo planificado de los recursos en
+comparación con el costo real de los
+mismos, 101
+Costo real en comparación con el costo
+planificado, 100
+Costos de evaluación, 88
+Costos de fallas
+internas y externas, 89
+incumplimiento y, 88
+
+Guía del PMBOK®
+
+Costos de prevención, 88
+Cotizaciones, 70, 192
+CPAF. Ver Costo más honorarios por
+cumplimiento de objetivos
+CPFF. Ver Costo más honorarios fijos
+CPI. Ver Índice de desempeño del costo
+CPIF. Ver Costo más honorarios con incentivos
+Creación de relaciones de trabajo, 78
+Crecimiento, 19
+Criterios
+aceptación, 42, 82, 85
+entrada, 46
+finalización, 85
+obtención de requisitos, y, 83
+salida, 42, 46, 50
+Criterios de finalización, 85
+Criterios SMART, métricas y, 97
+Cronograma(s), 58–62. Ver también Cronograma
+del proyecto; Modelo de programación
+Dominio de Desempeño de la
+Planificación, 58–62
+ejecución rápida, 59, 60
+enfoques predictivos, 58
+plan de liberación e iteración, 61
+planificación adaptativa del
+cronograma, 61, 62
+proyecto maestro, 74
+Cronograma de hitos, 188. Ver también
+Cronograma maestro del proyecto
+Cronograma del proyecto, 188
+Cronograma maestro del proyecto, 74
+Cuellos de botella, 71
+Cultura
+adaptación para el proyecto, 143
+equipo, 20
+organización y, 41, 143
+Cultura del equipo de proyecto, 20–21
+Cultura organizacional, 41, 143.
+Ver también Cultura
+Cumplimiento
+producto/entregable y, 142
+Curva de ROI, ajustado al riesgo, 126
+Curva S, 189
+CV. Ver Variación del costo
+
+D
+Datos e información visuales, 188–190
+Declaración de la visión del proyecto, 184
+
+Índice
+
+Defecto(s)
+costos de fallas externas y, 89
+costos de fallas internas y, 89
+integridad y, 20
+métricas y, 97, 98
+prevención de, 68
+reputación y, 69
+Definición de terminado (DoD), 81, 85
+Definición del alcance, 84–85
+Definiciones de fase, ciclo de vida y, 42–45
+Delphi de banda ancha, 28, 178
+Dependencia discrecional, 60
+Dependencia externa, 60
+Dependencia interna, 60
+Dependencia obligatoria, 60
+Dependencias, tipos de, 60
+Desacople, 121
+Desarrollo continuo, 218
+Desarrollo de reloj inteligente, 86
+Desarrollo del equipo, aspectos comunes, 18–19
+Desarrollo iterativo, 37
+Desbloquear, patrocinador y, 209
+Descomposición. Ver también Estructura
+de desglose del trabajo (EDT/WBS)
+alcance, 84
+Descomposición del alcance, 84
+Descripción de la actividad, 192
+Desecho, 89
+Desempeño. Ver también Indicadores clave
+de desempeño (KPI)
+Dominio de Desempeño de la
+Medición, 113–114
+línea base, 100–101, 188
+revisiones, 68
+Desempeño con respecto a la línea base, 100–101
+Desempeño del trabajo. Ver Dominio de
+Desempeño del Trabajo del Proyecto
+Desmoralización, 112
+Desperdicio, 89
+Devoluciones, 89
+Diagnóstico, adaptación y, 151
+Diagrama de afinidad, 188
+Diagrama de barras, 106
+Diagrama de causa y efecto, 188
+Diagrama de control, 106
+Diagrama de estados de ánimo, 103
+Diagrama de flujo acumulativo (CFD), 188
+Diagrama de flujo, 189
+Diagrama de Gantt, 189
+Diagrama de influencias, 176
+
+261
+
+Diagrama de red del cronograma
+del proyecto, 189
+Diagrama de rendimiento, 190
+Diagrama de tiempo de ciclo, 189
+Diagrama de tiempo de entrega, 189
+Diagrama de velocidad, 190
+Diagrama RACI, 189
+Diagramas circulares, 106
+Diagramas de dispersión, 189
+Diagramas de semáforo, 106
+Diagramas jerárquicos, 187
+Diagramas RAG (rojo-amarillo-verde), 106
+Diccionario de la EDT, 85, 188
+Dirección de programas
+entrega continua de valor y, 222
+planes y, 186–187
+utilización de estructuras, 223–225
+Dirección del equipo, 17–19
+Dirección y liderazgo del equipo
+de proyecto, 17–19
+centralizados, 17
+desarrollo del equipo, 18–19
+distribuidos, 17–18
+Director del programa, 14
+Director del proyecto (DP). Ver también
+Competencias; Habilidades de liderazgo
+acta de constitución del proyecto y, 184
+adaptación y, 140
+cultura de equipo y, 20–21
+definición, 16
+formación del equipo del proyecto y, 17
+modelos de conflictos y, 168, 169
+monitoreo de nuevos trabajos y, 76, 77
+procesos del proyecto y, 71
+respuestas a los riesgos y, 126
+rol del patrocinador y, 207
+ubicación y, 64
+Discurso, positivo, 21
+Diseño basado en conjuntos, 119
+Distribuciones de probabilidad, 57, 177
+Diversidad, replanteamiento y, 121
+Documentación
+comunicación por escrito, 73
+requisitos, 83, 192
+Documentación de requisitos, 192. Ver también
+Contrato(s)
+Documento(s)
+autorización del proyecto, 82
+documento del caso de negocio, 82
+
+262
+
+licitación, 70, 75, 192
+negocio, 82
+proyecto, 62
+Documento del caso de negocio, 82
+Documentos de las licitaciones, 70, 75, 192
+Documentos del proyecto, 52
+Documentos que autorizan el proyecto, 82
+Dominio, 159
+Dominio de desempeño. Ver también Dominios
+de desempeño del proyecto
+artefactos aplicados, 192–195
+Dominio de Desempeño de la Entrega, 80–92
+Dominio de Desempeño de la
+Incertidumbre, 116–129
+Dominio de Desempeño de la
+Medición, 93–115
+Dominio de Desempeño de la
+Planificación, 51–68
+Dominio de Desempeño de los
+Interesados, 8–15
+Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida, 32–50
+Dominio de Desempeño del Equipo, 16–31
+Dominio de Desempeño del Trabajo
+del Proyecto, 69–79
+mapeo de artefactos y, 193–195
+mapeo de métodos y, 182–183
+mapeo de modelos utilizados, 173
+métodos aplicados, 181–183
+modelos aplicados, 172–173
+principios de dirección de proyectos y, 4
+Dominio de Desempeño de la Entrega, 80–92
+calidad, 87–91
+consideraciones sobre adaptación, 149
+definiciones pertinentes, 81
+entrega de valor, 81–82
+entregables, 82–87
+interacciones con otros dominios de
+desempeño, 91
+resultados deseados, 80
+resultados subóptimos, 91
+verificación de resultados, 92
+visión general, 80–81
+Dominio de Desempeño de la
+Incertidumbre, 116–129
+ambigüedad, 120
+complejidad, 120–121
+consideraciones sobre adaptación, 150
+definiciones pertinentes al, 117
+
+Guía del PMBOK®
+
+incertidumbre, general, 119
+interacciones con otros dominios
+de desempeño, 128
+resultados deseados, 116
+riesgo, 122–127
+verificación de resultados, 129
+visión general, 116–118
+volatilidad, 122
+Dominio de Desempeño de la Medición, 93–115
+consideraciones sobre adaptación, 150
+crecimiento y mejora, 114
+definiciones pertinentes al, 93
+establecimiento de medidas efectivas, 95–105
+interacciones con otros dominios de
+desempeño, 114–115
+peligros en las mediciones, 111–112
+presentación de la información, 106–111
+qué medir, 98–105
+resolución de problemas
+de desempeño, 113–114
+resultados deseados, 93
+verificación de resultados, 115
+visión general, 93–95
+Dominio de Desempeño
+de la Planificación, 51–68
+adquisición, 65
+alineación, 67
+cambios, 66
+composición y estructura del equipo
+del proyecto, 63–64
+comunicación, 64
+consideraciones sobre adaptación, 148
+definiciones pertinentes al, 52
+interacciones con otros dominios
+de desempeño, 67
+métricas, 66
+recursos físicos, 65
+resultados deseados, 51
+variables para planificación, 53–63
+verificación de resultados, 68
+visión general de planificación, 52–53
+Dominio de Desempeño de los Interesados, 8–15
+consideraciones sobre adaptación, 147
+definiciones pertinentes al, 8
+interacciones con otros dominios, 14
+interesados en el proyecto, ejemplos, 9
+involucramiento de los interesados, 10–14
+resultados deseados, 8
+verificación de resultados, 15
+visión general, 8–10
+
+Índice
+
+Dominio de Desempeño del Enfoque de
+Desarrollo y del Ciclo de Vida, 32–50
+adaptación y, 148, 150
+alineación de cadencia de entrega,
+enfoque de desarrollo y ciclo de vida, 46–49
+cadencia de entrega, 33–34
+ciclo de vida y definiciones de fases, 42–45
+definiciones pertinentes al, 33
+enfoques de desarrollo, 35–41
+interacciones con otros dominios
+de desempeño, 49–50
+relación entre cadencia, desarrollo
+y ciclo de vida, 33
+resultados deseados 32
+verificación de resultados, 50
+visión general, 32
+Dominio de Desempeño del Equipo, 16–31
+adaptación de estilos de liderazgo, 30
+cultura del equipo de proyecto, 20–21
+definiciones pertinentes al, 16
+dirección y liderazgo del equipo
+de proyecto, 17–19
+equipos de proyectos de alto rendimiento, 22
+habilidades de liderazgo, 23–29
+interacciones con otros dominios, 31
+resultados deseados, 16
+verificación de resultados, 31
+visión general, 16
+Dominio de Desempeño del Trabajo del
+Proyecto, 69–79
+aprendizaje a lo largo del proyecto, 77–78
+comunicaciones e involucramiento,
+proyecto, 73
+conservación del enfoque del equipo
+del proyecto, 73
+consideraciones sobre adaptación, 149
+definiciones pertinentes al, 70
+gestión de los recursos físicos, 73–74
+interacciones con otros dominios
+de desempeño, 78
+monitorear nuevos trabajos y cambios, 76–77
+procesos del proyecto, 71–72
+restricciones en competencia,
+equilibrio de, 72
+resultados deseados, 69
+trabajar con adquisiciones, 74–76
+verificación de resultados, 79
+visión general, 69–70
+
+263
+
+Dominios. Ver Dominios de desempeño;
+Dominios de desempeño del proyecto
+Dominios de desempeño del proyecto.
+Ver también Dominios de desempeño
+adaptación y, 145–150, 154
+cantidad, 7
+contexto del proyecto y, 146
+definición, 7
+dirección de proyectos y, 5, 146
+entrega, 80–82
+enfoque de desarrollo y ciclo de vida, 32–50
+equipo, 16–31
+incertidumbre, 116–129
+interesado, 8–15
+medición, 93–115
+planificación, 51–68
+trabajo del proyecto, 69–79
+visión general, 5, 7
+DP. Ver Director de proyectos
+Dueño del producto, 76
+Duración, 52, 62, 224
+esfuerzo y, 100
+
+E
+EAC. Ver Estimación hasta la conclusión
+EDT/WBS. Ver Estructura de desglose del
+trabajo (EDT/WBS)
+Efecto Hawthorne, 112
+Ejecución del proyecto. Ver Grupo de Procesos
+de Ejecución
+Ejecución rápida, 52, 59, 60
+Eliminación de obstáculos, 18
+Empoderamiento
+cultura y, 143
+equipos de proyectos de alto rendimiento y, 22
+adaptación de involucramiento y, 136
+Empresas emergentes, 221
+EMV. Ver Valor monetario esperado (EMV)
+Encuestas, 103, 104
+Enfoque basado en procesos, 171
+Enfoque de desarrollo adaptativo, 38, 45, 49, 53
+Enfoque de desarrollo híbrido, 33, 36
+Enfoque de desarrollo incremental, 37, 44
+Enfoque de desarrollo predictivo, 35–36
+Enfoque de desarrollo y entrega,
+adaptación y, 137
+Enfoque de programación justo a tiempo, 45
+Enfoque de sistemas de programación “Lean”, 45
+
+264
+
+Enfoque DevOps, 34
+Enfoque digital continuo, 34
+Enfoque en cascada, 15, 49
+Enfoque en el cliente, 208
+Enfoque holístico, 51, 68, 89
+Enfoque, perspectiva ganar-ganar y, 170
+Enfoques ágiles, 38
+Enfoques de desarrollo, 35–39
+centro comunitario y, 36, 38, 39
+consideraciones para selección, 39–41
+enfoque adaptativo, 38
+enfoque híbrido, 36
+enfoque predictivo, 35–36
+desarrollo incremental, 37
+desarrollo iterativo, 37
+proceso de adaptación y, 138
+variables para planificación y, 53
+vista de espectro, 35
+Entender y analizar, interesados y, 11–12
+Entendimiento compartido, 22
+Entorno
+adaptación y, 154
+producto, 222
+Entorno del producto, entrega continua
+de valor, 222
+Entrada(s)
+flujo de entregas y, 45
+Grupos de Procesos y, 171
+Entradas, herramientas/técnicas, y salidas
+(ITTO), 6
+Entrega(s)
+continua, 34
+Dominio de Desempeño de la Planificación, 54
+mediciones, 99
+modelos, 221
+modelo de entregas continuas y, 221
+múltiples, 34
+oficina de dirección de proyectos (PMO) y, 213
+opciones, 40
+periódica, 34
+única, 34
+Entrega continua
+descripción, 34
+estrategias de apoyo, 222
+Entrega de beneficios planificada en comparación
+con entrega real de beneficios, 102
+Entrega de valor
+continua, 222
+Dominio de Desempeño de la Entrega, 81–82
+
+Guía del PMBOK®
+
+Entrega indefinida cantidad indefinida (IDIQ), 191
+Entregable(s)
+adaptación para el proyecto, 142
+definición, 33, 82
+del proyecto, 54
+Dominio de Desempeño de la Entrega, 82–87
+enfoque de desarrollo, 50
+enfoque híbrido y, 36
+finalización, 85
+grado de innovación y, 39
+indicadores rezagados y, 96
+proyecto, 54
+requisitos, 82–83
+Entregables del proyecto, 54
+Enunciado del trabajo (SOW), 74, 87, 191
+Enunciado del trabajo del proyecto.
+Ver Enunciado del trabajo
+Equilibrio
+replanteamiento y, 111
+restricciones en competencia y, 72
+Equipo(s). Ver también Equipo de dirección
+del proyecto; Equipo(s) del proyecto
+coubicación, 135, 142, 147
+proyecto de elevado desempeño, 22
+estables, 222–223, 225
+Equipo de dirección del proyecto, 16.
+Ver también Equipo(s) del proyecto
+Equipo(s) del proyecto. Ver también Equipo(s)
+adaptación y, 142, 147
+conservación del enfoque, 73
+de alto desempeño, 22
+definición, 16
+distribuidos, 30
+Dominio de Desempeño de la
+Planificación, 63–64
+madurez y, 30
+operaciones y, 19
+tamaño y ubicación de, 41
+Equipos coubicados, 135, 142, 147
+Equipos de proyectos de alto rendimiento, 22
+Escalamiento
+amenazas y, 123
+Escalera de Tuckman, 166
+Escucha activa, 12, 21
+Escudo contra la desviación, 18
+Esfuerzo, 100
+Esquema de priorización, 181
+Estabilidad del alcance, 40
+Estilos de liderazgo, adaptación, 30
+
+Índice
+
+Estimación, 55–58. Ver también Base de
+las estimaciones
+absoluta, 57
+ajuste de estimaciones por incertidumbre, 58
+análoga, 178
+determinística, 57
+basada en flujo, 58
+baja exactitud, alta precisión, 56
+definición, 52
+Dominio de Desempeño de la
+Planificación, 55–58
+fase del ciclo de vida y, 55
+probabilística, 57
+paramétrica, 178
+rango disminuyendo con el tiempo, 56
+relativa, 57, 58
+Estimación a la conclusión (EAC), 104, 105
+Estimación análoga, 178
+Estimación basada en flujo, 58
+Estimación hasta la conclusión (ETC), 104, 105
+Estimación multipunto, 178
+Estimación paramétrica, 178
+Estimación por punto de historia, 178
+Estimación probabilística, 57
+Estimación puntual, 178
+Estimación relativa, 178
+Estimaciones de costos, 62, 63, 105
+Estimaciones de la duración, 105
+Estímulo, oportunidades de desarrollo y, 18
+Estrategia de las adquisiciones, 46
+Estrategia organizacional, 212
+Estructura de desglose de la organización, 187
+Estructura de desglose de recursos, 187
+Estructura de desglose del producto, 187
+Estructura de desglose del riesgo, 187
+Estructura de desglose del trabajo
+definición, 81, 187
+descomposición y, 54, 84
+Estructura(s) organizacional(es). Ver también
+Oficina de dirección de proyectos (PMO)
+descripción, 41
+gobernanza, 30
+Estudios comparativos, 175
+EVA. Ver Análisis del valor ganado
+Evaluación del ciclo de vida, 176
+EVM. Ver Gestión del valor ganado
+Exactitud
+definición, 52
+estimación y, 55
+
+265
+
+Éxito, 224. Ver también Éxito del proyecto
+celebración, 21
+Éxito del proyecto
+comunicación y, 157
+indicadores clave de desempeño (KPI) y, 95
+patrocinadores y, 207
+Expectativas de los interesados, 28, 51, 68, 132
+Expertos en la materia, 6, 176. Ver también
+Juicio de expertos
+Exposición al riesgo, 109, 122. Ver también
+Informe de riesgos
+
+F
+Factor de éxito crítico, 207
+Factores de higiene, 158
+Factores del proyecto, adaptación y, 140
+Factores organizacionales, adaptación y, 140
+Falla segura, 121
+Fase. Ver Fase(s) del proyecto
+Fase de cierre, 47
+Fase de desarrollo, 47
+Fase de despliegue, 47
+Fase de pruebas, 47
+Fase(s) del proyecto
+ciclo de vida y, 42–45
+definición, 33
+ejemplos, 42
+Grupos de Procesos y, 170
+revisión, 42
+Fases del proyecto superpuestas, 50
+Fecha de finalización, 100
+Fecha de inicio, 100
+Fechas tardías de inicio y finalización, 100
+FFP. Ver Precio fijo cerrado
+Filtro de idoneidad, 138
+Finalización, objetivos móviles de, 85–87
+Financiamiento, 221, 224
+disponibilidad, 41
+incremental, 222, 223
+limitaciones, 62
+procesos del proyecto y, 71
+requisitos, 46
+Formación, turbulencia, normalización,
+desempeño, disolución, 166
+Fortalezas, debilidades, oportunidades
+y amenazas. Ver Análisis FODA
+
+266
+
+FPIF. Ver Precio fijo más honorarios
+con incentivos
+Fragmentación del tiempo, 18
+
+G
+Gestión
+autogestión, 26, 27
+cambio, 213
+conflicto, 29
+equipo del proyecto, liderazgo y, 17–19
+requisitos y, 83
+Gestión de cambios, 213
+Gestión de conflictos, 29
+Gestión de los requisitos, 83
+Gestión de riesgos
+incertidumbre y, 150
+registro de riesgos y, 185
+Gestión del conocimiento, 77
+Gestión del producto
+consideraciones organizacionales, 221–225
+definición, 218
+tendencias globales de negocio y, 219
+vistas, 218
+Gestión del valor ganado (EVM), 100, 104, 105
+Globalización/entorno global
+comunicación intercultural, 157
+equipos de proyecto distribuidos, 30
+Gobernanza. Ver también Gobernanza
+organizacional
+adaptación, y, 131, 139
+enfoque de desarrollo y, 148
+proyecto, 87
+Gobernanza organizacional
+adaptación y, 152
+estructuras, 30
+Gráficas de trabajo pendiente
+o realizado, 108, 109, 111
+Gráfica de trabajo pendiente (burndown)/
+trabajo realizado (burnup), 188
+Gráfico(s)
+grandes gráficos visibles (BVC), 108
+otros tipos, 109
+Grandes gráficos visibles (BVC), 108
+Grupo(s)
+de Procesos, 170–171
+externo, 140
+Grupo de Procesos de Cierre, 171
+
+Guía del PMBOK®
+
+Grupo de Procesos de Ejecución, 171
+Grupo de Procesos de Inicio, 171
+Grupo de Procesos de Monitoreo y Control, 171
+Grupo de Procesos de Planificación, 171
+Grupos de Procesos, modelos de
+negociación y, 170
+Grupos focales, 83, 174
+
+H
+Habilidad social, 26, 27
+Habilidades. Ver también Habilidades
+interpersonales
+de liderazgo, 12, 23–29
+interpersonales, 25–29
+sociales, 26, 27
+suaves, 12
+Habilidades de liderazgo, 12, 23–29
+equipo, 23–29
+motivación, 24–25
+pensamiento crítico, 24
+visión, establecimiento y conservación, 23
+Habilidades interpersonales, 25–29
+involucramiento de los interesados y, 12
+tipos, 23–29
+Habilidades suaves, 12
+Herramientas. Ver también Software
+adaptación y, 136
+filtro de idoneidad, 138
+métodos y artefactos, 136
+Histograma, 175, 189
+Historias de usuarios
+definición, 192
+descomposición y, 54
+estimación por punto de historia y, 178
+plan de iteraciones y, 61
+valor del cliente y, 84
+Hitos, hoja de ruta y, 184
+Hoja de ruta, 184
+Hoja de ruta de productos, 61
+Hoja de verificación, 175
+Honorarios, contratos y, 91
+
+I
+Idea transformadora, 163
+Identificación de los interesados, 10, 11, 63,
+64, 171
+
+Índice
+
+Identificar paso, involucramiento de los
+interesados, 11
+IDIQ. Ver Entrega indefinida cantidad indefinida
+Impacto del riesgo. Ver Matriz de probabilidad
+e impacto
+Impacto social, 53
+Incertidumbre
+ajuste de estimaciones, 58
+definición, 117
+general, 119
+Indicadores. Ver Indicadores clave
+de desempeño (KPI)
+Indicadores adelantados, 96
+Indicadores clave de desempeño (KPI), 95–96
+Indicadores rezagados, 96
+Índice de desempeño del costo (CPI), 100, 104
+Índice de desempeño del cronograma (SPI), 100
+Índice de desempeño del trabajo por completar
+(TCPI), 105
+Industria/industrias
+mercado y, 142
+producto tradicional, 224
+Influenciar
+enfoque de desarrollo y, 39, 40, 41
+liderazgo y, 29
+patrocinadores y, 209
+Información
+Dominio de Desempeño de la
+Medición, 106–111
+histórica, 149
+presentación, 106–111
+recopilación, 119
+Informe(s), 190. Ver también Informe de calidad;
+Informe de riesgos
+Informe de calidad, 190
+Informe de estatus, 190
+Informe de riesgos, 190
+Informe del proyecto, como artefacto
+de estrategia, 184
+Iniciativas, críticas, 214
+Inicio, 46
+Innovación
+grado de, 39
+Inspección, 42, 47, 88, 89
+Integración
+adaptación de involucramiento y, 136
+práctica y, 163
+Integridad, 20
+
+267
+
+Inteligencia emocional (IE), 25–27
+áreas clave, 26
+componentes, 27
+Intensificación, 52
+Interacciones, dominio de desempeño
+Dominio de Desempeño de la Entrega, 91
+Dominio de Desempeño de la
+Incertidumbre, 128
+Dominio de Desempeño de la
+Medición, 114–115
+Dominio de Desempeño de la Planificación, 67
+Dominio de Desempeño de los Interesados, 14
+Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida, 49–50
+Dominio de Desempeño del Equipo, 31
+Dominio de Desempeño del Trabajo
+del Proyecto, 78
+Intercambio, oportunidad y, 125
+Interesado(s). Ver también Interesado(s)
+en el proyecto
+clave, 11, 23, 44, 167, 179
+definición, 8
+ejemplos de proyectos, 9
+interno, 39
+Modelo de Prominencia y, 171
+Interesado(s) en el proyecto
+adaptación y, 152
+alcance y, 82
+ejemplos de, 9
+interno, 39
+Interesados clave, 11, 23, 44, 167, 179
+Involucramiento. Ver también Involucramiento
+de los interesados
+adaptación, 136
+comunicación y, 73
+Dominio de Desempeño del Trabajo
+del Proyecto, 73
+falta de, patrocinador y, 208
+Involucramiento de los interesados
+Dominio de Desempeño de los
+Interesados, 10–14
+Dominio de Desempeño del Proyecto y, 10–14
+entender y analizar, 11–12
+identificar, 11
+involucrar, 12–14
+métodos de comunicación y, 13
+monitorear, 14
+navegación por el efectivo, 10
+pasos, 10, 11
+priorizar, 12
+
+268
+
+Involucrar, 121
+IRR. Ver Tasa interna de retorno
+Iteración, 44–45, 53
+Iterar, 121
+ITTO. Ver Entradas, herramientas/técnicas
+y salidas
+
+J
+Juicio de expertos, 104. Ver también Expertos
+en la materia
+
+K
+KPI. Ver Indicadores clave de desempeño
+
+L
+Lecciones aprendidas. Ver también
+Retrospectivas
+adaptación y, 151
+retrospectivas o, 71
+reuniones, 127, 180
+Liderazgo
+dirección centralizada y, 17
+dirección distribuida, 17–18
+equipo, 17–19
+estilos y, 30
+Líderes de portafolio, 95
+Líderes serviciales, 18
+Lienzo de modelo de negocio, 184
+Línea base, 188. Ver también Línea base
+de costos; Línea base del alcance
+definición, 93
+Línea base de costos, 62, 63, 188
+Línea base del alcance
+definición, 188
+proyectos predictivos y, 77
+Lista de actividades, 192
+Lista de trabajo pendiente ajustada al riesgo, 185
+Lista de trabajo pendiente del producto, 76, 185
+Listas de verificación, 174
+Lógica de la red, 59
+Logro, teoría de las necesidades y, 159
+Los requisitos de alto nivel, 39
+
+Guía del PMBOK®
+
+M
+Mapa de historia, 190
+Mapa del flujo de valor, 190
+Mapeo de impacto, 181
+Mapeo del flujo de valor, 177
+Marco de referencia Cynefin, 164–165
+Materiales, entorno y, 53
+Materialización de beneficios, PMO y, 214
+Matrices de trazabilidad, 83
+Matriz de Asignación de Responsabilidades
+(RAM), 189
+Matriz de evaluación del involucramiento
+de los interesados, 189, 190
+Matriz de priorización, 189
+Matriz de probabilidad e impacto, 176
+Matriz de Stacey, 165
+Matriz de trazabilidad de requisitos, 189
+Mediciones del valor del negocio, 82
+Medida(s). Ver también Métricas
+desempeño con respecto
+a la línea base, 100–101
+efectivas, 95–105
+entrega, 99
+establecimiento, 95–105
+indicadores clave de desempeño (KPI), 95–96
+interesados, 103–104
+peligros, 111–112
+pronósticos, 104–105
+qué medir, 98–105
+recursos, 101
+valor de negocio, 102
+Medidas de desempeño técnico, 85
+Mejora continua, 139, 144, 152, 213, 214
+Mejores prácticas, estudios comparativos y, 175
+Memorando de acuerdo (MOA), 191
+Memorando de entendimiento (MOU), 191
+Métodos, 174–181
+adaptación, 136
+aplicados a través de los dominios
+de desempeño, 181–183
+definición, 153
+esquema de priorización, 181
+estimación, 178
+mapeo de impacto, 181
+modelación, 181
+período de tiempo preestablecido, 181
+Puntuación Neta del Promotor
+(Net Promoter Score®, NPS®), 181
+
+Índice
+
+recopilación y análisis de datos, 174–177
+reuniones y eventos, 179–180
+visión general, 153–155
+Métodos ágiles
+enfoque adaptativo y, 50
+enfoque de desarrollo y, 49
+organización y, 41
+programación basada en el flujo y, 45
+Métodos de análisis de justificación
+del negocio, 175
+Métodos de estimación, 178
+Métodos de producción “Lean”, 71
+Métrica de vanidad, 112
+Métricas. Ver también Dominio de Desempeño
+de la Medición; Medición
+criterios SMART, 97
+definición, 93, 192
+desempeño del trabajo, 66
+Dominio de Desempeño de la Planificación, 66
+efectivas, 97
+entregable, 98
+métrica de vanidad, 112
+uso indebido, 112
+MOA. Ver Memorando de acuerdo
+Modelado, 181
+Modelo ADKAR®, 161
+Modelo de Cambios de Virginia Satir, 163
+Modelo de comunicación intercultural, 157
+Modelo de conflictos, 168–169
+Modelo de Desempeño del Equipo
+de Drexler/Sibbet, 167
+Modelo de programación, 59, 188
+Modelo de Prominencia, 171
+Modelo de Transición, 164
+Modelo OSCAR, 156
+Modelos. Ver también Modelos de cambio;
+Modelos de complejidad; Modelos de
+comunicación; Modelos de motivación;
+Modelos de negociación
+aplicados a través de los dominios
+de desempeño, 112–113
+conflicto, 168–169
+definición, 153
+desarrollo del equipo del proyecto, 166–167
+Grupos de Procesos, 170–171
+liderazgo situacional, 155–156
+mapeo de dominios de desempeño y, 173
+Modelo de Prominencia, 171
+Modelo OSCAR, 156
+perspectiva ganar-ganar y, 169, 170
+
+269
+
+planificación, 170
+utilizados comúnmente, 95–98
+visión general, 153–155
+Modelos de cambio, 160–164
+Modelo ADKAR®, 161
+Modelo de Cambios de Virginia Satir, 163
+Modelo de Transición, 164
+Proceso de 8 Pasos para liderar el Cambio, 162
+Modelos de complejidad, 164–165
+Marco de referencia Cynefin, 164–165
+Matriz de Stacey, 165
+Modelos de comunicación, 157–158
+brecha de ejecución, 158
+brecha de evaluación, 158
+canales de comunicación, efectividad, 157
+comunicación intercultural, 157
+Modelos de desarrollo del equipo
+del proyecto, 166–167
+Modelo de Desempeño del Equipo
+de Drexler / Sibbet, 167
+Escalera de Tuckman, 166
+Modelos de liderazgo situacional, 155–156
+Modelos de motivación, 158–160
+factores de higiene y de motivación, 158
+motivación intrínseca versus extrínseca, 159
+teoría de las necesidades, 159
+Teoría X, Teoría Y y Teoría Z, 160
+Modelos de negociación, 169–171
+Grupos de Procesos, 170–171
+perspectiva ganar-ganar y, 169, 170
+planificación, 170
+Monitoreo
+control y, 171
+nuevos trabajos y cambios, 76–77
+Moral, 104, 112
+MoSCoW, 181
+Motivación
+habilidades de liderazgo y, 24–25
+inteligencia emocional y, 27
+patrocinadores y, 210
+Motivación extrínseca, 159
+Motivación intrínseca, 159
+MOU. Ver Memorando de entendimiento
+
+N
+No conformidad, prevención, 81, 175
+NPV. Ver Valor actual neto
+
+270
+
+O
+Objetivos, visión y, 18
+OBS. Ver Estructura de desglose de la organización
+Observación del trabajo, 78
+Oficina de dirección de proyectos
+(PMO), 211–215
+capacidades clave, 213
+más información, 215
+materialización de beneficios y, 214
+oficina de entrega de valor (VDO), y, 140
+propuesta de valor, 211–213
+Oficina de entrega de valor (VDO), 140, 141, 212
+Oportunidades
+desarrollo, 18
+estrategias para, 125
+Organización(es)
+adaptación, 139–140
+centrado en el cliente, 225
+relación entre clientes, 220
+Organización patrocinadora, 87, 116
+Organizaciones centradas en el cliente, 225
+Orientación, 19
+Orientación y financiamiento incrementales, 223
+
+P
+Pago, provisión continua y, 220–221
+Paquetes de trabajo, 85, 189
+Parámetros, 98, 178
+Patrocinador del proyecto, 123, 125, 207.
+Ver también Patrocinador
+Patrocinador,
+como asociado, 209
+PBP. Ver Plazo de recuperación
+Pensamiento crítico, 24
+Períodos de tiempo preestablecidos, 62, 181
+Personas, adaptación del involucramiento y, 136
+Perspectiva del panorama general, 207, 213
+Perspectiva ganar-ganar, 169, 170
+Perspectiva, oficina de dirección de proyectos
+(PMO) y, 213
+Plan(es),186–187
+de contingencia, 123
+de excepción(es), 113, 114
+de reserva o de contingencia, 119
+Plan de control de cambios, 186
+Plan de excepciones
+activación, 113
+definición, 114
+
+Guía del PMBOK®
+
+Plan de gestión de la calidad, 186
+Plan de gestión de las adquisiciones, 186
+Plan de gestión de las comunicaciones, 79, 186
+Plan de gestión de las comunicaciones
+del proyecto, 79, 186
+Plan de gestión de los costos, 186
+Plan de gestión de los recursos, 186
+Plan de gestión de los requisitos, 186
+Plan de gestión de los riesgos, 186
+Plan de gestión del alcance, 187
+Plan de gestión del cronograma, 187
+Plan de involucramiento de los interesados, 187
+Plan de iteración, 61, 186
+Plan de liberación, 61, 186
+Plan de liberación e iteración, 61
+Plan de pruebas, 187
+Plan para la dirección del proyecto
+como plan global, 186
+definición, 186
+elaboración progresiva y, 120
+integrado, proyectos grandes y, 67
+procesos de ejecución y, 171
+Planificación
+alto nivel, 52
+modelos de negociación y, 170
+Planificación adaptativa del cronograma, 81, 82
+Planificación de comunicación, 64
+Planificación de la calidad, 88
+Planificación gradual, 49
+Plantillas, 35, 132, 136, 153, 184
+Plazo de recuperación, 175
+PMIstandards+, 6, 174
+PMO. Ver Oficina de dirección de proyectos (PMO)
+PMO a nivel empresarial (EPMO), 212
+Poder, teoría de las necesidades y, 159
+Política de calidad, 87
+Prácticas de entregas del proyecto, 221
+Precio fijo cerrado (FFP), 191
+Precio fijo con ajustes económicos
+de precio (FP EPA), 191
+Precio fijo más honorarios con
+incentivos (FPIF), 191
+Precisión
+definición, 52
+descripción, 55
+nivel, 56
+Predecesora, 59
+
+Índice
+
+Presentación de la información, 106–111
+controles visuales, 109–111
+radiadores de Información, 108
+tableros, 106–107
+Presentaciones, 73
+Presupuesto
+definición, 52, 188
+Dominio de Desempeño de la
+Planificación, 62–63
+formación del presupuesto, 62–63
+Presupuesto hasta la conclusión (BAC), 104–105
+Prevención, amenaza, 123, 126
+Principios de la dirección de proyectos
+adaptación para ajustar al proyecto, 154
+dominios de desempeño y, 4
+Priorizar, involucramiento de los interesados, 12
+Proceso(s)
+adaptación, 137–145
+adición, eliminación y cambio, 144
+conformidad y, 71
+entorno y, 53
+grupos, 170
+inteligentes y sencillos, 214
+proyecto, 71–72
+Proceso de 8 Pasos para liderar el Cambio,
+162, 173
+Proceso de adaptación, 137–145
+enfoque de desarrollo inicial, selección, 138
+para el proyecto, 141–144
+para la organización, 139–140
+pasos, detalles, 137
+Proceso de licitación, 75
+Proceso iterativo, 120
+Procesos de contratación, 75–76
+Procesos del proyecto, 71–72
+Producto(s)
+adaptación para el proyecto, 142
+adición de software a más, 225
+cambios en el mercado global, 219–221
+características únicas de, 224
+conceptos de valor y, 217
+consideraciones organizacionales, 221–225
+definición, 218
+digital, 34
+enfoque de desarrollo y, 39–40
+final, 82
+prácticas de entregas del proyecto y, 221
+transición, vistas y, 217–218
+
+271
+
+Programación basada en el flujo, 45
+Programación de cronograma
+esfuerzo, duración y, 62
+metodologías adaptativas y, 45
+Programas, características únicas, 224
+mejora continua y, 144
+Pronósticos, 104–105
+métodos, 32, 160–161
+recopilación y análisis de datos, 176
+Propiedad compartida, 22
+Propiedad intelectual, 75
+Propósito, 159
+Propuestas, 70. Ver también Solicitud
+de propuesta (RFP)
+documentos de las licitaciones y, 192
+Provisión y pago continuos, 220–221
+Proyecto(s)
+adaptación, 141–144
+aprendizaje, 77–78
+Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida, 40–41
+dominios de desempeño y, 7
+enfoque basado en procesos, 171
+enfoque de desarrollo y, 40–41
+experiencia con tipo de, 30
+singularidad y, 224
+Proyectos basados en flujo, 109
+Punto de función, 178
+Puntos de historia, 58, 119, 121. Ver también
+Historias de usuario(s)
+Puntuación Neta del Promotor
+(Net Promoter Score®, NPS®), 103, 181
+PV. Ver Valor planificado
+
+R
+Radiador de información, 108, 109
+Radiadores, información, 108
+RAM. Ver Matriz de asignación
+de responsabilidades
+Rango
+descripción, 55
+tiempo y materiales, 56
+RBS. Ver Estructura de desglose de recursos;
+Estructura de desglose del riesgo
+RCA. Ver Análisis de causa raíz
+Reclamaciones, 89
+Reclamaciones de garantía, 89
+Recolección de requisitos, 83
+
+272
+
+Recompensas, 24, 158, 159
+Reconocimiento, equipos de proyectos de alto
+rendimiento y, 22
+Recopilación y análisis de datos, 174–177
+Recurso(s). Ver también Recursos físicos
+medición, 101
+patrocinadores y, 209
+Recursos físicos
+gestión, 73–74
+Dominio de Desempeño de la Planificación, 65
+Dominio de Desempeño del Trabajo
+del Proyecto, 73–74
+planificación, 65
+Registro de cambios, 185
+Registro de incidentes, 185
+Registro de interesados, 185
+Registro de lecciones aprendidas, 185
+Registro de riesgos, 108, 185
+Registro de supuestos, 185
+Regulaciones, 40
+Relación costo-beneficio, 102
+Relación Final a final, 59
+Relación Final a inicio, 59
+Rendición de cuentas, patrocinadores y, 208
+Reparaciones, 89
+Replanteamiento, 121
+Repositorio de gestión del conocimiento, 149
+Reputación, 89
+Requisito(s). Ver también Requisitos de calidad
+alto nivel, 39
+bien documentados, 83
+definición, 81
+entregables y, 82–83
+evolución y descubrimiento, 83
+financiamiento, 46
+gestión, 83
+interesado, 54, 72
+obtención, 111
+organizacional, 54
+producto, 50, 176, 189, 192
+proyecto, 171
+seguridad, 40
+Requisitos de calidad
+alineación, 67
+costos de evaluación y, 87
+costo de la calidad y, 88
+procesos y, 72
+Requisitos de los interesados, 54, 72
+Requisitos de recursos, 46
+
+Guía del PMBOK®
+
+Requisitos de seguridad, 40
+Requisitos del producto
+análisis de hacer o comprar y, 176
+documentación de requisitos y, 192
+matriz de trazabilidad de requisitos y, 189
+obtención, 50
+Requisitos del proyecto, 71
+Requisitos legales, 118, 149
+Requisitos organizacionales, 54
+Reserva, 122. Ver también Reserva de gestión
+Reserva de costos, 122
+Reserva para contingencias, 62, 127. Ver también
+Análisis de reserva
+Reserva para gestión, 127
+Resiliencia
+incorporación, 119
+equipos de proyectos de alto rendimiento y, 22
+Resolución de conflictos, 29
+Resolución de problemas
+de desempeño, 113–114
+Resolución de problemas, 21, 29, 168
+Respeto, 21
+Restricciones, equilibrio de competidoras, 72
+Restricciones del cronograma, 41
+Restricciones legales, 54
+Restricciones regulatorias, 54
+Resultado(s). Ver también Entregable(s);
+Resultados deseados; Verificación
+de resultados
+capacidades orientadas a resultados, 213
+enfoque de desarrollo y, 39–40
+falla interna y, 89
+múltiples, preparación, 119
+oficina de dirección de proyectos (PMO) y, 213
+subóptimos, 91
+Retorno de la inversión (ROI), 102, 175
+Retrabajo, 89
+Retrasos, adelantos y, 59
+Retrospectivas, 127, 180. Ver también
+Lecciones aprendidas
+adaptación y, 151
+procesos del proyecto y, 71
+Reunión de cierre del proyecto, 180
+Reunión de estatus, 180
+Reunión de lanzamiento, 179, 183
+Reunión de perfeccionamiento de la lista
+de trabajos pendientes, 179
+Reunión de planificación, 180
+Reunión de revisión del proyecto, 180
+
+Índice
+
+Reunión diaria de pie, 127, 179
+Reunión para planificación de iteraciones, 179
+Reunión para planificación de sprint, 179
+Reuniones
+conferencia de oferentes, 70, 179
+control de cambios, 179
+de pie, 127, 179
+eventos y, 179–180
+retrospectivas/lecciones aprendidas, 71,
+127, 179
+revisión del riesgo y, 127
+tipos, 179–180
+Reuniones de pie, 127, 179
+Reuniones para planificación de iteraciones, 180
+Revisión de la iteración, 179
+Revisión(es)
+adaptación y, 151
+de fase, 42, 47, 144
+desempeño, 68
+diseño, 127
+producto, 14
+proyecto, 180
+riesgo, 127
+Revisión de la iteración, 179
+Revisión del riesgo, 127, 180
+Revisiones de diseño, 127
+Revisiones de productos, 14
+RFI. Ver Solicitud de información
+RFP. Ver Solicitud de propuesta
+RFQ. Ver Solicitud de cotización
+Riesgo(s), 122–127
+amenazas, 123–124
+definición, 117
+Dominio de Desempeño de la
+Incertidumbre, 122–127
+generales del proyecto, 122
+identificación, 122, 127
+incertidumbre y, 119, 122
+negativos (amenazas), 121, 122
+niveles, 127, 128
+oportunidades, 122, 125
+productos y, 40
+reducción, con el paso del tiempo, 124
+reservas, 127
+residual, 125
+secundario, 125
+Riesgo general del proyecto, 122
+Riesgo individual del proyecto, 177, 190
+Riesgo residual, 125
+
+273
+
+Riesgos del proyecto, incertidumbre y, 119
+Riesgos identificados, 127
+Riesgos negativos (amenazas), 121, 122
+Riesgos positivos (oportunidades), 122
+Riesgos secundarios, 125
+Riqueza de los medios, 157
+Rotación, 104
+Ruta crítica, 100
+Ruta de red, 59
+
+S
+Salida(s). Ver también Entradas, herramientas/
+técnicas y salidas
+análisis de datos y, 174
+Grupos de Procesos y, 171
+Satisfacción de los interesados
+diagrama de estados de ánimo, 103
+medición, 103–104
+Satisfacción del cliente, 95, 112
+Scrum diario, 179
+“Seguir funcionando como hasta ahora,” 163
+Servicio(s)
+cambios en el mercado global, 219–221
+enfoque de desarrollo y, 39–40
+Sesgo(s)
+consciente e inconsciente, 20
+sesgo de confirmación, 112
+Simulación, 121
+Simulación Monte Carlo, 177
+Simulaciones, 177
+Sistema de control de cambios, 107
+Sistema de gestión de la calidad, 52, 88
+Sistema de programación de cronogramas
+del sistema Kanban, 45
+Situaciones comunes, adaptación y, 151
+Situational Leadership® II, 155–156
+SLA. Ver Acuerdo de nivel de servicio
+SMEs. Ver Expertos en la materia
+Software
+adición a más productos, 225
+proyectos de desarrollo, 85
+valor mejorado, 220
+Solicitud(es) de cambio, 77
+Solicitud de cotización (RFQ), 75, 192
+Solicitud de información (RFI), 75, 192
+Solicitud de propuesta (RFP), 75, 192
+Solicitudes del cliente, 66
+
+274
+
+Sostenibilidad, 53
+SOW. Ver Enunciado del trabajo
+SPI. Ver Índice de desempeño del cronograma
+Sponsor, 207–210. Ver también Patrocinador
+del proyecto
+comportamientos, 209
+falta de involucramiento y, 208
+rol, 207–208
+Sprint, 45. Ver también Iteración
+SS. Ver Relación de inicio a inicio
+Statu quo, 163
+Sucesora, 59
+Supuesto(s), 20, 24, 121
+SV. Ver Variación del cronograma
+
+T
+Tableros, 106–107
+datos visuales y, 189
+definición, 93,
+Tableros de tareas, 109, 110
+Tableros Kanban, 109, 110
+Talento, 214
+Tamaño del proyecto, 132, 139
+Tasa interna de retorno (IRR), 175
+Tasas de finalización de características, 100
+Tasas de gasto, planificadas y reales, 113
+Técnicas analíticas, 176–177
+Técnicas de compresión del cronograma, 52, 59
+Tecnología. Ver también Software
+automatización, 34
+correo electrónico, 13
+entregables y, 142
+equipos de proyecto distribuidos y, 30
+plataforma, en la industria, 224
+tendencias, 85
+Temas ambientales, 53, 129
+Tendencia(s)
+globales de negocios, 219–221
+indicadores adelantados y, 96
+tecnología, 85
+Teoría de las necesidades, 159
+Teoría X, Teoría Y y Teoría Z, 160
+Toma de decisiones, 27–28
+basada en el grupo, 28
+patrocinadores y, 208
+Tormenta de ideas, 13, 22, 121
+
+Guía del PMBOK®
+
+Trabajo
+nuevo esfuerzo de trabajo, 58
+sin valor agregado, 72
+Trabajo pendiente, 45, 62, 76, 96, 185
+Trabajo sin valor agregado, 71, 72, 99
+Transferencia de conocimiento, 213
+Transición de etapa, 14, 42
+Transparencia, 20
+Triple resultado final, 53
+TyM. Ver Tiempo y materiales
+
+U
+Umbral
+presupuesto, 113–114
+tolerancia, 96
+Utilización planificada de los recursos
+en comparación con la utilización real
+de los mismos, 101
+
+V
+VAC. Ver Variación a la conclusión
+Validación del alcance, 131
+Valor. Ver también Valor de negocio
+entrega, 81–82
+mejorado por medio de software, 220
+Valor actual neto (NPV), 102, 175
+Valor de negocio, 82
+Valor ganado (EV), 100, 101
+Valor monetario esperado (EMV), 116, 126, 176
+Valor planificado (PV), 100, 101
+Variables para planificación, 53–63
+entrega y, 54
+estimación y, 55–58
+cronogramas, 58–62
+presupuesto, 62–63
+
+Índice
+
+Variación(es), 68, 72, 94, 96, 101, 115, 188
+Variación a la conclusión (VAC), 105
+Variación del costo (CV), 80
+Variación del cronograma (SV), 100
+Variaciones, 121, 123, 177
+Verificación de resultados
+Dominio de Desempeño de la Entrega, 92
+Dominio de Desempeño de la
+Incertidumbre, 129
+Dominio de Desempeño de la Medición, 115
+Dominio de Desempeño de la Planificación, 68
+Dominio de Desempeño de los Interesados, 15
+Dominio de Desempeño del Enfoque
+de Desarrollo y del Ciclo de Vida, 50
+Dominio de Desempeño del Equipo, 31
+Dominio de Desempeño del Trabajo
+del Proyecto, 79
+Verificación, 88
+Verificar, patrocinador y, 209
+Viabilidad, 42, 43
+Visión
+definición e intercambio, 11
+establecimiento y conservación, 23
+objetivos y, 18
+patrocinadores y, 208
+Visión de producto, 61
+Visión general de planificación, 52–53
+Visión holística, 98, 190
+Volatilidad, 117
+Dominio de Desempeño de la
+Incertidumbre, 122
+Votación, 28
+Votación de puño de cinco, 28
+Votación romana, 28
+
+275
+
+PMI Member benefit licensed to: X. Not for distribution, sale, or reproduction.

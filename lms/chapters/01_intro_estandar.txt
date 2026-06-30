@@ -1,0 +1,83 @@
+
+5
+
+2
+Un sistema para
+la entrega de valor
+La información en esta sección proporciona un contexto para la entrega de valor,
+la gobernanza, las funciones del proyecto, el entorno del proyecto y la gestión del producto.
+► Sección 2.1 Creación de Valor. Esta sección describe cómo funcionan los proyectos
+dentro de un sistema para producir valor para las organizaciones y sus interesados.
+► Sección 2.2 Sistemas de Gobernanza Organizacional. Esta sección describe cómo
+la gobernanza presta soporte a un sistema para la entrega de valor.
+► Sección 2.3 Funciones Asociadas con Proyectos. Esta sección identifica las funciones
+que apoyan los proyectos.
+► Sección 2.4 El Entorno del Proyecto. Esta sección identifica factores internos
+y externos que influyen en los proyectos y en la entrega de valor.
+► Sección 2.5 Consideraciones sobre la Gestión del Producto. Esta sección identifica
+las formas en que se relacionan los portafolios, programas, proyectos y productos.
+
+2.1 CRE ACIÓN DE VALOR
+Los proyectos existen dentro de un sistema de mayor tamaño, tal como una agencia
+gubernamental, organización o acuerdo contractual. En aras de la brevedad, este estándar utiliza
+el término organización cuando se refiere a agencias gubernamentales, empresas, acuerdos
+contractuales, empresas conjuntas y otros tipos de acuerdos. Las organizaciones crean valor
+para los interesados. Los ejemplos de las maneras en que los proyectos producen valor incluyen,
+entre otros:
+
+7
+
+► Creación de un nuevo producto, servicio o resultado que cumpla con las necesidades
+de los clientes o usuarios finales;
+► Realizar contribuciones sociales o ambientales positivas;
+► Mejorar la eficiencia, la productividad, la efectividad o la capacidad de respuesta;
+► Habilitar los cambios necesarios para facilitar la transición organizacional a su estado
+futuro deseado; y
+► Conservar los beneficios habilitados por programas, proyectos u operaciones
+comerciales anteriores.
+
+2.1.1 COMPONENTES DE LA ENTREGA DE VALOR
+Existen varios componentes, tales como portafolios, programas, proyectos, productos y
+operaciones, que pueden utilizarse individual y colectivamente para crear valor. Trabajando juntos,
+estos componentes forman un sistema para entregar valor que está alineado con la estrategia de
+la organización. El Gráfico 2-1 muestra un ejemplo de un sistema para entregar valor que tiene dos
+portafolios compuestos por programas y proyectos. También muestra un programa independiente
+con proyectos y proyectos independientes no asociados con portafolios o programas. Cualquiera
+de los proyectos o programas podría incluir productos. Las operaciones pueden apoyar e influir
+directamente en portafolios, programas y proyectos, así como otras funciones empresariales, tales
+como nómina, gestión de la cadena de suministro, etc. Los portafolios, programas y proyectos se
+influyen entre sí, e influyen también las operaciones.
+
+8
+
+El Estándar para la Dirección de Proyectos
+
+Sistema de Entrega de Valor
+Portafolio A
+Programa A.1
+
+Portafolio B
+
+Programa A.2
+
+Programa B.1
+
+Proyectos
+Proyectos
+
+Proyectos
+Proyectos
+
+Programa N.1
+
+Proyectos
+
+Operaciones
+
+Gráfico 2-1. Ejemplo de un Sistema para la Entrega de Valor
+
+Como se muestra en el Gráfico 2-2, un sistema para la entrega de valor es parte del entorno
+interno de una organización que está sujeto a políticas, procedimientos, metodologías, marcos de
+referencia, estructuras de gobernanza, etc. Ese entorno interno existe dentro del entorno externo
+más amplio, que incluye la economía, el entorno competitivo, las restricciones legislativas, etc.
+La Sección 2.4 proporciona más detalles sobre los entornos internos y externos.

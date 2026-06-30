@@ -1,0 +1,729 @@
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+51
+
+Las siguientes definiciones son pertinentes para el Dominio de Desempeño de la Planificación:
+Estimación. Evaluación cuantitativa del valor o resultado probable de una variable, tal como
+costos del proyecto, recursos, esfuerzo o duraciones.
+Exactitud. En el sistema de gestión de calidad, la exactitud es una evaluación de la corrección.
+Precisión. En el sistema de gestión de calidad, la precisión es una evaluación de la exactitud.
+Intensificación. Método utilizado para acortar la duración del cronograma con el menor
+incremento de costo mediante la adición de recursos.
+Ejecución Rápida. Método de compresión del cronograma en el que actividades o fases que
+normalmente se realizan en secuencia se llevan a cabo en paralelo, al menos durante una
+parte de su duración.
+Presupuesto. Estimación aprobada para el proyecto o cualquier componente de la estructura
+de desglose del trabajo (EDT) o cualquier actividad del cronograma.
+
+2.4.1 DESCRIPCIÓN GENERAL DE LA PLANIFICACIÓ N
+El propósito de la planificación es desarrollar proactivamente un enfoque para crear los
+entregables del proyecto. Los entregables del proyecto impulsan los resultados para los que se
+acometió el proyecto. La planificación de alto nivel puede comenzar antes de la autorización del
+proyecto. El equipo de proyecto elabora progresivamente documentos iniciales del proyecto, como
+una declaración de visión, un acta de constitución del proyecto, un caso de negocio o documentos
+similares para identificar o definir una ruta coordinada para lograr los resultados deseados.
+
+52
+
+Guía del PMBOK®
+
+Cada vez es más común que en la planificación inicial se tengan en cuenta los impactos sociales
+y ambientales, además de los impactos financieros (denominados en ocasiones triple resultado
+final). Esto puede tomar la forma de una evaluación del ciclo de vida del producto que evalúe
+los potenciales impactos ambientales de un producto, proceso o sistema. La evaluación del
+ciclo de vida del producto informa el diseño de productos y procesos. Considera los impactos
+de los materiales y procesos con respecto a la sostenibilidad, la toxicidad y el entorno.
+
+La cantidad de tiempo dedicado a la planificación, tanto por adelantado como durante todo
+el proyecto, debería estar determinada por las circunstancias. Es ineficiente dedicar más tiempo
+del necesario a la planificación. Por lo tanto, la información obtenida de la planificación debería ser
+suficiente para avanzar de manera adecuada, pero no más detallada de lo necesario. Los equipos
+de proyecto utilizan artefactos de planificación para confirmar las expectativas de los interesados
+y proporcionarles la información que necesitan para tomar decisiones, tomar medidas y mantener
+la alineación entre el proyecto y los interesados.
+
+2.4.2 VARIABLES PARA LA PLANIFICACIÓN
+Debido a que cada proyecto es único, la cantidad, el momento y la frecuencia de la planificación
+varían. Las variables que influyen en la forma en que se lleva a cabo la planificación del proyecto
+incluyen, entre otras:
+► Enfoque de desarrollo. El enfoque de desarrollo puede influir en cómo, cuánto
+y cuándo se lleva a cabo la planificación. Algunos ejemplos:
+
+▹ Una fase específica para planificar u organizar en forma temprana en el ciclo de vida.
+En estas situaciones, gran parte de la planificación se realiza por adelantado. Los
+planes iniciales se elaboran progresivamente con más detalle a lo largo del proyecto,
+pero hay pocos cambios en el alcance original.
+
+▹ Un enfoque con planificación de alto nivel por adelantado, seguido de una fase de
+diseño donde se utiliza la elaboración de prototipos. Después de que el equipo
+de proyecto y los interesados están de acuerdo con el diseño, el equipo de proyecto
+completa una planificación más detallada.
+
+▹ Enfoques adaptativos donde el equipo de proyecto realiza iteraciones. Algunas
+planificaciones ocurren por adelantado para establecer planes de liberación,
+y otras planificaciones ocurren al comienzo de cada iteración.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+53
+
+► Entregables del proyecto. A menudo, los entregables del proyecto requieren planificación
+de un modo específico. Los proyectos de construcción requieren una planificación inicial
+significativa para tener en cuenta el diseño, las aprobaciones, la compra de materiales, la
+logística y la entrega. El desarrollo de productos o los proyectos de alta tecnología pueden
+utilizar una planificación continua y adaptativa para permitir la evolución y los cambios
+basados en la retroalimentación de los interesados y los avances tecnológicos.
+► Requisitos organizacionales. La gobernanza, las políticas, los procedimientos, los
+procesos y la cultura organizacionales pueden requerir que los directores de proyectos
+produzcan artefactos de planificación específicos.
+► Condiciones del mercado. Los proyectos de desarrollo de productos pueden llevarse
+a cabo en un entorno altamente competitivo. En estas situaciones, los equipos de
+proyecto pueden llevar a cabo una cantidad mínima de planificación por adelantado,
+ya que el énfasis reside en la velocidad para salir al mercado. El costo del retraso que
+conlleva la planificación extensiva excede el riesgo de un posible retrabajo.
+► Restricciones legales o regulatorias. Las agencias reguladoras o los estatutos pueden
+requerir documentos de planificación específicos antes de otorgar una autorización
+para proceder o con el fin de obtener aprobación para liberar el entregable del proyecto
+en el mercado.
+
+2.4.2.1 Entrega
+La planificación comienza con la comprensión del caso de negocio, los requisitos de
+los interesados y el alcance del proyecto y del producto. El alcance del producto consta de las
+características y funciones de un producto, servicio o resultado. El alcance del proyecto es el trabajo
+realizado para entregar un producto, servicio o resultado con las funciones y características
+especificadas.
+Los enfoques de planificación predictiva comienzan por adelantado con los entregables de
+alto nivel del proyecto y los descomponen en un mayor detalle. Este enfoque puede emplear una
+declaración del alcance y/o una estructura de desglose del trabajo (EDT/WBS) para descomponer
+el alcance en niveles más bajos de detalle.
+Los proyectos que utilizan enfoques iterativos o incrementales pueden tener temas de alto
+nivel o épicas que se descomponen en características, que luego se descomponen aún más en
+historias de usuarios y otros elementos de la lista de trabajo pendiente. El trabajo que es único,
+significativo, arriesgado o novedoso puede ser priorizado para reducir la incertidumbre asociada
+con el alcance del proyecto al comienzo del proyecto, antes de que haya tenido lugar una inversión
+significativa. Los equipos de proyecto planifican el trabajo de rutina basados en el concepto del
+último momento responsable. Este enfoque aplaza una decisión para permitir que el equipo de
+proyecto tome en consideración múltiples opciones hasta que el costo de un nuevo aplazamiento
+exceda el beneficio. Reduce el desperdicio al no gastar tiempo en el desarrollo de planes de trabajo
+que pueden cambiar o no ser necesarios.
+
+54
+
+Guía del PMBOK®
+
+2.4.2.2 Estimación
+La planificación implica desarrollar estimaciones del esfuerzo laboral, la duración, los costos,
+las personas y los recursos físicos. Las estimaciones son una evaluación cuantitativa del valor o
+resultado probable de una variable, tal como costos del proyecto, recursos, esfuerzo o duración.
+A medida que el proyecto evoluciona, las estimaciones pueden cambiar en función de la información
+y las circunstancias actuales. La fase del proyecto en el ciclo de vida tiene impacto sobre cuatro
+aspectos asociados a la estimación:
+► Rango. Las estimaciones tienden a tener un amplio rango al comienzo del proyecto
+cuando no hay mucha información sobre el alcance del proyecto y del producto,
+los interesados, los requisitos, los riesgos u otra información. El Gráfico 2-14 muestra
+un rango de -25 a +75 % al comienzo de la exploración de una oportunidad de proyecto.
+Los proyectos que están muy avanzados en su ciclo de vida pueden tener un rango
+estimado de -5 a +10 %.
+► Exactitud. La exactitud se refiere a la precisión de un estimado. La exactitud está
+vinculada al rango en que, cuanto menor sea la exactitud, mayor será el rango potencial
+de los valores. Una estimación al comienzo del proyecto tendrá menos precisión que uno
+que se desarrolle a mitad del proyecto.
+► Precisión. La precisión es diferente de la exactitud (véase el Gráfico 2-15). La precisión
+se refiere al grado de exactitud asociado con la estimación. Por ejemplo, una estimación
+de 2 días es más precisa que “en algún momento de esta semana”. La precisión de las
+estimaciones debería ser compatible con la exactitud deseada.
+► Confianza. La confianza aumenta con la experiencia. La experiencia trabajando en
+un proyecto anterior y similar puede ayudar con el nivel de confianza requerido. Para
+los componentes tecnológicos nuevos y en evolución, se espera que la confianza en los
+estimados sea baja.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+55
+
+75 %
+
+25 %
+
+Rango
+
+50 %
+
+0%
+-25 %
+
+Tiempo
+
+Gráfico 2-14. El Rango de los Estimados Disminuye con el Tiempo
+
+6
+7
+8
+9
+10
+6
+
+7
+
+8
+
+9 10
+
+10
+
+9
+
+8
+
+7
+
+6
+
+10
+9
+8
+7
+6
+
+Gráfico 2-15. Baja Exactitud, Alta Precisión
+
+56
+
+Guía del PMBOK®
+
+Existen diferentes formas de presentar y/o ajustar las estimaciones:
+► Estimación determinista y probabilística. Las estimaciones deterministas, también
+conocidas como estimaciones puntuales, presentan un solo número o cantidad, tal como
+36 meses.
+Las estimaciones probabilísticas incluyen un rango de estimaciones junto con las
+probabilidades asociadas dentro de ese rango. Pueden ser desarrolladas manualmente
+(a) desarrollando un promedio ponderado basado en múltiples resultados probables,
+o (b) ejecutando una simulación para desarrollar un análisis de probabilidad de un
+resultado particular, generalmente en términos de costo o cronograma.
+
+Una estimación probabilística derivada de una simulación informática está asociada con tres
+factores:
+1. Una estimación puntual con el rango, tal como 36 meses +3 meses / -1 mes.
+2. Una declaración de confianza tal como un nivel de confianza del 95 %.
+3. Una distribución probabilística que describe la dispersión de los datos dentro y en torno
+al rango dado.
+En conjunto, estos tres elementos forman una métrica completa que describe una estimación
+probabilística.
+
+► Estimación absoluta y relativa. Las estimaciones absolutas constan de información
+específica y utilizan números reales. Una estimación absoluta del esfuerzo podría ser
+representada como 120 horas de trabajo. Una persona que trabaja a tiempo completo
+podría realizar el trabajo en 15 días de trabajo, asumiendo 8 horas de productividad por
+día de trabajo.
+Si bien las estimaciones absolutas son específicas, las estimaciones relativas se muestran
+en comparación con otras estimaciones. Las estimaciones relativas solo tienen significado
+dentro de un contexto dado.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+57
+
+Una forma de estimación relativa es el póker de planificación (planning poker). Al planificar el
+póker, el equipo de proyecto que realiza el trabajo llega a un consenso sobre el esfuerzo que
+es necesario para entregar valor. El uso de puntos de historia para estimar el trabajo podría
+tener como resultado 64 puntos de historia asignados para ese trabajo. El nuevo trabajo
+se estima utilizando la cantidad de trabajo estimado en comparación con los puntos asignados
+a trabajos anteriores. Por lo tanto, el nuevo esfuerzo de trabajo se compara con el esfuerzo
+de trabajo previamente conocido.
+
+► Estimación basada en flujo. Las estimaciones basadas en flujo se desarrollan
+determinando el tiempo de ciclo y el rendimiento. El tiempo de ciclo es el tiempo total
+transcurrido para que una unidad pase por un proceso. El rendimiento es el número de
+elementos que pueden completar un proceso en una cantidad dada de tiempo. Estas
+dos cifras pueden proporcionar una estimación para completar una cantidad específica
+de trabajo.
+► Ajuste de estimaciones por incertidumbre. Las estimaciones son inherentemente
+inciertas. La incertidumbre, por definición, está asociada con el riesgo. Las fechas
+de entrega clave o las estimaciones presupuestarias pueden ajustarse, o tiempo de
+contingencia o fondos pueden agregarse, en función de los resultados de una simulación
+realizada con el fin de establecer el rango de incertidumbre para estos parámetros.
+
+2.4.2.3 Cronogramas
+Un cronograma es un modelo para ejecutar las actividades del proyecto que incluye
+duraciones, dependencias y demás información de planificación. La planificación del cronograma
+puede utilizar enfoques predictivos o adaptativos.
+Los enfoques predictivos siguen un proceso gradual, como sigue:
+► Paso 1. Descomponer el alcance del proyecto en actividades específicas.
+► Paso 2. Secuenciar las actividades relacionadas.
+► Paso 3. Estimar el esfuerzo, la duración, las personas y los recursos físicos necesarios
+para completar las actividades.
+► Paso 4. Asignar personas y recursos a las actividades en función de la disponibilidad.
+► Paso 5. Ajustar la secuencia, las estimaciones y los recursos hasta que se logre
+un cronograma convenido.
+
+58
+
+Guía del PMBOK®
+
+Si el modelo de programación no cumple con la fecha de finalización deseada inicial, se
+aplican métodos de compresión del cronograma. La intensificación es un método de compresión
+del cronograma que busca acortar la duración con el menor incremento de costo. La intensificación
+puede incluir añadir personas a las actividades, trabajar horas adicionales o pagar para acelerar
+las entregas.
+La ejecución rápida es un método de compresión del cronograma en el que actividades o tareas
+que normalmente se realizan en secuencia se llevan a cabo en paralelo al menos durante una parte
+de su duración. La ejecución rápida a menudo implica la aplicación de adelantos y retrasos a lo largo
+de una ruta en la red. Un adelanto es cuando se acelera el trabajo de una actividad sucesora, tal como
+comenzar una actividad sucesora antes de que la predecesora haya terminado. En el Gráfico 2-16,
+hay un adelanto entre el final de la Tarea 2 y el inicio de la Tarea 4.
+Un retraso es un atraso de una actividad sucesora. Un ejemplo de usar un retraso sería
+cambiar el tipo de relación entre actividades y luego aplicar un retraso. Por ejemplo, en lugar
+de esperar a que una actividad termine antes de que comience la siguiente (una relación de
+final a inicio), cambiar la relación para que el final de la actividad sucesora termine una cantidad
+determinada de tiempo después del final del predecesor (una relación de final a final). La lógica de
+la red mostraría un retraso entre el final de las actividades predecesoras y el final de las actividades
+sucesoras. Se muestra un ejemplo de una relación de final a final con un retraso en el Gráfico 2-16,
+entre la Tarea 8 y la Tarea 7. También se puede aplicar un retraso entre el inicio de una actividad
+y el inicio de otra actividad (una relación de inicio a inicio).
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+59
+
+Mi Proyecto
+1
+
+2 3
+
+4
+
+5
+
+6 7
+
+8
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+Actividad 1
+Actividad 2
+
+FS-1
+
+Actividad 3
+Actividad 4
+Actividad 5
+Actividad 6
+Actividad 7
+FF+1
+Actividad 8
+Fin
+
+Gráfico 2-16. Ejemplos de Ejecución Rápida
+
+Al comprimir el cronograma, es importante determinar la naturaleza de las dependencias
+entre actividades. A algunas actividades no se les puede hacer ejecución rápida debido a la
+naturaleza del trabajo; a otras sí. Los cuatro tipos de dependencias son:
+► Dependencia obligatoria. Relación que es requerida por contrato o inherente a la
+naturaleza del trabajo. Este tipo de dependencia generalmente no se puede modificar.
+► Dependencia discrecional. Relación que se basa en las mejores prácticas o en las
+preferencias del proyecto. Este tipo de dependencia puede ser modificable.
+► Dependencia externa. Relación entre las actividades del proyecto y aquellas que no
+pertenecen al proyecto. Este tipo de dependencia generalmente no se puede modificar.
+► Dependencia interna. Relación entre una o más actividades del proyecto. Este tipo
+de dependencia puede ser modificable.
+
+60
+
+Guía del PMBOK®
+
+La planificación adaptativa de cronograma utiliza planificación incremental. Uno de
+esos enfoques de programación del cronograma se basa en iteraciones y liberaciones (véase
+el Gráfico 2-17). Se desarrolla un plan de liberación de alto nivel que indica las características
+básicas y la funcionalidad que se incluirán en cada liberación. Dentro de cada liberación, habrá
+dos o más iteraciones. Cada iteración añade valor de negocio y/o para los interesados. El valor
+puede incluir características, reducción de riesgos, experimentación u otras formas de entregar
+o proteger el valor. La planificación para el trabajo en futuras liberaciones se mantiene a un alto
+nivel para que el equipo de proyecto no participe en una planificación que podría cambiar en
+base a la retroalimentación de liberaciones anteriores.
+
+La visión del producto
+impulsa la hoja de ruta
+del producto
+La hoja de ruta del
+producto impulsa los
+planes de liberación
+
+Versión 1
+
+Versión 2
+
+Versión 3
+
+Plan de Liberación
+El plan de liberación
+establece las
+iteraciones
+
+Los planes de iteración
+programan el desarrollo
+de características
+Características
+priorizadas entregadas
+por historias de
+usuarios (estimadas en
+puntos de historia)
+Tareas (estimadas en
+horas) creadas para
+entregar las historias de
+usuario
+
+Iteración 0
+
+Iteración 1
+
+Iteración 2
+
+Iteración 3
+
+Iteración n
+
+Plan de Iteraciones
+Característica A
+
+Característica A
+
+Característica B
+
+Característica C
+
+Característica D
+
+(Historia de
+Usuario 1)
+
+(Historia de
+Usuario 2)
+
+(Historia de
+Usuario 3)
+
+(Historia de
+Usuario 4)
+
+(Historia de
+Usuario 5)
+
+Tarea A
+
+5 Horas
+
+Tarea B
+
+8 Horas
+
+Tarea C
+
+4 Horas
+
+Tarea D
+
+12 Horas
+
+Gráfico 2-17. Plan de Liberación e Iteración
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+61
+
+Los enfoques adaptativos a menudo utilizan períodos de tiempo preestablecido. El trabajo
+en cada período de tiempo preestablecido se basa en una lista de trabajo pendiente priorizada.
+El equipo de proyecto determina la cantidad de trabajo que puede hacer en cada período de tiempo
+preestablecido, estima el trabajo y se autogestiona para llevar a cabo el mismo. Al final del período
+de tiempo preestablecido, el equipo de proyecto muestra el trabajo terminado. En ese momento,
+la lista de trabajo pendiente y las estimaciones del trabajo disponible a ser realizado, pueden
+actualizarse o volver a priorizarse para el siguiente período de tiempo preestablecido.
+La determinación del cronograma implica el uso de la información en la sección de estimación
+para determinar la duración general y las estimaciones del esfuerzo. Independientemente del
+enfoque de programación del cronograma utilizado, es necesario abordar la relación entre esfuerzo
+y duración. Algunas actividades están impulsadas por el esfuerzo, lo que significa que la duración
+se puede reducir añadiendo personas. Este enfoque puede funcionar hasta un punto, después del
+cual añadir personas podría realmente extender la duración. La construcción de la estructura de
+un edificio se basa en el esfuerzo. Si se añaden más personas, se puede reducir la duración.
+Algunas actividades son de duración fija, como realizar una prueba o llevar a cabo la capacitación
+de los empleados.
+La naturaleza del trabajo determina si y cuánto se puede reducir la duración mediante la
+adición de personas, antes de que se haga necesario aumentar el tiempo debido a la coordinación,
+comunicación, conflicto y posible retrabajo. No existe una fórmula fija para determinar la reducción
+en la duración debido a la adición de personas.
+
+2.4.2.4 Presupuesto
+El presupuesto del proyecto evoluciona a partir de las estimaciones acordadas para el mismo.
+La información de la Sección 2.4.2.2 sobre Estimación se aplica a los costos del proyecto para
+desarrollar estimaciones de costos. Luego se agregan las estimaciones de costos para desarrollar
+la línea base de costos. La línea base de costos a menudo es distribuida a través del cronograma
+del proyecto para reflejar cuándo se incurrirá en los costos. Esta práctica permite a los directores
+de proyectos equilibrar los fondos aprobados en un período presupuestario específico con el
+trabajo programado. Si hay limitaciones de financiamiento para un período presupuestal, puede
+ser necesario reprogramar el trabajo para cumplir con esas limitaciones.
+El presupuesto del proyecto debería incluir fondos de reserva para contingencias con el fin de
+tener en cuenta la incertidumbre. Las reservas para contingencias se ponen aparte para implementar
+una respuesta a los riesgos o para responder a eventos de riesgo en caso de que ocurran.
+Las reservas de gestión se ponen aparte para actividades inesperadas relacionadas con
+el trabajo dentro del alcance. Dependiendo de las políticas de la organización y la estructura
+organizacional, las reservas de gestión pueden ser administradas por el proyecto, el patrocinador,
+el dueño del producto o la PMO a nivel de programa y portafolio. El Gráfico 2-18 muestra la
+formación del presupuesto.
+
+62
+
+Guía del PMBOK®
+
+Reserva
+para Gestión
+Reserva para
+Contingencias
+
+Línea Base
+de Costos
+
+Presupuesto
+del Proyecto
+
+Monto Total
+
+Estimaciones
+de Costos
+de Trabajo
+
+Componente del Presupuesto del Proyecto
+
+Gráfico 2-18. Formación del Presupuesto
+
+2.4.3 COMPOSICIÓN Y ESTRUCTURA DEL EQUIPO DE PROYECTO
+La planificación para la composición del equipo de proyecto comienza con la identificación
+de los conjuntos de habilidades requeridos para cumplir con el trabajo del proyecto. Esto implica
+evaluar no solo las habilidades, sino también el nivel de las competencias y los años de experiencia
+en proyectos similares.
+Hay diferentes estructuras de costos asociadas con el uso de miembros internos del equipo
+de proyecto en lugar de conseguirlos fuera de la organización. Los beneficios que aportan las
+habilidades externas al proyecto se sopesan contra los costos en los que se incurrirá.
+
+Este tema trata sobre la planificación del equipo de proyecto. En el Dominio de Desempeño del Equipo
+se abordan los temas asociados con el liderazgo del equipo de proyecto.
+2
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+63
+
+Al planificar para el equipo de proyecto, el director del proyecto toma en cuenta la capacidad
+y la necesidad de que el equipo de proyecto trabaje en el mismo lugar. Los equipos de proyecto
+pequeños que pueden trabajar en la misma sala pueden aprovechar la comunicación osmótica y
+resolver problemas a medida que surjan. Algunos equipos de proyecto están físicamente dispersos.
+Los miembros del equipo de proyecto pueden estar en diferentes ciudades, zonas horarias o
+países. En proyectos donde los miembros del equipo de proyecto trabajan virtualmente, se invierte
+más tiempo en conectar a las personas por medio de la tecnología.
+
+2.4.4 COMU NICACIÓN
+La planificación de la comunicación se superpone con la identificación, análisis, priorización
+e involucramiento de los interesados, tal como se describe en el Dominio de Desempeño de los
+Interesados (Sección 2.1). La comunicación es el factor más importante para interactuar de manera
+eficaz con los interesados. La planificación de la comunicación para el proyecto implica considerar
+lo siguiente:
+► ¿Quién necesita la información?
+► ¿Qué información necesita cada interesado?
+► ¿Por qué se debería compartir la información con los interesados?
+► ¿Cuál es la mejor manera de proporcionar información?
+► ¿Cuándo y con qué frecuencia se necesita información?
+► ¿Quién dispone de la información necesaria?
+Puede haber diferentes categorías de información, tales como interna y externa, sensible
+y pública, o general y detallada. El análisis de los interesados, las necesidades de información
+y las categorías de información proporcionan la base para establecer los procesos y planes de
+comunicación para el proyecto.
+
+64
+
+Guía del PMBOK®
+
+2.4.5 RECURSOS FÍSICOS
+Recursos físicos se aplica para cualquier recurso que no sea una persona. Pueden incluir
+materiales, equipos, software, entornos de prueba, licencias, etc. La planificación de los recursos
+físicos implica estimación, como se describe en la Sección 2.4.2.2, así como la cadena de suministro,
+la logística y la gestión. Los proyectos con recursos físicos significativos, como los proyectos de
+ingeniería y construcción, deberán planificar las actividades de adquisición para conseguir los
+recursos. Esto puede ser tan simple como utilizar un acuerdo de pedido básico o tan complicado
+como gestionar, coordinar e integrar varias actividades de adquisición de gran envergadura.
+La planificación de los recursos físicos incluye tener en cuenta el plazo para la entrega,
+movimiento, almacenamiento y disposición de los materiales, así como un medio para rastrear el
+inventario de materiales desde la llegada al sitio hasta la entrega de un producto integrado. Los
+equipos de proyecto cuyos proyectos requieren materiales físicos significativos piensan y planifican
+estratégicamente la programación desde el pedido, a la entrega, hasta su utilización. Esto puede
+incluir la evaluación de los pedidos a granel versus el costo del almacenamiento, la logística global,
+la sostenibilidad y la integración de la gestión de los activos físicos con el resto del proyecto.
+
+2.4.6 ADQUISICIÓN
+Las adquisiciones pueden ocurrir en cualquier momento durante un proyecto. Sin embargo,
+la planificación inicial ayuda a establecer expectativas que aseguran que el proceso de adquisición
+se lleve a cabo sin problemas. Una vez que se conoce el alcance de alto nivel, los equipos de proyecto
+realizan un análisis de hacer o comprar. Esto incluye identificar aquellos entregables y servicios que
+se desarrollarán internamente, y aquellos que se comprarán de fuentes externas. Esta información
+afecta al equipo de proyecto y al cronograma. Los profesionales contratantes necesitan información
+anticipada sobre el tipo de bienes necesarios, cuándo serán necesarios y cualquier especificación
+técnica requerida para los bienes o servicios adquiridos.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+65
+
+2.4.7 CAMBIOS
+Habrá cambios a lo largo del proyecto. Algunos cambios son el resultado de un evento de
+riesgo que ocurre o un cambio en el entorno del proyecto, algunos se basan en desarrollar una
+comprensión más profunda de los requisitos, y otros se deben a solicitudes de los clientes u otras
+razones. Por lo tanto, los equipos de proyecto deben preparar un proceso para adaptar los planes
+a lo largo de todo el proyecto. Esto puede adoptar la forma de un proceso de control de cambios,
+volver a priorizar la lista de trabajo pendiente o volver a dotar al proyecto de una línea base. Los
+proyectos que tienen un elemento contractual pueden necesitar seguir un proceso definido para
+los cambios de contrato.
+
+2.4.8 MÉTRICAS
+Existe un vínculo natural entre la planificación, entrega y medición del trabajo. Ese vínculo
+son las métricas. El establecimiento de métricas incluye establecer los umbrales que indican si
+el desempeño del trabajo es el esperado, si se aleja positiva o negativamente del desempeño
+esperado, o si es inaceptable. Decidir qué medir y con qué frecuencia se informa de manera
+óptima con la frase “sólo medir lo que importa”.
+Las métricas asociadas con el producto son específicas para los entregables que se están
+desarrollando. Las métricas asociadas con el cronograma y el desempeño del presupuesto
+a menudo están impulsadas por los estándares organizacionales y están relacionadas con una
+línea base o una versión aprobada del cronograma o presupuesto contra la que se comparan los
+resultados reales.
+Como parte de la planificación, se establecen las métricas, líneas base y umbrales para el
+desempeño, así como cualquier proceso y procedimiento de prueba y evaluación que se utilizará
+para medir el desempeño según las especificaciones del entregable del proyecto. Las métricas,
+líneas base y pruebas se utilizan como base para evaluar la variación del desempeño real como
+parte del Dominio de Desempeño de la Medición.
+
+66
+
+Guía del PMBOK®
+
+2.4.9 ALINEACIÓN
+Las actividades de planificación y los artefactos deben permanecer integrados a lo largo
+del proyecto. Esto significa que la planificación del desempeño en términos de alcance
+y requisitos de calidad se alinea con los compromisos de entrega, los fondos asignados, el tipo
+y la disponibilidad de recursos, la incertidumbre inherente al proyecto y las necesidades de los
+interesados. Los equipos de proyecto pueden requerir artefactos de planificación adicionales
+dependiendo del tipo de proyecto. Por ejemplo, los planes de logística deberán integrarse con las
+necesidades de material y entrega, los planes de prueba deberán alinearse con las necesidades
+de calidad y entrega, etc.
+El trabajo en un proyecto a menudo ocurre en paralelo con otros proyectos en un programa o
+una liberación. La programación del trabajo de un solo proyecto debe alinearse con las necesidades
+del trabajo sobre los proyectos relacionados y el trabajo de operaciones de la organización.
+Los grandes proyectos pueden combinar los artefactos de planificación en un plan integral
+para la dirección del proyecto. Para proyectos más pequeños, un plan detallado para la dirección
+del proyecto resultará ineficiente. Independientemente de la programación, la frecuencia y el grado
+de planificación, los diversos aspectos del proyecto deben permanecer alineados e integrados.
+
+2.4.10 INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO
+La planificación ocurre a lo largo de todo el proyecto y se integra con cada dominio de
+desempeño. Al comienzo del proyecto, se identifican los resultados esperados y se desarrollan
+planes de alto nivel para lograrlos. Dependiendo del enfoque de desarrollo seleccionado y el ciclo
+de vida, la planificación intensiva se puede realizar por adelantado y luego los planes se pueden
+ajustar para reflejar el entorno real. Otros ciclos de vida fomentan una planificación suficiente en
+varios puntos a lo largo del proyecto con la expectativa de que los planes evolucionen.
+A lo largo del proyecto, la planificación guía el trabajo del proyecto, la entrega de
+resultados y el valor del negocio. Los equipos de proyecto y los interesados establecen medidas
+del progreso y del éxito, y el desempeño se compara con los planes. La incertidumbre y la
+planificación interactúan a medida que los equipos de proyecto planifican cómo abordar la
+incertidumbre y los riesgos. Es posible que sea necesario revisar los planes o desarrollar nuevos
+planes con el fin de tener en cuenta los eventos o las condiciones que surjan. Los miembros del
+equipo de proyecto, el entorno y los detalles del proyecto influyen en los planes para trabajar
+eficazmente con el equipo de proyecto e involucrarse proactivamente con los interesados.
+
+Sección 2 – Dominios de Desempeño del Proyecto
+
+67
+
+2.4.11 VE RIFICA CIÓ N DE RESULTADOS
+La Tabla 2-6 identifica los resultados a la izquierda y las formas de comprobarlos a la derecha.
+
+Tabla 2-6. Verificación de Resultados — Dominio de Desempeño de la Planificación
+
+68
+
+Resultado
+
+Verificar
+
+El proyecto avanza de manera
+organizada, coordinada y deliberada.
+
+Una revisión del desempeño de los resultados del proyecto en comparación con
+las líneas base del proyecto y otras métricas de medición demuestra que el
+proyecto está progresando según lo planeado. Las variaciones de desempeño
+están dentro de los umbrales.
+
+Existe un enfoque holístico para
+entregar los resultados del proyecto.
+
+El cronograma de entrega, el financiamiento, la disponibilidad de recursos,
+las adquisiciones, etc. demuestran que el proyecto está planificado de manera
+holística, sin brechas ni áreas de desalineación.
+
+Se elabora información evolutiva
+para obtener los entregables y los
+resultados para los cuales se
+emprendió el proyecto.
+
+La información inicial sobre entregables y requisitos en comparación con la
+información actual demuestra una elaboración apropiada. La información
+actual en comparación con el caso de negocio indica que el proyecto producirá
+los entregables y los resultados para los cuales se emprendió.
+
+El tiempo dedicado a la planificación
+es apropiado para la situación.
+
+Los planes y documentos del proyecto demuestran que el nivel de planificación
+es apropiado para el proyecto.
+
+La información de planificación es
+suficiente para gestionar las
+expectativas de los interesados.
+
+El plan de gestión de las comunicaciones y la información de los interesados
+indican que las comunicaciones son suficientes para gestionar las expectativas
+de los interesados.
+
+Existe un proceso para la adaptación
+de los planes a lo largo del proyecto
+basado en las necesidades o
+condiciones emergentes y
+cambiantes.
+
+Los proyectos que utilizan una lista de trabajo pendiente muestran la
+adaptación de los planes a lo largo de todo el proyecto. Los proyectos que
+utilizan un proceso de control de cambios tienen registros de cambios y
+documentación de las reuniones del comité de control de cambios que
+demuestran que se está aplicando el proceso de control de cambios.
+
+Guía del PMBOK®
+
+2.5 DOMINIO DE DE SEMPEÑO DEL TR AB AJO DEL PROYECTO
+
+DOMINIO DE DESEMPEÑO DEL TRABAJO DEL PROYECTO
+EI Dominio de Desempeño
+deI Trabajo deI Proyecto
+aborda Ias actividades y
+funciones asociadas con eI
+estabIecimiento de Ios
+procesos deI proyecto, Ia
+gestión de Ios recursos
+físicos y eI fomento de un
+entorno de aprendizaje.
+
+La ejecución efectiva de este dominio de desempeño tiene los
+siguientes resultados deseados:
+Desempeño eficiente y efectivo del proyecto.
+Los procesos del proyecto son apropiados para el
+proyecto y el entorno.
+Comunicación adecuada con los interesados.
+Gestión eficiente de los recursos físicos.
+Gestión eficaz de las adquisiciones.
+Capacidad mejorada del equipo gracias al aprendizaje
+continuo y la mejora de los procesos.
