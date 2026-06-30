@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block title %}🃏 Flip Cards - PMBOK LMS{% endblock %}
+{% block content %}
+<h2 style="margin-bottom:1rem;color:var(--primary)">🃏 Flip Cards de Estudio</h2>
+
+<div class="card" style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center">
+    <div>
+        <label for="fc-chapter" style="font-weight:600">🌸 Capítulo:</label>
+        <select id="fc-chapter" class="search-box" style="width:auto">
+            <option value="">Todos</option>
+            {% for ch in chapters %}
+            <option value="{{ ch.id }}">{{ ch.number }}. {{ ch.title }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <button class="btn btn-primary" onclick="loadCards()">🃏 Empezar</button>
+</div>
+
+<div id="card-area" style="display:none;max-width:600px;margin:2rem auto">
+    <div id="card-progress" style="text-align:center;color:var(--text-muted);margin-bottom:1rem">
+        <span id="card-current">0</span> / <span id="card-total">0</span>
+    </div>
+
+    <div id="flip-card" class="card" style="cursor:pointer;min-height:250px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2.5rem;border:2px solid var(--pink-2);border-radius:20px;transition:all 0.5s;transform-style:preserve-3d" onclick="flipCard()">
+        <div id="card-front">
+            <div style="font-size:2rem;margin-bottom:1rem">💭</div>
+            <p id="card-question" style="font-size:1.2rem;font-weight:600;color:var(--primary-dark)"></p>
+            <p style="margin-top:1rem;color:var(--text-muted);font-size:0.85rem">🌸 Toca para ver la respuesta</p>
+        </div>
+        <div id="card-back" style="display:none">
+            <div style="font-size:2rem;margin-bottom:1rem">💡</div>
+            <p id="card-answer" style="font-size:1.1rem;color:var(--text-muted)"></p>
+            <p style="margin-top:1rem;font-size:0.8rem;color:var(--primary)" id="card-concept"></p>
+        </div>
+    </div>
+
+    <div style="display:flex;gap:1rem;justify-content:center;margin-top:1.5rem">
+        <button class="btn btn-outline" onclick="prevCard()">🌸 Anterior</button>
+        <button class="btn btn-primary" onclick="nextCard()">Siguiente 🌸</button>
+    </div>
+</div>
+
+<script>
+let cards = [];
+let currentCard = 0;
+
+async function loadCards() {
+    const chapterId = document.getElementById('fc-chapter').value;
+    let url = '/api/flipcards?limit=20';
+    if (chapterId) url += `&chapter_id=${chapterId}`;
+    const res = await fetch(url);
+    cards = await res.json();
+    if (cards.length === 0) {
+        alert('🌸 No hay tarjetas disponibles. Genera las QA primero.');
+        return;
+    }
+    currentCard = 0;
+    document.getElementById('card-area').style.display = 'block';
+    showCard();
+}
+
+function showCard() {
+    const c = cards[currentCard];
+    document.getElementById('card-current').textContent = currentCard + 1;
+    document.getElementById('card-total').textContent = cards.length;
+    document.getElementById('card-question').textContent = c.front;
+    document.getElementById('card-answer').textContent = c.back;
+    document.getElementById('card-concept').textContent = '🌸 ' + c.concept + ' · ' + c.difficulty;
+    document.getElementById('card-front').style.display = 'block';
+    document.getElementById('card-back').style.display = 'none';
+    document.getElementById('flip-card').style.background = 'var(--card)';
+}
+
+function flipCard() {
+    const front = document.getElementById('card-front');
+    const back = document.getElementById('card-back');
+    if (front.style.display !== 'none') {
+        front.style.display = 'none';
+        back.style.display = 'block';
+        document.getElementById('flip-card').style.background = 'var(--pink-1)';
+    } else {
+        front.style.display = 'block';
+        back.style.display = 'none';
+        document.getElementById('flip-card').style.background = 'var(--card)';
+    }
+}
+
+function nextCard() {
+    if (currentCard < cards.length - 1) {
+        currentCard++;
+        showCard();
+    }
+}
+
+function prevCard() {
+    if (currentCard > 0) {
+        currentCard--;
+        showCard();
+    }
+}
+</script>
+{% endblock %}

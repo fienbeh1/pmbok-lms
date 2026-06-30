@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}📝 Notas - PMBOK LMS{% endblock %}
+{% block content %}
+<h2 style="margin-bottom:1rem;color:var(--primary)">📝 Mis Notas de Estudio</h2>
+
+<div class="card">
+    <label for="note-chapter" style="font-weight:600">🌸 Capítulo:</label>
+    <select id="note-chapter" class="search-box">
+        <option value="general">General</option>
+        {% for slug, title in CHAPTER_TITLES.items() %}
+        <option value="{{ slug }}">{{ title }}</option>
+        {% endfor %}
+    </select>
+    <textarea id="note-text" rows="4" class="search-box" placeholder="✏️ Escribe tu nota aquí..." style="resize:vertical;min-height:100px"></textarea>
+    <button class="btn btn-primary" onclick="saveNote()">💾 Guardar Nota</button>
+</div>
+
+<div id="notes-list">
+    <p style="color:var(--text-muted);text-align:center">🌸 Selecciona un capítulo para ver tus notas</p>
+</div>
+
+<script>
+async function loadNotes() {
+    const slug = document.getElementById('note-chapter').value;
+    const res = await fetch(`/api/notes/${slug}`);
+    const notes = await res.json();
+    const container = document.getElementById('notes-list');
+    if (notes.length === 0) {
+        container.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:2rem">🌸 No hay notas aún para este capítulo</p>';
+        return;
+    }
+    container.innerHTML = notes.map(n => `
+        <div class="qa-item active">
+            <div style="display:flex;justify-content:space-between">
+                <span class="concept-tag">📝 Nota</span>
+                <span style="color:var(--text-muted);font-size:0.8rem">${new Date(n.created).toLocaleString()}</span>
+            </div>
+            <div class="question" style="white-space:pre-wrap">${n.text}</div>
+        </div>
+    `).join('');
+}
+
+async function saveNote() {
+    const slug = document.getElementById('note-chapter').value;
+    const text = document.getElementById('note-text').value;
+    if (!text.trim()) return alert('🌸 Escribe algo primero');
+    await fetch('/api/notes/save', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({chapter_slug: slug, text: text})
+    });
+    document.getElementById('note-text').value = '';
+    loadNotes();
+}
+
+document.getElementById('note-chapter').addEventListener('change', loadNotes);
+loadNotes();
+</script>
+{% endblock %}
