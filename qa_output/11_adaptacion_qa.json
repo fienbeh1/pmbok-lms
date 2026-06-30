@@ -1,0 +1,243 @@
+[
+  {
+    "concept": "Situational Leadership® II",
+    "question": "¿Cuáles son las dos variables principales que mide el modelo Situational Leadership® II?",
+    "answer": "La competencia y el compromiso"
+  },
+  {
+    "concept": "Modelo OSCAR",
+    "question": "¿Qué cinco factores contribuyentes utiliza el Modelo OSCAR para ayudar a los individuos a adaptar sus estilos de coaching o liderazgo?",
+    "answer": "Resultado, Situación, Opciones/consecuencias y Acciones"
+  },
+  {
+    "concept": "Brecha de Ejecución y Brecha de Evaluación",
+    "question": "¿Qué diferencia describe Donald Norman entre la intención del usuario y lo que el elemento le permite hacer?",
+    "answer": "La brecha de ejecución es el grado en que un elemento corresponde a lo que una persona espera que haga, mientras que la brecha de evaluación es el grado en que un elemento ayuda al usuario a descubrir cómo interpretarlo e interactuar con él eficazmente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Factores de Higiene y Motivación",
+    "question": "¿Qué tipo de factores motivan a las personas según Frederick Herzberg?",
+    "answer": "Los factores de motivación son aquellos que se relacionan con el contenido del trabajo, como el logro, el crecimiento y el avance. Los factores de higiene, por otro lado, incluyen políticas de la empresa, salario y entorno físico.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Motivación Intrínseca y Extrínseca",
+    "question": "¿Qué tipo de motivación propone Daniel Pink?",
+    "answer": "Daniel Pink sugiere que los factores intrínsecos son la motivación principal, aunque también menciona factores extrínsecos como recompensas materiales.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Teoría Y",
+    "question": "¿Cuál es el estilo de gestión correspondiente a la Teoría Y?",
+    "answer": "El estilo de gestión que tiene un toque más personal de coaching, alienta la creatividad y la discusión.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Teoría Z",
+    "question": "¿Qué tipo de motivación asume la Teoría Z?",
+    "answer": "La Teoría Z asume que los individuos están intrínsecamente motivados para hacer un buen trabajo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Gestión del Cambio",
+    "question": "¿Cuál es el objetivo principal de la gestión del cambio en las organizaciones?",
+    "answer": "El objetivo principal de la gestión del cambio en las organizaciones es pasar del estado actual al estado futuro deseado.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Paso 5: Eliminar los obstáculos",
+    "question": "¿Cuáles son algunos ejemplos de obstáculos que pueden surgir durante el cambio en la organización?",
+    "answer": "Obstáculos pueden ser procesos anticuados, estructuras organizacionales o personas que se resisten al cambio. Cada tipo de obstáculo requiere un enfoque diferente para abordarlo."
+  },
+  {
+    "concept": "Paso 6: Crear ganancias a corto plazo",
+    "question": "¿Qué beneficios pueden obtenerse de identificar y crear ganancias rápidas?",
+    "answer": "Identificar ganancias rápidas puede ayudar a impulsar el cambio, aumentar el apoyo interno y proporcionar una base sólida para la implementación del cambio más amplio."
+  },
+  {
+    "concept": "Paso 7: Construir sobre el cambio",
+    "question": "¿Cuáles son los objetivos que se deben establecer después de completarse las ganancias a corto plazo?",
+    "answer": "Después de completarse las ganancias a corto plazo, la organización debe establecer objetivos para la mejora continua. Estos pueden incluir mejorar procesos, aumentar eficiencia o introducir nuevas tecnologías."
+  },
+  {
+    "concept": "Marco de Referencia Cynefin",
+    "question": "¿Cuáles son los cinco contextos problemáticos y de toma de decisiones según el Marco de Referencia Cynefin?",
+    "answer": "Los cinco contextos problemáticos y de toma de decisiones son: 1. Relaciones obvias, 2. Relaciones complicadas, 3. Relaciones complejas, 4. Ambientes caóticos, 5. Relaciones desordenadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Matriz de Stacey",
+    "question": "¿Cuáles son las dos dimensiones que examina la Matriz de Stacey para determinar la complejidad?",
+    "answer": "La Matriz de Stacey examina dos dimensiones: 1. La relación entre el problema y la solución, y 2. El nivel de autoridad requerido para implementar una solución.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Orientación",
+    "question": "¿Qué tipo de reunión o documento suele establecer el propósito y la misión del proyecto en la etapa de Orientación?",
+    "answer": "Una reunión de lanzamiento o un caso de negocio, acta de constitución del proyecto, o lienzo lean startup.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Crear confianza",
+    "question": "¿Qué tipo de información es importante para la etapa de Crear Confianza en el equipo de proyecto?",
+    "answer": "Información sobre quiénes están en el equipo del proyecto y las habilidades y destrezas que cada persona aporta, también puede incluir información sobre los principales interesados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Aclarar la meta",
+    "question": "¿Qué tipo de información es relevante para la etapa de Aclarar la Meta en el equipo de proyecto?",
+    "answer": "Información de alto nivel del proyecto, incluyendo expectativas de los interesados, requisitos, supuestos y criterios de aceptación de los entregables.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Compromiso",
+    "question": "Cuándo es adecuado usar el enfoque de compromiso en un proyecto?",
+    "answer": "El enfoque de compromiso se utiliza cuando todas las partes no quedarán completamente satisfechas, pero hay una forma de encontrar algo que beneficie a todas. Se suele utilizar cuando los involucrados poseen el mismo 'poder'. Por ejemplo, un director de proyecto puede llegar a un acuerdo con un gerente técnico sobre la disponibilidad de un miembro del equipo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estabilización/complacencia",
+    "question": "Cuándo es apropiado usar el enfoque de estabilizar y complacer?",
+    "answer": "El enfoque de estabilizar y complacer se utiliza cuando lograr el objetivo general es más importante que el desacuerdo. También puede ser adecuado cuando hay una diferencia en la autoridad o el poder relativos de los individuos, como cuando hay un conflicto con el patrocinador.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Retirada/evasión",
+    "question": "Cuándo es apropiado usar el enfoque de retirarse o evadir?",
+    "answer": "El enfoque de retirarse o evadir puede ser adecuado cuando un problema desaparece por sí solo, o cuando las discusiones se enardecen y las personas necesitan un período de enfriamiento. También se utiliza en situaciones sin salida, como el cumplimiento de un requisito impuesto por un órgano regulador.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Inclusión de iteraciones en el ciclo de vida del proyecto",
+    "question": "En qué fase o proceso se incluyen las interacciones entre los procesos según la guía PMBOK?",
+    "answer": "La ejecución (Execution) es la fase donde se realizan las interacciones y actualizaciones entre los procesos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Modelo de Prominencia",
+    "question": "¿Quién propuso el modelo de prominencia en la guía PMBOK?",
+    "answer": "El modelo de Prominencia fue propuesto por Ronald K. Mitchell, Bradley R. Agle y Donna J. Wood.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Interacciones entre procesos",
+    "question": "¿Qué tipo de documentos producidos en la fase de planificación pueden convertirse en entradas para la ejecución?",
+    "answer": "Los documentos del proyecto, como el registro de riesgos y el registro de supuestos, producidos en la fase de planificación pueden convertirse en entradas para la fase de ejecución.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de alternativas",
+    "question": "¿Cuál es el propósito principal del análisis de alternativas en la gestión de proyectos?",
+    "answer": "El análisis de alternativas se utiliza para evaluar las opciones identificadas con el fin de seleccionar las mejores opciones o enfoques a utilizar para llevar a cabo el trabajo del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de supuestos y restricciones",
+    "question": "¿Qué tipo de análisis asegura que los supuestos y restricciones sean integrados en los planes y documentos del proyecto?",
+    "answer": "El análisis de supuestos y restricciones asegura que los supuestos y las restricciones sean integrados en los planes y documentos del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estudios Comparativos",
+    "question": "¿Qué tipo de comparación realiza un estudio comparativo?",
+    "answer": "Los estudios comparativos realizan la comparación de prácticas, procesos y productos reales o planificados con los de organizaciones comparables.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Matriz de probabilidad e impacto",
+    "question": "¿Qué se utiliza para vincular la probabilidad de ocurrencia de cada riesgo y su impacto sobre los objetivos del proyecto?",
+    "answer": "Una matriz de probabilidad e impacto",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de regresión",
+    "question": "¿Qué técnica analítica se utiliza para examinar una serie de variables de entrada y sus resultados correspondientes?",
+    "answer": "Un análisis de regresión",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estimación paramétrica",
+    "question": "¿Cuál es el objetivo principal de la estimación paramétrica?",
+    "answer": "Utilizar un algoritmo para calcular el costo o la duración con base en datos históricos y parámetros del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estimación relativa",
+    "question": "¿Cuándo se utiliza la estimación relativa?",
+    "answer": "Se usa para crear estimaciones que se derivan de la realización de una comparación con un conjunto de trabajos similares, teniendo en cuenta el esfuerzo, la complejidad y la incertidumbre.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Reunión de lecciones aprendidas",
+    "question": "¿Cuál es el objetivo principal de una reunión de lecciones aprendidas?",
+    "answer": "Identificar y compartir los conocimientos adquiridos durante un proyecto, fase o iteración con el objetivo de mejorar el desempeño del equipo del proyecto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Reunión de estatus",
+    "question": "¿Cuándo se realiza una reunión de estatus?",
+    "answer": "Se realiza periódicamente para intercambiar y analizar información sobre el progreso actual del proyecto y su desempeño.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Reunión de revisión del riesgo",
+    "question": "¿Qué incluye una reunión de revisión del riesgo?",
+    "answer": "Analizar el estado de los riesgos existentes, identificar nuevos riesgos, determinar si un riesgo está activo y si ha habido cambios en sus atributos (probabilidad, impacto, urgencia), evaluar las respuestas al riesgo y decidir si son efectivas o necesitan actualizarse.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de sensibilidad",
+    "question": "¿Cuáles son los factores que podrían afectar negativamente el análisis de sensibilidad?",
+    "answer": "Factores como cambios en las estimaciones de costos, variaciones en la demanda del producto o servicio, y cambios en la tasa de interés pueden afectar negativamente el análisis de sensibilidad.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Matriz de probabilidad e impacto",
+    "question": "¿Cuáles son los pasos para crear una matriz de probabilidad e impacto?",
+    "answer": "Los pasos para crear una matriz de probabilidad e impacto incluyen identificar posibles riesgos, determinar la magnitud del riesgo y su probabilidad de ocurrir, y luego asignar un valor de impacto a cada riesgo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis FODA",
+    "question": "¿Qué son los elementos que se deben evaluar en el análisis FODA?",
+    "answer": "El análisis FODA (Fortalezas, Debilidades, Oportunidades y Amenazas) requiere la evaluación de fortalezas internas del proyecto, debilidades internas, oportunidades externas y amenazas externas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Registro de cambios",
+    "question": "¿Qué tipo de cambio se registra en un registro de cambios?",
+    "answer": "Un cambio puede ser una modificación de cualquier entregable, componente del plan para la dirección del proyecto o documento del proyecto formalmente controlados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Registro de incidentes",
+    "question": "¿Qué tipo de información se registra en un registro de incidentes?",
+    "answer": "Se utiliza un registro de incidentes para registrar y supervisar la información sobre los incidentes activos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Registro de lecciones aprendidas",
+    "question": "¿Para qué se utiliza el registro de lecciones aprendidas?",
+    "answer": "Se utiliza un registro de lecciones aprendidas para registrar los conocimientos adquiridos durante un proyecto, fase o iteración, de modo que se puedan utilizar para mejorar el desempeño futuro del equipo del proyecto y/o de la organización.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Plan de gestión de los riesgos",
+    "question": "¿Cuál es el objetivo principal del Plan de gestión de los riesgos?",
+    "answer": "El objetivo principal del Plan de gestión de los riesgos es describir cómo las actividades de gestión de riesgos serán estructuradas y llevadas a cabo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Plan de gestión del alcance",
+    "question": "¿Qué hace que un plan de gestión del alcance sea importante en el proyecto?",
+    "answer": "Un plan de gestión del alcance es crucial porque describe cómo el alcance será definido, desarrollado, monitoreado, controlado y validado.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Plan de gestión del cronograma",
+    "question": "¿Qué actividades son establecidas en un plan de gestión del cronograma?",
+    "answer": "Un plan de gestión del cronograma establece los criterios y las actividades para desarrollar, monitorear y controlar el cronograma.",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "concept": "Acta de Constitución del Proyecto / Project Charter",
+    "question": "¿Qué documento autoriza formalmente la existencia de un proyecto y confiere al director de proyecto la autoridad para aplicar los recursos de la organización a las actividades del proyecto?",
+    "answer": "Acta de Constitución del Proyecto / Project Charter",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Adelanto / Lead",
+    "question": "¿Cuánto tiempo se puede anticipar una actividad sucesora con respecto a una actividad predecesora?",
+    "answer": "Adelanto / Lead",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de Sensibilidad / Sensitivity Analysis",
+    "question": "¿Qué tipo de análisis utiliza para determinar qué riesgos individuales del proyecto u otras fuentes de incertidumbre tienen el mayor impacto posible sobre los resultados?",
+    "answer": "Análisis de Sensibilidad/Sensitivity Analysis",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Análisis FODA / SWOT Analysis",
+    "question": "¿Qué tipo de análisis utiliza para evaluar las fortalezas, oportunidades, debilidades y amenazas de una organización?",
+    "answer": "Análisis FODA/SWOT Analysis",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Conformidad / Conformance",
+    "question": "¿Qué término se utiliza para describir el grado en que los resultados cumplen con los requisitos de calidad establecidos?",
+    "answer": "Conformidad"
+  },
+  {
+    "concept": "Comunicación Osmótica / Osmotic Communication",
+    "question": "Cuando las personas reciben información sin comunicación directa, a través de señales no verbales y audición por casualidad, ¿cómo se describe esta forma de comunicación?",
+    "answer": "Comunicación Osmótica"
+  },
+  {
+    "concept": "Costo de la Calidad (COQ) / Cost of Quality (COQ)",
+    "question": "¿Cuáles son los costos que incluye el Costo de la Calidad?",
+    "answer": "Inversión en la prevención de no conformidad con los requisitos, evaluación del producto o servicio en cuanto a su conformidad con los requisitos y incumplimiento de los requisitos",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Controlar / Control",
+    "question": "¿Qué proceso incluye la comparación del desempeño real con el planificado?",
+    "answer": "Comparar el desempeño real con el desempeño planificado, analizar las variaciones, evaluar las tendencias para realizar mejoras en los procesos, evaluar las alternativas posibles y recomendar las acciones correctivas apropiadas según sea necesario",
+    "difficulty": "medium"
+  }
+]

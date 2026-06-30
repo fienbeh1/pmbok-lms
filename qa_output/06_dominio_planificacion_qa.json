@@ -1,0 +1,122 @@
+[
+  {
+    "concept": "Estimación",
+    "question": "¿Qué es la estimación en el contexto de la planificación del proyecto?",
+    "answer": "La estimación es una evaluación cuantitativa del valor o resultado probable de una variable, como costos del proyecto, recursos, esfuerzo o duraciones.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Intensificación",
+    "question": "¿Qué método utiliza para acortar la duración del cronograma sin incrementar el costo?",
+    "answer": "El método utilizado para acortar la duración del cronograma con el menor incremento de costo es la intensificación.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Planificación",
+    "question": "¿Cuál es el propósito principal de la planificación en un proyecto?",
+    "answer": "El propósito de la planificación es desarrollar proactivamente un enfoque para crear los entregables del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La planificación comienza con la comprensión del caso de negocio, los requisitos de los interesados y el alcance del proyecto y del producto.",
+    "question": "¿Cuándo comienza la planificación en un proyecto?",
+    "answer": "La planificación comienza al comprender el caso de negocio, los requisitos de los interesados y el alcance del proyecto y del producto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Los proyectos que utilizan enfoques iterativos o incrementales pueden tener temas de alto nivel o épicas que se descomponen en características.",
+    "question": "¿Cómo se descompone el trabajo en un proyecto con enfoque iterativo?",
+    "answer": "En un proyecto con enfoque iterativo, los temas de alto nivel o épicas se descomponen en características.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estimación absoluta y relativa",
+    "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre la estimación absoluta?",
+    "answer": "Las estimaciones absolutas utilizan números reales para describir el trabajo.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Estimación basada en flujo",
+    "question": "¿Qué dos factores se usan para desarrollar las estimaciones basadas en flujo?",
+    "answer": "El tiempo de ciclo y el rendimiento son los dos factores que se utilizan.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Ajuste de estimaciones por incertidumbre",
+    "question": "¿Qué tipo de ajuste se realiza en función de la simulación realizada con el fin de establecer el rango de incertidumbre?",
+    "answer": "Se realiza un ajuste para agregar tiempo de contingencia o fondos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Dependencias entre actividades",
+    "question": "¿Cuáles son los cuatro tipos de dependencias entre actividades?",
+    "answer": "Las cuatro tipos de dependencias son: Dependencia obligatoria, Dependencia discrecional, Dependencia externa y Dependencia interna.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Planificación adaptativa del cronograma",
+    "question": "¿Cuál es uno de los enfoques de programación del cronograma utilizado en la planificación adaptativa?",
+    "answer": "Uno de esos enfoques de programación del cronograma se basa en iteraciones y liberaciones.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Planificación para el trabajo en futuras liberaciones",
+    "question": "¿Qué tipo de planificación se mantiene a un alto nivel para evitar cambios?",
+    "answer": "La visión del producto impulsa la hoja de ruta del producto, por lo que se mantienen los planes de liberación a un alto nivel.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Las reservas para contingencias son utilizadas para...",
+    "question": "¿Para qué se utiliza el dinero de las reservas para contingencias?",
+    "answer": "Se utiliza para responder a riesgos o eventos inesperados que puedan surgir durante el proyecto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Las reservas de gestión son utilizadas para...",
+    "question": "¿Para qué se utiliza el dinero de las reservas de gestión?",
+    "answer": "Se utiliza para actividades inesperadas relacionadas con el trabajo dentro del alcance.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La planificación del equipo implica considerar...",
+    "question": "¿Qué se debe evaluar al planificar para el equipo de proyecto?",
+    "answer": "Se deben evaluar no solo las habilidades, sino también el nivel de las competencias y los años de experiencia en proyectos similares.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de hacer o comprar",
+    "question": "¿Qué información incluye el análisis de hacer o comprar realizado por los equipos de proyecto?",
+    "answer": "El análisis de hacer o comprar identifica aquellos entregables y servicios que se desarrollarán internamente, y aquellos que se comprarán de fuentes externas.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Preparación para adaptar los planes",
+    "question": "¿Qué tipo de información necesitan los profesionales contratantes sobre los bienes o servicios adquiridos?",
+    "answer": "Los profesionales contratantes necesitan información anticipada sobre el tipo de bienes necesarios, cuándo serán necesarios y cualquier especificación técnica requerida para los bienes o servicios adquiridos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estrategia de gestión de cambios",
+    "question": "¿Qué procesos pueden adoptar los equipos de proyecto para adaptar los planes a lo largo del proyecto?",
+    "answer": "Los equipos de proyecto pueden adoptar un proceso de control de cambios, volver a priorizar la lista de trabajo pendiente o volver a dotar al proyecto de una línea base.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El proyecto avanza de manera organizada, coordinada y deliberada.",
+    "question": "¿Cuál es el resultado que indica que el proyecto está progresando según lo planeado?",
+    "answer": "El proyecto avanza de manera organizada, coordinada y deliberada.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Se elabora información evolutiva para obtener los entregables y los resultados para los cuales se emprendió el proyecto.",
+    "question": "¿Qué tipo de información se debe elaborar para asegurar que el proyecto cumpla con sus objetivos?",
+    "answer": "Se debe elaborar información evolutiva para obtener los entregables y los resultados para los cuales se emprendió el proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Existe un proceso para la adaptación de los planes a lo largo del proyecto basado en las necesidades o condiciones emergentes y cambiantes.",
+    "question": "¿Cuál es una característica clave que indica que el plan del proyecto está bien diseñado?",
+    "answer": "Existe un proceso para la adaptación de los planes a lo largo del proyecto basado en las necesidades o condiciones emergentes y cambiantes.",
+    "difficulty": "medium"
+  }
+]

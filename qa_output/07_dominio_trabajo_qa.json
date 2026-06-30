@@ -1,0 +1,92 @@
+[
+  {
+    "concept": "Documentos de las licitaciones",
+    "question": "¿Qué tipo de documentos se utilizan para solicitar información, cotizaciones o propuestas a posibles vendedores?",
+    "answer": "Los Documentos de Licitación son los tipos de documentos que se utilizan para solicitar información, cotizaciones o propuestas a posibles vendedores.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Conferencia de Oferentes",
+    "question": "¿Qué tipo de reuniones son las Conferencias de Oferentes?",
+    "answer": "Las Conferencias de Oferentes son reuniones con posibles vendedores previas a la preparación de una licitación o propuesta para asegurar que todos los posibles proveedores comprendan la necesidad de adquisición de manera clara y uniforme.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Conocimiento Explícito vs Tácito",
+    "question": "¿Qué tipo de conocimiento es el que puede codificarse utilizando símbolos como palabras, números e imágenes?",
+    "answer": "El Conocimiento Explícito es el tipo de conocimiento que puede codificarse utilizando símbolos como palabras, números e imágenes.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Equilibrar restricciones cambiantes",
+    "question": "Cuando se añade un nuevo requisito de los interesados, ¿qué posibles consecuencias puede tener en el cronograma y el presupuesto?",
+    "answer": "Añadir un nuevo requisito de los interesados a menudo implica la ampliación del cronograma y del presupuesto. Si se añade un requisito que requiere más tiempo o recursos, esto podría hacer que el proyecto tarde más o cueste más dinero.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Equilibrar restricciones cambiantes",
+    "question": "¿Cuáles son las posibles alternativas si se reduce el presupuesto en un proyecto?",
+    "answer": "Si se reduce el presupuesto, puede haber que relajar requisitos de calidad o reducir el alcance del proyecto. Estas decisiones pueden afectar a la satisfacción de los interesados y requerir una revisión cuidadosa para asegurar que no hay daños significativos en el resultado final.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Liderar con el objetivo de maximizar el valor total entregado",
+    "question": "¿Cómo debe un director de proyecto equilibrar la carga de trabajo del equipo de proyecto?",
+    "answer": "Un director de proyecto debe evaluar las proyecciones a corto y largo plazo para asegurar que el equipo está trabajando en lo que es crítico. También debe evaluar si los miembros del equipo están satisfechos con su trabajo, ya que esto puede afectar su motivación y compromiso.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Solicitud de información",
+    "question": "¿Cuándo se utiliza una solicitud de información en el proceso de licitación?",
+    "answer": "Se utiliza para recopilar más información del mercado antes de enviar los documentos de las licitaciones a un conjunto de proveedores seleccionados.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Selección de fuente",
+    "question": "¿Qué criterios se utilizan generalmente para elegir al mejor proveedor?",
+    "answer": "Se utilizan criterios como experiencia, referencias, precio y entrega oportuna.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Contratación",
+    "question": "¿Qué tipo de acuerdo se celebra en el proceso final del contrato?",
+    "answer": "Las partes llegan a un acuerdo y celebran un contrato.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "LARGO DEL PROYECTO",
+    "question": "Cuándo pueden los equipos de proyecto reunirse para determinar qué pueden hacer mejor en el futuro y cómo mejorar el proceso en las próximas iteraciones?",
+    "answer": "Los equipos de proyecto pueden reunirse periódicamente para determinar qué pueden hacer mejor en el futuro (lecciones aprendidas) y cómo pueden mejorar y cuestionar el proceso en las próximas iteraciones (retrospectivas).",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "GESTIÓN DEL CONOCIMIENTO",
+    "question": "¿Qué tipo de conocimiento se comparte con otros equipos de proyecto para mejorar los resultados?",
+    "answer": "Se comparte el conocimiento que resulta en menos defectos, como un enfoque de aseguramiento de calidad.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "INTERACCIONES CON OTROS DOMINIOS DE DESEMPEÑO",
+    "question": "¿Cómo interactúa el Dominio del Trabajo del Proyecto con otros dominios de desempeño en un proyecto?",
+    "answer": "El Dominio del Trabajo del Proyecto interactúa y habilita otros dominios de desempeño en el proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los proyectos contribuyen a los objetivos de negocio y al avance de la estrategia.",
+    "question": "¿Cómo contribuye un proyecto a los objetivos de negocio?",
+    "answer": "Un proyecto contribuye a los objetivos de negocio al lograr resultados que apoyen o avanzen hacia esos objetivos. Por ejemplo, si el objetivo es mejorar la eficiencia operativa, un proyecto podría implementar nuevas tecnologías para alcanzar esa mejora.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los proyectos materializan los resultados para los que fueron iniciados.",
+    "question": "¿Qué significa que un proyecto materialice los resultados iniciales?",
+    "answer": "Materializar los resultados iniciales implica que el proyecto cumple con las expectativas y objetivos establecidos desde el inicio. Esto puede implicar la entrega de productos, servicios o soluciones que cumplen con las necesidades identificadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los beneficios del proyecto se obtienen en el plazo en que se planificaron.",
+    "question": "¿Qué sucede si los beneficios no se logran en el tiempo planeado?",
+    "answer": "Si los beneficios no se logran en el tiempo planeado, esto podría indicar problemas de gestión o ejecución. Podría ser necesario revisar y ajustar las estrategias para asegurar que los beneficios se alcancen dentro del plazo original.",
+    "difficulty": "hard"
+  }
+]

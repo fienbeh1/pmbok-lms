@@ -1,0 +1,146 @@
+[
+  {
+    "concept": "Métrica",
+    "question": "¿Qué es una métrica en el contexto de la medición del desempeño?",
+    "answer": "Una métrica es una descripción de un atributo del proyecto o producto y cómo se puede medir.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Línea Base",
+    "question": "¿Qué representa una línea base en el dominio de desempeño de la medición?",
+    "answer": "Una línea base es una versión aprobada de un producto de trabajo que se utiliza como base de comparación con los resultados reales.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Tablero",
+    "question": "¿Qué elementos componen un tablero en el dominio de desempeño de la medición?",
+    "answer": "Un tablero es un conjunto de diagramas y gráficos que muestran el avance o el rendimiento en relación con mediciones importantes del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los indicadores rezagados son más fáciles de medir que los indicadores adelantados",
+    "question": "¿Qué tipo de indicadores son más fáciles de medir, los indicadores rezagados o los indicadores adelantados?",
+    "answer": "Los indicadores rezagados son más fáciles de medir que los indicadores adelantados.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "La relevancia de las métricas efectivas",
+    "question": "¿Cuál no es una característica de las métricas efectivas?",
+    "answer": "Las medidas deben estar vinculadas al caso de negocio, las líneas base o los requisitos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los KPI y su uso en el proyecto",
+    "question": "¿Qué tipo de métricas son útiles para un equipo de proyecto?",
+    "answer": "Las métricas deben ser específicas, significativas, alcanzables, relevantes y oportunas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Tamaño de la cola",
+    "question": "¿Qué medida realiza un seguimiento del número de elementos en una cola?",
+    "answer": "El tamaño de la cola.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Eficiencia de procesos",
+    "question": "¿Cuál es el propósito principal de calcular la eficiencia de procesos en sistemas lean?",
+    "answer": "Para optimizar el flujo de trabajo y determinar si las tareas están agregando valor.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Variación del cronograma (SV)",
+    "question": "¿Qué indica una variación del cronograma positiva en la ruta crítica?",
+    "answer": "Indica que el trabajo está retrasado en la ruta crítica.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Relación costo-beneficio",
+    "question": "¿Cuándo se considera que un proyecto debe ser tomado en cuenta si la relación costo-beneficio es mayor a 1?",
+    "answer": "Si los costos son menores que los beneficios, el resultado será menor que 1. En este caso, el proyecto no debería ser tomado en consideración.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Retorno de la Inversión (ROI)",
+    "question": "¿Cuándo se considera un proyecto si el ROI es mayor a 1?",
+    "answer": "Si el retorno de la inversión es mayor que 1, se debería considerar el proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Valor Actual Neto (NPV)",
+    "question": "¿Cuándo se utiliza el NPV para decidir si emprender un proyecto?",
+    "answer": "El NPV se desarrolla cuando se decide emprender un proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estimación a la Conclusión (EAC)",
+    "question": "¿Qué es el EAC y cómo se calcula según la guía del PMBOK?",
+    "answer": "El EAC es una medida de gestión del valor ganado que pronostica el costo total previsto para completar todo el trabajo. Según la guía del PMBOK, si el desempeño pasado es un indicativo del desempeño futuro, se calcula dividiendo el presupuesto hasta la conclusión por el índice de desempeño del costo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estimación hasta la Conclusión (ETC)",
+    "question": "¿Cómo se calcula la ETC si el desempeño pasado es un indicativo del desempeño futuro?",
+    "answer": "Si el desempeño pasado es un indicativo del desempeño futuro, la ETC se calcula dividiendo el presupuesto hasta la conclusión menos el valor ganado por el índice de desempeño del costo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Variance at Completion (VAC)",
+    "question": "¿Qué es VAC y cómo se calcula según la guía del PMBOK?",
+    "answer": "VAC es una medida de gestión del valor ganado que pronostica el monto del déficit o superávit presupuestal. Se expresa como la diferencia entre el presupuesto hasta la conclusión (BAC) y la estimación hasta la conclusión (EAC).",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Radiadores de Información",
+    "question": "¿Cuáles son los tres tipos de radiadores de información mencionados en el texto?",
+    "answer": "Los tres tipos de radiadores de información mencionados en el texto son: grandes gráficos visibles (BVC), Gráfico de Trabajo pendiente (Burndown), y Gráfico combinado de trabajo pendiente o realizado.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Radiadores de Información",
+    "question": "¿Qué características deben tener los radiadores de información según el texto?",
+    "answer": "Los radiadores de información deben ser fáciles de actualizar y deberían actualizarse con frecuencia. Además, son de 'baja tecnología y alto contacto', lo que significa que se procesan manualmente en lugar de generarse electrónicamente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Radiadores de Información",
+    "question": "¿Qué tipo de información muestran los radiadores de información?",
+    "answer": "Los radiadores de información muestran la cantidad de trabajo aún no completado, la cantidad de trabajo que se ha completado y cuánto resta.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Efecto Hawthorne",
+    "question": "¿Cómo puede el acto mismo de medir algo influir en el comportamiento del equipo?",
+    "answer": "El acto mismo de medir algo puede alentar a un equipo de proyecto a centrarse en crear un gran volumen de entregables en lugar de centrarse en entregables que proporcionarían una mayor satisfacción al cliente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Métrica de vanidad",
+    "question": "¿Qué tipo de métrica no proporciona información útil para la toma de decisiones?",
+    "answer": "Una métrica de vanidad es una medida que muestra datos, pero que no proporciona información útil para la toma de decisiones.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Desmoralización",
+    "question": "¿Qué puede ocurrir si se establecen medidas y objetivos inalcanzables?",
+    "answer": "La moral del equipo de proyecto puede disminuir si se establecen medidas y objetivos que no son alcanzables, ya que continuamente no cumplen con los objetivos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Plan de excepciones",
+    "question": "¿Qué deben hacer los planes de excepciones en caso de que se cruce un umbral o se pronostique ese cruce?",
+    "answer": "Convocar una reunión de interesados para discutir el asunto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Medición y visualización de datos",
+    "question": "¿Qué información debe ser medida e informada según la guía del PMBOK?",
+    "answer": "La información que permite al equipo de proyecto aprender, facilita una decisión, mejora algún aspecto del desempeño del producto o proyecto, ayuda a evitar un problema y previene el deterioro del desempeño.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Interacciones con otros dominios de desempeño",
+    "question": "¿Cómo interactúa el Dominio de Desempeño de la Medición con los Dominios de Desempeño de la Planificación, del Trabajo del Proyecto y de la Entrega?",
+    "answer": "El Dominio de Desempeño de la Medición forma la base para comparar las entregas con el plan. También puede apoyar las actividades que forman parte del Dominio de Desempeño de la Planificación presentando información actualizada.",
+    "difficulty": "medium"
+  }
+]

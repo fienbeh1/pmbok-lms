@@ -1,0 +1,302 @@
+[
+  {
+    "concept": "Estructura de desglose del producto",
+    "question": "¿Qué tipo de diagrama representa los componentes y los entregables de un producto?",
+    "answer": "Estructura de desglose del producto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Línea Base para la Medición del Desempeño",
+    "question": "¿Qué tipo de líneas base se utilizan para comparar, gestionar y controlar la ejecución del proyecto?",
+    "answer": "Líneas base del alcance, cronograma y costos integradas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Presupuesto",
+    "question": "¿Qué es una estimación aprobada para el proyecto o cualquier componente de la estructura de desglose del trabajo?",
+    "answer": "Un presupuesto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Matriz de trazabilidad de requisitos",
+    "question": "¿Qué tipo de matriz vincula los requisitos del producto desde su origen hasta los entregables que los satisfacen?",
+    "answer": "La matriz de trazabilidad de requisitos",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Diagrama de rendimiento",
+    "question": "¿Qué tipo de diagrama muestra los entregables aceptados a lo largo del tiempo?",
+    "answer": "Un diagrama de rendimiento",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Mapa del flujo de valor",
+    "question": "¿Cuál es el método empresarial utilizado para documentar, analizar y mejorar el flujo de información o materiales necesarios con el fin de producir un producto o servicio?",
+    "answer": "El mapa del flujo de valor",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Contrato por tiempo y materiales (TyM)",
+    "question": "¿Cuál es el principal elemento que caracteriza al contrato de tipo TyM?",
+    "answer": "Un contrato de tipo TyM establece una tarifa fija pero no un enunciado preciso del trabajo.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Contrato de entrega indefinida cantidad indefinida (IDIQ)",
+    "question": "¿Qué tipo de contratos se utilizan para arquitectura, ingeniería o tecnología de la información?",
+    "answer": "Los contratos de tipo IDIQ se utilizan para compromisos de arquitectura, ingeniería o tecnología de la información.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Otros acuerdos",
+    "question": "¿Qué tipos de acuerdos son mencionados en el texto?",
+    "answer": "Los acuerdos mencionados incluyen memorando de entendimiento (MOU), memorando de acuerdo (MOA), acuerdo de nivel de servicios (SLA) y acuerdo básico de pedidos (BOA).",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Planificación",
+    "question": "¿Qué artefacto se utiliza para representar la estructura de desglose del producto?",
+    "answer": "Estructura de desglose del producto",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Medición",
+    "question": "¿Cuál es el objetivo principal del Plan de gestión del cronograma en términos de medición?",
+    "answer": "Determinar la cantidad de tiempo requerida para completar cada tarea o actividad dentro del proyecto",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Entrega",
+    "question": "¿Cuál es el artefacto que se utiliza para representar los hitos clave en un proyecto?",
+    "answer": "Presupuesto",
+    "difficulty": "hard"
+  },
+  {
+    "concept": "Modelos de gestión del proyecto",
+    "question": "¿Cuál es el nombre del modelo de gestión del proyecto que se utiliza para la planificación y control de proyectos en el PMBOK Guide?",
+    "answer": "El modelo de gestión del proyecto más utilizado en el PMBOK Guide es el modelo de ciclo de vida del proyecto (Project Life Cycle Model). Este modelo describe los diferentes estados o fases que un proyecto puede pasar a lo largo de su duración, desde la identificación hasta la terminación.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Artefactos de gestión del proyecto",
+    "question": "¿Cuál es el artefacto principal utilizado para documentar los requisitos en un proyecto?",
+    "answer": "El artefacto principal utilizado para documentar los requisitos en un proyecto es la especificación de requisitos (Requirements Specification). Este documento detalla las necesidades y expectativas del cliente o partes interesadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Métodos de gestión del proyecto",
+    "question": "¿Cuál es el método de gestión del proyecto que se utiliza para la planificación y control de proyectos en un entorno de riesgo elevado?",
+    "answer": "El método de gestión del proyecto que se utiliza para la planificación y control de proyectos en un entorno de riesgo elevado es el Método de Gestión de Proyectos con Riesgos (Risk Management Method). Este método implica la identificación, análisis y manejo de los riesgos potenciales.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "PMBOK 7: Modelos, Métodos y Artefactos",
+    "question": "¿Cuántas personas en el texto tienen la certificación PMP (Project Management Professional)?",
+    "answer": "Hay 63 personas con la certificación PMP en el texto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "PMBOK 7: Modelos, Métodos y Artefactos",
+    "question": "¿Cuál es el nombre de la persona que tiene los certificados PMI-ACP (Project Management Professional) y PfMP (Professional in Project and Program Management)?",
+    "answer": "Carl M. Gilbert",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "PMBOK 7: Modelos, Métodos y Artefactos",
+    "question": "¿Cuál es el nombre de la persona que tiene los certificados PMI-ACP (Project Management Professional) y PfMP (Professional in Project and Program Management)?",
+    "answer": "Theofanis Giotis",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "PMBOK中的项目管理专业人士",
+    "question": "在提供的名单中，有多少人持有PMP认证？",
+    "answer": "20",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "PMBOK中的项目管理专业人士",
+    "question": "请列出一位拥有PMI-ACP认证的人员。",
+    "answer": "Faraz Masood",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "PMBOK中的项目管理专业人士",
+    "question": "在提供的名单中，有多少人持有PRINCE2认证？",
+    "answer": "1",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Certificados y roles de autoridad",
+    "question": "¿Cuántos certificados PMP se mencionan en la lista proporcionada?",
+    "answer": "Hay 24 referencias a PMP, lo que indica que hay al menos 24 certificados PMP.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Roles de autoridad",
+    "question": "¿Cuántos roles de autoridad (PMI-RMP) se mencionan en la lista proporcionada?",
+    "answer": "Se menciona el rol PMI-RMP 10 veces, lo que indica al menos 10 certificados PMI-RMP.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Roles de autoridad (ITIL)",
+    "question": "¿Cuántos roles ITIL se mencionan en la lista proporcionada?",
+    "answer": "Se menciona el rol ITIL 2 veces, lo que indica al menos 2 certificados ITIL.",
+    "difficulty": "hard"
+  },
+  {
+    "concept": "El rol del patrocinador",
+    "question": "¿Cuáles son las funciones principales que desempeña un patrocinador en el proyecto?",
+    "answer": "Un patrocinador del proyecto aporta liderazgo de decisión sobre la autoridad y posición de poder del director del proyecto y del equipo de proyecto. También aboga por el proyecto y el equipo, facilita las decisiones a nivel ejecutivo, asegura los recursos, mantiene los proyectos alineados con los objetivos del negocio, elimina obstáculos, aborda problemas fuera de la autoridad del equipo de proyecto, ofrece oportunidades dentro del proyecto a la alta dirección y monitorea los resultados después del cierre para garantizar que se materialicen los beneficios de negocio previstos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El rol del patrocinador",
+    "question": "¿Cuáles son las áreas en las que el patrocinador puede proporcionar apoyo clave al equipo?",
+    "answer": "El patrocinador puede proporcionar apoyo clave al equipo en las siguientes áreas: Visión, establecer y/o comunicar la visión y dirección del proyecto; Valor del negocio, trabajar con el equipo de manera consistente para mantener la alineación con los objetivos estratégicos y de negocio.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El rol del patrocinador",
+    "question": "¿Qué función desempeña un patrocinador en relación con el equipo de proyecto?",
+    "answer": "Un patrocinador del proyecto aporta liderazgo de decisión sobre la autoridad y posición de poder del director del proyecto y del equipo de proyecto. También aboga por el proyecto y el equipo, facilita las decisiones a nivel ejecutivo, asegura los recursos, mantiene los proyectos alineados con los objetivos del negocio, elimina obstáculos, aborda problemas fuera de la autoridad del equipo de proyecto, ofrece oportunidades dentro del proyecto a la alta dirección y monitorea los resultados después del cierre para garantizar que se materialicen los beneficios de negocio previstos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Influenciar",
+    "question": "¿Qué es lo primero que el equipo de proyecto debe hacer para adaptar la estructura y cultura del proyecto a las nuevas metas?",
+    "answer": "Trabajar junto al equipo para adaptar la estructura, cultura, procesos, roles y trabajar para optimizar los resultados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Comunicar",
+    "question": "¿Qué tipo de intercambio continuo de información es importante para el éxito del proyecto según el texto?",
+    "answer": "Proporcionar un intercambio continuo de información desde la organización al equipo y desde el equipo a la organización.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Verificar",
+    "question": "¿Qué habilidad es importante para estimular el pensamiento crítico en el equipo según el texto?",
+    "answer": "Involucrarse con el equipo para estimular el pensamiento crítico haciendo preguntas, cuestionando supuestos y fomentando la innovación.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estructura empresarial (EPMO) y Centro de Excelencia Ágil (ACoE/VDO)",
+    "question": "¿Cuál es el rol principal del Centro de Excelencia Ágil en una organización?",
+    "answer": "El Centro de Excelencia Ágil cumple un rol habilitador, más que una función de gestión o supervisión. Su objetivo principal es realizar coaching a equipos, desarrollo de aptitudes y capacidades ágiles en toda la organización y mentoría a los patrocinadores y dueños de los productos para que sean más efectivos en esos roles.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estructura empresarial (EPMO) y Centro de Excelencia Ágil (ACoE/VDO)",
+    "question": "¿Qué tipo de organizaciones pueden adoptar una estructura de Centro de Excelencia Ágil u Oficina de Entrega de Valor?",
+    "answer": "Las organizaciones con estructuras más planas, iniciativas centradas en el cliente y enfoques de entrega más adaptables pueden adoptar una estructura de Centro de Excelencia Ágil o Oficina de Entrega de Valor.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estructura empresarial (EPMO) y Centro de Excelencia Ágil (ACoE/VDO)",
+    "question": "¿Qué tipo de estructuración puede tener una EPMO?",
+    "answer": "Una EPMO puede tener PMO y VDO subordinadas que residen dentro de departamentos específicos. Esta estratificación apoya la alineación estratégica a nivel de EPMO y las capacidades de dirección de proyectos específicas dentro de la PMO o VDO departamental.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Centrándose en iniciativas críticas",
+    "question": "¿Cómo están cambiando las PMO para enfocarse en iniciativas estratégicas?",
+    "answer": "Las PMO están cambiando de ser guardianes del proyecto a orquestar conversaciones entre líderes sénior, jefes de unidades de negocio, dueños de producto y equipos de proyecto. Estas conversaciones proporcionan información precisa sobre el desempeño, las amenazas y las oportunidades del proyecto que pueden afectar iniciativas estratégicas importantes.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Instituyendo procesos inteligentes y sencillos",
+    "question": "¿Cómo están las PMO dimensionando correctamente sus capacidades?",
+    "answer": "Las PMO están dimensionando correctamente las capacidades de su organización al establecer la disciplina de procesos y prácticas justas para permitir una comunicación, colaboración y mejora continua efectivas sin agregar pasos innecesarios o anular procesos que están produciendo valor.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Fomentando el talento y la capacidad",
+    "question": "¿Qué rol proactivo desempeñan las PMO en el reclutamiento de miembros del equipo?",
+    "answer": "Las PMO están desempeñando un rol más proactivo en el reclutamiento y retención de miembros talentosos del equipo. Están desarrollando y nutriendo habilidades técnicas, estratégicas, de gestión y de liderazgo dentro de los equipos de proyecto y en toda la organización.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Centralidad en el Cliente",
+    "question": "¿Cómo ha cambiado la centralidad en el cliente en las organizaciones?",
+    "answer": "La centralidad en el cliente invierte el modelo tradicional de las organizaciones que desarrollan productos y los envían a los clientes. Hoy, las organizaciones están cambiando para comprender mejor, servir y mantener la lealtad del cliente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Valor Mejorado por Medio de Software",
+    "question": "¿Cuáles son los cambios en el software desde hace treinta años?",
+    "answer": "Hace treinta años, el software funcionaba predominantemente en computadores dedicados. Hace diez años, se incorporó al control de vehículos y hogares debido a mejoradas comunicaciones inalámbricas y por satélite. Ahora, incluso los dispositivos más simples ejecutan software que añade nuevas capacidades.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "...",
+    "question": "¿Cuál es el beneficio de mantener un equipo estables en lugar de disolverlo después del desarrollo inicial?",
+    "answer": "Mantener un equipo estables reduce la necesidad de transferencia de conocimiento y minimiza los retrasos causados por una pérdida de conocimiento tácito. Además, permite que el equipo desarrolle una mejor conciencia del mercado y mejores percepciones de clientes.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "...",
+    "question": "¿Cómo contribuyen las revisiones periódicas al control de progreso en un proyecto?",
+    "answer": "Las revisiones periódicas permiten a la empresa controlar más cerca el progreso general, dirección y toma de decisiones. Además, facilitan que los patrocinadores dirijan el financiamiento hacia iniciativas que proporcionan valor esperado.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "...",
+    "question": "¿Cuál es la ventaja competitiva de tener un equipo estables en lugar de equipos de corto plazo?",
+    "answer": "Los equipos de larga duración desarrollan una mejor conciencia del mercado, mejores percepciones de los clientes y empatía con ellos. Esto ayuda a mantener el enfoque en el cliente y la lealtad del mismo, creando así una ventaja competitiva.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Cambio",
+    "question": "¿Cómo interactúan los equipos de proyecto, programa y producto con respecto a los cambios?",
+    "answer": "Los equipos de proyecto esperan cambios e implementan procesos para abordarlos según sea necesario. Los equipos de programa exploran los cambios y se adaptan para optimizar la entrega de beneficios. Los equipos de producto también exploran los cambios pero con el objetivo de optimizar la entrega de beneficios.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Éxito",
+    "question": "¿Cómo se mide el éxito en un proyecto, programa y producto?",
+    "answer": "El éxito es medido según la calidad del producto y del proyecto, los plazos, el presupuesto, la satisfacción del cliente y el logro de los resultados previstos. Para los programas, se mide según la obtención de los beneficios previstos y la eficiencia y efectividad en la entrega de esos beneficios. Para los productos, se mide según la capacidad de entregar los beneficios previstos y la viabilidad continua para un financiamiento continuo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Financiamiento",
+    "question": "¿Cómo se actualiza el financiamiento en función del desempeño real?",
+    "answer": "El financiamiento se actualiza en función del desempeño real y las solicitudes de cambio. Además, se actualiza con resultados que muestran cómo se están entregando los beneficios.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El desplazamiento de la visión del estándar para la dirección de proyectos",
+    "question": "¿Por qué se recomendó un cambio desde un enfoque basado en procesos a uno basado en principios?",
+    "answer": "Se recomendó este cambio debido a que cada vez más organizaciones y profesionales están adoptando modelos ágiles e híbridos junto con nuevas formas de trabajo, lo que sugiere una visión más holística e inclusiva de la dirección de proyectos aplicable a los enfoques predictivos, híbridos y adaptativos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Investigación realizada para desarrollar principios en El estándar para la Dirección de Proyectos",
+    "question": "¿Qué tipos de investigaciones se realizaron para identificar los principios en El estándar para la Dirección de Proyectos?",
+    "answer": "Se realizaron investigaciones y revisiones significativas que incluyeron: estándares internacionales de la dirección de proyectos o documentos similares a estándares, junto con principios “lean”, ágil y de pensamiento de diseño; revisión de documentos técnicos publicados, artículos sobre liderazgo de pensamiento y documentos relacionados para recolectar principios subyacentes.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Adaptación de enfoques predictivos, híbridos y adaptativos",
+    "question": "¿Qué tipo de enfoque estándar del PMI necesita reflejar la visión más holística e inclusiva para los diferentes tipos de proyectos?",
+    "answer": "El estándar del PMI necesita reflejar una visión más holística e inclusiva que abarca prácticas predictivas, híbridas y adaptativas en respuesta a las necesidades cambiantes de la industria, organización y proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Talleres a nivel mundial",
+    "question": "¿Cuáles fueron los lugares donde se celebraron los talleres a nivel mundial para validar el estándar?",
+    "answer": "Los talleres se celebraron en Dublín, Irlanda; Bangalore, India; Brasil; Ottawa, Canadá (reunión del PMI Global Executive Council); Filadelfia, Pensilvania, Estados Unidos y Beijing, China.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Desarrollo iterativo",
+    "question": "¿Cómo trabajó el Equipo de Desarrollo para desarrollar el contenido inicial del estándar?",
+    "answer": "El Equipo de Desarrollo trabajó en parejas y equipos pequeños para desarrollar el contenido inicial para cada una de las tres secciones que componen El Estándar para la Dirección de Proyectos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Revisión del borrador",
+    "question": "¿Quiénes revisaron y comentaron los borradores de cada sección del estándar?",
+    "answer": "El Equipo de Desarrollo y el Equipo de Revisión 1 revisaron y comentaron los borradores de cada sección del estándar.",
+    "difficulty": "medium"
+  }
+]

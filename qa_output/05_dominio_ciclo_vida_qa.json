@@ -1,0 +1,122 @@
+[
+  {
+    "concept": "Entrega única",
+    "question": "¿Cuál es un ejemplo de proyecto que tendría una sola entrega al final del proyecto?",
+    "answer": "Un proyecto de reingeniería de procesos puede no tener entregas hasta cerca del final del proyecto cuando se implementa el nuevo proceso.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Entregas múltiples",
+    "question": "¿Cuál es un ejemplo de proyecto que tendría múltiples entregas?",
+    "answer": "Un proyecto para desarrollar un nuevo fármaco puede tener múltiples entregas, tales como presentaciones preclínicas, resultados de ensayos de Fase 1, resultados de ensayos de Fase 2, resultados de ensayos de Fase 3, registro y luego lanzamiento.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Entregas múltiples (secuenciales vs no secuenciales)",
+    "question": "¿Cuál es una característica importante a tener en cuenta al planificar entregas para un proyecto de desarrollo de software?",
+    "answer": "Algunos proyectos tienen entregas que se realizan por separado en lugar de secuencialmente, por ejemplo, un proyecto para actualizar la seguridad de edificios.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "...",
+    "question": "¿Cuándo se utilizaría un enfoque predictivo para el desarrollo de un nuevo centro comunitario?",
+    "answer": "Un proyecto para desarrollar un nuevo centro comunitario podría utilizar un enfoque predictivo cuando existe una inversión significativa involucrada y un alto nivel de riesgo que puede requerir revisiones frecuentes, mecanismos de control de cambios y replanteo entre las fases de desarrollo. Además, los alcance, cronograma, costo, necesidades de recursos y riesgos pueden quedar bien definidos en las fases tempranas del ciclo de vida del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "...",
+    "question": "¿Cuándo se utilizaría un enfoque híbrido para el desarrollo de un nuevo centro comunitario?",
+    "answer": "Un enfoque híbrido sería útil cuando hay incertidumbre o riesgo en torno a los requisitos. Por ejemplo, si no está claro qué características específicas debe incluir el nuevo centro comunitario, se podría adoptar un enfoque híbrido que permita una modularización de las funcionalidades y la participación de diferentes equipos de proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Iteraciones y retroalimentación",
+    "question": "¿Cuánto tiempo de duración tienen las iteraciones en un enfoque ágil?",
+    "answer": "Las iteraciones en un enfoque ágil pueden tener una duración de 1 a 2 semanas.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Priorización y planificación",
+    "question": "¿Cómo determina el equipo de proyecto qué alcance puede lograr?",
+    "answer": "El equipo de proyecto determinará el alcance que puede lograr en función de una lista de trabajo pendiente priorizada.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Desarrollo iterativo",
+    "question": "¿Qué hace el equipo web al finalizar cada iteración?",
+    "answer": "Al finalizar cada iteración, el equipo web elabora y desplega nuevos contenidos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Métodos adaptativos y participación de interesados",
+    "question": "¿Cómo influye el dueño del producto en la priorización del trabajo durante proyectos que utilizan métodos adaptativos?",
+    "answer": "Durante los proyectos que utilizan métodos adaptativos, el dueño del producto desempeña un rol sustancial en establecer y priorizar el trabajo. Su participación es crucial para asegurar que se realicen las tareas importantes de manera efectiva.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Beneficios de los métodos adaptativos",
+    "question": "¿Por qué un producto mínimo viable puede ser liberado con menos inversión en proyectos financiados de forma insegura?",
+    "answer": "Un producto mínimo viable puede ser liberado con menos inversión porque permite realizar pruebas de mercado o capturar el mercado con una inversión mínima. Esto permite realizar más inversiones en función de la respuesta del mercado al producto o servicio.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Impacto de la estructura organizacional",
+    "question": "¿Cómo afecta la estructura organizacional a los proyectos que utilizan métodos adaptativos?",
+    "answer": "Los proyectos que utilizan métodos adaptativos tienden a tener una estructura plana y pueden operar con equipos de proyecto auto-organizados. Por otro lado, las estructuras organizacionales con muchos niveles, una estructura rígida de presentación de informes y una burocracia sustancial son más propensas a utilizar enfoques predictivos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Ciclo de Vida con Enfoque de Desarrollo Incremental",
+    "question": "¿Cuántas iteraciones se muestran en el Gráfico 2-10 para un ciclo de vida con un enfoque de desarrollo incremental?",
+    "answer": "Se muestran tres iteraciones: Plan, Diseño y Construcción.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Ciclo de Vida con Enfoque de Desarrollo Adaptativo",
+    "question": "¿Cuál es el objetivo principal del enfoque de desarrollo adaptativo?",
+    "answer": "El objetivo principal es optimizar el flujo de entregas en función de la capacidad de recursos, materiales y otras entradas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Ciclo de Vida con Enfoque de Desarrollo Adaptativo",
+    "question": "¿Cuál es una característica del ciclo de vida utilizando un enfoque de desarrollo adaptativo?",
+    "answer": "Al final de cada iteración, el cliente revisa un entregable funcional y proporcionan retroalimentación los interesados clave.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Despliegue",
+    "question": "Cuándo se llevará a cabo el despliegue final del proyecto?",
+    "answer": "La apertura del centro comunitario.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Cierre",
+    "question": "¿Qué actividades se realizan cuando se complete todo el proyecto?",
+    "answer": "Se recopilará la información de las diversas revisiones de fase y se llevará a cabo una evaluación general del desempeño del proyecto en comparación con las líneas base.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Despliegue",
+    "question": "¿Qué tipo de actualizaciones formarán parte de las operaciones después de que el centro comunitario esté abierto?",
+    "answer": "Actualizaciones continuas del sitio web y los servicios para adultos mayores.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El enfoque de desarrollo para los entregables (predictivo, híbrido, o adaptativo) refleja las variables del producto y resulta apropiado dado el proyecto y las variables organizacionales.",
+    "question": "¿Cuáles son los tres tipos de enfoques de desarrollo que se mencionan?",
+    "answer": "Los tres tipos de enfoques de desarrollo mencionados son predictivo, híbrido y adaptativo.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Las fases del ciclo de vida del proyecto facilitan la cadencia de entrega y el enfoque de desarrollo necesarios para producir los entregables del proyecto.",
+    "question": "¿Cuáles son las fases del ciclo de vida del proyecto?",
+    "answer": "Las fases del ciclo de vida del proyecto incluyen lanzamiento, ejecución, transición y cierre. Cada fase tiene criterios de salida apropiados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Un enfoque predictivo generalmente implica más énfasis en la planificación inicial, métricas y control.",
+    "question": "¿Cuáles son las características principales del enfoque predictivo?",
+    "answer": "El enfoque predictivo implica una mayor énfasis en la planificación inicial, métricas y control para asegurar que los entregables se cumplan según lo planeado.",
+    "difficulty": "medium"
+  }
+]

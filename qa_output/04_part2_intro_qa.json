@@ -1,0 +1,128 @@
+[
+  {
+    "concept": "Director del Proyecto",
+    "question": "¿Quién es nombrado por la organización ejecutante para liderar al equipo de proyecto?",
+    "answer": "El Director del Proyecto",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Equipo de Dirección de Proyecto",
+    "question": "¿Qué miembros participan directamente en las actividades de dirección del proyecto?",
+    "answer": "Los miembros del equipo de Dirección de Proyecto",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Liderazgo y Dirección del Equipo de Proyecto",
+    "question": "¿Qué incluye la aplicación de conocimiento, aptitudes, herramientas y técnicas para las actividades de dirección?",
+    "answer": "La aplicación de conocimientos, aptitudes, herramientas y técnicas para actividades como planificar, coordinar, medir y supervisar el trabajo",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Roles y responsabilidades",
+    "question": "¿Qué debe hacer un equipo de proyecto para asegurarse de que todos entiendan sus roles y responsabilidades?",
+    "answer": "El equipo de proyecto debe identificar lagunas en el conocimiento y las habilidades, y puede abordar estas lagunas a través de capacitación, mentoría o coaching.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Orientación",
+    "question": "¿Cómo se proporciona orientación al equipo de proyecto?",
+    "answer": "La orientación puede ser dirigida al conjunto del equipo para que todos apunten en la dirección correcta, o los miembros pueden proporcionar orientación sobre una tarea o un entregable particular.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Crecimiento",
+    "question": "¿Cómo ayuda el director del proyecto a su equipo de proyecto para que crezca?",
+    "answer": "El director del proyecto puede ayudar al equipo de proyecto identificando áreas en las que mejorar y estableciendo metas para la mejora, así como proporcionando orientación sobre habilidades específicas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Discurso positivo",
+    "question": "¿Cuál es el objetivo principal del diálogo en lugar de un debate?",
+    "answer": "El objetivo es llegar a una solución que todas las partes puedan aceptar.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Apoyo",
+    "question": "¿Qué beneficios tiene apoyar a los miembros del equipo de proyecto en la resolución de problemas y eliminación de impedimentos?",
+    "answer": "Crea una cultura de apoyo y conduce a un entorno de confianza y colaboración.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Coraje",
+    "question": "¿Cuáles son algunas situaciones que pueden hacer que sea difícil demostrar coraje en el trabajo?",
+    "answer": "Recomendar un nuevo enfoque para un problema o una forma de trabajar, estar en desacuerdo con alguien con mayor autoridad.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Una visión desarrollada en colaboración entre los miembros del equipo de proyecto y los interesados clave",
+    "question": "¿Qué preguntas deben responder una buena visión para garantizar que todos estén alineados con el objetivo final?",
+    "answer": "Una buena visión debe responder a las siguientes preguntas: ¿Cuál es el propósito del proyecto? ¿Qué define el trabajo exitoso del proyecto? ¿Cómo mejorará el futuro cuando se entreguen los resultados del proyecto? ¿Cómo sabrá el equipo de proyecto que se está alejando de la visión?",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La importancia de una visión clara y concisa",
+    "question": "¿Cuáles son las características de una buena visión según el texto?",
+    "answer": "Una buena visión debe ser clara, concisa y procesable. Esto se logra al resumir el proyecto con una frase poderosa o una breve descripción, a la vez que describe el mejor resultado alcanzable y crea una imagen común en las mentes de los miembros del equipo de proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El papel del pensamiento crítico en el desempeño del proyecto",
+    "question": "¿Qué actividades realiza el pensamiento crítico para apoyar al equipo de proyecto?",
+    "answer": "El pensamiento crítico ayuda al equipo de proyecto a realizar varias actividades, incluyendo investigar y recopilar información imparcial y equilibrada, reconocer, analizar y resolver problemas, identificar sesgos, supuestos no declarados y valores, discernir el uso del lenguaje y la influencia en uno mismo y en los demás, analizar datos y evidencia para evaluar argumentos y perspectivas, observar eventos para identificar patrones y relaciones, y aplicar el razonamiento.",
+    "difficulty": "hard"
+  },
+  {
+    "concept": "Autoconciencia",
+    "question": "¿Qué es la autoconciencia y cómo se relaciona con el desempeño del equipo?",
+    "answer": "La autoconciencia es la capacidad de realizar una autoevaluación realista, comprendiendo nuestras propias emociones, metas, motivaciones, fortalezas y debilidades. Es crucial para mantener la calma y la productividad durante las circunstancias difíciles del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Autogestión",
+    "question": "¿Cómo puede mejorar el autogestión en su equipo de proyecto?",
+    "answer": "El autogestión implica la capacidad para controlar y redirigir los sentimientos e impulsos disruptivos, pensando antes de actuar y suspendiendo juicios rápidos. Esto puede ser mejorado a través de técnicas como la meditación o el ejercicio.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Conciencia social",
+    "question": "¿Cómo se relaciona la conciencia social con los equipos de proyecto?",
+    "answer": "La conciencia social tiene que ver con la empatía, la comprensión y la consideración de los sentimientos de otras personas. Esto incluye la capacidad de leer señales no verbales y lenguaje corporal, lo cual es crucial para establecer mejores vínculos en el equipo de proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Métodos de votación",
+    "question": "¿Cuáles son tres enfoques comunes utilizados para la votación en el proceso de toma de decisiones?",
+    "answer": "Los métodos comunes utilizados para la votación incluyen la votación romana, la estimación de Delphi y la votación de puño de cinco. Cada uno tiene un patrón divergente/convergente con el objetivo de capturar opiniones individuales mientras se toma una decisión en tiempo real.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Proceso para decisiones fuera del alcance del equipo",
+    "question": "¿Cómo maneja un equipo de proyecto las decisiones que exceden su autoridad?",
+    "answer": "Cuando una decisión excede la autoridad del equipo de proyecto, el equipo puede investigar alternativas, considerar los impactos de cada opción y luego escalarlo a alguien con la autoridad adecuada para tomar la decisión final.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Manejo de conflictos",
+    "question": "¿Cuáles son tres estrategias recomendadas para abordar el conflicto en un proyecto?",
+    "answer": "Las estrategias recomendadas incluyen mantener las comunicaciones abiertas y respetuosas, centrarse en los problemas, no en las personas, enfocarse en el presente y el futuro, y buscar alternativas en conjunto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Incluir tiempo para conocer a los miembros remotos del equipo de proyecto",
+    "question": "¿Cuál es el beneficio principal de incluir tiempo para conocer a los miembros remotos del equipo de proyecto?",
+    "answer": "El beneficio principal de incluir tiempo para conocer a los miembros remotos del equipo de proyecto es que permite establecer relaciones y entender mejor las necesidades y expectativas de cada miembro, lo cual puede mejorar la colaboración y el rendimiento del equipo.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Reuniones cara a cara para establecer relaciones",
+    "question": "¿Por qué es importante tener al menos una reunión cara a cara para establecer relaciones en un proyecto?",
+    "answer": "Tener al menos una reunión cara a cara es importante porque permite que los miembros del equipo de proyecto se conozcan personalmente, lo cual puede mejorar la confianza y el entendimiento mutuo, facilitando así una mejor colaboración y comunicación.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Verificación de Resultados — Dominio de Desempeño del Equipo",
+    "question": "¿Qué signifca que todos los miembros del equipo de proyecto sean dueños de los entregables?",
+    "answer": "Ser dueños de los entregables significa que cada miembro del equipo de proyecto entiende y asume responsabilidad por su participación en la creación de los entregables, contribuyendo así a asegurar que estos cumplan con las expectativas establecidas.",
+    "difficulty": "medium"
+  }
+]

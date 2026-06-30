@@ -1,0 +1,206 @@
+[
+  {
+    "concept": "Incertidumbre",
+    "question": "¿Qué se define como falta de comprensión y conciencia de los problemas, eventos, caminos a seguir o soluciones a buscar?",
+    "answer": "La incertidumbre es definida como la falta de comprensión y conciencia de los problemas, eventos, caminos a seguir o soluciones a buscar.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Complejidad",
+    "question": "¿Qué característica del programa o proyecto hace que sea difícil de gestionar debido al comportamiento humano y del sistema?",
+    "answer": "La complejidad es una característica del programa o proyecto que hace que sea difícil de gestionar debido al comportamiento humano, el comportamiento del sistema y la ambigüedad.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Factores económicos",
+    "question": "¿Qué factores económicos contribuyen a la incertidumbre en un proyecto?",
+    "answer": "Los factores económicos que contribuyen a la incertidumbre en un proyecto incluyen la volatilidad de los precios, la disponibilidad de recursos, la capacidad para tomar fondos prestados y la inflación/deflación.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Elaboración progresiva",
+    "question": "¿Cuál es el proceso iterativo de incrementar el nivel de detalle en un plan para la dirección del proyecto?",
+    "answer": "El elaboración progresiva implica incrementar el nivel de detalle de un plan para la dirección del proyecto a medida que se cuenta con mayor cantidad de información y con estimaciones más precisas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Experimentos",
+    "question": "¿Cómo pueden ayudar los experimentos bien diseñados a identificar las relaciones de causa y efecto?",
+    "answer": "Los experimentos bien diseñados pueden ayudar a identificar las relaciones de causa y efecto o, al menos, reducir la cantidad de ambigüedad.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Prototipos",
+    "question": "¿Cómo pueden los prototipos ayudar en entornos complejos?",
+    "answer": "Los prototipos pueden ayudar a diferenciar las relaciones entre diferentes variables, lo que es útil en entornos complejos donde hay muchas influencias interconectadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Identificación proactiva de riesgos",
+    "question": "¿Qué deben hacer los miembros del equipo de proyecto para navegar eficazmente por la incertidumbre?",
+    "answer": "Los miembros del equipo de proyecto deben identificar proactivamente los riesgos a lo largo del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Umbrales de Riesgo",
+    "question": "¿Qué expresan los umbrales de riesgo?",
+    "answer": "Los umbrales de riesgo expresan la variación aceptable en torno a un objetivo que refleja el apetito al riesgo de la organización y de los interesados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Respuestas al Riesgo General",
+    "question": "¿Cuáles son las respuestas al riesgo general del proyecto?",
+    "answer": "Las respuestas al riesgo general del proyecto son las mismas que para las amenazas y oportunidades individuales, aunque se aplican al proyecto en general.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Oportunidades",
+    "question": "¿Cuáles son las cinco estrategias alternativas para hacer frente a las oportunidades?",
+    "answer": "Las cinco estrategias alternativas para hacer frente a las oportunidades son: Explotar, Escalar, Compartir, Mejorar y Aceptar.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Respuesta al Riesgo",
+    "question": "¿Cuáles son los pasos que deben seguirse para revisar la planificación de la respuesta al riesgo?",
+    "answer": "La revisión debe evaluar el riesgo residual y verificar si el riesgo residual es compatible con el apetito al riesgo de la organización.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Oportunidades",
+    "question": "¿Cuál es una oportunidad que podría presentarse en un proyecto de construcción?",
+    "answer": "Un subcontratista basado en tiempo y materiales que finaliza el trabajo temprano, lo que resulta en menores costos y ahorros en el cronograma.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "La elección del ciclo de vida y el enfoque de desarrollo influye en la forma de abordar la incertidumbre.",
+    "question": "¿Cómo afecta la elección del ciclo de vida y el enfoque de desarrollo a cómo se aborda la incertidumbre?",
+    "answer": "La elección del ciclo de vida (predictivo o adaptativo) y el enfoque de desarrollo (agilidad, waterfall, etc.) influye en la forma de abordar la incertidumbre. Por ejemplo, en un proyecto predictivo con un alcance relativamente estable, las reservas pueden utilizarse para responder a los riesgos. En cambio, en un proyecto adaptativo donde los requisitos evolucionan y hay ambigüedad sobre cómo interactuarán los sistemas o cómo reaccionarán los interesados, el equipo de proyecto puede ajustar los planes para reflejar la evolución de la comprensión o utilizar las reservas para compensar los impactos de los riesgos materializados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La elección del ciclo de vida y el enfoque de desarrollo influye en la forma de abordar la incertidumbre.",
+    "question": "¿Cómo se utiliza la información sobre la incertidumbre proporcionada por los miembros del equipo de proyecto y otros interesados?",
+    "answer": "La información sobre la incertidumbre proporcionada por los miembros del equipo de proyecto y otros interesados puede ser utilizada para identificar las diversas formas de incertidumbre, como el entorno técnico, social, político, económico, entre otros. También pueden sugerir soluciones o estrategias para manejar la incertidumbre.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La elección del ciclo de vida y el enfoque de desarrollo influye en la forma de abordar la incertidumbre.",
+    "question": "¿Cómo se relaciona la planificación con la reducción de la incertidumbre?",
+    "answer": "Las actividades para reducir la incertidumbre y los riesgos pueden incorporarse en los planes de trabajo del proyecto. Estas acciones se llevan a cabo dentro del Dominio de Desempeño de la Entrega.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La adaptación se lleva a cabo para ajustarse mejor a la organización, el entorno operativo y las necesidades del proyecto.",
+    "question": "¿Por qué es importante adaptar una metodología de gestión de proyectos al contexto específico de un proyecto?",
+    "answer": "Es importante adaptar una metodología de gestión de proyectos al contexto específico de un proyecto porque permite que la metodología sea más efectiva y relevante para el tamaño, la complejidad, la duración y el entorno operativo particular del proyecto. Esto asegura que los elementos de la metodología sean útiles y relevantes en cada situación específica.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los proyectos operan en entornos complejos que necesitan equilibrar demandas potencialmente competitivas.",
+    "question": "¿Cuáles son algunas de las demandas potencialmente competitivas que un proyecto debe equilibrar?",
+    "answer": "Un proyecto debe equilibrar varias demandas potencialmente competitivas, incluyendo entregar lo más rápido posible, minimizar los costos del proyecto, optimizar el valor entregado, crear productos y resultados de alta calidad, permitir el cumplimiento de los estándares regulatorios, satisfacer las diversas expectativas de los interesados y adaptarse al cambio.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Eliminados",
+    "question": "Cuando un equipo de proyecto elimina una tarea, ¿qué beneficio puede esperar obtener?",
+    "answer": "Obtener ahorro en costos o esfuerzo al eliminar la tarea que ya no es necesaria o no tiene valor añadido.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Combinados",
+    "question": "¿Cómo puede un equipo de proyecto combinar métodos para mejorar su eficiencia?",
+    "answer": "Combina métodos de indagación apreciativa con reuniones de lecciones aprendidas para fomentar una mejor colaboración.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Alineados",
+    "question": "¿Cuál es el objetivo principal al alinear diferentes disciplinas en un equipo de proyecto?",
+    "answer": "Crear una definición, comprensión y aplicación coherentes entre las distintas disciplinas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El filtro de idoneidad combina su evaluación con otros datos y actividades de toma de decisiones para generar un diagnóstico visual.",
+    "question": "¿Qué instrumento informativo utiliza el filtro de idoneidad para evaluar los criterios basados en la cultura, el equipo del proyecto y factores del proyecto?",
+    "answer": "El filtro de idoneidad",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Los equipos de proyecto deben justificar su uso de un enfoque adaptado para demostrar que no amenazan los objetivos estratégicos o de gestión más amplios de la organización.",
+    "question": "¿Por qué es importante que los equipos del proyecto justifiquen el uso de un enfoque adaptado?",
+    "answer": "Para demostrar que las decisiones sobre adaptación no amenazan los objetivos estratégicos o de gestión más amplios de la organización",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El proceso de adaptación a la organización implica añadir, eliminar y reconfigurar elementos del enfoque para hacerlo más adecuado para la organización individual.",
+    "question": "¿Qué procesos realiza el equipo de proyecto para adaptar su enfoque al contexto de la organización?",
+    "answer": "Añadir, eliminar y reconfigurar elementos del enfoque",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Periodo de tiempo",
+    "question": "¿Cuál es el periodo de tiempo del proyecto si se espera que dure varios años?",
+    "answer": "El periodo de tiempo del proyecto es prolongado como en varios años."
+  },
+  {
+    "concept": "Estabilidad de los requisitos",
+    "question": "¿Qué pasa con las posibilidades de cambios en los requisitos básicos si el equipo del proyecto está trabajando en un producto que requiere cambios frecuentes?",
+    "answer": "Hay altas probabilidades de que se produzcan cambios en los requisitos básicos."
+  },
+  {
+    "concept": "Tecnología",
+    "question": "¿Es la tecnología para este nuevo medicamento estable y bien establecida o está en rápida evolución y en riesgo de obsolescencia?",
+    "answer": "La tecnología para este nuevo medicamento está en rápida evolución y en riesgo de obsolescencia."
+  },
+  {
+    "concept": "Entorno de colaboración entre interesados y proveedores",
+    "question": "¿Existe un entorno de colaboración efectivo entre los interesados y los proveedores en el proyecto?",
+    "answer": "Es importante que haya un entorno de colaboración efectivo para asegurar que todos estén al tanto de las actualizaciones del proyecto y puedan trabajar juntos eficazmente. Esto puede incluir la utilización de herramientas de comunicación adecuadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Diversidad cultural en el equipo del proyecto",
+    "question": "¿Cómo se manejará la diversidad cultural dentro del equipo del proyecto?",
+    "answer": "Es crucial considerar la diversidad cultural al formar equipos de proyectos. Esto puede implicar proporcionar capacitación o recursos para facilitar la comunicación y comprensión entre miembros del equipo provenientes de diferentes culturas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Ubicación física del equipo del proyecto",
+    "question": "¿Cuál es el impacto de una ubicación física distinta en la eficiencia del trabajo del equipo del proyecto?",
+    "answer": "La ubicación física puede afectar la eficiencia del trabajo. Por ejemplo, si el equipo está distribuido en múltiples zonas horarias, esto podría complicar las reuniones y los tiempos de comunicación.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El apetito al riesgo y la tolerancia al riesgo",
+    "question": "¿Cómo identifica y aborda una organización las amenazas y oportunidades dentro de su enfoque de desarrollo?",
+    "answer": "La organización identifica y aborda mejor las amenazas y oportunidades mediante un proceso que involucre la identificación temprana de posibles riesgos, análisis de impacto, evaluación de probabilidad y consecuencia, y luego tomar decisiones sobre cómo manejar esos riesgos. Esto puede incluir mitigar el riesgo, aceptarlo o pasar por alto si es considerado inaceptable.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El impacto del tamaño del proyecto en la gestión de los riesgos",
+    "question": "¿Cuál es el enfoque más adecuado para un proyecto pequeño y simple respecto a la gestión de los riesgos?",
+    "answer": "Para proyectos pequeños y simples, una gestión de riesgos reducida puede ser suficiente. Sin embargo, si el proyecto tiene altos niveles de innovación o involucra importantes innovaciones de productos, podría requerir un enfoque más detallado para manejar los riesgos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La importancia estratégica del proyecto",
+    "question": "¿Cómo afecta el nivel de riesgo a un proyecto si su objetivo es producir oportunidades innovadoras o abordar bloqueos significativos en la organización?",
+    "answer": "Si un proyecto tiene como objetivo producir oportunidades innovadoras o abordar bloqueos significativos del desempeño de la organización, este puede aumentar el nivel de riesgo. En estos casos, una gestión de riesgos más detallada podría ser necesaria para manejar adecuadamente esos riesgos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El proceso de adaptación involucra cuatro pasos: Seleccionar el enfoque inicial, Adaptar para la organización, Adaptar para el proyecto y Implementar la Mejora Continua",
+    "question": "¿Cuántos pasos tiene el proceso de adaptación?",
+    "answer": "El proceso de adaptación tiene cuatro pasos."
+  },
+  {
+    "concept": "La gobernanza de la organización ayuda a garantizar que las interfaces externas entre los equipos de proyecto encajen correctamente y proporciona orientación en forma de consideraciones sobre adaptación",
+    "question": "¿Qué hace la gobernanza de la organización?",
+    "answer": "La gobernanza de la organización ayuda a garantizar que las interfaces externas entre los equipos de proyecto encajen correctamente y proporciona orientación en forma de consideraciones sobre adaptación."
+  },
+  {
+    "concept": "Los equipos de proyecto seleccionan métodos específicos para captar y compartir la información aplicable, mejorar el rendimiento del equipo del proyecto en tiempo real e involucrar a los interesados",
+    "question": "¿Qué hacen los equipos de proyecto al seleccionar métodos?",
+    "answer": "Los equipos de proyecto seleccionan métodos específicos para captar y compartir la información aplicable, mejorar el rendimiento del equipo del proyecto en tiempo real e involucrar a los interesados."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "concept": "Requisito",
+    "question": "¿Qué es un requisito en el contexto del PMBOK?",
+    "answer": "Un requisito es una condición o capacidad que debe estar presente en un producto, servicio o resultado para satisfacer una necesidad de negocio.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Definición de Terminado (DoD)",
+    "question": "¿Qué incluye la Definición de Terminado (DoD) para un entregable?",
+    "answer": "La Definición de Terminado (DoD) es una lista de verificación que incluye todos los criterios requeridos para que un entregable sea considerado listo para ser usado por el cliente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Costo de la Calidad (COQ)",
+    "question": "¿Qué comprende el Costo de la Calidad?",
+    "answer": "El Costo de la Calidad incluye todos los costos incurridos durante la vida del producto por inversión en la prevención de no conformidad con los requisitos, evaluación del producto o servicio en cuanto a su conformidad con los requisitos, e incumplimiento de los requisitos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El criterio de claridad en los requisitos",
+    "question": "¿Cuál es el criterio que indica que solo existe una manera de interpretar un requisito?",
+    "answer": "El criterio de 'Claro' en los requisitos del PMBOK 7, que se refiere a que solo existe una manera de interpretar el requisito.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "La consistencia de los requisitos",
+    "question": "¿Qué criterio asegura que no haya requisitos contradictorios?",
+    "answer": "El criterio 'Consistente' en los requisitos del PMBOK 7, que se refiere a que no hay requisitos contradictorios.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La gestión de los requisitos",
+    "question": "¿Quién generalmente es responsable de gestionar los requisitos en un proyecto?",
+    "answer": "En muchos proyectos, existe una persona responsable de la gestión de los requisitos, que puede tener títulos como analista de negocios, dueño del producto, ingeniero de valor, entre otros.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Deriva de lo terminado (done drift)",
+    "question": "¿Qué se denomina a veces cuando el objetivo de 'terminado' del proyecto está en constante movimiento debido a cambios en los requisitos o tecnologías?",
+    "answer": "Deriva de lo terminado",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Objetivos Móviles de Finalización",
+    "question": "¿Qué ocurre cuando un proyecto opera en entornos inciertos y rápidamente cambiantes?",
+    "answer": "Los objetivos 'suficientemente buenos para ser liberados' pueden estar sujeto a cambios.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Deriva de lo terminado (done drift)",
+    "question": "¿Qué describe el término cuando un proyecto se retrasa y los requisitos o características del producto cambian?",
+    "answer": "Se denomina a veces 'deriva de lo terminado'.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Mantenimiento de los defectos y fallas",
+    "question": "¿Qué tipo de costos se asocian con la evaluación para determinar el grado de conformidad con los requisitos de calidad?",
+    "answer": "Los costos de evaluación están asociados con las actividades de medición y monitoreo relacionadas con la calidad, como verificar el material entrante, la configuración del proceso y los productos contra las especificaciones acordadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Costos de falla interna",
+    "question": "¿Qué tipo de costos se incurren cuando los resultados del trabajo no alcanzan los estándares de calidad de diseño?",
+    "answer": "Los costos de falla interna incluyen desperdicio, desechos y retrabajo o rectificación. Ejemplos son el desempeño de un trabajo innecesario, productos defectuosos que no pueden ser reparados, utilizados o vendidos, y la corrección de material defectuoso o errores.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El potencial de resultados subóptimos en cada proyecto",
+    "question": "¿Cuáles son algunos factores que pueden llevar a resultados subóptimos en un proyecto?",
+    "answer": "Factores que pueden llevar a resultados subóptimos incluyen oportunidades de mercado pasadas, competidores llegando primero al mercado con su oferta, y fracasos experimentales como la creación de medicamentos o compuestos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La naturaleza del trabajo para crear las entregas",
+    "question": "¿Cómo puede influir en el manejo de la incertidumbre que afecta al proyecto?",
+    "answer": "La naturaleza del trabajo para crear las entregas puede influir en cómo el equipo de proyecto navega a través de la incertidumbre, ya sea manejando procesos, administrando recursos físicos o gestionando adquisiciones.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La interacción entre los dominios de desempeño",
+    "question": "¿Cómo se relaciona el Dominio de Desempeño de la Entrega con otros dominios de desempeño?",
+    "answer": "El Dominio de Desempeño de la Entrega está relacionado con otros dominios de desempeño, como el Dominio de Desempeño de la Planificación y el Dominio de Desempeño del Trabajo del Proyecto. Estos dominios trabajan juntos para asegurar una entrega efectiva.",
+    "difficulty": "medium"
+  }
+]

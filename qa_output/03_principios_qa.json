@@ -1,0 +1,389 @@
+[
+  {
+    "concept": "Integridad, cuidado y confiabilidad",
+    "question": "¿Qué aspectos de la administración incluyen integridad, cuidado y confiabilidad?",
+    "answer": "La administración abarca responsabilidades tanto internas como externas a la organización. Internamente, esto implica operaciones alineadas con la organización, compromiso e involucramiento respetuoso con los miembros del equipo del proyecto, supervisión diligente de las finanzas y materiales utilizados dentro de un proyecto. Externamente, se refiere a la sostenibilidad ambiental, relación con interesados externos, impacto en el mercado y comunidad social, así como el avance en el estado de práctica.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Responsabilidades internas y externas",
+    "question": "¿Cuáles son las responsabilidades de la administración tanto internamente como externamente?",
+    "answer": "Internamente, la administración incluye operaciones alineadas con la organización, compromiso e involucramiento respetuoso con los miembros del equipo del proyecto, supervisión diligente de las finanzas y materiales utilizados dentro de un proyecto. Externamente, se refiere a la sostenibilidad ambiental, relación con interesados externos, impacto en el mercado y comunidad social, así como el avance en el estado de práctica.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La alineación con las pautas establecidas",
+    "question": "¿Cuáles son los pasos que los administradores deben seguir para manejar preguntas contradictorias entre las pautas y sus acciones?",
+    "answer": "Los administradores deben buscar asesoramiento y dirección apropiada cuando enfrentan preguntas contradictorias. Esto puede incluir consultar a otros miembros del equipo, solicitar retroalimentación de interesados clave o incluso buscar la opinión de expertos externos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La importancia de considerar los impactos y consecuencias",
+    "question": "¿Cómo deben los equipos de proyecto tomar en cuenta los efectos secundarios potenciales de sus proyectos?",
+    "answer": "Los equipos de proyecto deben realizar un análisis exhaustivo de los posibles efectos secundarios y consecuencias de su trabajo. Esto incluye considerar no solo los beneficios inmediatos, sino también cualquier impacto negativo que pueda surgir en el futuro.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La importancia del liderazgo transparente",
+    "question": "¿Cuáles son las características clave de un líder efectivo para los equipos de proyecto?",
+    "answer": "Un líder efectivo debe ser transparente y confiable. Esto significa que el líder debe comunicar claramente sus expectativas, decisiones y motivaciones a su equipo. Además, el líder debe mantener una actitud honesta y comprometida con la misión del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Claridad sobre los roles y responsabilidades",
+    "question": "¿Cuáles son las tres partes clave que definen la autoridad en un proyecto?",
+    "answer": "Autoridad, rendición de cuentas y responsabilidad. La autoridad se refiere a tener el derecho de tomar decisiones relevantes, establecer o mejorar procedimientos, aplicar recursos al proyecto, gastar fondos u otorgar aprobaciones.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Responsabilidad en un equipo de proyecto",
+    "question": "¿Qué diferencia hay entre la rendición de cuentas y la responsabilidad en el contexto de un equipo de proyecto?",
+    "answer": "La rendición de cuentas es una condición donde alguien está responsable por un resultado, mientras que la responsabilidad implica estar obligado a hacer o cumplir algo. La rendición de cuentas no se comparte entre diferentes miembros del equipo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Diversidad en el equipo de proyecto",
+    "question": "¿Cómo puede la diversidad en un equipo de proyecto beneficiar los resultados?",
+    "answer": "La diversidad en un equipo de proyecto puede enriquecer el entorno del proyecto reuniendo diferentes perspectivas. Esto puede fomentar una gestión eficaz de los conflictos y ayudar a aprovechar las diferencias de manera productiva.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El involucramiento de los interesados",
+    "question": "¿Por qué es importante involucrar a los interesados en un proyecto?",
+    "answer": "Involucrar a los interesados ayuda a entender sus intereses, necesidades y opiniones, lo que facilita la resolución de problemas y aumenta la probabilidad de éxito del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La comunicación efectiva",
+    "question": "¿Cuáles son las partes clave de una comunicación efectiva en el involucramiento de los interesados?",
+    "answer": "Las partes clave de una comunicación efectiva incluyen determinar cómo, cuándo y con qué frecuencia los interesados quieren estar involucrados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Habilidades interpersonales",
+    "question": "¿Qué habilidades y actitudes son importantes para el éxito del involucramiento de los interesados?",
+    "answer": "Las habilidades y actitudes importantes incluyen tomar iniciativa, integridad, honestidad, colaboración, respeto, empatía y confianza.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Necesidad del negocio",
+    "question": "¿Qué proporciona la Necesidad del Negocio?",
+    "answer": "La Necesidad del Negocio proporciona la justificación del proyecto, explicando por qué se emprende el proyecto. Tiene su origen con los requisitos comerciales preliminares y se refleja en el acta de constitución del proyecto u otro documento de autorización.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Justificación del Proyecto",
+    "question": "¿Qué explica la Justificación del Proyecto?",
+    "answer": "La Justificación del Proyecto explica por qué vale la pena la inversión según la necesidad de negocio y por qué debería abordarse en este momento. Va acompañada de un análisis de costo-beneficio y supuestos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Estrategia de Negocio",
+    "question": "¿Qué es la Estrategia de Negocio?",
+    "answer": "La Estrategia de Negocio es la razón del proyecto, relacionada con las necesidades para obtener el valor. Juntas, la Necesidad de Negocio, la Justificación del Proyecto y la Estrategia de Negocio proporcionan al equipo del proyecto información para tomar decisiones informadas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La contribución de valor puede mezclarse con las actividades operacionales",
+    "question": "¿Por qué es difícil aislar la contribución de valor en un proyecto?",
+    "answer": "Es difícil aislar la contribución de valor debido a que esta puede mezclarse con las contribuciones de las actividades operacionales. Esto dificulta identificar claramente el impacto del proyecto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "La evaluación del valor debe considerar todo el contexto y ciclo de vida",
+    "question": "¿Por qué es importante evaluar el valor a nivel del programa además del proyecto?",
+    "answer": "Evaluar el valor a nivel del programa permite orientar adecuadamente el proyecto, ya que proporciona un panorama más amplio que incluye todas las contribuciones y beneficios relacionados con el programa.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "El pensamiento sistémico implica una visión holística de los sistemas interdependientes",
+    "question": "¿Cómo se describe un proyecto desde la perspectiva del pensamiento sistémico?",
+    "answer": "Desde la perspectiva del pensamiento sistémico, un proyecto es visto como un sistema de dominios de actividad interdependientes e interactuantes que funcionan como un todo unificado.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Empatía con las áreas de negocio",
+    "question": "¿Cuál es el beneficio principal de tener empatía con las áreas de negocio en un proyecto que involucra múltiples culturas?",
+    "answer": "Tener empatía con las áreas de negocio permite a los miembros del equipo del proyecto comprender mejor cómo operan dentro de su organización, lo que ayuda a crear una cultura de equipo sintetizada y a aumentar la probabilidad de que el sistema del proyecto funcione correctamente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Impugnación de supuestos y modelos mentales",
+    "question": "¿Cómo puede ayudar la impugnación de supuestos y modelos mentales a un equipo de proyectos compuesto por miembros de diferentes organizaciones?",
+    "answer": "La impugnación de supuestos y modelos mentales permite que los miembros del equipo identifiquen y discutan las suposiciones y modelos mentales que pueden estar afectando la eficacia del equipo, lo que puede llevar a una visión sistémica más precisa y colaborativa.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Gestión proactiva de la integración",
+    "question": "¿Cuáles son los beneficios de gestionar activamente la integración en un proyecto que involucra múltiples culturas?",
+    "answer": "La gestión proactiva de la integración ayuda a asegurar que las diferentes partes del equipo trabajen juntas de manera efectiva, ajustando supuestos y planes según sea necesario para garantizar que el sistema del proyecto funcione correctamente.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Habilidades de Liderazgo Efectivas",
+    "question": "¿Cuáles son algunos ejemplos de patrones de liderazgo que pueden ayudar a un equipo del proyecto a alcanzar sus objetivos?",
+    "answer": "Algunos ejemplos de patrones de liderazgo que pueden ayudar a un equipo del proyecto a alcanzar sus objetivos incluyen: el director del proyecto que abre la discusión sobre opciones de entrega, los contribuyentes individuales que afirman pros y contras hasta que el director del proyecto lleve la conversación a una estrategia de consenso. Estos patrones permiten un liderazgo efectivo que puede influir, motivar, dirigir y capacitar al equipo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Liderazgo vs Autoridad",
+    "question": "¿Cuál es la diferencia entre el liderazgo y la autoridad?",
+    "answer": "El liderazgo se refiere a las habilidades de influir, motivar, dirigir y capacitar a las personas bajo cualquier condición. Por otro lado, la autoridad es el derecho o posición de control que una persona puede tener dentro de una organización para fomentar un funcionamiento general efectivo y eficiente. La autoridad se deriva del papel o rol que tiene una persona en la organización, mientras que el liderazgo implica las habilidades personales de influir en los demás.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Liderazgo Exitoso",
+    "question": "¿Cómo puede un líder motivar a un grupo hacia un objetivo común?",
+    "answer": "Un líder exitoso puede motivar a un grupo hacia un objetivo común al influir en ellos para alinear sus intereses individuales en favor del esfuerzo colectivo. Esto implica que el líder debe ser capaz de comunicarse claramente, escuchar a los miembros del equipo y entender sus perspectivas, así como establecer metas claras y proporcionar feedback constructivo.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Liderazgo y Ética",
+    "question": "¿Qué comportamientos éticos esperaría un líder efectivo en su equipo?",
+    "answer": "Un líder efectivo espera que sus miembros del equipo sean honestos, integrales y conductores de comportamiento ético. Además, busca que los líderes entiendan la importancia de ser transparentes, comportarse desinteresadamente y pedir ayuda cuando sea necesario.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Comunicación y Motivación",
+    "question": "¿Cómo puede un líder mejorar el desempeño del equipo?",
+    "answer": "Un líder efectivo puede mejorar el desempeño del equipo al saber cómo comunicarse mejor con las personas, motivarlas de manera apropiada y tomar medidas cuando sea necesario para superar obstáculos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Responsabilidad Compartida",
+    "question": "¿Cómo ayuda el liderazgo efectivo a mantener un ambiente ético en los equipos?",
+    "answer": "El liderazgo efectivo promueve la responsabilidad compartida hacia el objetivo del proyecto, lo que fomenta un entorno saludable y vibrante. Esto se logra al motivar a los miembros del equipo con diferentes tipos de motivadores como finanzas, reconocimiento, autonomía, propósito convincente, oportunidad de crecimiento y contribución personal.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Adaptación al contexto del proyecto",
+    "question": "Cuándo es necesario adaptar el enfoque de un proyecto a su entorno?",
+    "answer": "Es necesaria la adaptación hasta cierto punto en cada proyecto, especialmente cuando el contexto del proyecto difiere. Esto incluye factores como la organización, los clientes, los canales y el entorno.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Adaptación a una metodología existente",
+    "question": "¿Cómo se puede adaptar un proyecto a una metodología existente?",
+    "answer": "Los equipos del proyecto pueden adoptar la metodología de la organización matriz, que proporciona orientación sobre cómo ejecutar el proyecto. Sin embargo, esta metodología aún necesita personalización para adaptarse a cada proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Comunicación interna en proyectos",
+    "question": "¿Cómo deben los equipos del proyecto comunicar las decisiones de adaptación?",
+    "answer": "Los equipos del proyecto deben comunicar sus decisiones de adaptación a los interesados asociados con ese enfoque, asegurándose de que cada miembro del equipo esté consciente de los métodos y procesos elegidos relacionados con esos interesados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Desempeño",
+    "question": "¿Qué se refiere a la capacidad de un entregable de funcionar como lo previeron el equipo del proyecto y otros interesados?",
+    "answer": "La calidad del producto, servicio o resultado cumple con los requisitos previstos por el equipo del proyecto y otros interesados.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Conformidad",
+    "question": "¿Qué significa que un entregable sea apto para su uso y cumpla con las especificaciones?",
+    "answer": "El producto, servicio o resultado cumple con los criterios de aceptación establecidos.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Satisfacción",
+    "question": "¿Qué tipo de retroalimentación se espera del usuario final para evaluar la satisfacción del entregable?",
+    "answer": "El entregable debe obtener retroalimentación positiva de los usuarios finales, incluyendo usabilidad y experiencia del usuario.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La naturaleza y el número de las interacciones determinan el grado de complejidad en un proyecto.",
+    "question": "¿Cómo se determina la gravedad de la complejidad en un proyecto?",
+    "answer": "La gravedad de la complejidad en un proyecto se determina por la naturaleza y el número de las interacciones entre los elementos del proyecto, incluyendo sus propios componentes y otros sistemas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Los equipos del proyecto pueden modificar sus actividades para abordar los impactos que se presentan como resultado de la complejidad.",
+    "question": "¿Cómo los equipos del proyecto abordan el impacto de la complejidad en un proyecto?",
+    "answer": "Los equipos del proyecto modifican sus actividades para abordar los impactos que se presentan como resultado de la complejidad, adaptándose a las interacciones y elementos individuales dentro y fuera del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La complejidad surge de los elementos del proyecto, las interacciones entre ellos mismos y las interacciones con otros sistemas y el entorno del proyecto.",
+    "question": "¿Qué factores influyen en la complejidad de un proyecto?",
+    "answer": "Los factores que influyen en la complejidad de un proyecto incluyen los elementos individuales dentro del proyecto, sus propias interacciones y las interacciones con otros sistemas y el entorno del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Evaluación continua de la exposición al riesgo",
+    "question": "¿Cuál es el objetivo principal de evaluar continuamente la exposición al riesgo en un proyecto?",
+    "answer": "Maximizar los impactos positivos y minimizar los impactos negativos para el proyecto y sus resultados.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Responsabilidad de las respuestas a los riesgos",
+    "question": "¿Quién debe ser responsable de las respuestas a los riesgos?",
+    "answer": "Propiedad de una persona responsable.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Identificación y evaluación de riesgos",
+    "question": "¿Qué deben hacer los equipos del proyecto para maximizar los riesgos positivos (oportunidades) y disminuir la exposición a riesgos negativos (amenazas)?",
+    "answer": "Identificar y evaluar los riesgos conocidos y emergentes, tanto internos como externos al proyecto, a lo largo del ciclo de vida.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Adaptabilidad y Resiliencia",
+    "question": "¿Qué característica permite al equipo del proyecto absorber los impactos de un revés?",
+    "answer": "La resiliencia consta de dos rasgos complementarios: la capacidad de absorber los impactos y la capacidad de recuperarse rápidamente de un revés o fracaso.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Adaptabilidad",
+    "question": "¿Qué característica permite al equipo del proyecto responder a condiciones cambiantes?",
+    "answer": "La adaptabilidad se refiere a la capacidad de responder a condiciones cambiantes.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Impactos y recuperación",
+    "question": "¿Qué dos rasgos complementarios constan en la resiliencia según el texto?",
+    "answer": "La capacidad de absorber los impactos y la capacidad de recuperarse rápidamente de un revés o fracaso.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Utilizar la resolución de problemas y un enfoque holístico ante los cambios no planificados",
+    "question": "Cuándo es útil utilizar una perspectiva holística en lugar de una perspectiva fragmentada para abordar un cambio no planeado?",
+    "answer": "Es útil utilizar una perspectiva holística cuando el cambio no planeado afecta múltiples áreas o componentes del proyecto. Esto permite identificar los posibles beneficios y oportunidades que se pueden obtener de la situación, en lugar de centrarse únicamente en las consecuencias negativas.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La importancia de preparar a los afectados para el cambio",
+    "question": "¿Por qué es importante preparar a los afectados antes del cambio?",
+    "answer": "Es importante preparar a los afectados antes del cambio porque esto ayuda a minimizar la resistencia al cambio y facilita su adopción. Al estar informados sobre los cambios que se están implementando, los afectados pueden adaptarse mejor y trabajar en estrecha colaboración con el equipo de proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "La relevancia de la organización en respuesta a las necesidades de los interesados",
+    "question": "¿Cómo puede una organización mantenerse relevante en su entorno empresarial?",
+    "answer": "Una organización puede mantenerse relevante manteniendo un enfoque constante de evaluación y adaptación. Esto implica responder rápidamente a las necesidades y deseos de los interesados, lo que permite actuar como agentes del cambio y seguir siendo adaptable.",
+    "difficulty": "hard"
+  },
+  {
+    "concept": "Reforzar el cambio después de su implementación",
+    "question": "¿Cómo puede ayudar la inclusión de actividades para reforzar el cambio a los beneficios del proyecto?",
+    "answer": "La inclusión de actividades para reforzar el cambio ayuda a mantener los beneficios del proyecto al asegurar que las personas no regresen al estado inicial. Esto aumenta la probabilidad de un resultado exitoso.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Gestión de cambios en organizaciones",
+    "question": "¿Qué puede encontrar más información sobre la gestión de cambios?",
+    "answer": "Puede encontrar más información sobre la gestión de cambios en la organización en la guía práctica 'Gestión del Cambio en las Organizaciones: Guía Práctica'.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Integrar el cambio resultante en el trabajo del proyecto",
+    "question": "¿Cómo ayuda reconocer y abordar las necesidades de los interesados para adoptar el cambio a lo largo del ciclo de vida del proyecto?",
+    "answer": "Reconocer y abordar las necesidades de los interesados ayuda a integrar el cambio resultante en el trabajo del proyecto, lo que hace que sea más probable un resultado exitoso.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Equipo(s). Ver Equipo(s) del proyecto",
+    "question": "¿Qué se incluye en un equipo de dirección del proyecto?",
+    "answer": "Un equipo de dirección del proyecto puede incluir a miembros clave como el director del proyecto, gerentes de subproyectos, asesores externos y otros stakeholders relevantes. También pueden estar involucrados equipos de soporte técnico o administrativos dependiendo del tamaño y complejidad del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Gobernanza del proyecto",
+    "question": "¿Qué aspecto de la gobernanza del proyecto se relaciona con el mantenimiento?",
+    "answer": "La parte de la gobernanza del proyecto que se relaciona con el mantenimiento es la gestión y control de los riesgos. Esto implica identificar, evaluar y gestionar posibles problemas o desafíos potenciales durante el curso del proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Liderazgo",
+    "question": "¿Cuál es una característica importante de un líder efectivo según la teoría del liderazgo compartido?",
+    "answer": "Según la teoría del liderazgo compartido, una característica importante de un líder efectivo es compartir su visión sistémica con los miembros del equipo. Esto implica que el líder debe ser capaz de comunicar y conectar sus ideas a nivel más amplio del sistema.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Riesgos del proyecto",
+    "question": "¿Qué tipos de riesgos se mencionan en el texto y qué son?",
+    "answer": "El texto menciona dos tipos principales de riesgos: negativos (amenazas) y positivos (oportunidades). Los negativos incluyen amenazas que pueden afectar el proyecto, mientras que los positivos representan oportunidades que podrían beneficiar al proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Dominios de Desempeño del Proyecto",
+    "question": "¿Cuántos dominios de desempeño del proyecto se mencionan en la Guía del PMBOK y qué son?",
+    "answer": "La Guía del PMBOK menciona ocho dominios de desempeño del proyecto. Estos dominios incluyen: Gestión del Proyecto, Gestión del Riesgo, Gestión del Costo, Gestión del Tiempo, Gestión del Conocimiento, Gestión del Entorno, Gestión del Desarrollo y Gestión de la Satisfacción.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Sistemas de gestión de la configuración",
+    "question": "¿Qué se menciona sobre los sistemas de gestión de la configuración en el texto?",
+    "answer": "El texto menciona que hay sistemas de gestión de la configuración, pero no proporciona más detalles específicos sobre estos sistemas.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Dominios de Desempeño del Proyecto",
+    "question": "¿Cuántos dominios de desempeño del proyecto existen en la Guía del PMBOK®?",
+    "answer": "Existen ocho dominios de desempeño del proyecto.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Adaptación al Entorno",
+    "question": "¿Qué elementos influyen en la adaptación de los procesos de dirección de proyectos?",
+    "answer": "La adaptación se rige por los principios rectores de la dirección de proyectos, los valores organizacionales y la cultura organizacional.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "PMIstandards+",
+    "question": "¿Qué ofrece PMIstandards+ en comparación con la Guía del PMBOK®?",
+    "answer": "Ofrece ejemplos prácticos de aplicación en diversos contextos y segmentos de la industria, además de información actualizada sobre prácticas actuales y emergentes.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Análisis de Interesados",
+    "question": "¿Cuáles son los tipos de interesados que pueden estar involucrados en un proyecto?",
+    "answer": "Los interesados pueden incluir a individuos, grupos y organizaciones como proveedores, clientes, usuarios finales, organismos reguladores, organismos de gobierno, PMOs (Program Management Offices), comités de dirección, director del proyecto, equipo de dirección del proyecto y equipo de proyecto."
+  },
+  {
+    "concept": "Análisis de Interesados",
+    "question": "¿Cuándo se debe realizar el análisis de interesados en un proyecto?",
+    "answer": "El análisis de interesados debe realizarse antes o al comienzo del proyecto, y continúa a lo largo del mismo."
+  },
+  {
+    "concept": "Involucramiento de los Interesados",
+    "question": "¿Qué actividades son parte del proceso de involucramiento de los interesados?",
+    "answer": "Las actividades incluyen identificar, monitorear, comprender y analizar a los interesados. Luego se priorizan las necesidades y expectativas de estos interesados."
+  },
+  {
+    "concept": "Involucramiento de los Interesados",
+    "question": "¿Cuáles son las principales actividades que el equipo de proyecto debe realizar al involucrar a los interesados?",
+    "answer": "El equipo de proyecto debe trabajar en colaboración con los interesados para presentar el proyecto, obtener sus requisitos, gestionar las expectativas, resolver incidentes, negociar, establecer prioridades, resolver problemas y tomar decisiones.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Tipos de Comunicación",
+    "question": "¿Cuáles son los tipos de comunicación formal e informal?",
+    "answer": "Los tipos de comunicación formales incluyen presentaciones, revisiones del proyecto, reuniones informativas y demostraciones del producto. Los tipos de comunicación informales incluyen tormenta de ideas, conversaciones, discusiones ad hoc.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Métodos de Comunicación",
+    "question": "¿Cuáles son los métodos de comunicación push y pull?",
+    "answer": "Los métodos de comunicación push incluyen memorandos, correos electrónicos, informes de estado, correo de voz. Los métodos de comunicación pull incluyen información buscada por el interesado, como búsquedas en Internet y utilizar repositorios en línea.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Relaciones de trabajo productivas con los interesados",
+    "question": "¿Cómo se puede verificar una relación de trabajo productiva con los interesados a lo largo del proyecto?",
+    "answer": "Se pueden observar relaciones de trabajo productivas con los interesados.",
+    "difficulty": "easy"
+  },
+  {
+    "concept": "Nivel relativo de satisfacción con el proyecto",
+    "question": "¿Cómo se puede indicar si los interesados están comprometidos o no con los objetivos del proyecto?",
+    "answer": "El movimiento de los interesados a lo largo de un continuo de compromiso puede indicar el nivel relativo de satisfacción con el proyecto.",
+    "difficulty": "medium"
+  },
+  {
+    "concept": "Verificación de resultados en el dominio de desempeño de los interesados",
+    "question": "¿Qué tipo de documentos pueden ser utilizados para verificar si los interesados están satisfechos y apoyan el proyecto?",
+    "answer": "Los proyectos piden a los interesados del proyecto que firmen el acta de constitución del proyecto, los requisitos del proyecto u otros documentos.",
+    "difficulty": "medium"
+  }
+]
